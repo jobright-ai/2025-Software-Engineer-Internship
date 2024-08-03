@@ -57,6 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Polaris](https://www.polaris.com)** | **[Digital & Information Technology Intern - Summer 2025](https://jobright.ai/jobs/info/66ada682b932dd7a6b22713c?utm_campaign=1079&utm_source=git)** | Vermillion, SD | On Site | Aug 03 |
 | **[STMicroelectronics](https://www.st.com)** | **[Software Engineering Algorithm Intern](https://jobright.ai/jobs/info/66ad8b240d8980e60fa06c77?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | Hybrid | Aug 03 |
 | **[Bunchful](https://bunchful.com/)** | **[Application Development Intern](https://jobright.ai/jobs/info/66ad8451cc8d2adcda932bff?utm_campaign=1079&utm_source=git)** | NYC Metro Area | On Site | Aug 03 |
 | **[Anomali](https://www.anomali.com)** | **[Software Engineer Internship (Redwood City)](https://jobright.ai/jobs/info/66ad8a3cf50327920585c690?utm_campaign=1079&utm_source=git)** | Redwood City, CA | On Site | Aug 03 |
@@ -65,9 +66,9 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[2025 North America Software Engineering Internship (Boulder)](https://jobright.ai/jobs/info/66ad6a8300be427b7f305730?utm_campaign=1079&utm_source=git)** | Boulder, CO | On Site | Aug 02 |
 | ↳ | **[2025 North America Software Engineering Internship (New York City)](https://jobright.ai/jobs/info/66ad755fd04011f223ded8f8?utm_campaign=1079&utm_source=git)** | New York, United States | On Site | Aug 02 |
 | ↳ | **[2025 North America Software Engineering Internship (Los Angeles)](https://jobright.ai/jobs/info/66ad755fd04011f223ded8fc?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Aug 02 |
-| ↳ | **[2025 North America Software Engineering Internship (Denver)](https://jobright.ai/jobs/info/66ad755fd04011f223ded8fa?utm_campaign=1079&utm_source=git)** | Denver, CO | On Site | Aug 02 |
 | ↳ | **[2025 North America Software Engineering Internship (Bellevue)](https://jobright.ai/jobs/info/66ad755fd04011f223ded8fb?utm_campaign=1079&utm_source=git)** | Bellevue, WA | On Site | Aug 02 |
 | ↳ | **[2025 North America Software Engineering Internship (Irvine)](https://jobright.ai/jobs/info/66ad755fd04011f223ded8f9?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Aug 02 |
+| ↳ | **[2025 North America Software Engineering Internship (Denver)](https://jobright.ai/jobs/info/66ad755fd04011f223ded8fa?utm_campaign=1079&utm_source=git)** | Denver, CO | On Site | Aug 02 |
 | **[ARA](https://www.ara.com)** | **[Backend DevSecOps Intern](https://jobright.ai/jobs/info/66ad7c6eee58dd9cc3999cca?utm_campaign=1079&utm_source=git)** | Baton Rouge, LA | On Site | Aug 02 |
 | ↳ | **[Backend Intern](https://jobright.ai/jobs/info/66ad62a00cda0fa23ff642f9?utm_campaign=1079&utm_source=git)** | Baton Rouge, LA | On Site | Aug 02 |
 | **[PepsiCo](http://www.pepsico.com)** | **[2025 Summer Intern: Technology Software Development & Engineering](https://jobright.ai/jobs/info/66ad6762ffbe46321be8f08b?utm_campaign=1079&utm_source=git)** | Plano, TX | On Site | Aug 02 |
@@ -122,7 +123,6 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Research Intern, Infrastructure System Lab (Applied Research Center) - 2025 Summer (PhD)](https://jobright.ai/jobs/info/66ab1248b49485cd0e73aa48?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern, Recommendation Infra (Data-Arch-TikTok US)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/66ab1248b49485cd0e73aa53?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 01 |
 | **[Confluent](https://confluent.io/)** | **[2025 Software Engineering Intern](https://jobright.ai/jobs/info/66ab0169ee81a01967857594?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Aug 01 |
-| **[Vanguard](http://investor.vanguard.com/corporate-portal)** | **[College to Corporate IT Internship - Application Development (TX)](https://jobright.ai/jobs/info/66aaf901c72589507477428c?utm_campaign=1079&utm_source=git)** | Texas, United States | Hybrid | Aug 01 |
 | **[Acxiom](http://www.acxiom.com)** | **[Intern - Solution Developer (Conway, AR)](https://jobright.ai/jobs/info/66741aa758f25362ea0daad8?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 01 |
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[Fall Intern Software Engineer - Platform Engineering - US Remote](https://jobright.ai/jobs/info/66abd84aa74c8ea05c5bdbae?utm_campaign=1079&utm_source=git)** | Remote - Georgia, United States | Hybrid | Aug 01 |
 | **[OPSWAT](http://www.opswat.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/66aad789abec296bfadd0801?utm_campaign=1079&utm_source=git)** | Tampa, FL | On Site | Jul 31 |
@@ -188,13 +188,13 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Fall Co-Op - Quality Assurance Engineer - Customer Quality](https://jobright.ai/jobs/info/66a941dabf4bb9a058c7bd49?utm_campaign=1079&utm_source=git)** | Wichita, KS | On Site | Jul 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Backend Software Engineer Intern (TikTok TV) - 2024 Off Cycle/Fall (BS/MS)](https://jobright.ai/jobs/info/66a8c55a71ad7ddf94e6b8fb?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 30 |
 | ↳ | **[Software Engineer Intern - (TikTok Ecosystem) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/66a8c55a71ad7ddf94e6b8f1?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 30 |
-| **[ByteDance](http://bytedance.com)** | **[Research Intern (Intelligent Creation-Vision and Graphics)- 2025 Summer (PhD)](https://jobright.ai/jobs/info/66a8c55a71ad7ddf94e6b8e7?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 30 |
-| ↳ | **[Backend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/66a8c55a71ad7ddf94e6b8e9?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 30 |
-| ↳ | **[Backend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/66a8c55a71ad7ddf94e6b8fa?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 30 |
+| **[ByteDance](http://bytedance.com)** | **[Backend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/66a8c55a71ad7ddf94e6b8e9?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 30 |
+| ↳ | **[Research Intern (Intelligent Creation-Vision and Graphics)- 2025 Summer (PhD)](https://jobright.ai/jobs/info/66a8c55a71ad7ddf94e6b8e7?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 30 |
 | ↳ | **[Software Engineer Intern (SDN) - 2025 Summer (PhD)](https://jobright.ai/jobs/info/66a8c55a71ad7ddf94e6b8f4?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 30 |
-| ↳ | **[Research Intern (Intelligent Creation-Vision and Graphics)- 2025 Summer (PhD)](https://jobright.ai/jobs/info/66a8c55a71ad7ddf94e6b906?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 30 |
+| ↳ | **[Backend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/66a8c55a71ad7ddf94e6b8fa?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 30 |
 | ↳ | **[Mobile Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/66a8c55a71ad7ddf94e6b8ff?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 30 |
 | ↳ | **[Software Development Engineer Intern in Test (Global E-commerce-Quality Assurance) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/66a8c55a71ad7ddf94e6b904?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 30 |
+| ↳ | **[Research Intern (Intelligent Creation-Vision and Graphics)- 2025 Summer (PhD)](https://jobright.ai/jobs/info/66a8c55a71ad7ddf94e6b906?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 30 |
 | **[Amazon](https://amazon.com)** | **[Jr. Software Development Engineer](https://jobright.ai/jobs/info/6675748031f584ec486261f3?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 30 |
 | **[ByteDance](http://bytedance.com)** | **[Frontend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce)- 2025 Start Summer (BS/MS)](https://jobright.ai/jobs/info/66a8c56271ad7ddf94e6b9be?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 30 |
 | **[Amazon Web Services](http://aws.amazon.com)** | **[Software Dev Engineer - Compiler, Annapurna Labs](https://jobright.ai/jobs/info/668ac8078089627197f9d560?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 30 |
