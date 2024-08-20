@@ -46,7 +46,7 @@ For a complete list, see the full spreadsheet below:
 </h4>
 <a href="https://intern-list.com/?selectedKey={selectKey}&utm_source=&utm_campaign=Software Engineer">
 <a href="https://intern-list.com/?selectedKey=💻%20Software%20Engineering&utm_source=&utm_campaign={utm_campaign_str}">
-    <img src="./static/img/airtable.pjg" alt="excel_icon", style="width: 20%; height: 20%;">
+    <img src="./static/img/airtable.jpg" alt="excel_icon", style="width: 20%; height: 20%;">
 </a>
 </div>
 
