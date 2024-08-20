@@ -42,9 +42,9 @@
 <h4>
 Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">7</span> days are listed due to capacity constraints.
 <br>
-For a complete list, see the full spreadsheet below:
+For a complete list, click the following sortable link below:
 </h4>
-<a href="https://intern-list.com/?selectedKey=💻%20Software%20Engineering&utm_source=&utm_campaign=Software Engineer">
+<a href="https://intern-list.com/?selectedKey=💻%20Software%20Engineering&utm_source=1101&utm_campaign=Software Engineer">
     <img src="./static/img/airtable.png" alt="excel_icon", style="width: 40%; height: 40%;">
 </a>
 </div>
