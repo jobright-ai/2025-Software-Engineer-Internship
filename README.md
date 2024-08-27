@@ -217,8 +217,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer: Microsoft Leap](https://jobright.ai/jobs/info/66c7f2258d115e966451f630?utm_campaign=1079&utm_source=git)** | South Carolina, United States | On Site | Aug 22 |
 | ↳ | **[Software Engineer: Microsoft Leap](https://jobright.ai/jobs/info/66c7f2258d115e966451f631?utm_campaign=1079&utm_source=git)** | Florida, United States | On Site | Aug 22 |
 | ↳ | **[Software Engineer: Microsoft Leap](https://jobright.ai/jobs/info/66c7f2258d115e966451f632?utm_campaign=1079&utm_source=git)** | Wisconsin, United States | On Site | Aug 22 |
-| ↳ | **[Software Engineer: Microsoft Leap](https://jobright.ai/jobs/info/66c7f2258d115e966451f635?utm_campaign=1079&utm_source=git)** | Washington, United States | On Site | Aug 22 |
 | ↳ | **[Software Engineer: Microsoft Leap](https://jobright.ai/jobs/info/66c7f2258d115e966451f633?utm_campaign=1079&utm_source=git)** | Virginia, United States | On Site | Aug 22 |
+| ↳ | **[Software Engineer: Microsoft Leap](https://jobright.ai/jobs/info/66c7f2258d115e966451f635?utm_campaign=1079&utm_source=git)** | Washington, United States | On Site | Aug 22 |
 | ↳ | **[Software Engineer: Microsoft Leap](https://jobright.ai/jobs/info/66c7f2258d115e966451f638?utm_campaign=1079&utm_source=git)** | Idaho, United States | On Site | Aug 22 |
 | ↳ | **[Software Engineer: Microsoft Leap](https://jobright.ai/jobs/info/66c7f2258d115e966451f639?utm_campaign=1079&utm_source=git)** | Maine, United States | On Site | Aug 22 |
 | ↳ | **[Software Engineer: Microsoft Leap- Neurodiversity Hiring Program](https://jobright.ai/jobs/info/66c7f1ec8d115e966451ee5e?utm_campaign=1079&utm_source=git)** | Pennsylvania, United States | On Site | Aug 22 |
@@ -416,14 +416,4 @@ For a complete list, click the following sortable link below:
 | **[Magna International](http://www.magna.com/)** | **[Student - Embedded Firmware Engineer](https://jobright.ai/jobs/info/66a812be8212274140e23d73?utm_campaign=1079&utm_source=git)** | Goleta, CA | Hybrid | Aug 20 |
 | **[TikTok](https://www.tiktok.com)** | **[(General Hire) Software Engineer Intern (Monetization Tech) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/66a79bc8ebe6c214d1e3561a?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 20 |
 | ↳ | **[(General Hire) Software Engineer Intern (Monetization Tech) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/66a7a6a72efd028a197f239c?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Aug 20 |
-| **[Freddie Mac](http://www.freddiemac.com)** | **[Single Family Software Developer Intern - Summer 2025 (Hybrid- 3 Days in Office)](https://jobright.ai/jobs/info/66c3b1d7436bc6cf77b42ac3?utm_campaign=1079&utm_source=git)** | McLean, VA | Hybrid | Aug 20 |
-| **[Qualcomm](http://www.qualcomm.com)** | **[Information Technology Internship – Summer 2025](https://jobright.ai/jobs/info/66c51e01b52a9c9c0225bf6d?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Aug 20 |
-| **[E & J Gallo Winery](http://www.ejgallo.com)** | **[IT Programmer Analyst Internship 2025](https://jobright.ai/jobs/info/66c4201621411e3b8fdb20a6?utm_campaign=1079&utm_source=git)** | Modesto, CA | On Site | Aug 19 |
-| **[Adobe](http://www.adobe.com)** | **[2025 Intern - Software Engineer](https://jobright.ai/jobs/info/66c42a3dbb4952a3bddf5fab?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Aug 19 |
-| ↳ | **[2025 Intern - Software Engineer](https://jobright.ai/jobs/info/66c42a3dbb4952a3bddf5fac?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 19 |
-| ↳ | **[2025 Intern - Software Engineer](https://jobright.ai/jobs/info/66c42a3dbb4952a3bddf5fae?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Aug 19 |
-| ↳ | **[2025 Intern - Software Engineer](https://jobright.ai/jobs/info/66c42a3dbb4952a3bddf5faf?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Aug 19 |
-| ↳ | **[2025 Intern - Software Engineer](https://jobright.ai/jobs/info/66c41a77b8d96a561ff99365?utm_campaign=1079&utm_source=git)** | Lehi, UT | On Site | Aug 19 |
-| **[Amazon](https://amazon.com)** | **[Quality Assurance Engineer Summer Internship – 2025 (US)](https://jobright.ai/jobs/info/66c41082dbe6ca61abee00f6?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Aug 19 |
-| **[Dimensional Fund Advisors](https://us.dimensional.com)** | **[Internship in Technology: Software Engineer (Undergraduate & Master's)](https://jobright.ai/jobs/info/66c42aaeeb4dfcfb15f0d10e?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
