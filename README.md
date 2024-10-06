@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Northrop Grumman](https://www.northropgrumman.com/)** | **[2025 Software Engineering Intern - Woodland Hills CA](https://jobright.ai/jobs/info/6701af1719841d73c98cc93f?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Oct 05 |
+| **[Northrop Grumman](https://www.northropgrumman.com/)** | **[2025 Software Digital Technology Engineering Intern- Woodland Hills CA](https://jobright.ai/jobs/info/6701f905a86182f09c514d6a?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Oct 05 |
+| ↳ | **[2025 Software Engineering Intern - Woodland Hills CA](https://jobright.ai/jobs/info/6701af1719841d73c98cc93f?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Oct 05 |
 | **[Carrier](https://www.corporate.carrier.com)** | **[Design Assurance Engineering Co-op](https://jobright.ai/jobs/info/6701a99590e0c26a20a9e0e9?utm_campaign=1079&utm_source=git)** | Beverly, MA | On Site | Oct 05 |
 | **[Northrop Grumman](https://www.northropgrumman.com/)** | **[2025 Software Engineering Intern Linthicum Maryland](https://jobright.ai/jobs/info/6701c315995511230c765bf7?utm_campaign=1079&utm_source=git)** | Linthicum, MD | On Site | Oct 05 |
-| **[Arm](http://www.arm.com)** | **[Intern Software Engineer](https://jobright.ai/jobs/info/6701956fce1d57f741b282b0?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Oct 05 |
+| **[Arm](http://www.arm.com)** | **[Intern Software Engineer](https://jobright.ai/jobs/info/6701dde6fc987a843be94b88?utm_campaign=1079&utm_source=git)** | Boston, MA | Hybrid | Oct 05 |
+| ↳ | **[Intern Software Engineer](https://jobright.ai/jobs/info/6701956fce1d57f741b282b0?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Oct 05 |
 | **[Siemens](https://www.siemens.com)** | **[Software Engineering Intern - Chicago/Buffalo Grove](https://jobright.ai/jobs/info/6701929ef02b1a4306628011?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Oct 05 |
 | **[FocusKPI, Inc.](http://www.focuskpi.com/)** | **[[Internal] Full Stack Developer Trainee](https://jobright.ai/jobs/info/67016d28e2fcaade986d853f?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Oct 05 |
 | **[Siemens](https://www.siemens.com)** | **[Software Engineering Intern - Chicago/Buffalo Grove](https://jobright.ai/jobs/info/67016c6ef6182c0659f3aa94?utm_campaign=1079&utm_source=git)** | Buffalo Grove, IL | On Site | Oct 05 |
@@ -90,6 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Northrop Grumman](https://www.northropgrumman.com/)** | **[2025 Software Engineering Intern – Bellevue (NE)](https://jobright.ai/jobs/info/6700b83fdf7e8169a897de75?utm_campaign=1079&utm_source=git)** | Bellevue, NE | On Site | Oct 04 |
 | **[Zipline](http://flyzipline.com)** | **[Firmware/ Embedded Engineering Intern (Spring 2025)](https://jobright.ai/jobs/info/6700b5969cb8070f13894e9b?utm_campaign=1079&utm_source=git)** | South San Francisco, CA | On Site | Oct 04 |
 | ↳ | **[Technical Program Management Intern (Spring 2025)](https://jobright.ai/jobs/info/6700a91f026da18b59ae62db?utm_campaign=1079&utm_source=git)** | South San Francisco, CA | On Site | Oct 04 |
+| **[Air Liquide](http://www.airliquide.com)** | **[2025 Intern, Information Technology - IDD](https://jobright.ai/jobs/info/6701fcf776a14e86c60e76ad?utm_campaign=1079&utm_source=git)** | Newark, DE | On Site | Oct 04 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 Software Engineering Intern](https://jobright.ai/jobs/info/67009cda6467f7ec6e766a76?utm_campaign=1079&utm_source=git)** | Bellevue, WA | On Site | Oct 04 |
 | **[Arm](http://www.arm.com)** | **[Intern Performance Analysis Engineer](https://jobright.ai/jobs/info/67009833fcd0b4884a4728eb?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | Oct 04 |
 | **[Keysight Technologies](https://www.keysight.com)** | **[Solutions Engineer Intern](https://jobright.ai/jobs/info/67009cc64f99fbb9c0398d79?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Oct 04 |
@@ -136,8 +139,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2025 R&D Intern](https://jobright.ai/jobs/info/6700207763128c25b6cc7b8d?utm_campaign=1079&utm_source=git)** | Canonsburg, PA | On Site | Oct 04 |
 | **[Lumen Technologies](https://news.lumen.com/home)** | **[Intern - Software Developer - Summer 2025](https://jobright.ai/jobs/info/67001adb0a193e1ab4aedd34?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 04 |
 | ↳ | **[Intern - UI Web Developer -Summer 2025](https://jobright.ai/jobs/info/67001adb0a193e1ab4aedd36?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 04 |
-| **[Lockton](https://global.lockton.com)** | **[Application Development Intern](https://jobright.ai/jobs/info/67000642b42774e5a643b8c3?utm_campaign=1079&utm_source=git)** | Kansas City, MO | On Site | Oct 04 |
-| ↳ | **[Software Development Intern](https://jobright.ai/jobs/info/67000642b42774e5a643b8c4?utm_campaign=1079&utm_source=git)** | Kansas City, MO | On Site | Oct 04 |
+| **[Lockton](https://global.lockton.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/67000642b42774e5a643b8c4?utm_campaign=1079&utm_source=git)** | Kansas City, MO | On Site | Oct 04 |
+| ↳ | **[Application Development Intern](https://jobright.ai/jobs/info/67000642b42774e5a643b8c3?utm_campaign=1079&utm_source=git)** | Kansas City, MO | On Site | Oct 04 |
 | **[ASML](https://www.asml.com)** | **[Internship - Software Engineer](https://jobright.ai/jobs/info/66ffffda6e6d031876d5e2a2?utm_campaign=1079&utm_source=git)** | Wilton Center, CT | On Site | Oct 04 |
 | **[Microsoft](https://www.microsoft.com)** | **[Cloud Solution Architect: MBA Internship Opportunities](https://jobright.ai/jobs/info/67000cc734d22580c8bf48ab?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Oct 04 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Information Technology (Connected Business)](https://jobright.ai/jobs/info/66ffe1ed839c281b3faa16d6?utm_campaign=1079&utm_source=git)** | Camden, NJ | On Site | Oct 04 |
@@ -152,9 +155,6 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[2025 Intern – MarTech Intern](https://jobright.ai/jobs/info/66e37633b5e74ba68c101155?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Oct 04 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[Associate Hero Designer - Overwatch / Irvine, CA](https://jobright.ai/jobs/info/66ffbf507798ccaa1f7343e2?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Oct 04 |
 | **[Emerson](http://www.emerson.com)** | **[Software Engineering Co-op](https://jobright.ai/jobs/info/66ffc0085c7fb1aa7f6aa890?utm_campaign=1079&utm_source=git)** | Marshalltown, IA | On Site | Oct 04 |
-| **[NetJets](https://www.netjets.com/)** | **[Information Technology Intern (NJUS)](https://jobright.ai/jobs/info/66ffb542fa8ee1d0508363a5?utm_campaign=1079&utm_source=git)** | Columbus, OH | On Site | Oct 04 |
+| **[NetJets](https://www.netjets.com/)** | **[Information Technology Intern (NJUS)](https://jobright.ai/jobs/info/66ffb542fa8ee1d0508363a3?utm_campaign=1079&utm_source=git)** | Columbus, OH | On Site | Oct 04 |
 | **[Cirrus Logic](https://cirrus.com/)** | **[Spring Co-Op - Embedded Software Test Engineer (SB-64000150)](https://jobright.ai/jobs/info/66c7babeb58997a29801f452?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Oct 04 |
-| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Co-op, Firmware Engineering](https://jobright.ai/jobs/info/66ffbe0bf7bc3b450df08e6c?utm_campaign=1079&utm_source=git)** | Milwaukee, WI | On Site | Oct 04 |
-| **[Leidos](https://www.leidos.com/)** | **[Embedded Software Engineer - Intern](https://jobright.ai/jobs/info/66ffc0cb19a2f44c88f47306?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Oct 04 |
-| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/66ffc0cb19a2f44c88f472fc?utm_campaign=1079&utm_source=git)** | Arlington, VA | On Site | Oct 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
