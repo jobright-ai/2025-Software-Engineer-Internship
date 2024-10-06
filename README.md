@@ -84,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Software Developer Intern: 2025](https://jobright.ai/jobs/info/670154d6f985c926ecc1a43c?utm_campaign=1079&utm_source=git)** | Yorktown Heights, NY | On Site | Oct 05 |
 | ↳ | **[Software Engineer - Semiconductor Intern: 2025](https://jobright.ai/jobs/info/670154d6f985c926ecc1a43d?utm_campaign=1079&utm_source=git)** | Yorktown Heights, NY | On Site | Oct 05 |
 | ↳ | **[Cloud Engineer Intern: 2025](https://jobright.ai/jobs/info/6700eb51b51e3b1240f16dba?utm_campaign=1079&utm_source=git)** | Yorktown Heights, NY | On Site | Oct 05 |
+| **[Amazon](https://amazon.com)** | **[Software Dev Engineer Intern 2025, Automated Reasoning](https://jobright.ai/jobs/info/67021ccfc2ee00557b5f7068?utm_campaign=1079&utm_source=git)** | Arlington, VA | On Site | Oct 04 |
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Broadcast Applications Engineering - Intern](https://jobright.ai/jobs/info/6700baee5d0ef7b46b61511d?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Oct 04 |
 | **[Shield AI](http://www.shield.ai)** | **[Software Engineering C++ Intern - 2025 Summer Intern](https://jobright.ai/jobs/info/6700e677e58f4a16a96e944a?utm_campaign=1079&utm_source=git)** | SD Metro Area | On Site | Oct 04 |
 | **[Leidos](https://www.leidos.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/67011d0b4da236da883497f6?utm_campaign=1079&utm_source=git)** | Gaithersburg, MD | On Site | Oct 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Blizzard Entertainment](http://blizzard.com)** | **[Associate Hero Designer - Overwatch / Irvine, CA](https://jobright.ai/jobs/info/66ffbf507798ccaa1f7343e2?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Oct 04 |
 | **[Emerson](http://www.emerson.com)** | **[Software Engineering Co-op](https://jobright.ai/jobs/info/66ffc0085c7fb1aa7f6aa890?utm_campaign=1079&utm_source=git)** | Marshalltown, IA | On Site | Oct 04 |
 | **[NetJets](https://www.netjets.com/)** | **[Information Technology Intern (NJUS)](https://jobright.ai/jobs/info/66ffb542fa8ee1d0508363a3?utm_campaign=1079&utm_source=git)** | Columbus, OH | On Site | Oct 04 |
-| **[Cirrus Logic](https://cirrus.com/)** | **[Spring Co-Op - Embedded Software Test Engineer (SB-64000150)](https://jobright.ai/jobs/info/66c7babeb58997a29801f452?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Oct 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
