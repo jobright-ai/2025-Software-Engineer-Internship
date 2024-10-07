@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Infineon Technologies](https://www.infineon.com)** | **[Intern - Information Technology Engineer](https://jobright.ai/jobs/info/670386f3d6473ca2ab27b681?utm_campaign=1079&utm_source=git)** | Lexington, KY | On Site | Oct 06 |
+| ↳ | **[Intern - Verification Management System and Services](https://jobright.ai/jobs/info/67037dc7c14bb996c928e236?utm_campaign=1079&utm_source=git)** | Lexington, KY | Hybrid | Oct 06 |
 | **[Airbus](https://us.airbus.com)** | **[Test Engineer Degree Apprenticeship](https://jobright.ai/jobs/info/67032f314ee4a2ffca5eddeb?utm_campaign=1079&utm_source=git)** | Newport | Hybrid | Oct 06 |
 | **[FNBO](https://www.fnbo.com)** | **[Technology Intern - Summer 2025 (Omaha)](https://jobright.ai/jobs/info/67031651e52127b3b147f223?utm_campaign=1079&utm_source=git)** | Omaha Metropolitan Area | On Site | Oct 06 |
 | **[Northrop Grumman](https://www.northropgrumman.com/)** | **[2025 Systems/Software Intern- Boulder CO](https://jobright.ai/jobs/info/67030907d78e051ed5ad0d03?utm_campaign=1079&utm_source=git)** | Boulder, CO | On Site | Oct 06 |
@@ -94,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Software Dev Engineer Intern 2025, Automated Reasoning](https://jobright.ai/jobs/info/67021ccfc2ee00557b5f7068?utm_campaign=1079&utm_source=git)** | Arlington, VA | On Site | Oct 04 |
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Broadcast Applications Engineering - Intern](https://jobright.ai/jobs/info/6700baee5d0ef7b46b61511d?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Oct 04 |
 | **[Shield AI](http://www.shield.ai)** | **[Software Engineering C++ Intern - 2025 Summer Intern](https://jobright.ai/jobs/info/6700e677e58f4a16a96e944a?utm_campaign=1079&utm_source=git)** | SD Metro Area | On Site | Oct 04 |
-| **[Leidos](https://www.leidos.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/67011d0b4da236da883497f6?utm_campaign=1079&utm_source=git)** | Gaithersburg, MD | On Site | Oct 04 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Software Engineer Intern (Summer 2025)](https://jobright.ai/jobs/info/6701929ef02b1a4306627fe6?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Oct 04 |
 | **[Chamberlain Group](http://www.chamberlaingroup.com)** | **[Intern, myQ Mobile Developer (Android or iOS) (Summer 2025)](https://jobright.ai/jobs/info/67014946aba7a25224867b3c?utm_campaign=1079&utm_source=git)** | Oak Brook, IL | On Site | Oct 04 |
 | **[Northrop Grumman](https://www.northropgrumman.com/)** | **[2025 Software Engineering Intern – Bellevue (NE)](https://jobright.ai/jobs/info/6700b83fdf7e8169a897de75?utm_campaign=1079&utm_source=git)** | Bellevue, NE | On Site | Oct 04 |
@@ -146,8 +147,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2025 R&D Intern](https://jobright.ai/jobs/info/6700207763128c25b6cc7b8d?utm_campaign=1079&utm_source=git)** | Canonsburg, PA | On Site | Oct 04 |
 | **[Lumen Technologies](https://news.lumen.com/home)** | **[Intern - Software Developer - Summer 2025](https://jobright.ai/jobs/info/67001adb0a193e1ab4aedd34?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 04 |
 | ↳ | **[Intern - UI Web Developer -Summer 2025](https://jobright.ai/jobs/info/67001adb0a193e1ab4aedd36?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 04 |
-| **[Lockton](https://global.lockton.com)** | **[Application Development Intern](https://jobright.ai/jobs/info/67000642b42774e5a643b8c3?utm_campaign=1079&utm_source=git)** | Kansas City, MO | On Site | Oct 04 |
-| ↳ | **[Software Development Intern](https://jobright.ai/jobs/info/67000642b42774e5a643b8c4?utm_campaign=1079&utm_source=git)** | Kansas City, MO | On Site | Oct 04 |
+| **[Lockton](https://global.lockton.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/67000642b42774e5a643b8c4?utm_campaign=1079&utm_source=git)** | Kansas City, MO | On Site | Oct 04 |
+| ↳ | **[Application Development Intern](https://jobright.ai/jobs/info/67000642b42774e5a643b8c3?utm_campaign=1079&utm_source=git)** | Kansas City, MO | On Site | Oct 04 |
 | **[ASML](https://www.asml.com)** | **[Internship - Software Engineer](https://jobright.ai/jobs/info/66ffffda6e6d031876d5e2a2?utm_campaign=1079&utm_source=git)** | Wilton Center, CT | On Site | Oct 04 |
 | **[Microsoft](https://www.microsoft.com)** | **[Cloud Solution Architect: MBA Internship Opportunities](https://jobright.ai/jobs/info/67000cc734d22580c8bf48ab?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Oct 04 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Information Technology (Connected Business)](https://jobright.ai/jobs/info/66ffe1ed839c281b3faa16d6?utm_campaign=1079&utm_source=git)** | Camden, NJ | On Site | Oct 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MITRE](http://www.mitre.org)** | **[Computer Science and Software Engineering Intern](https://jobright.ai/jobs/info/66ffc49fd24aa8196edc309b?utm_campaign=1079&utm_source=git)** | McLean, VA | On Site | Oct 04 |
 | **[Acuity Insurance](http://www.acuity.com)** | **[Programmer Intern](https://jobright.ai/jobs/info/66e393e08a4c06d8166a8d57?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 04 |
 | ↳ | **[Programmer Intern](https://jobright.ai/jobs/info/66e39954b16e7ba1ac75cb0c?utm_campaign=1079&utm_source=git)** | Sheboygan, WI | On Site | Oct 04 |
-| **[Kohler Co.](https://www.kohlercompany.com)** | **[Kohler Intern - Information Technology](https://jobright.ai/jobs/info/66aad3344dc152d5eba49009?utm_campaign=1079&utm_source=git)** | Kohler, WI | On Site | Oct 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
