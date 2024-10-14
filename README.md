@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[GlobalFoundries](https://ritahazan.id/job/?Kw=spg188)** | **[Software Engineering Intern, Design Enablement (Summer 2025)](https://jobright.ai/jobs/info/670c647aff259b24f8cee6e7?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Oct 13 |
-| **[Oigetit.ai - Fake News Filter](http://www.oigetit.com)** | **[iOS QA Analyst Intern](https://jobright.ai/jobs/info/670c1680a01e8e81d857385c?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 13 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern  IT, Software Engineer](https://jobright.ai/jobs/info/670c0a0980c7e8f845b8f304?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Oct 13 |
 | **[HP](http://www.hp.com)** | **[Imaging and Print Software Internship](https://jobright.ai/jobs/info/66fcb6b1aec149e711366d26?utm_campaign=1079&utm_source=git)** | Vancouver, WA | On Site | Oct 13 |
 | ↳ | **[Personal Systems Software Engineer Internship](https://jobright.ai/jobs/info/66fd2d4b895172318cdecc78?utm_campaign=1079&utm_source=git)** | Spring, TX | On Site | Oct 13 |
@@ -79,6 +78,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Services and Practices Intern - US](https://jobright.ai/jobs/info/66d26b08142368cb712cb5f1?utm_campaign=1079&utm_source=git)** | Lake Forest, CA | On Site | Oct 13 |
 | **[Leidos](https://www.leidos.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/670b75f6c7d8da3d6cee7721?utm_campaign=1079&utm_source=git)** | Reston, VA | Hybrid | Oct 12 |
 | ↳ | **[SES Engineering Intern](https://jobright.ai/jobs/info/670b75f6c7d8da3d6cee7723?utm_campaign=1079&utm_source=git)** | Tewksbury, MA | Hybrid | Oct 12 |
+| **[Brunswick Corporation](http://www.brunswick.com)** | **[Mercury Marine - Systems/Software Engineering Co-op](https://jobright.ai/jobs/info/66d0c2ca8c0831ec553a9b6c?utm_campaign=1079&utm_source=git)** | Fond du Lac, WI | On Site | Oct 12 |
 | **[Northrop Grumman](https://www.northropgrumman.com/)** | **[2025 Embedded Software Engineer Intern - Annapolis MD](https://jobright.ai/jobs/info/670b042a4082c1c1bc757f98?utm_campaign=1079&utm_source=git)** | Annapolis, MD | On Site | Oct 12 |
 | **[State Street](http://www.statestreet.com)** | **[Global Technology Service - High School Internship](https://jobright.ai/jobs/info/670b5f4478b876456394ecde?utm_campaign=1079&utm_source=git)** | Quincy, MA | On Site | Oct 12 |
 | **[Sealed Air Corporation](http://www.sealedair.com)** | **[Software Engineering Co-op - Spring 2025 semester (Jan-May)](https://jobright.ai/jobs/info/670acef2944427cc18383ef4?utm_campaign=1079&utm_source=git)** | Streetsboro, OH | On Site | Oct 12 |
@@ -146,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Software Developer, Network/Payload Software — Intern (Fall 2024)](https://jobright.ai/jobs/info/66ece295a671b9cde79bf9c7?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Oct 11 |
 | **[Carollo Engineers](http://www.carollo.com)** | **[Infrastructure Engineering Intern - Civil / Mechanical](https://jobright.ai/jobs/info/6705f31d37b88cb53db3782d?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Oct 11 |
 | **[IBM](http://www.ibm.com)** | **[Software Developer Intern: 2025](https://jobright.ai/jobs/info/6709cc9fb559b54e9f1c30f2?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Oct 11 |
-| **[Silfex, Inc. - A Division of Lam Research Corporation](http://www.silfex.com/)** | **[Onsite Student Co-Op, Software Engineering, Python: Oct-Dec 24'](https://jobright.ai/jobs/info/6709d59f94577e621e19009d?utm_campaign=1079&utm_source=git)** | Springfield, OH | On Site | Oct 11 |
-| ↳ | **[Onsite Student Co-Op, Software Engineering, Python: Oct-Dec 24'](https://jobright.ai/jobs/info/6709df4b397a5339ee496e1b?utm_campaign=1079&utm_source=git)** | Eaton, OH | On Site | Oct 11 |
+| **[Silfex, Inc. - A Division of Lam Research Corporation](http://www.silfex.com/)** | **[Onsite Student Co-Op, Software Engineering, Python: Oct-Dec 24'](https://jobright.ai/jobs/info/6709df4b397a5339ee496e1b?utm_campaign=1079&utm_source=git)** | Eaton, OH | On Site | Oct 11 |
+| ↳ | **[Onsite Student Co-Op, Software Engineering, Python: Oct-Dec 24'](https://jobright.ai/jobs/info/6709d59f94577e621e19009d?utm_campaign=1079&utm_source=git)** | Springfield, OH | On Site | Oct 11 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Summer 2025 Corporate Intern - Information Technology (Mainframe Developer)](https://jobright.ai/jobs/info/6709c9bded2fe618ddcd8430?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Oct 11 |
 | **[The Johns Hopkins University Applied Physics Laboratory](http://jhuapl.edu/)** | **[2025 Internship - Software Development & Data Engineering](https://jobright.ai/jobs/info/6709e40b5613e966333b904c?utm_campaign=1079&utm_source=git)** | Laurel, MD | On Site | Oct 11 |
 | **[athenahealth](http://www.athenahealth.com)** | **[2025 Summer Software Engineering Intern](https://jobright.ai/jobs/info/6709b44c59e748032c19a08a?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Oct 11 |
