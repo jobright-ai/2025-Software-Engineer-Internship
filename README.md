@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Coinbase](http://www.coinbase.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/671ed90f9c0a1d984830831e?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Oct 27 |
+| **[Brady Corporation](https://www.bradyid.com/)** | **[Software Quality Assurance Intern](https://jobright.ai/jobs/info/671eca008c061319a61586dc?utm_campaign=1079&utm_source=git)** | Plymouth, MN | On Site | Oct 27 |
+| **[State Street](http://www.statestreet.com)** | **[Global Technology Service - High School Internship](https://jobright.ai/jobs/info/671ea88fc9b801e37b48e88d?utm_campaign=1079&utm_source=git)** | Quincy, MA | On Site | Oct 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Backend Software Engineer Intern (TikTok Data Retention) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/66e18ef1a9f4481bee467e5b?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Oct 27 |
 | **[Ramp](https://ramp.com)** | **[Software Engineer Internship / Backend](https://jobright.ai/jobs/info/66aba088b7e89901bcda3859?utm_campaign=1079&utm_source=git)** | New York, United States | On Site | Oct 27 |
 | **[The Trade Desk](http://thetradedesk.com)** | **[2025 North America Software Engineering Internship](https://jobright.ai/jobs/info/66ad6a8300be427b7f305730?utm_campaign=1079&utm_source=git)** | Boulder, CO | On Site | Oct 27 |
@@ -70,11 +73,14 @@ For a complete list, click the following sortable link below:
 | **[Thermo Fisher Scientific](http://www.thermofisher.com)** | **[Software Engineering Co-op](https://jobright.ai/jobs/info/671dee81d53405d07551f2a4?utm_campaign=1079&utm_source=git)** | Hillsboro, OR | Hybrid | Oct 27 |
 | **[Answers in Genesis](https://answersingenesis.org)** | **[Web Developer Embark Intern (Summer 2025)](https://jobright.ai/jobs/info/671dd2c21ce17cbe97733a43?utm_campaign=1079&utm_source=git)** | Hebron, KY | On Site | Oct 26 |
 | **[Upper Hand](https://upperhand.com)** | **[Internship - Software Engineer](https://jobright.ai/jobs/info/671dbbe6fbb68eeba4d457a7?utm_campaign=1079&utm_source=git)** | Indianapolis, IN | On Site | Oct 26 |
+| **[TikTok](https://www.tiktok.com)** | **[Video Algorithm Engineer Intern (TikTok Multimedia) - 2025 Summer (PhD)](https://jobright.ai/jobs/info/66e1add1bc746e285c2ea17e?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Oct 26 |
+| **[Zipline](http://flyzipline.com)** | **[Firmware/ Embedded Engineering Intern (Spring 2025)](https://jobright.ai/jobs/info/6700b5969cb8070f13894e9b?utm_campaign=1079&utm_source=git)** | South San Francisco, CA | On Site | Oct 26 |
 | **[Thales Defense & Security, Inc.](https://www.thalesdsi.com/)** | **[2025 DSP Software Engineer Summer Intern](https://jobright.ai/jobs/info/671d6c32a830abe30dcaef50?utm_campaign=1079&utm_source=git)** | Clarksburg, MD | On Site | Oct 26 |
 | **[L3Harris Technologies](https://www.l3harris.com/)** | **[Software Engineer Intern C (Salt Lake City, UT) 1](https://jobright.ai/jobs/info/671d644a61ddbc44eaca460f?utm_campaign=1079&utm_source=git)** | Salt Lake City, UT | On Site | Oct 26 |
 | **[Novelis](http://novelis.com)** | **[Enterprise Architect Intern](https://jobright.ai/jobs/info/671d3bc6f99db2623594a855?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Hybrid | Oct 26 |
 | **[Walgreens](https://www.walgreens.com/)** | **[Software Engineer Internship](https://jobright.ai/jobs/info/671db1e96e2bbe9abf412edc?utm_campaign=1079&utm_source=git)** | Deerfield, IL | On Site | Oct 26 |
 | ↳ | **[IT Infrastructure & Engineering Internship](https://jobright.ai/jobs/info/671cfe33e2512b29bd6db866?utm_campaign=1079&utm_source=git)** | Deerfield, IL | On Site | Oct 26 |
+| ↳ | **[Software Engineer Internship](https://jobright.ai/jobs/info/671cfe33e2512b29bd6db85e?utm_campaign=1079&utm_source=git)** | Deerfield, IL | On Site | Oct 26 |
 | **[CUBRC](http://www.cubrc.org)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/671cfc62d0157b9f7e585567?utm_campaign=1079&utm_source=git)** | Buffalo, NY | On Site | Oct 26 |
 | **[L3Harris Technologies](https://www.l3harris.com/)** | **[Software Engineer Level C (Palm Bay, FL)](https://jobright.ai/jobs/info/671d0eac0cb0d925281fbea8?utm_campaign=1079&utm_source=git)** | Palm Bay, FL | On Site | Oct 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Backend Software Engineer Intern (Data Access) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/66e19c10fcb89a9c50622b30?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Oct 26 |
@@ -105,7 +111,6 @@ For a complete list, click the following sortable link below:
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Broadcast Applications Engineering Summer Intern 2025](https://jobright.ai/jobs/info/671c6b88e4edac832e02122a?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Oct 25 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern – IT, Cloud Architecture](https://jobright.ai/jobs/info/671c6154c8f705607036538f?utm_campaign=1079&utm_source=git)** | United States - North Carolina - Raleigh | On Site | Oct 25 |
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Software Engineering Co-Op (Spring/Summer 2025) (Onsite)](https://jobright.ai/jobs/info/671c77bd110804783ab433e6?utm_campaign=1079&utm_source=git)** | Melbourne, FL | On Site | Oct 25 |
-| ↳ | **[Software Engineering Co-op (Summer/Fall 2025) (Onsite)](https://jobright.ai/jobs/info/671c77bd110804783ab433eb?utm_campaign=1079&utm_source=git)** | Cedar Rapids, IA | On Site | Oct 25 |
 | **[Symmetry Systems](https://www.symmetry-systems.com)** | **[Full Stack Software Engineer - 2025 Summer Intern](https://jobright.ai/jobs/info/671c664ace33783204eb848d?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 25 |
 | **[Beckman Coulter Life Sciences](https://www.mybeckman.uk/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/66fed82ec186e76d733cbdf3?utm_campaign=1079&utm_source=git)** | Loveland, CO | On Site | Oct 25 |
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Software Engineering Co-op (Summer/Fall 2025) (Onsite)](https://jobright.ai/jobs/info/671c619641383ef0db5dc162?utm_campaign=1079&utm_source=git)** | Cedar Rapids, IA | On Site | Oct 25 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Apptronik](https://apptronik.com/)** | **[Software Engineer Test Ops - Intern 2025](https://jobright.ai/jobs/info/671be2ad1d569d0b4fd0074e?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Oct 25 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer 2025 Intern-Cloud Engineering](https://jobright.ai/jobs/info/671bd8bf39b25581e202677a?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Oct 25 |
 | **[Nordson Corporation](http://www.nordson.com)** | **[Intern (Computer Engineering Intern)](https://jobright.ai/jobs/info/671bd894d6ff050fd0470279?utm_campaign=1079&utm_source=git)** | Duluth, GA | On Site | Oct 25 |
-| **[Acxiom](http://www.acxiom.com)** | **[Intern - Solution Developer (SPRING) - Conway, AR](https://jobright.ai/jobs/info/671be4d952cd97e69d15c971?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 25 |
-| **[Seagate Technology](http://www.seagate.com)** | **[Emerging Products and Solutions Summer Intern](https://jobright.ai/jobs/info/6716d09d98f7b5f1f039e369?utm_campaign=1079&utm_source=git)** | Longmont, CO | On Site | Oct 25 |
-| **[Nordson Corporation](http://www.nordson.com)** | **[Intern (Computer Engineering Intern)](https://jobright.ai/jobs/info/671bc953eeab193c70363332?utm_campaign=1079&utm_source=git)** | USA - Georgia - Duluth | On Site | Oct 25 |
-| **[Seagate Technology](http://www.seagate.com)** | **[Firmware Intern - Summer 2025](https://jobright.ai/jobs/info/671bd6ce7f068acce8cae130?utm_campaign=1079&utm_source=git)** | Longmont, CO | On Site | Oct 25 |
-| **[AM/NS Calvert](http://www.amnscalvert.com)** | **[SAP Engineer-Operational Services](https://jobright.ai/jobs/info/671bd461c1573085ae0025c8?utm_campaign=1079&utm_source=git)** | Daphne, AL | On Site | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
