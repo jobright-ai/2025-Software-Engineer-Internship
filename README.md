@@ -57,7 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bank of America](https://www.bankofamerica.com)** | **[Software Engineer I](https://jobright.ai/jobs/info/67259961e8db3f389ee2c648?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Nov 01 |
+| **[Kargo](https://mykargo.com/)** | **[Backend Software Engineer - Internship](https://jobright.ai/jobs/info/67258fa70d48628f9f0bcfb1?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Nov 01 |
+| **[Bank of America](https://www.bankofamerica.com)** | **[Software Engineer I](https://jobright.ai/jobs/info/67258980653b3b976a0f607c?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Nov 01 |
+| ↳ | **[Software Engineer I](https://jobright.ai/jobs/info/67258980653b3b976a0f6057?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Nov 01 |
+| **[CommScope](http://www.commscope.com)** | **[Future Opportunity: Software Engineering Internships: Summer 2025](https://jobright.ai/jobs/info/672582cfa55114a1fd1d81d3?utm_campaign=1079&utm_source=git)** | Texas, United States | On Site | Nov 01 |
+| **[Lean TECHniques](https://leantechniques.com/)** | **[Software Development Intern](https://jobright.ai/jobs/info/6725941e7b493920eaced66e?utm_campaign=1079&utm_source=git)** | Johnston, IA | On Site | Nov 01 |
+| **[KLA](https://www.kla.com)** | **[Applications Engineering Intern](https://jobright.ai/jobs/info/672574424a51aae123a3772a?utm_campaign=1079&utm_source=git)** | Milpitas, CA | On Site | Nov 01 |
 | **[ASML](https://www.asml.com)** | **[Internship- Software Engineer](https://jobright.ai/jobs/info/67255d0b107054675e62f6cd?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Nov 01 |
+| **[ServiceNow](http://www.servicenow.com)** | **[Software Engineer Intern - Innovation Team](https://jobright.ai/jobs/info/672580b43658b363c006ca90?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | Hybrid | Nov 01 |
 | **[Zeno Group](http://www.zenogroup.com)** | **[Intern, ZDX](https://jobright.ai/jobs/info/6725566c85fb6393d245e506?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Nov 01 |
 | **[Kargo](https://mykargo.com/)** | **[Backend Engineer - Internship](https://jobright.ai/jobs/info/6725566c85fb6393d245e229?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | On Site | Nov 01 |
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Intern, Performance Engineering](https://jobright.ai/jobs/info/67255a0f41d5afddea2fa783?utm_campaign=1079&utm_source=git)** | Iowa City, IA | On Site | Nov 01 |
@@ -72,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Software Engineering Intern (Summer 2025) (Onsite)](https://jobright.ai/jobs/info/67255a0f41d5afddea2fa8a5?utm_campaign=1079&utm_source=git)** | Cedar Rapids, IA | On Site | Nov 01 |
 | **[Peterbilt Motors Company](http://www.peterbilt.com/)** | **[2025 Summer Internship: Resident Engineering Product Data Management](https://jobright.ai/jobs/info/67253603f600f026c1f341ae?utm_campaign=1079&utm_source=git)** | Denton, TX | On Site | Nov 01 |
 | ↳ | **[2025 Summer Internship: Information Technology](https://jobright.ai/jobs/info/67253603f600f026c1f341a9?utm_campaign=1079&utm_source=git)** | Denton, TX | On Site | Nov 01 |
-| **[Ivalua](http://ivalua.com/)** | **[Customer Application Engineer Intern](https://jobright.ai/jobs/info/67255225d5842e74ebae7507?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Nov 01 |
 | **[Constellation](https://www.constellationenergy.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/67253e8c888795a2b5b633a7?utm_campaign=1079&utm_source=git)** | Lutherville-Timonium, MD | Hybrid | Nov 01 |
 | **[Allianz Life](http://www.allianzlife.com)** | **[Technology & Transformation Summer 2025 Internship / Hybrid](https://jobright.ai/jobs/info/67253324739c87b70f9d836f?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 01 |
 | **[KLA](https://www.kla.com)** | **[HPC Infrastructure Engineer Intern](https://jobright.ai/jobs/info/67252ed0cd2c02620d5f8a7d?utm_campaign=1079&utm_source=git)** | Milpitas, CA | On Site | Nov 01 |
@@ -86,16 +93,19 @@ For a complete list, click the following sortable link below:
 | **[IPG Health](https://ipghealth.com)** | **[2025 Bold Beginner Internship: Development](https://jobright.ai/jobs/info/6724ed7db595877d03f52844?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Nov 01 |
 | **[Sphere Entertainment Co.](https://www.sphereentertainmentco.com)** | **[Sphere Quality Assurance (QA) Summer 2025 Student Associate (Burbank, CA)](https://jobright.ai/jobs/info/6724e301a79c83335455d156?utm_campaign=1079&utm_source=git)** | Burbank, CA | Hybrid | Nov 01 |
 | ↳ | **[Sphere Quality Assurance Engineer Summer 2025 Student Associate (Burbank, CA)](https://jobright.ai/jobs/info/6724e301a79c83335455d152?utm_campaign=1079&utm_source=git)** | Burbank, CA | On Site | Nov 01 |
-| **[Madison Square Garden Entertainment Corp.](https://www.msgentertainment.com/)** | **[Sphere Quality Assurance Engineer Summer 2025 Student Associate (Burbank, CA)](https://jobright.ai/jobs/info/6724e301a79c83335455d14b?utm_campaign=1079&utm_source=git)** | Burbank, CA | On Site | Nov 01 |
-| ↳ | **[Sphere Quality Assurance (QA) Summer 2025 Student Associate (Burbank, CA)](https://jobright.ai/jobs/info/6724e301a79c83335455d15b?utm_campaign=1079&utm_source=git)** | Burbank, CA | Hybrid | Nov 01 |
-| **[Travelers](https://www.travelers.com)** | **[Engineering Development Program (EDP) - Intern](https://jobright.ai/jobs/info/6724e54b1e6b6c2b9ea4c32f?utm_campaign=1079&utm_source=git)** | MD - Hunt Valley | Hybrid | Nov 01 |
+| **[Madison Square Garden Entertainment Corp.](https://www.msgentertainment.com/)** | **[Sphere Quality Assurance (QA) Summer 2025 Student Associate (Burbank, CA)](https://jobright.ai/jobs/info/6724e301a79c83335455d15b?utm_campaign=1079&utm_source=git)** | Burbank, CA | Hybrid | Nov 01 |
+| ↳ | **[Sphere Quality Assurance Engineer Summer 2025 Student Associate (Burbank, CA)](https://jobright.ai/jobs/info/6724e301a79c83335455d14b?utm_campaign=1079&utm_source=git)** | Burbank, CA | On Site | Nov 01 |
+| **[Travelers](https://www.travelers.com)** | **[Engineering Development Program (EDP) - Intern](https://jobright.ai/jobs/info/6724e54b1e6b6c2b9ea4c32e?utm_campaign=1079&utm_source=git)** | MN - St. Paul | Hybrid | Nov 01 |
 | ↳ | **[Engineering Development Program (EDP) - Intern](https://jobright.ai/jobs/info/6724e54b1e6b6c2b9ea4c32c?utm_campaign=1079&utm_source=git)** | CT - Hartford | Hybrid | Nov 01 |
-| ↳ | **[Engineering Development Program (EDP) - Intern](https://jobright.ai/jobs/info/6724e54b1e6b6c2b9ea4c32e?utm_campaign=1079&utm_source=git)** | MN - St. Paul | Hybrid | Nov 01 |
+| ↳ | **[Engineering Development Program (EDP) - Intern](https://jobright.ai/jobs/info/6724e54b1e6b6c2b9ea4c32f?utm_campaign=1079&utm_source=git)** | MD - Hunt Valley | Hybrid | Nov 01 |
 | **[PTC](http://www.ptc.com)** | **[Arena Application Software Engineering Intern](https://jobright.ai/jobs/info/6724dca2d8c88b15ccb02179?utm_campaign=1079&utm_source=git)** | USA-San Mateo, CA | On Site | Nov 01 |
 | **[KLA](https://www.kla.com)** | **[HPC Infrastructure Engineer Intern](https://jobright.ai/jobs/info/6724cd2176da98fcdc0b273e?utm_campaign=1079&utm_source=git)** | Arizona, United States | Remote | Nov 01 |
 | **[Arbor Homes](https://yourarborhome.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6724b71bca5dead7dbe9ab0b?utm_campaign=1079&utm_source=git)** | Maryville, TN | On Site | Nov 01 |
 | **[Pacific Life](http://www.pacificlife.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/66eb4c559311abb17817587b?utm_campaign=1079&utm_source=git)** | Newport Beach, CA | On Site | Nov 01 |
 | **[Zoox](https://www.zoox.com/)** | **[Developer Platforms Internship/Co-op](https://jobright.ai/jobs/info/6708a30d976550378882bc9e?utm_campaign=1079&utm_source=git)** | Foster City, CA | On Site | Nov 01 |
+| **[Kratos Defense and Security Solutions](http://www.kratosdefense.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/67257d8c54dfaba3fc3f811a?utm_campaign=1079&utm_source=git)** | Colorado Springs, CO | On Site | Nov 01 |
+| **[SingleStore](https://www.singlestore.com/)** | **[Software Engineer, DB Engine Intern (Summer 2025)](https://jobright.ai/jobs/info/67089ad245db116951ed237d?utm_campaign=1079&utm_source=git)** | Lane County, OR | On Site | Nov 01 |
+| **[AeroVironment](http://www.avinc.com)** | **[2025 Summer Internship – Software Engineering](https://jobright.ai/jobs/info/66ccca28c6d9866759e2abbd?utm_campaign=1079&utm_source=git)** | Lawrence, KS | On Site | Nov 01 |
 | **[ASML](https://www.asml.com)** | **[Internship - Software Engineer](https://jobright.ai/jobs/info/67255183dc6059220e9902aa?utm_campaign=1079&utm_source=git)** | Wilton Center, CT | On Site | Nov 01 |
 | **[EMC Insurance Companies](http://www.emcins.com/)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/672534f24bb4e3eccac0660f?utm_campaign=1079&utm_source=git)** | Iowa, United States | On Site | Nov 01 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2025 Internship - Software Engineer Intern](https://jobright.ai/jobs/info/66eaff4ddb0dbefa4b0d0562?utm_campaign=1079&utm_source=git)** | Princeton, NJ | Hybrid | Nov 01 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GE Vernova](https://www.gevernova.com)** | **[Power & Energy Resources Software Intern](https://jobright.ai/jobs/info/6723fa5d2d4138e7e763838f?utm_campaign=1079&utm_source=git)** | Foxborough | On Site | Oct 31 |
 | **[SAS](http://www.sas.com)** | **[Analytic Software Tester Intern (Master's or PhD) - Summer or Year-Round](https://jobright.ai/jobs/info/670ede4d8a942fef162008d0?utm_campaign=1079&utm_source=git)** | Cary, NC | Hybrid | Oct 31 |
 | **[MITRE](http://www.mitre.org)** | **[Web Development Co-op--Six months starting January--Hybrid work--Bedford, MA](https://jobright.ai/jobs/info/6723f7c093cd9d235c5deb44?utm_campaign=1079&utm_source=git)** | Bedford, MA | Hybrid | Oct 31 |
-| **[Waymo](http://www.waymo.com)** | **[2025 Intern, PhD, SWE Simulation](https://jobright.ai/jobs/info/6723ff6393bfa3f3cb03262b?utm_campaign=1079&utm_source=git)** | Mountain View, CA | Hybrid | Oct 31 |
-| **[Costco Wholesale](https://www.costco.com/)** | **[IT Intern - Access Analyst](https://jobright.ai/jobs/info/6723fe39cec79283fbcbd639?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Oct 31 |
-| **[Chicago Cubs](http://www.cubs.com)** | **[Software Engineer Fellow, Baseball Systems](https://jobright.ai/jobs/info/6723edf394feaf7f2a1a6645?utm_campaign=1079&utm_source=git)** | Chicago, Illinois | On Site | Oct 31 |
-| **[Costco Wholesale](https://www.costco.com/)** | **[IT Intern - Software Developer- Digital Mobile](https://jobright.ai/jobs/info/6723ed2b8844a1d435609b37?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Oct 31 |
-| ↳ | **[IT Intern - Innovation](https://jobright.ai/jobs/info/6723ed2b8844a1d435609b29?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Oct 31 |
-| ↳ | **[IT Intern - Software Engineer - Enterprise Core Services](https://jobright.ai/jobs/info/6723ed2b8844a1d435609b24?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Oct 31 |
-| ↳ | **[IT Intern - PowerApps Developer - ECM Digital Workflow](https://jobright.ai/jobs/info/6723ed2b8844a1d435609b83?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Oct 31 |
-| ↳ | **[IT Intern - Software Developer- Digital Mobile](https://jobright.ai/jobs/info/6723ed2b8844a1d435609b1e?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Oct 31 |
-| ↳ | **[IT Intern - Enterprise Architecture](https://jobright.ai/jobs/info/6723ed2b8844a1d435609b2e?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Oct 31 |
-| ↳ | **[IT Intern - SAP PI-PO](https://jobright.ai/jobs/info/6723ed2b8844a1d435609b2a?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
