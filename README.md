@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Hewlett Packard Labs - System Software Research Associate (Intern)](https://jobright.ai/jobs/info/6738109a28357be48e7b7498?utm_campaign=1079&utm_source=git)** | Milpitas, CA | On Site | Nov 15 |
+| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Software Engineer - 2025 Co-Op](https://jobright.ai/jobs/info/6737ef02afa384e32383b23d?utm_campaign=1079&utm_source=git)** | Allen, TX | On Site | Nov 15 |
+| ↳ | **[Software Engineer - 2025 Co-Op](https://jobright.ai/jobs/info/6737f094c51aa6b49c6582d7?utm_campaign=1079&utm_source=git)** | Allen, TX | On Site | Nov 15 |
+| **[Cirrus Logic](https://cirrus.com/)** | **[Summer Intern - Embedded Software Test Engineer (SB)](https://jobright.ai/jobs/info/6737ee5df7eefca392209e44?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Nov 15 |
 | **[Nordson Corporation](http://www.nordson.com)** | **[Intern (Software Engineering)](https://jobright.ai/jobs/info/6737dd55b732429229d5cf60?utm_campaign=1079&utm_source=git)** | East Providence, RI | On Site | Nov 15 |
 | **[Badger Meter](http://badgermeter.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6737dd55b732429229d5cf63?utm_campaign=1079&utm_source=git)** | Milwaukee, WI | On Site | Nov 15 |
 | **[Hikma Pharmaceuticals](http://hikma.com)** | **[Internship - Quality Assurance-7456](https://jobright.ai/jobs/info/6737dd55b732429229d5cf5a?utm_campaign=1079&utm_source=git)** | Columbus, OH | On Site | Nov 15 |
@@ -119,7 +123,6 @@ For a complete list, click the following sortable link below:
 | **[Arcesium](http://www.arcesium.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6713b03ef9e889a48b4f31bc?utm_campaign=1079&utm_source=git)** | New York, United States | On Site | Nov 15 |
 | ↳ | **[Infrastructure Engineer Intern](https://jobright.ai/jobs/info/66ff5367918a794eebbe239f?utm_campaign=1079&utm_source=git)** | New York, United States | On Site | Nov 15 |
 | **[Zoox](https://www.zoox.com/)** | **[Python Backend Engineer Intern](https://jobright.ai/jobs/info/66ff1a7a9e5a22b9227d0110?utm_campaign=1079&utm_source=git)** | Foster City, CA | On Site | Nov 15 |
-| ↳ | **[Backend Software Engineering Intern](https://jobright.ai/jobs/info/66ff6d2aebdb4234d6704ae3?utm_campaign=1079&utm_source=git)** | Foster City, CA | On Site | Nov 15 |
 | **[DoorDash](http://www.doordash.com)** | **[Software Engineer I, Entry-Level (Graduation Date: Fall 2024-Summer 2025)](https://jobright.ai/jobs/info/671b39fea7dbde9c0144b1e8?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Nov 15 |
 | **[Keysight Technologies](https://www.keysight.com)** | **[Network visibility SW internship](https://jobright.ai/jobs/info/672be6aff162b4bd9191a156?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Nov 15 |
 | **[Western Digital](https://www.westerndigital.com)** | **[Summer 2024, ASIC Verification Intern (No Relocation Provided)](https://jobright.ai/jobs/info/671ac483b5c8bc5274516382?utm_campaign=1079&utm_source=git)** | Roseville, CA | On Site | Nov 15 |
@@ -129,6 +132,7 @@ For a complete list, click the following sortable link below:
 | **[SAIC](http://www.saic.com)** | **[Software Engineer Internship](https://jobright.ai/jobs/info/67370f1a2454d014d552b16f?utm_campaign=1079&utm_source=git)** | Colorado Springs, CO | On Site | Nov 15 |
 | **[Intuitive](https://intusurg.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6736f7fc9b81d97ebf6bc58f?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Nov 14 |
 | **[Shield AI](http://www.shield.ai)** | **[Software Engineering (Cloud) Intern - 2025 Summer Intern](https://jobright.ai/jobs/info/6736f6fe25cebe6a2ee726e3?utm_campaign=1079&utm_source=git)** | SD Metro Area | On Site | Nov 14 |
+| **[Zoox](https://www.zoox.com/)** | **[Backend Software Engineering Intern](https://jobright.ai/jobs/info/66ff5367918a794eebbe23ee?utm_campaign=1079&utm_source=git)** | Foster City, CA | On Site | Nov 14 |
 | **[Pegasystems](http://www.pega.com)** | **[Cloud Performance Engineer Summer Intern](https://jobright.ai/jobs/info/6736d6c6b600062f9760742b?utm_campaign=1079&utm_source=git)** | Waltham, MA | On Site | Nov 14 |
 | **[Indiana Farm Bureau Insurance](http://www.infarmbureau.com)** | **[Software Development Intern - Summer 2025](https://jobright.ai/jobs/info/6736c5516fc2f026059f8288?utm_campaign=1079&utm_source=git)** | Indianapolis, IN | On Site | Nov 14 |
 | **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Internship, Software Engineering](https://jobright.ai/jobs/info/6736dd7254b59c6fe657592b?utm_campaign=1079&utm_source=git)** | Mequon, WI | On Site | Nov 14 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bank of America](https://www.bankofamerica.com)** | **[Software Engineer I](https://jobright.ai/jobs/info/67367ce6f56d983416e7b8d1?utm_campaign=1079&utm_source=git)** | Addison, TX | On Site | Nov 14 |
 | ↳ | **[Software Engineer I](https://jobright.ai/jobs/info/67367ce6f56d983416e7b8d2?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Nov 14 |
 | **[Penn State University](http://psu.edu)** | **[Part Time - Digital Foundry - Information Technology](https://jobright.ai/jobs/info/67368361ad7ad2458df1349e?utm_campaign=1079&utm_source=git)** | New Kensington, PA | On Site | Nov 14 |
-| **[SAS](http://www.sas.com)** | **[Software Development Engineer in Test Intern (Year-Round)](https://jobright.ai/jobs/info/673666f41c75d04acf0acee0?utm_campaign=1079&utm_source=git)** | Cary, NC | Hybrid | Nov 14 |
-| **[Bank of America](https://www.bankofamerica.com)** | **[Software Engineer I](https://jobright.ai/jobs/info/6736660f52a29c4462709bee?utm_campaign=1079&utm_source=git)** | Plano, TX | On Site | Nov 14 |
-| **[John Deere](https://www.deere.com)** | **[Part Time Student - Software Engineer - East Moline, IL](https://jobright.ai/jobs/info/67367128f945879c4022b4c1?utm_campaign=1079&utm_source=git)** | East Moline, IL | Hybrid | Nov 14 |
-| **[Powell](http://www.powellind.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/6736618da78ca3757db8c4f1?utm_campaign=1079&utm_source=git)** | 7232 Airport Blvd - Dock A, Houston, TX, 77061, US | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
