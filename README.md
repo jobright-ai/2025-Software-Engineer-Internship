@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[LiveRamp](http://www.liveramp.com)** | **[Software Engineer Co-Op](https://jobright.ai/jobs/info/67443592d16f8b9c94852358?utm_campaign=1079&utm_source=git)** | San Francisco | On Site | Nov 25 |
+| **[Valeo](http://www.valeo.com/en/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6744665c041d2a391550dbc6?utm_campaign=1079&utm_source=git)** | Troy, MI | On Site | Nov 25 |
+| **[Beckman Coulter Life Sciences](https://www.mybeckman.uk/)** | **[Intern - Application Development](https://jobright.ai/jobs/info/674461aa667404137e04aede?utm_campaign=1079&utm_source=git)** | Miami, FL | On Site | Nov 25 |
+| **[LiveRamp](http://www.liveramp.com)** | **[Software Engineer Co-Op](https://jobright.ai/jobs/info/67444f0544e48cb6c6c41ceb?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Remote | Nov 25 |
+| ↳ | **[Software Engineer Co-Op](https://jobright.ai/jobs/info/67443592d16f8b9c94852358?utm_campaign=1079&utm_source=git)** | San Francisco | On Site | Nov 25 |
 | **[Pegasystems](http://www.pega.com)** | **[Software Engineer Spring Co-op, Services Engineering](https://jobright.ai/jobs/info/6744065809c0bf5bfd32c47c?utm_campaign=1079&utm_source=git)** | Waltham, MA | On Site | Nov 24 |
 | ↳ | **[Platform Engineering Summer Intern](https://jobright.ai/jobs/info/6744065809c0bf5bfd32c47e?utm_campaign=1079&utm_source=git)** | Waltham, MA | On Site | Nov 24 |
 | ↳ | **[Cloud Development Engineer Summer Intern](https://jobright.ai/jobs/info/6744065809c0bf5bfd32c47f?utm_campaign=1079&utm_source=git)** | Waltham, MA | On Site | Nov 24 |
@@ -88,6 +91,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer Internship](https://jobright.ai/jobs/info/6741e472085264142db752f2?utm_campaign=1079&utm_source=git)** | Deerfield, IL | On Site | Nov 23 |
 | **[Meta](https://www.metacareers.com/)** | **[Software Engineer Intern, Systems and Infrastructure (PhD)](https://jobright.ai/jobs/info/674263f718947ca3ce9cbfed?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Nov 23 |
 | **[Tanium](http://www.tanium.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/66e2e4fd7f2ec10d812bed59?utm_campaign=1079&utm_source=git)** | Durham, NC | Hybrid | Nov 23 |
+| **[Noah Medical](https://www.noahmed.com)** | **[System Software Engineer Intern - Fall 2024](https://jobright.ai/jobs/info/674461aa667404137e04afa8?utm_campaign=1079&utm_source=git)** | San Carlos, CA | On Site | Nov 23 |
 | **[Medpace](http://www.medpace.com)** | **[Software Development Co-Op - Spring 2025](https://jobright.ai/jobs/info/66edd0de8b1d52676c7883c8?utm_campaign=1079&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 23 |
 | **[Sabre Corporation](https://www.sabre.com)** | **[Software Engineer- Internship](https://jobright.ai/jobs/info/672602a28faf63b894bcc54c?utm_campaign=1079&utm_source=git)** | Southlake, TX | On Site | Nov 23 |
 | **[HashiCorp](https://www.hashicorp.com)** | **[Staff Software Engineer - Internal Platform Infrastructure, Compliance](https://jobright.ai/jobs/info/67252442200ea26667bb9340?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 23 |
@@ -147,14 +151,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Embedded Software Engineering (R24-6537)](https://jobright.ai/jobs/info/6740ac4a07f3e1a0e6e0e5cc?utm_campaign=1079&utm_source=git)** | Eden Prairie, MN | On Site | Nov 22 |
 | **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Intern - IT Engineering (Summer 2025)](https://jobright.ai/jobs/info/66fa287315dd0aa0cc89e1ef?utm_campaign=1079&utm_source=git)** | West Bend, WI | Hybrid | Nov 22 |
 | **[CUBRC](http://www.cubrc.org)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/67409fdb759dde1fe96ef1a6?utm_campaign=1079&utm_source=git)** | Buffalo, NY | On Site | Nov 22 |
+| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[2025 Advancing Hispanics and Latinos Fellowship Program - Software Engineering Track](https://jobright.ai/jobs/info/673fdd78adfbfa277934be00?utm_campaign=1079&utm_source=git)** | Columbus, OH | On Site | Nov 22 |
 | **[Nokia](http://www.nokia.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/673624920827e44d86bc602f?utm_campaign=1079&utm_source=git)** | Naperville, IL | Hybrid | Nov 22 |
 | **[Evident Scientific](https://www.evidentscientific.com)** | **[Firmware Engineering Co-Op/January-June 2025](https://jobright.ai/jobs/info/6739a9f19129d50f9e6a3c2f?utm_campaign=1079&utm_source=git)** | Waltham, MA | On Site | Nov 22 |
 | **[MACOM](https://www.macom.com/)** | **[Test Engineering Intern](https://jobright.ai/jobs/info/67243e24da22177425a04ca2?utm_campaign=1079&utm_source=git)** | Lowell, MA | On Site | Nov 22 |
 | **[AeroVironment](http://www.avinc.com)** | **[2025 Summer Internship – Software Engineering](https://jobright.ai/jobs/info/66ccca28c6d9866759e2abbc?utm_campaign=1079&utm_source=git)** | Arlington, VA | On Site | Nov 22 |
 | **[Reddit, Inc.](https://www.redditinc.com)** | **[Software Engineering Intern (Summer 2025)](https://jobright.ai/jobs/info/67243925e5d9bfd59f15ffe3?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Remote | Nov 22 |
-| **[Zoox](https://www.zoox.com/)** | **[Developer Platforms Intern](https://jobright.ai/jobs/info/6708a30d976550378882bc9e?utm_campaign=1079&utm_source=git)** | Foster City, CA | On Site | Nov 22 |
-| **[Salas O'Brien](http://www.salasobrien.com/about/)** | **[Technology Design Internship - Summer 2025](https://jobright.ai/jobs/info/6723e7a124e872fadc4d650e?utm_campaign=1079&utm_source=git)** | Boulder, CO | On Site | Nov 22 |
-| **[Gilead Sciences](http://www.gilead.com)** | **[Intern – IT, Kite TechOps](https://jobright.ai/jobs/info/67063e9620b8d6530158cb7f?utm_campaign=1079&utm_source=git)** | Foster City, CA | On Site | Nov 22 |
-| **[Jabra](http://www.jabra.com)** | **[Software Intern (Onsite)](https://jobright.ai/jobs/info/6722507889922c935c0a46c5?utm_campaign=1079&utm_source=git)** | Cupertino, CA | On Site | Nov 22 |
-| **[Cirrus Logic](https://cirrus.com/)** | **[Spring Co-Op, Embedded Software Engineer (BZ- 64000151)](https://jobright.ai/jobs/info/66ecb63d20cf036f3bae5937?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
