@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vistra Corp.](https://www.vistracorp.com/)** | **[Computer Scientist – Monitoring and Diagnostics (Intern Position)](https://jobright.ai/jobs/info/675110af33009ce831c67fc1?utm_campaign=1079&utm_source=git)** | Irving, TX | On Site | Dec 04 |
+| **[John Deere](https://www.deere.com)** | **[Part Time Student - Software Engineer - Cary, NC](https://jobright.ai/jobs/info/675107e8af9a23e35e97e303?utm_campaign=1079&utm_source=git)** | Cary, NC | Hybrid | Dec 04 |
+| **[Blue Yonder](https://blueyonder.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/675102689ced628e2777bbf1?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Dec 04 |
+| **[Textron](http://textron.com)** | **[2025 Intern - Software Engineer (ES) - Charleston, SC](https://jobright.ai/jobs/info/6750fda0e8fbf394c35b7b93?utm_campaign=1079&utm_source=git)** | Charleston County, SC | Hybrid | Dec 04 |
+| **[Ameritas](http://www.ameritas.com)** | **[IT Architecture Intern](https://jobright.ai/jobs/info/67510951bb4b374d4398c875?utm_campaign=1079&utm_source=git)** | Lincoln, NE | Hybrid | Dec 04 |
+| **[Noah Medical](https://www.noahmed.com)** | **[System Software Engineer Intern - Winter 2025](https://jobright.ai/jobs/info/6740e96b0e636a08c25b5110?utm_campaign=1079&utm_source=git)** | San Carlos, California | On Site | Dec 04 |
+| **[Zscaler](https://www.zscaler.com)** | **[Software Engineering Intern - Front End](https://jobright.ai/jobs/info/67510266007bdf188ac154c5?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Dec 04 |
+| ↳ | **[Software Engineering Intern - Back End](https://jobright.ai/jobs/info/67510266007bdf188ac15511?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Dec 04 |
 | **[IBM](http://www.ibm.com)** | **[Back End Developer Intern: 2025](https://jobright.ai/jobs/info/6750e138a7423c5f0a38479e?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Dec 04 |
 | ↳ | **[Software Developer Intern](https://jobright.ai/jobs/info/6750e79f72412a83e9de30ef?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Dec 04 |
 | **[Seagate Technology](http://www.seagate.com)** | **[Firmware Engineer Intern](https://jobright.ai/jobs/info/6750e941af91ef064ea315da?utm_campaign=1079&utm_source=git)** | Longmont, CO | On Site | Dec 04 |
@@ -66,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Alcon](http://www.alcon.com)** | **[Summer 2025 - R&D Surgical Software Engineering Intern](https://jobright.ai/jobs/info/6750c6a2712417332dae7208?utm_campaign=1079&utm_source=git)** | Lake Forest, CA | On Site | Dec 04 |
 | **[RR Donnelley](http://www.rrd.com)** | **[Web Developer Intern](https://jobright.ai/jobs/info/6750d5b19f4b635620fc8265?utm_campaign=1079&utm_source=git)** | Logan, UT | Hybrid | Dec 04 |
 | **[Riverside Research](http://riversideresearch.org)** | **[System Software (Compilers)](https://jobright.ai/jobs/info/6750c6a2712417332dae7254?utm_campaign=1079&utm_source=git)** | Lexington, MA | On Site | Dec 04 |
+| **[Southwest Research Institute](http://www.swri.org)** | **[STUDENT ASSISTANT-R&D - STUDENT ANALYST - STUDENT ENGINEER - Software Developer](https://jobright.ai/jobs/info/67511eb59c05387b6527e091?utm_campaign=1079&utm_source=git)** | San Antonio, TX | On Site | Dec 04 |
 | **[OneStream Software](http://www.onestreamsoftware.com)** | **[Software Development Intern (MarketPlace)](https://jobright.ai/jobs/info/6750ce023483f07dd09a6e03?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 04 |
 | **[GE Vernova](https://www.gevernova.com)** | **[Energy Markets Software Engineering Intern](https://jobright.ai/jobs/info/6750cd3f9972d46a46a7796b?utm_campaign=1079&utm_source=git)** | Bothell, WA | On Site | Dec 04 |
 | **[NEOGOV](http://www.neogov.com)** | **[Information Technology Developer Intern](https://jobright.ai/jobs/info/6750eddf40a819af2633d48b?utm_campaign=1079&utm_source=git)** | Tacoma WA 98466, WA | On Site | Dec 04 |
@@ -98,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/66e09ee43a41b2b3f9906496?utm_campaign=1079&utm_source=git)** | Boulder, CO | On Site | Dec 04 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Assoc Billing Solutions Analyst](https://jobright.ai/jobs/info/66c5464ab8ec8eecf48177c6?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Dec 04 |
 | **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Software Engineer Intern Summer 2025](https://jobright.ai/jobs/info/66df855bf453889698d8d392?utm_campaign=1079&utm_source=git)** | Chicago, IL | Remote | Dec 04 |
-| **[Pegasystems](http://www.pega.com)** | **[Platform Engineering Summer Intern](https://jobright.ai/jobs/info/67503eca0b71cf555fa3bf8e?utm_campaign=1079&utm_source=git)** | Waltham, MA | On Site | Dec 04 |
 | **[Figma](https://www.figma.com)** | **[Software Engineer - Intern (2025)](https://jobright.ai/jobs/info/674a8b703694fba68d9841c6?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Dec 04 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Flight Software Intern (Summer 2025)](https://jobright.ai/jobs/info/6750425e3de239e75ae2aaf9?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Dec 04 |
 | **[OneStream Software](http://www.onestreamsoftware.com)** | **[Technical Development Intern](https://jobright.ai/jobs/info/67336b5c05348c191124e6eb?utm_campaign=1079&utm_source=git)** | Birmingham, MI | Hybrid | Dec 04 |
@@ -141,20 +149,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/674fa903fea61fcc77b13c53?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Dec 03 |
 | **[Imprint](https://www.imprint.co)** | **[Software Engineer Intern, Full Stack](https://jobright.ai/jobs/info/674fb1dce5a451fed62c05a0?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Dec 03 |
 | **[Vizient, Inc](https://www.vizientinc.com)** | **[Summer Intern - Software Engineering](https://jobright.ai/jobs/info/6747e8f02fb6e5a59dd6758c?utm_campaign=1079&utm_source=git)** | Irving, TX | Hybrid | Dec 03 |
-| **[Staples](http://www.staples.com)** | **[Software Engineer Intern, CICD/Dev Ops (Hybrid) - June 2025](https://jobright.ai/jobs/info/674f9f72cc5049c2b1e418d8?utm_campaign=1079&utm_source=git)** | 500 Staples Drive, Framingham, MA, 01702, US | Hybrid | Dec 03 |
+| **[Staples](http://www.staples.com)** | **[Software Engineer Intern, Java Backend (Hybrid) - June 2025](https://jobright.ai/jobs/info/674f9f72cc5049c2b1e418f5?utm_campaign=1079&utm_source=git)** | 500 Staples Drive, Framingham, MA, 01702, US | Hybrid | Dec 03 |
 | ↳ | **[Software Engineer Intern, UI Frontend (Hybrid) - June 2025](https://jobright.ai/jobs/info/674f9f72cc5049c2b1e418f7?utm_campaign=1079&utm_source=git)** | 500 Staples Drive, Framingham, MA, 01702, US | Hybrid | Dec 03 |
-| ↳ | **[Software Engineer Intern, Java Backend (Hybrid) - June 2025](https://jobright.ai/jobs/info/674f9f72cc5049c2b1e418f5?utm_campaign=1079&utm_source=git)** | 500 Staples Drive, Framingham, MA, 01702, US | Hybrid | Dec 03 |
+| ↳ | **[Software Engineer Intern, CICD/Dev Ops (Hybrid) - June 2025](https://jobright.ai/jobs/info/674f9f72cc5049c2b1e418d8?utm_campaign=1079&utm_source=git)** | 500 Staples Drive, Framingham, MA, 01702, US | Hybrid | Dec 03 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Embedded Software Engineer Low Voltage Power Management, Vehicle Firmware (Summer 2025)](https://jobright.ai/jobs/info/674f9f72cc5049c2b1e41914?utm_campaign=1079&utm_source=git)** | PALO ALTO, California | On Site | Dec 03 |
 | **[Alstom](https://www.alstom.com/)** | **[Internship - ATC Software (Summer 2025)](https://jobright.ai/jobs/info/674fa7c77b5fb01e602038de?utm_campaign=1079&utm_source=git)** | Pittsburgh, PA | On Site | Dec 03 |
 | **[Sabre Corporation](https://www.sabre.com)** | **[Software Engineer - 2025 Summer Intern](https://jobright.ai/jobs/info/674fa33dee1b75a8ffe87ed9?utm_campaign=1079&utm_source=git)** | Southlake, TX | Hybrid | Dec 03 |
 | **[Wikimedia Foundation](http://wikimediafoundation.org)** | **[Software Engineering Internship Program (2025)](https://jobright.ai/jobs/info/674a9f1166e01e83c4ef698a?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 03 |
 | **[Leidos](https://www.leidos.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/674f9b0a8304752d73058706?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 03 |
-| ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/674f9b0a8304752d73058776?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 03 |
-| **[Republic Finance](http://republicfinance.com/)** | **[.NET Developer Intern](https://jobright.ai/jobs/info/674f85b403c6582deded8823?utm_campaign=1079&utm_source=git)** | Plano, TX | Hybrid | Dec 03 |
-| **[OneStream Software](http://www.onestreamsoftware.com)** | **[Marketing (Web Developer) Intern](https://jobright.ai/jobs/info/674f7f41bbcfeece86b89fb9?utm_campaign=1079&utm_source=git)** | Alpharetta, GA | On Site | Dec 03 |
-| **[Spectrum Real-Time Visual Solutions](http://www.specorp.com)** | **[Spectrum, 2025 Summer Intern:Â Video Operations Tools and Automation - Application via WayUp](https://jobright.ai/jobs/info/674f9565ebd38d967aca4179?utm_campaign=1079&utm_source=git)** | Englewood, CO | Hybrid | Dec 03 |
-| **[Blue Yonder](https://blueyonder.com)** | **[Full Stack Developer Intern](https://jobright.ai/jobs/info/674f6bbc246a8a24302dd457?utm_campaign=1079&utm_source=git)** | Dallas | On Site | Dec 03 |
-| **[Braze](https://www.braze.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/674f6d4a5af91b647fbffdb6?utm_campaign=1079&utm_source=git)** | New York City | On Site | Dec 03 |
-| **[Spectrum Real-Time Visual Solutions](http://www.specorp.com)** | **[Spectrum, 2025 Summer Intern: Associate Quality Assurance Intern - Application via WayUp](https://jobright.ai/jobs/info/674f780ed788687e37d33fc8?utm_campaign=1079&utm_source=git)** | Charlotte, NC | Hybrid | Dec 03 |
-| ↳ | **[Spectrum, 2025 Summer Intern: Platforms Engineer - Application via WayUp](https://jobright.ai/jobs/info/674f780ed788687e37d33fc7?utm_campaign=1079&utm_source=git)** | Englewood, CO | Hybrid | Dec 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
