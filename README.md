@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SAP](https://www.sap.com)** | **[SAP Concur iXp Intern - Software Developer](https://jobright.ai/jobs/info/675e387b9e1a3b9bf3462669?utm_campaign=1079&utm_source=git)** | Bellevue, WA | Hybrid | Dec 14 |
 | **[Quill](http://www.quill.com)** | **[Salesforce Developer Intern (Quill - Hybrid) - June 2025](https://jobright.ai/jobs/info/675de7f464cb939c56c3ee2a?utm_campaign=1079&utm_source=git)** | Lincolnshire, IL | Hybrid | Dec 14 |
 | ↳ | **[Software Engineering Intern (Quill - Hybrid) - June 2025](https://jobright.ai/jobs/info/675de7f464cb939c56c3ee0b?utm_campaign=1079&utm_source=git)** | Lincolnshire, IL | Hybrid | Dec 14 |
 | **[Merlin](https://www.merlinlabs.com)** | **[Software Engineer Internship - SUMMER 2025](https://jobright.ai/jobs/info/675dcf213dd412996db865eb?utm_campaign=1079&utm_source=git)** | Boston | On Site | Dec 14 |
@@ -85,6 +86,7 @@ For a complete list, click the following sortable link below:
 | **[Tanium](http://www.tanium.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/66e2e4fd7f2ec10d812bed59?utm_campaign=1079&utm_source=git)** | Durham, NC | Hybrid | Dec 14 |
 | **[HashiCorp](https://www.hashicorp.com)** | **[Staff Software Engineer - Internal Platform Infrastructure, Compliance](https://jobright.ai/jobs/info/67252442200ea26667bb9340?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 14 |
 | **[NVIDIA](https://www.nvidia.com)** | **[NVIDIA 2025 Internships: Software Engineering](https://jobright.ai/jobs/info/66cfdc85507fb35989946759?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Dec 14 |
+| **[Jabra](http://www.jabra.com)** | **[Software Intern (Onsite)](https://jobright.ai/jobs/info/6722507889922c935c0a46c5?utm_campaign=1079&utm_source=git)** | Cupertino, CA | On Site | Dec 14 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2025 Technology Summer Internship Program - Group Benefits Solution Technology - Engineer](https://jobright.ai/jobs/info/674156489c285aad50bb6f4a?utm_campaign=1079&utm_source=git)** | Philadelphia, PA | On Site | Dec 14 |
 | **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[Computational Sciences Undergraduate Internship](https://jobright.ai/jobs/info/675d6fe6d8065d3d5777f21d?utm_campaign=1079&utm_source=git)** | Los Alamos, NM | On Site | Dec 14 |
 | **[Zipline](http://flyzipline.com)** | **[Software Validation Intern (Summer 2025)](https://jobright.ai/jobs/info/675d25c3ba5c40c35c0c92a1?utm_campaign=1079&utm_source=git)** | South San Francisco, California, USA | On Site | Dec 13 |
@@ -124,9 +126,8 @@ For a complete list, click the following sortable link below:
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Co-op IT AI Mktg. Content](https://jobright.ai/jobs/info/675cab9694312aa17ddd52a3?utm_campaign=1079&utm_source=git)** | Ridgefield, CT | Hybrid | Dec 13 |
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Application Developer Summer Intern](https://jobright.ai/jobs/info/675cb6f4c64893f98e2330c6?utm_campaign=1079&utm_source=git)** | Triangle Area | On Site | Dec 13 |
 | **[Digital Factory, Inc.](https://dgtl-factory.com/)** | **[IOS DEVELOPER - INTERNSHIP](https://jobright.ai/jobs/info/675cb2c57488ee13046c3a8b?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Dec 13 |
-| **[VIAVI Solutions](http://www.viavisolutions.com/en-us)** | **[SW Intern - Cable](https://jobright.ai/jobs/info/675cb6f4c64893f98e233168?utm_campaign=1079&utm_source=git)** | Indianapolis, IN | On Site | Dec 13 |
+| **[VIAVI Solutions](http://www.viavisolutions.com/en-us)** | **[SW Intern - Cable](https://jobright.ai/jobs/info/675cb6f4c64893f98e23317c?utm_campaign=1079&utm_source=git)** | Indianapolis, IN | On Site | Dec 13 |
 | **[Staples](http://www.staples.com)** | **[Salesforce Developer Intern (Quill - Hybrid) - June 2025](https://jobright.ai/jobs/info/675c966b4b321f042dc33888?utm_campaign=1079&utm_source=git)** | 300 Tri State International Drive, Lincolnshire, IL, 60069, US | Hybrid | Dec 13 |
-| **[Trellis AI](https://usetrellis.co/)** | **[Backend intern (experience with Infrastructure is a big plus)](https://jobright.ai/jobs/info/675e1e7cb20b11a4aa7d8069?utm_campaign=1079&utm_source=git)** | San Francisco, CA, US | On Site | Dec 13 |
 | **[Affinius Capital](https://affiniuscapital.com)** | **[Application Developer Intern](https://jobright.ai/jobs/info/675cbd494949883b7be758bc?utm_campaign=1079&utm_source=git)** | San Antonio, TX | On Site | Dec 13 |
 | **[Oracle](https://www.oracle.com/)** | **[Software Engineer - OCI (Seattle, WA)](https://jobright.ai/jobs/info/675c9e3e113ced0ba22369b2?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Dec 13 |
 | **[CommScope](http://www.commscope.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/675d2c751dd80456c220eaa5?utm_campaign=1079&utm_source=git)** | Lowell, MA | On Site | Dec 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Jr. Software Development Engineer- San Luis Obispo](https://jobright.ai/jobs/info/67423c72b23418b7466b49de?utm_campaign=1079&utm_source=git)** | San Luis Obispo, CA | On Site | Dec 13 |
 | **[AeroVironment](http://www.avinc.com)** | **[2025 Summer Internship – Software Engineering](https://jobright.ai/jobs/info/66ccb527e410b2d6da10a5d9?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Dec 13 |
 | **[Oracle](https://www.oracle.com/)** | **[Software Engineer - Fusion Applications Development](https://jobright.ai/jobs/info/6709e6d20a1a28523bf26a12?utm_campaign=1079&utm_source=git)** | Pleasanton, CA | On Site | Dec 13 |
-| **[Pegasystems](http://www.pega.com)** | **[Platform Engineering Summer Intern](https://jobright.ai/jobs/info/675c1e4940783c2d774ded8d?utm_campaign=1079&utm_source=git)** | Waltham, MA | On Site | Dec 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
