@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Merck](http://www.merck.com)** | **[2025 University Recruiting - Software Engineering Intern](https://jobright.ai/jobs/info/6768d72ac40dd21301146b85?utm_campaign=1079&utm_source=git)** | Rahway, NJ | Hybrid | Dec 22 |
+| ↳ | **[2025 University Recruiting - Frontend Engineer Intern](https://jobright.ai/jobs/info/6768d72ac40dd21301146b8a?utm_campaign=1079&utm_source=git)** | Rahway, NJ | Hybrid | Dec 22 |
 | **[Twilio](https://www.twilio.com/)** | **[Software Engineer Intern - United States](https://jobright.ai/jobs/info/674af3af2e771cc432c94714?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 22 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Software Development Intern (Summer 2025, EBS)](https://jobright.ai/jobs/info/67682ca99ecf10b28c8e2fd7?utm_campaign=1079&utm_source=git)** | Huntsville, AL | Hybrid | Dec 22 |
 | **[Cambridge Mobile Telematics](http://cmtelematics.com)** | **[Software Engineering Intern, Customer Solutions](https://jobright.ai/jobs/info/6767c8ae8e731c44083ba133?utm_campaign=1079&utm_source=git)** | Massachusetts, United States | Hybrid | Dec 21 |
@@ -84,10 +86,10 @@ For a complete list, click the following sortable link below:
 | **[Trimble Inc.](http://www.trimble.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/67663b145eba1d3813256ab1?utm_campaign=1079&utm_source=git)** | Lake Oswego, OR | On Site | Dec 20 |
 | **[Flexcar](https://www.flexcar.com)** | **[Software Engineer Co-Op (January 2025)](https://jobright.ai/jobs/info/67664b239bd5b7c329df4cc3?utm_campaign=1079&utm_source=git)** | Boston, MA | Hybrid | Dec 20 |
 | **[Elekta](http://elekta.com/)** | **[Software Development Intern- San Jose, CA](https://jobright.ai/jobs/info/676645cfa00a8cff597842f6?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Dec 20 |
-| **[Galvion](https://www.galvion.com/)** | **[Game Development Engineering Intern (Unreal Engine)](https://jobright.ai/jobs/info/676626e0934ff4923f6c7fce?utm_campaign=1079&utm_source=git)** | Portsmouth, NH | On Site | Dec 20 |
-| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/676626e0934ff4923f6c7fcc?utm_campaign=1079&utm_source=git)** | Portsmouth, NH | On Site | Dec 20 |
+| **[Galvion](https://www.galvion.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/676626e0934ff4923f6c7fcc?utm_campaign=1079&utm_source=git)** | Portsmouth, NH | On Site | Dec 20 |
 | **[Storage Solutions](https://storage-solutions.com/)** | **[Solutions Engineering Intern](https://jobright.ai/jobs/info/676625f3744bdb051c177010?utm_campaign=1079&utm_source=git)** | Kansas City, MO | On Site | Dec 20 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[IT Summer Internship - Test Engineer](https://jobright.ai/jobs/info/67662e6e04bc93097309717f?utm_campaign=1079&utm_source=git)** | St Louis, MO | On Site | Dec 20 |
+| **[Galvion](https://www.galvion.com/)** | **[Game Development Engineering Intern (Unreal Engine)](https://jobright.ai/jobs/info/676635bd121f741917653f6a?utm_campaign=1079&utm_source=git)** | Portsmouth, NH | On Site | Dec 20 |
 | **[John Deere](https://www.deere.com)** | **[IT - Software Engineering Summer Intern 2025b](https://jobright.ai/jobs/info/67661be5b403bbd6bbd9f5f4?utm_campaign=1079&utm_source=git)** | Moline, IL | Hybrid | Dec 20 |
 | **[Element Biosciences](https://www.elementbiosciences.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/67661f1901710e5055ffc9ec?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Dec 20 |
 | **[The Johns Hopkins University Applied Physics Laboratory](http://jhuapl.edu/)** | **[2025 Internship - Software Development](https://jobright.ai/jobs/info/67661bb942f1ce61acb5e550?utm_campaign=1079&utm_source=git)** | Laurel, MD | On Site | Dec 20 |
@@ -100,8 +102,8 @@ For a complete list, click the following sortable link below:
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[Software Engineer Intern - Summer 2025 (Remote)](https://jobright.ai/jobs/info/6765e51bd12bbf6cfb0f3433?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | Remote | Dec 20 |
 | **[Illumio](http://www.illumio.com)** | **[Application Developer Intern](https://jobright.ai/jobs/info/6765e86e79b4dcede75bb1b4?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | Hybrid | Dec 20 |
 | **[AMD](http://www.amd.com)** | **[Firmware Engineering Intern/ Co-Op (Undergraduate / Summer 2025 / Hybrid)](https://jobright.ai/jobs/info/6765eb25d6750cba84e39372?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Dec 20 |
-| ↳ | **[Software Engineering Intern/Co-Op (Masters / Summer 2025 / Hybrid)](https://jobright.ai/jobs/info/6765eb25d6750cba84e3931f?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Dec 20 |
 | ↳ | **[Firmware Engineering Intern/ Co-Op (Graduate / Summer 2025 / Hybrid)](https://jobright.ai/jobs/info/6765eb25d6750cba84e39329?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Dec 20 |
+| ↳ | **[Software Engineering Intern/Co-Op (Masters / Summer 2025 / Hybrid)](https://jobright.ai/jobs/info/6765eb25d6750cba84e3931f?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Dec 20 |
 | ↳ | **[Software Engineering Intern/Co-Op (Undergrad / Summer 2025 / Hybrid)](https://jobright.ai/jobs/info/6765ffd84d2faf67130792ca?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | Hybrid | Dec 20 |
 | **[Dyno Therapeutics](https://www.dynotx.com)** | **[2025 Summer Software Engineering Internship](https://jobright.ai/jobs/info/6765d5b1681fd7ee4fc18b8a?utm_campaign=1079&utm_source=git)** | Watertown, Massachusetts, United States | On Site | Dec 20 |
 | **[Element Biosciences](https://www.elementbiosciences.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/6765d5b1681fd7ee4fc18c28?utm_campaign=1079&utm_source=git)** | San Diego - Headquarters | On Site | Dec 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[QuEra Computing Inc.](https://www.quera.com/)** | **[Intern – Software Development – Quantum Computer Calibration Management System](https://jobright.ai/jobs/info/6764d9519fb77033c6858c63?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Dec 19 |
 | **[Sanmina](https://www.sanmina.com)** | **[Test Development CoOp (Summer 2025)](https://jobright.ai/jobs/info/6764b7cbc93bfcf7d7909e16?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Dec 19 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Software Engineer, Video Analytics - Spring 2025 Co-Op](https://jobright.ai/jobs/info/6764d36ce04f943f1a1435e5?utm_campaign=1079&utm_source=git)** | Somerville, MA | Hybrid | Dec 19 |
-| **[Labcorp](https://www.labcorp.com)** | **[Software Quality Assurance Engineer Intern](https://jobright.ai/jobs/info/6764b271a8f3715d64a71595?utm_campaign=1079&utm_source=git)** | Burlington, NC | On Site | Dec 19 |
-| ↳ | **[Software Quality Assurance Engineer Intern](https://jobright.ai/jobs/info/6764b271a8f3715d64a715d7?utm_campaign=1079&utm_source=git)** | Durham, NC | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
