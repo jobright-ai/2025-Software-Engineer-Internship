@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oracle](https://www.oracle.com/)** | **[OCI Software Engineer Intern - OVIP](https://jobright.ai/jobs/info/676bb23df3de33ac4278edf8?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 25 |
 | **[Evolv Technology](http://www.evolvtechnology.com)** | **[IT Engineering Intern (Summer '25)](https://jobright.ai/jobs/info/674f4bc7b209053f5ae10092?utm_campaign=1079&utm_source=git)** | Waltham, MA | On Site | Dec 25 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Software Engineer](https://jobright.ai/jobs/info/674f2c2b584fb1ffff255059?utm_campaign=1079&utm_source=git)** | Maryland Heights, MO | Hybrid | Dec 25 |
 | **[IBM](http://www.ibm.com)** | **[Software Developer Co-op: 2025](https://jobright.ai/jobs/info/676b932c11fbfecdc0cbffe0?utm_campaign=1079&utm_source=git)** | Lowell, MA | On Site | Dec 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Flexcar](https://www.flexcar.com)** | **[Software Engineer Co-Op (January 2025)](https://jobright.ai/jobs/info/67664b239bd5b7c329df4cc3?utm_campaign=1079&utm_source=git)** | Boston, MA | Hybrid | Dec 20 |
 | **[Elekta](http://elekta.com/)** | **[Software Development Intern- San Jose, CA](https://jobright.ai/jobs/info/676645cfa00a8cff597842f6?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Dec 20 |
 | **[Oracle](https://www.oracle.com/)** | **[OCI Software Development Intern - OVIP](https://jobright.ai/jobs/info/676b6eba7f6c3f8e3fb19489?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 20 |
-| **[Storage Solutions](https://storage-solutions.com/)** | **[Solutions Engineering Intern](https://jobright.ai/jobs/info/676625f3744bdb051c177010?utm_campaign=1079&utm_source=git)** | Kansas City, MO | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
