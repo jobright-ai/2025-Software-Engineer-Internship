@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Evolv Technology](http://www.evolvtechnology.com)** | **[IT Engineering Intern (Summer '25)](https://jobright.ai/jobs/info/674f4bc7b209053f5ae10092?utm_campaign=1079&utm_source=git)** | Waltham, MA | On Site | Dec 25 |
+| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Software Engineer](https://jobright.ai/jobs/info/674f2c2b584fb1ffff255059?utm_campaign=1079&utm_source=git)** | Maryland Heights, MO | Hybrid | Dec 25 |
 | **[IBM](http://www.ibm.com)** | **[Software Developer Co-op: 2025](https://jobright.ai/jobs/info/676b932c11fbfecdc0cbffe0?utm_campaign=1079&utm_source=git)** | Lowell, MA | On Site | Dec 24 |
 | **[Howard Hughes Medical Institute (HHMI)](http://www.hhmi.org/)** | **[Intern, Web Development (Hybrid Schedule)](https://jobright.ai/jobs/info/676b8e23e4b4588fbc3f8486?utm_campaign=1079&utm_source=git)** | Chevy Chase, MD | Hybrid | Dec 24 |
 | **[Corsair](http://www.corsair.com)** | **[Junior Front End Developer Intern](https://jobright.ai/jobs/info/676b7c6f9c2ccf6fad9c4654?utm_campaign=1079&utm_source=git)** | Milpitas, CA | On Site | Dec 24 |
@@ -77,6 +79,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Information Technology Intern- Application Development: Policyholder Services Strategic](https://jobright.ai/jobs/info/676ada4584d07400730f4284?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Dec 24 |
 | **[Walgreens](https://www.walgreens.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/676ad1ccc216e7a5dd51e0d7?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Dec 24 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Software Engineering Co-op](https://jobright.ai/jobs/info/67515876585147807840c5c5?utm_campaign=1079&utm_source=git)** | Hillsboro, OR | On Site | Dec 24 |
+| **[Zipline](http://flyzipline.com)** | **[Droid Autonomy Intern - Perception SWE (Summer 2025)](https://jobright.ai/jobs/info/675cc91f9f53567e1a1c891b?utm_campaign=1079&utm_source=git)** | South San Francisco, CA | On Site | Dec 24 |
 | **[Activision Blizzard](https://activisionblizzard.com)** | **[2025 US Summer Internship - Software Engineering](https://jobright.ai/jobs/info/67516742d34f4a556a7067d8?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Dec 24 |
 | **[Rivian](http://www.rivian.com)** | **[Software Engineering Intern - Data Operations, Machine Learning](https://jobright.ai/jobs/info/676a9a23fb2ec6ba239a1550?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Dec 24 |
 | **[DriveTime](https://www.drivetime.com)** | **[Full Stack Software Engineering Intern (Summer 2025)](https://jobright.ai/jobs/info/67489d21647b7268bd27de8b?utm_campaign=1079&utm_source=git)** | Tempe, AZ | On Site | Dec 24 |
@@ -153,8 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Flexcar](https://www.flexcar.com)** | **[Software Engineer Co-Op (January 2025)](https://jobright.ai/jobs/info/67664b239bd5b7c329df4cc3?utm_campaign=1079&utm_source=git)** | Boston, MA | Hybrid | Dec 20 |
 | **[Elekta](http://elekta.com/)** | **[Software Development Intern- San Jose, CA](https://jobright.ai/jobs/info/676645cfa00a8cff597842f6?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Dec 20 |
 | **[Oracle](https://www.oracle.com/)** | **[OCI Software Development Intern - OVIP](https://jobright.ai/jobs/info/676b6eba7f6c3f8e3fb19489?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 20 |
-| **[Galvion](https://www.galvion.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/676626e0934ff4923f6c7fcc?utm_campaign=1079&utm_source=git)** | Portsmouth, NH | On Site | Dec 20 |
 | **[Storage Solutions](https://storage-solutions.com/)** | **[Solutions Engineering Intern](https://jobright.ai/jobs/info/676625f3744bdb051c177010?utm_campaign=1079&utm_source=git)** | Kansas City, MO | On Site | Dec 20 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[IT Summer Internship - Test Engineer](https://jobright.ai/jobs/info/67662e6e04bc93097309717f?utm_campaign=1079&utm_source=git)** | St Louis, MO | On Site | Dec 20 |
-| **[Arcesium](http://www.arcesium.com)** | **[Forward Deployed Solutions Engineer Intern](https://jobright.ai/jobs/info/67453692d9ea0e600cfcfba4?utm_campaign=1079&utm_source=git)** | New York, United States | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
