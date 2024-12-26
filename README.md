@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cisco](http://www.cisco.com)** | **[Full Stack Intern Meraki Summer 2025 FY25](https://jobright.ai/jobs/info/676ccc8fbcc07e50419a1273?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 25 |
+| **[NetApp](http://netapp.com)** | **[Intern - Software Engineer](https://jobright.ai/jobs/info/676cbd34e09a40ba7cc82de5?utm_campaign=1079&utm_source=git)** | Cranberry Township, PA | On Site | Dec 25 |
 | **[American Battery Solutions Inc.](https://www.americanbatterysolutions.com/)** | **[Software Engineering Co-op](https://jobright.ai/jobs/info/676c660891c9144e512812b3?utm_campaign=1079&utm_source=git)** | Lake Orion, MI | On Site | Dec 25 |
 | **[Oracle](https://www.oracle.com/)** | **[OCI Software Engineer Intern - OVIP](https://jobright.ai/jobs/info/676bb23df3de33ac4278edf8?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 25 |
 | **[Evolv Technology](http://www.evolvtechnology.com)** | **[IT Engineering Intern (Summer '25)](https://jobright.ai/jobs/info/674f4bc7b209053f5ae10092?utm_campaign=1079&utm_source=git)** | Waltham, MA | On Site | Dec 25 |
@@ -86,6 +88,7 @@ For a complete list, click the following sortable link below:
 | **[Rivian](http://www.rivian.com)** | **[Software Engineering Intern - Data Operations, Machine Learning](https://jobright.ai/jobs/info/676a9a23fb2ec6ba239a1550?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Dec 24 |
 | **[DriveTime](https://www.drivetime.com)** | **[Full Stack Software Engineering Intern (Summer 2025)](https://jobright.ai/jobs/info/67489d21647b7268bd27de8b?utm_campaign=1079&utm_source=git)** | Tempe, AZ | On Site | Dec 24 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2025 Intern - UXE](https://jobright.ai/jobs/info/676a46fea9394f5a9cc1d7b1?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Dec 23 |
+| **[CIBC US](https://us.cibc.com/en/home.html)** | **[US Risk Technology – 2025 Fall Intern](https://jobright.ai/jobs/info/676cc8867023689ff7385876?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Dec 23 |
 | **[CommScope](http://www.commscope.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/676a2a988bb0abbf48b487c9?utm_campaign=1079&utm_source=git)** | Santa Ana, CA | On Site | Dec 23 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Software Developer Intern](https://jobright.ai/jobs/info/676a18ccd28e90b53236ecd8?utm_campaign=1079&utm_source=git)** | Green Bay, WI | Hybrid | Dec 23 |
 | **[Sigma Computing](http://sigmacomputing.com)** | **[Software Engineering Intern (Summer 2025)](https://jobright.ai/jobs/info/674a86f95b71d72cec5e8f6b?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Dec 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Peraton](https://www.peraton.com/)** | **[Summer 2025 Software Engineer Intern- Internal Research & Development](https://jobright.ai/jobs/info/67667847d76a3a67b59a3ba2?utm_campaign=1079&utm_source=git)** | Herndon, VA | Hybrid | Dec 20 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Computer Engineering Internship (Summer 2025)](https://jobright.ai/jobs/info/6766589522fa4a9ad09e7761?utm_campaign=1079&utm_source=git)** | Delaware, OH | On Site | Dec 20 |
 | **[Corning Incorporated](https://www.corning.com/)** | **[Research and Development Intern, Computing Technologies - Summer 2025](https://jobright.ai/jobs/info/67664547e968dd9dd4e3f78a?utm_campaign=1079&utm_source=git)** | Corning, NY | On Site | Dec 20 |
-| **[Trimble Inc.](http://www.trimble.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/67663b145eba1d3813256ab1?utm_campaign=1079&utm_source=git)** | Lake Oswego, OR | On Site | Dec 20 |
-| **[Flexcar](https://www.flexcar.com)** | **[Software Engineer Co-Op (January 2025)](https://jobright.ai/jobs/info/67664b239bd5b7c329df4cc3?utm_campaign=1079&utm_source=git)** | Boston, MA | Hybrid | Dec 20 |
-| **[Elekta](http://elekta.com/)** | **[Software Development Intern- San Jose, CA](https://jobright.ai/jobs/info/676645cfa00a8cff597842f6?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
