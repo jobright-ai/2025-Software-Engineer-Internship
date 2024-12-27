@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cisco](http://www.cisco.com)** | **[Full Stack Intern Meraki Summer 2025 FY25](https://jobright.ai/jobs/info/676e72077c51260e84d628de?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 27 |
 | **[Illumio](http://www.illumio.com)** | **[Application Developer Intern (Summer 2025)](https://jobright.ai/jobs/info/6765b4c688d4ba9b017483d1?utm_campaign=1079&utm_source=git)** | Sunnyvale, California | Hybrid | Dec 26 |
 | **[Christopher B. Burke Engineering, Ltd.](http://cbbel.com)** | **[Engineering Intern - Summer 2025](https://jobright.ai/jobs/info/676dc6d315e0ae8bbe49e26b?utm_campaign=1079&utm_source=git)** | Rosemont, IL | On Site | Dec 26 |
 | **[RapidSOS](https://rapidsos.com)** | **[Implementation Engineering Intern - Summer 2025](https://jobright.ai/jobs/info/676dd29c08ad2d6c31cbe467?utm_campaign=1079&utm_source=git)** | New York, NY | Remote | Dec 26 |
@@ -71,16 +72,16 @@ For a complete list, click the following sortable link below:
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Software Development Intern - Summer 2025](https://jobright.ai/jobs/info/6745b27af89b596dc47dc57b?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Dec 26 |
 | **[Ørsted](https://orsted.com)** | **[Asset Management Intern](https://jobright.ai/jobs/info/676d58ecffea27c798c880bd?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Dec 26 |
 | ↳ | **[Asset Management Intern](https://jobright.ai/jobs/info/676d62ccf2d56b1cb3c447c9?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Dec 26 |
-| ↳ | **[Asset Management Intern](https://jobright.ai/jobs/info/676d62ccf2d56b1cb3c447cf?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Dec 26 |
 | ↳ | **[Asset Management Intern](https://jobright.ai/jobs/info/676d62ccf2d56b1cb3c447d1?utm_campaign=1079&utm_source=git)** | Annapolis, MD | On Site | Dec 26 |
+| ↳ | **[Asset Management Intern](https://jobright.ai/jobs/info/676d62ccf2d56b1cb3c447cf?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Dec 26 |
 | **[Zoox](https://www.zoox.com/)** | **[Mobile Development Intern](https://jobright.ai/jobs/info/6717270be44ca413daaa350d?utm_campaign=1079&utm_source=git)** | Foster City, CA | On Site | Dec 26 |
 | **[ICE](https://www.ice.com)** | **[Summer Internship Program 2025 - Software Development Engineer in Test (SDET) Intern](https://jobright.ai/jobs/info/6733a62cd07bf1b90574d381?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Dec 26 |
 | **[MKS Instruments](http://www.mksinst.com)** | **[2025 Summer - Software Engineering Intern / Co-Op (R11633)](https://jobright.ai/jobs/info/674dfde8914932ffe1ac5126?utm_campaign=1079&utm_source=git)** | Logan, UT | On Site | Dec 26 |
 | **[Zscaler](https://www.zscaler.com)** | **[Software Engineering Intern - Back End](https://jobright.ai/jobs/info/67510266007bdf188ac15511?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Dec 26 |
+| **[PTC](http://www.ptc.com)** | **[Onshape SRE Intern](https://jobright.ai/jobs/info/67337dbaf71c1706f7160e62?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Dec 26 |
 | **[Introba](https://www.introba.com)** | **[Intern Technology Designer](https://jobright.ai/jobs/info/67509d20976888504663e469?utm_campaign=1079&utm_source=git)** | St Louis, MO | On Site | Dec 26 |
 | **[Verkada](https://www.verkada.com)** | **[Security Software Engineering Intern, Backend - Summer 2025](https://jobright.ai/jobs/info/674985d380c22745be53d104?utm_campaign=1079&utm_source=git)** | San Mateo, CA | On Site | Dec 26 |
 | **[HP](http://www.hp.com)** | **[Software Internship -Workforce Services and Solutions](https://jobright.ai/jobs/info/6768eb75596f4908bc851806?utm_campaign=1079&utm_source=git)** | Spring, TX | On Site | Dec 26 |
-| **[Ericsson](https://www.ericsson.com)** | **[Baseband Developer Intern](https://jobright.ai/jobs/info/676d2f1c68509c5b6c3a891c?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Dec 26 |
 | **[American Battery Solutions Inc.](https://www.americanbatterysolutions.com/)** | **[Software Engineering Co-op](https://jobright.ai/jobs/info/676c660891c9144e512812b3?utm_campaign=1079&utm_source=git)** | Lake Orion, MI | On Site | Dec 25 |
 | **[PSC Biotech Corporation](http://biotech.com)** | **[Technical Intern - Open Applications](https://jobright.ai/jobs/info/66a2ecbb367ed95d6cc2899c?utm_campaign=1079&utm_source=git)** | York, PA | On Site | Dec 25 |
 | **[Oracle](https://www.oracle.com/)** | **[OCI Software Engineer Intern - OVIP](https://jobright.ai/jobs/info/676bb23df3de33ac4278edf8?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 25 |
@@ -111,6 +112,7 @@ For a complete list, click the following sortable link below:
 | **[Activision Blizzard](https://activisionblizzard.com)** | **[2025 US Summer Internship - Software Engineering](https://jobright.ai/jobs/info/67516742d34f4a556a7067d8?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Dec 24 |
 | **[DriveTime](https://www.drivetime.com)** | **[Full Stack Software Engineering Intern (Summer 2025)](https://jobright.ai/jobs/info/67489d21647b7268bd27de8b?utm_campaign=1079&utm_source=git)** | Tempe, AZ | On Site | Dec 24 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2025 Intern - UXE](https://jobright.ai/jobs/info/676a46fea9394f5a9cc1d7b1?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Dec 23 |
+| **[Ansys](http://www.ansys.com)** | **[Summer/Fall 2025 Testing Co-Op](https://jobright.ai/jobs/info/6739bd6cce3d2b778455d3b9?utm_campaign=1079&utm_source=git)** | Harrisburg, PA | On Site | Dec 23 |
 | **[CommScope](http://www.commscope.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/676a2a988bb0abbf48b487c9?utm_campaign=1079&utm_source=git)** | Santa Ana, CA | On Site | Dec 23 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Software Developer Intern](https://jobright.ai/jobs/info/676a18ccd28e90b53236ecd8?utm_campaign=1079&utm_source=git)** | Green Bay, WI | Hybrid | Dec 23 |
 | **[Sigma Computing](http://sigmacomputing.com)** | **[Software Engineering Intern (Summer 2025)](https://jobright.ai/jobs/info/674a86f95b71d72cec5e8f6b?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Dec 23 |
@@ -128,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Software Engineer Intern - Mobile](https://jobright.ai/jobs/info/6769d2a2648f6b58fd426909?utm_campaign=1079&utm_source=git)** | Chandler, AZ | On Site | Dec 23 |
 | ↳ | **[Software Engineer Intern - Mobile](https://jobright.ai/jobs/info/6769d2a2648f6b58fd426869?utm_campaign=1079&utm_source=git)** | Olathe, KS | On Site | Dec 23 |
 | ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6769cc669b43e47937769c58?utm_campaign=1079&utm_source=git)** | Yarmouth, ME | On Site | Dec 23 |
-| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6769cc669b43e47937769c54?utm_campaign=1079&utm_source=git)** | Tulsa, OK | On Site | Dec 23 |
 | ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6769cc669b43e47937769c5c?utm_campaign=1079&utm_source=git)** | Tucson, AZ | On Site | Dec 23 |
+| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6769cc669b43e47937769c54?utm_campaign=1079&utm_source=git)** | Tulsa, OK | On Site | Dec 23 |
 | **[Simons Foundation](https://www.simonsfoundation.org)** | **[Scientific Visual Exploration Software Intern](https://jobright.ai/jobs/info/6769b0bafcf57426c7f7a310?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Dec 23 |
 | ↳ | **[High-Performance Computing Intern](https://jobright.ai/jobs/info/6769b0bafcf57426c7f7a33d?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Dec 23 |
 | ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6769b8ff4666ff750e8ace69?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Dec 23 |
@@ -154,7 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Software Development Engineer Apprentice, AWS Opportunity for Veterans](https://jobright.ai/jobs/info/6746e72ff6a47d7e0d00df04?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Dec 23 |
 | **[PTC](http://www.ptc.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/672e9e991a343d6833a92810?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Dec 23 |
 | **[Cadence](https://www.cadence.com)** | **[WFO Intern](https://jobright.ai/jobs/info/67692855ccbafb806c505933?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 23 |
-| **[Cadence](https://www.cadence.com)** | **[WFO Intern](https://jobright.ai/jobs/info/6768e5bf41a8f3113f1d48fd?utm_campaign=1079&utm_source=git)** | SAN JOSE | On Site | Dec 22 |
-| **[Merck](http://www.merck.com)** | **[2025 University Recruiting - Software Engineering Intern](https://jobright.ai/jobs/info/6768d72ac40dd21301146b85?utm_campaign=1079&utm_source=git)** | Rahway, NJ | Hybrid | Dec 22 |
-| ↳ | **[2025 University Recruiting - Frontend Engineer Intern](https://jobright.ai/jobs/info/6768d72ac40dd21301146b8a?utm_campaign=1079&utm_source=git)** | Rahway, NJ | Hybrid | Dec 22 |
+| **[Cisco](http://www.cisco.com)** | **[Software Engineer I (Intern) United States](https://jobright.ai/jobs/info/675dc856b603df818f26bbb0?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
