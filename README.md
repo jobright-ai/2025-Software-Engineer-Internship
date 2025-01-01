@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[IBM](http://www.ibm.com)** | **[Software Developer Intern: 2025](https://jobright.ai/jobs/info/677478123bf2dffcc6d5168b?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 31 |
+| **[Salesforce](https://www.salesforce.com)** | **[Summer 2025 Intern - Software Engineering, BT](https://jobright.ai/jobs/info/67749098785ed5518423de20?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Dec 31 |
 | **[Samsung Semiconductor](https://www.samsung.com/us/samsungsemiconductor)** | **[Intern, High Capacity SSD Software Ecosystem](https://jobright.ai/jobs/info/677473738a3e497237ce4ed1?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Dec 31 |
 | **[XPO](https://www.xpo.com)** | **[Tech Program Intern III (Full Stack Engineering)](https://jobright.ai/jobs/info/67746547badf0e1702a6837a?utm_campaign=1079&utm_source=git)** | Ann Arbor, MI | On Site | Dec 31 |
 | **[Illumio](http://www.illumio.com)** | **[Engineering Intern, Core PCE Platform (Summer 2025)](https://jobright.ai/jobs/info/67745db1d7015ba69950c42f?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | Hybrid | Dec 31 |
@@ -72,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Conair LLC](http://www.conair.com/)** | **[2025 IT Web Developer Intern](https://jobright.ai/jobs/info/67742e2107d3d180ef06c765?utm_campaign=1079&utm_source=git)** | Stamford, CT | Hybrid | Dec 31 |
 | **[Zoetis](https://www.zoetis.com)** | **[Technology Architecture Intern](https://jobright.ai/jobs/info/67741bf8b83e37de31c9e999?utm_campaign=1079&utm_source=git)** | Parsippany | On Site | Dec 31 |
 | ↳ | **[Technology Architecture Intern](https://jobright.ai/jobs/info/67741bf8b83e37de31c9e99b?utm_campaign=1079&utm_source=git)** | Parsippany | On Site | Dec 31 |
+| **[Philip Morris International](https://www.pmi.com)** | **[Information Technology Internship Summer 2025](https://jobright.ai/jobs/info/675264f07697f5bfdc0523b6?utm_campaign=1079&utm_source=git)** | Stamford, CT | Hybrid | Dec 31 |
 | **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Intern - IT Engineering (Summer 2025)](https://jobright.ai/jobs/info/67740f011649d5458bfdc848?utm_campaign=1079&utm_source=git)** | West Bend, WI | Hybrid | Dec 31 |
 | **[TikTok](https://www.tiktok.com)** | **[(General Hire) Software Engineer Intern (USDS)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67740cec90211b3558cb4eeb?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Dec 31 |
 | ↳ | **[Mobile Software Engineer Intern (TikTok Privacy and Security) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6773e0abe5c0d4a701049c7a?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 31 |
@@ -91,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Tempus AI](https://www.tempus.com)** | **[Software Engineering (Security) Summer Analyst](https://jobright.ai/jobs/info/67733607c483f3bd1649481b?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Dec 30 |
 | **[Kiewit](http://www.kiewit.com)** | **[Quantity Takeoff Intern - Kiewit Infrastructure Engineers (Summer 2025)](https://jobright.ai/jobs/info/67732e16ee2d4dc0d79a6828?utm_campaign=1079&utm_source=git)** | Lone Tree, CO | On Site | Dec 30 |
 | **[Interstates](http://interstates.com)** | **[Apps Programmer Intern (Summer 2025)](https://jobright.ai/jobs/info/677327289db38b96a8da12fa?utm_campaign=1079&utm_source=git)** | Sioux Falls, SD | On Site | Dec 30 |
-| **[QinetiQ US](http://www.qinetiq-na.com)** | **[Computer Programmer Intern](https://jobright.ai/jobs/info/67731c30e647b348c3f1d45e?utm_campaign=1079&utm_source=git)** | McLean, VA | On Site | Dec 30 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - Solutions Engineer](https://jobright.ai/jobs/info/6744cdd205ebad00b4a2089f?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 30 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[2025 Summer Internship (US) - Flutter Dev](https://jobright.ai/jobs/info/67731a8f709a841ecff604a3?utm_campaign=1079&utm_source=git)** | Lincolnshire, IL | Hybrid | Dec 30 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - Enterprise Architecture Analyst](https://jobright.ai/jobs/info/6741e34f422bdb5b162ba8f2?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Dec 30 |
@@ -118,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[Lion Energy](https://lionenergy.com/)** | **[Quality Assurance Intern, Software](https://jobright.ai/jobs/info/6772e209d9f5f3dcde825500?utm_campaign=1079&utm_source=git)** | American Fork, UT | On Site | Dec 29 |
 | **[Mitsubishi Motors North America, Inc.](https://www.mitsubishicars.com/)** | **[IT Internship](https://jobright.ai/jobs/info/6771daac2e508d156ac652b8?utm_campaign=1079&utm_source=git)** | Franklin, TN | Hybrid | Dec 29 |
 | **[Plexus Corp.](http://www.plexus.com/)** | **[Intern - Software Engineer - Fall 2025](https://jobright.ai/jobs/info/677210beb49502773053088f?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Dec 29 |
-| **[Philip Morris International](https://www.pmi.com)** | **[Information Technology Internship Summer 2025](https://jobright.ai/jobs/info/675264f07697f5bfdc0523b6?utm_campaign=1079&utm_source=git)** | Stamford, CT | Hybrid | Dec 29 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Software Development Intern - Summer 2025](https://jobright.ai/jobs/info/6740050222e7eebe1ee6bc75?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Dec 29 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Internship: Software Engineering (Summer 2025) - Franksville, WI](https://jobright.ai/jobs/info/66e57685cda6f3994845fe13?utm_campaign=1079&utm_source=git)** | Franksville, WI | On Site | Dec 29 |
 | ↳ | **[Internship: Firmware Engineering - Menomonee Falls, WI](https://jobright.ai/jobs/info/66f69d428b1ef2261c235991?utm_campaign=1079&utm_source=git)** | Menomonee Falls, WI | On Site | Dec 29 |
@@ -138,8 +138,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Development Engineer Intern (Specialized Co-Op), Summer 2025 (US)](https://jobright.ai/jobs/info/676fbeb19a3d7b7728ecde6d?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Dec 28 |
 | **[Ansys](http://www.ansys.com)** | **[Summer/Fall 2025 Testing Co-Op](https://jobright.ai/jobs/info/6739bd6cce3d2b778455d3b9?utm_campaign=1079&utm_source=git)** | Harrisburg, PA | On Site | Dec 27 |
 | **[Amazon](https://amazon.com)** | **[Software Development Engineer Intern (Specialized Co-Op), Summer 2025 (US)](https://jobright.ai/jobs/info/676f463cc8deb60410d61e21?utm_campaign=1079&utm_source=git)** | New York, New York, USA | On Site | Dec 27 |
-| ↳ | **[Software Development Engineer Intern (Specialized Co-Op), Summer 2025 (US)](https://jobright.ai/jobs/info/676f463cc8deb60410d61e23?utm_campaign=1079&utm_source=git)** | Bellevue, Washington, USA | On Site | Dec 27 |
 | ↳ | **[Software Development Engineer Intern (Specialized Co-Op), Summer 2025 (US)](https://jobright.ai/jobs/info/676f463cc8deb60410d61e22?utm_campaign=1079&utm_source=git)** | Seattle, Washington, USA | On Site | Dec 27 |
+| ↳ | **[Software Development Engineer Intern (Specialized Co-Op), Summer 2025 (US)](https://jobright.ai/jobs/info/676f463cc8deb60410d61e23?utm_campaign=1079&utm_source=git)** | Bellevue, Washington, USA | On Site | Dec 27 |
 | ↳ | **[Software Development Engineer Intern (Specialized Co-Op), Summer 2025 (US)](https://jobright.ai/jobs/info/676f463cc8deb60410d61dbc?utm_campaign=1079&utm_source=git)** | Sunnyvale, California, USA | On Site | Dec 27 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Space Force Missile Track Custody Software Developer Intern (Summer 2025)](https://jobright.ai/jobs/info/676f476b80e7e6efaf0a8098?utm_campaign=1079&utm_source=git)** | Boulder, CO | On Site | Dec 27 |
 | **[DP World](https://www.dpworld.com/)** | **[Business & IT ERP Intern](https://jobright.ai/jobs/info/673497be47dff7237607e954?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Dec 27 |
