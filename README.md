@@ -57,14 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kiewit](http://www.kiewit.com)** | **[Design Intern - Kiewit Infrastructure Engineers (Summer 2025)](https://jobright.ai/jobs/info/6775c73897efa35726063d94?utm_campaign=1079&utm_source=git)** | Lone Tree, CO | On Site | Jan 01 |
+| **[Cisco](http://www.cisco.com)** | **[Full Stack Intern Meraki Summer 2025 FY25](https://jobright.ai/jobs/info/6775b32b60db8467a2dde5cc?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 01 |
+| **[NetApp](http://netapp.com)** | **[Intern - Software Engineer](https://jobright.ai/jobs/info/6775b32b60db8467a2dde5cf?utm_campaign=1079&utm_source=git)** | Wichita, KS | On Site | Jan 01 |
+| **[IQT (In-Q-Tel)](https://www.iqt.org)** | **[Technology Architect Fellow - Microelectronics](https://jobright.ai/jobs/info/6775b7b4a3b88bc2dec85912?utm_campaign=1079&utm_source=git)** | McLean, VA | On Site | Jan 01 |
 | **[State Bar of California](http://calbar.ca.gov)** | **[Office of Strategic Communications - Web Developer - Summer 2025 Internship](https://jobright.ai/jobs/info/677587c57bfd48191ce550e0?utm_campaign=1079&utm_source=git)** | 845 S. Figueroa Street, Los Angeles, CA, 90017, US | On Site | Jan 01 |
-| **[Fujitsu](http://www.fujitsu.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/67758518b76ab643a8292781?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 01 |
 | **[SABIC](https://www.sabic-ip.com)** | **[Intern - IT Infrastructure](https://jobright.ai/jobs/info/677570591070f77bf74a5ded?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | Jan 01 |
 | **[Walgreens](https://www.walgreens.com)** | **[IT Infrastructure & Engineering Internship](https://jobright.ai/jobs/info/677550d25bbc3c0fba793abd?utm_campaign=1079&utm_source=git)** | Deerfield, IL | On Site | Jan 01 |
 | **[Pegasystems](http://www.pega.com)** | **[Enterprise Application Summer Intern](https://jobright.ai/jobs/info/675b703a1aa31f9db9241840?utm_campaign=1079&utm_source=git)** | Waltham, MA | On Site | Jan 01 |
 | **[FM](https://www.fmglobal.com)** | **[Software Development Co-Op (Fall 2025 - 6 Months)](https://jobright.ai/jobs/info/67752dd1543e4924e7d2435b?utm_campaign=1079&utm_source=git)** | Johnston, RI | Remote | Jan 01 |
-| ↳ | **[Software Development Co-Op (Fall 2025 - 6 Months)](https://jobright.ai/jobs/info/67752dd1543e4924e7d24375?utm_campaign=1079&utm_source=git)** | Johnston, RI | Remote | Jan 01 |
 | **[Pegasystems](http://www.pega.com)** | **[Platform Engineering Summer Intern](https://jobright.ai/jobs/info/675c1e4940783c2d774ded8d?utm_campaign=1079&utm_source=git)** | Waltham, MA | On Site | Jan 01 |
+| ↳ | **[Software Engineer Summer Intern](https://jobright.ai/jobs/info/67577aabf93b42a2b87be0cb?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Jan 01 |
 | **[ETS](http://www.ets.org)** | **[Software Developer Intern](https://jobright.ai/jobs/info/6758d91f7df9a1809353e875?utm_campaign=1079&utm_source=git)** | Princeton, NJ | On Site | Jan 01 |
 | **[Jacobs](http://www.jacobs.com)** | **[Agile Software Engineer Intern](https://jobright.ai/jobs/info/672bfbd40cb35141e2440d54?utm_campaign=1079&utm_source=git)** | Hudson, NH | On Site | Jan 01 |
 | ↳ | **[Agile Software Engineer Intern](https://jobright.ai/jobs/info/672bf464ae8ad6328c3f4ebb?utm_campaign=1079&utm_source=git)** | Bedford, NH | On Site | Jan 01 |
@@ -139,6 +142,7 @@ For a complete list, click the following sortable link below:
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Software Development Intern - Summer 2025](https://jobright.ai/jobs/info/673660cf05d2facfd55a0a15?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Dec 29 |
 | **[Lion Energy](https://lionenergy.com/)** | **[Quality Assurance Intern, Software](https://jobright.ai/jobs/info/6772e209d9f5f3dcde825500?utm_campaign=1079&utm_source=git)** | American Fork, UT | On Site | Dec 29 |
 | **[Mitsubishi Motors North America, Inc.](https://www.mitsubishicars.com/)** | **[IT Internship](https://jobright.ai/jobs/info/6771daac2e508d156ac652b8?utm_campaign=1079&utm_source=git)** | Franklin, TN | Hybrid | Dec 29 |
+| **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Broadcast Applications Engineering - Intern](https://jobright.ai/jobs/info/6700baee5d0ef7b46b61511d?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Dec 29 |
 | **[Plexus Corp.](http://www.plexus.com/)** | **[Intern - Software Engineer - Fall 2025](https://jobright.ai/jobs/info/677210beb49502773053088f?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Dec 29 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Software Development Intern - Summer 2025](https://jobright.ai/jobs/info/6740050222e7eebe1ee6bc75?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Dec 29 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Internship: Software Engineering (Summer 2025) - Franksville, WI](https://jobright.ai/jobs/info/66e57685cda6f3994845fe13?utm_campaign=1079&utm_source=git)** | Franksville, WI | On Site | Dec 29 |
@@ -147,14 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Radian](https://www.radian.com/)** | **[2025 Software Engineering Summer Intern - Multiple Locations, US only](https://jobright.ai/jobs/info/67518559143f378310a7ece4?utm_campaign=1079&utm_source=git)** | Pennsylvania, United States | Hybrid | Dec 29 |
 | **[Direct Supply](http://www.directsupply.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/675a6dc77de6c012e28c8c7d?utm_campaign=1079&utm_source=git)** | Milwaukee, WI | On Site | Dec 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Security) - Summer 2025 (MS/BS)](https://jobright.ai/jobs/info/67551c7c51b6c65065783cc9?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 29 |
-| **[FM](https://www.fmglobal.com)** | **[Software Development Co-Op (Fall 2025 - 6 Months)](https://jobright.ai/jobs/info/6770e351b9871c211f0c9f15?utm_campaign=1079&utm_source=git)** | Johnston, RI | On Site | Dec 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (CIS Privacy and Security) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6770c6147295b034f1632281?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Dec 28 |
 | **[Midmark Corporation](http://www.midmark.com/)** | **[Firmware Engineering Co-op - Fall 2025](https://jobright.ai/jobs/info/66c86b847ad3f6e67074ec4c?utm_campaign=1079&utm_source=git)** | Versailles, OH | On Site | Dec 28 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Software Engineering Co-op](https://jobright.ai/jobs/info/676ff9984161680172b2e2b6?utm_campaign=1079&utm_source=git)** | Hillsboro, OR | On Site | Dec 28 |
 | **[Oracle](https://www.oracle.com/)** | **[Diagnostic Software Engineer Intern - OCI (Santa Clara, CA)](https://jobright.ai/jobs/info/676fd637560dd082960bd357?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | Hybrid | Dec 28 |
 | **[Keysight Technologies](https://www.keysight.com)** | **[R&D Software Engineering Internship](https://jobright.ai/jobs/info/6763ea79b2d1203ebccd4d75?utm_campaign=1079&utm_source=git)** | Calabasas, CA | Remote | Dec 28 |
 | **[Amazon](https://amazon.com)** | **[Software Development Engineer Intern (Specialized Co-Op), Summer 2025 (US)](https://jobright.ai/jobs/info/676fc79e52420a06f0ba1730?utm_campaign=1079&utm_source=git)** | Bellevue, WA | On Site | Dec 28 |
-| ↳ | **[Software Development Engineer Intern (Specialized Co-Op), Summer 2025 (US)](https://jobright.ai/jobs/info/676fbeb19a3d7b7728ecde51?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Dec 28 |
-| ↳ | **[Software Development Engineer Intern (Specialized Co-Op), Summer 2025 (US)](https://jobright.ai/jobs/info/676fbeb19a3d7b7728ecde6c?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Dec 28 |
-| ↳ | **[Software Development Engineer Intern (Specialized Co-Op), Summer 2025 (US)](https://jobright.ai/jobs/info/676fbeb19a3d7b7728ecde6d?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Dec 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
