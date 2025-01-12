@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cadence](https://www.cadence.com)** | **[SVG Software Intern (Summer 2025)](https://jobright.ai/jobs/info/67831c504c7e000d02450095?utm_campaign=1079&utm_source=git)** | Burlington, MA | On Site | Jan 11 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[IT Programming Intern](https://jobright.ai/jobs/info/6782f24f0f86874c7d31439c?utm_campaign=1079&utm_source=git)** | Turtle Creek, PA | On Site | Jan 11 |
 | **[Opendorse](http://opendorse.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/6782efae5757295c596e9718?utm_campaign=1079&utm_source=git)** | Lincoln, NE | On Site | Jan 11 |
 | **[SAS](http://www.sas.com)** | **[Summer 2025 – Software Engineer Intern](https://jobright.ai/jobs/info/6782dbd021a33b804c774a1f?utm_campaign=1079&utm_source=git)** | Cary, NC | Hybrid | Jan 11 |
@@ -64,7 +65,7 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Entertainment and ESPN Technology Software Engineering Intern, Morrisville, NC Summer 2025](https://jobright.ai/jobs/info/678298848311e3de439a6b11?utm_campaign=1079&utm_source=git)** | Morrisville, NC | On Site | Jan 11 |
 | **[SAS](http://www.sas.com)** | **[Software Test Intern (Year-Round)](https://jobright.ai/jobs/info/678289eb261308780526d0ac?utm_campaign=1079&utm_source=git)** | Cary, NC | Hybrid | Jan 11 |
 | **[IQT (In-Q-Tel)](https://www.iqt.org)** | **[Technology Architect Fellow - Microelectronics](https://jobright.ai/jobs/info/67826985bf4dcb17bb241d24?utm_campaign=1079&utm_source=git)** | McLean, VA | On Site | Jan 11 |
-| **[Meta](https://www.metacareers.com/)** | **[Research Intern, On-Device Contextual AI on Orion and Next Gen AR Glasses (PhD)](https://jobright.ai/jobs/info/673fc52b75d189e25fe450dd?utm_campaign=1079&utm_source=git)** | Redmond, WA | On Site | Jan 11 |
+| **[Knexus](https://knexus.ai)** | **[Skillbridge Internship- Junior Software Engineer](https://jobright.ai/jobs/info/678335323597bcaea2c84d36?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 11 |
 | **[Lam Research](http://www.lamresearch.com)** | **[Enterprise Architecture Intern for Digital Transformation - Summer 2025](https://jobright.ai/jobs/info/67821907842a1045b357af87?utm_campaign=1079&utm_source=git)** | Fremont, CA | Hybrid | Jan 10 |
 | **[Federal Aviation Administration](http://www.faa.gov)** | **[Mathematics and Statistics-Student Trainee (Computer Scientist)](https://jobright.ai/jobs/info/67821e2a5fcb270f9b12206c?utm_campaign=1079&utm_source=git)** | Washington, DC | On Site | Jan 10 |
 | ↳ | **[Student Trainee (Engineer)](https://jobright.ai/jobs/info/67821e2a5fcb270f9b12206e?utm_campaign=1079&utm_source=git)** | Atlantic City, NJ | On Site | Jan 10 |
@@ -86,7 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Alexion Pharmaceuticals, Inc.](https://alexion.com)** | **[R&D IT Intern](https://jobright.ai/jobs/info/6781c7d9e2e4cd92939f721d?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Jan 10 |
 | **[EPRI](http://www.epri.com)** | **[Software Development Student Employee](https://jobright.ai/jobs/info/6781c340a125141197cae5f1?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | Hybrid | Jan 10 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[2025 Software Engineer paid intern (summer and fall hires)](https://jobright.ai/jobs/info/677c75c51496ebbfa6e69ec1?utm_campaign=1079&utm_source=git)** | Riverton, UT | Hybrid | Jan 10 |
-| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Technical Support (Quality Assurance Engineer)](https://jobright.ai/jobs/info/6781c39e5c90907ccf9efe2c?utm_campaign=1079&utm_source=git)** | Lincoln, NE | On Site | Jan 10 |
+| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Technical Support (Quality Assurance Engineer)](https://jobright.ai/jobs/info/6781c7d9e2e4cd92939f738c?utm_campaign=1079&utm_source=git)** | Lincoln, NE | On Site | Jan 10 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Correctness & Reliability Engineer, Dojo (Summer 2025)](https://jobright.ai/jobs/info/6781ba6ec2872ba063f88b91?utm_campaign=1079&utm_source=git)** | PALO ALTO, California | On Site | Jan 10 |
 | **[Blain's Farm & Fleet (Blain Supply, Inc.)](https://www.farmandfleet.com/)** | **[Software Development Internship](https://jobright.ai/jobs/info/6781b72aa00a362879dc75e6?utm_campaign=1079&utm_source=git)** | Janesville, WI | On Site | Jan 10 |
 | **[Affirm](https://www.affirm.com)** | **[Software Engineering Intern - Summer 2025](https://jobright.ai/jobs/info/6781b5b67278fcfd2f0779fe?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Jan 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Viasat](http://www.viasat.com)** | **[Systems and Software Test Intern](https://jobright.ai/jobs/info/6780d29f7ed6dd6115e3b034?utm_campaign=1079&utm_source=git)** | Carlsbad, CA | Hybrid | Jan 09 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[IT Software Development Internship - Summer 2025](https://jobright.ai/jobs/info/6780c3779189721284fbadf6?utm_campaign=1079&utm_source=git)** | Omaha, NE | On Site | Jan 09 |
 | **[Viasat](http://www.viasat.com)** | **[Software Engineer Intern - Government Services and Solutions](https://jobright.ai/jobs/info/6780c3779189721284fbae06?utm_campaign=1079&utm_source=git)** | Germantown, MD | Hybrid | Jan 09 |
-| ↳ | **[Software Engineer Intern - Government Services and Solutions](https://jobright.ai/jobs/info/6780c3779189721284fbae52?utm_campaign=1079&utm_source=git)** | Carlsbad, CA | Hybrid | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
