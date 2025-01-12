@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[IT Programming Intern](https://jobright.ai/jobs/info/6782f24f0f86874c7d31439c?utm_campaign=1079&utm_source=git)** | Turtle Creek, PA | On Site | Jan 11 |
+| **[Opendorse](http://opendorse.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/6782efae5757295c596e9718?utm_campaign=1079&utm_source=git)** | Lincoln, NE | On Site | Jan 11 |
+| **[SAS](http://www.sas.com)** | **[Summer 2025 – Software Engineer Intern](https://jobright.ai/jobs/info/6782dbd021a33b804c774a1f?utm_campaign=1079&utm_source=git)** | Cary, NC | Hybrid | Jan 11 |
 | **[BioSpace](http://www.biospace.com/)** | **[Internship - Information Technology Business Applications](https://jobright.ai/jobs/info/6782b538e212722b3681fef0?utm_campaign=1079&utm_source=git)** | Plainsboro, NJ | On Site | Jan 11 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Entertainment and ESPN Technology Software Engineering Intern, Morrisville, NC Summer 2025](https://jobright.ai/jobs/info/678298848311e3de439a6b11?utm_campaign=1079&utm_source=git)** | Morrisville, NC | On Site | Jan 11 |
-| **[SAS](http://www.sas.com)** | **[Summer 2025 – Software Engineer Intern](https://jobright.ai/jobs/info/678296a5796c9d15c30ad992?utm_campaign=1079&utm_source=git)** | Cary, NC | Hybrid | Jan 11 |
-| ↳ | **[Software Test Intern (Year-Round)](https://jobright.ai/jobs/info/678289eb261308780526d0ac?utm_campaign=1079&utm_source=git)** | Cary, NC | Hybrid | Jan 11 |
+| **[SAS](http://www.sas.com)** | **[Software Test Intern (Year-Round)](https://jobright.ai/jobs/info/678289eb261308780526d0ac?utm_campaign=1079&utm_source=git)** | Cary, NC | Hybrid | Jan 11 |
 | **[IQT (In-Q-Tel)](https://www.iqt.org)** | **[Technology Architect Fellow - Microelectronics](https://jobright.ai/jobs/info/67826985bf4dcb17bb241d24?utm_campaign=1079&utm_source=git)** | McLean, VA | On Site | Jan 11 |
 | **[Meta](https://www.metacareers.com/)** | **[Research Intern, On-Device Contextual AI on Orion and Next Gen AR Glasses (PhD)](https://jobright.ai/jobs/info/673fc52b75d189e25fe450dd?utm_campaign=1079&utm_source=git)** | Redmond, WA | On Site | Jan 11 |
 | **[Lam Research](http://www.lamresearch.com)** | **[Enterprise Architecture Intern for Digital Transformation - Summer 2025](https://jobright.ai/jobs/info/67821907842a1045b357af87?utm_campaign=1079&utm_source=git)** | Fremont, CA | Hybrid | Jan 10 |
@@ -97,6 +99,7 @@ For a complete list, click the following sortable link below:
 | **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Application Engineer](https://jobright.ai/jobs/info/6781b5b67278fcfd2f0779c6?utm_campaign=1079&utm_source=git)** | Worcester, MA | On Site | Jan 10 |
 | **[Nokia](http://www.nokia.com)** | **[Cloud Infra Delivery Intern](https://jobright.ai/jobs/info/6781a4b1e37dc4f395e7bc85?utm_campaign=1079&utm_source=git)** | Coppell, TX | Hybrid | Jan 10 |
 | **[Proofpoint](http://www.proofpoint.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6781a6ee1e1cf31a3b9f456b?utm_campaign=1079&utm_source=git)** | Boulder, CO | On Site | Jan 10 |
+| **[ByteDance](http://bytedance.com)** | **[Frontend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce)- 2025 Start Summer (BS/MS)](https://jobright.ai/jobs/info/673a20b3c4443e59ad745161?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jan 10 |
 | **[MITRE](http://www.mitre.org)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6781a0e8ee4c417beeb07a2f?utm_campaign=1079&utm_source=git)** | Bedford, MA | On Site | Jan 10 |
 | **[Movius](http://www.movius.ai)** | **[SW Engineer - Backend Intern](https://jobright.ai/jobs/info/67819cc6218265a08db17980?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Jan 10 |
 | **[Commvault](https://www.commvault.com)** | **[Mentee, Development](https://jobright.ai/jobs/info/6781b5b67278fcfd2f077a54?utm_campaign=1079&utm_source=git)** | Tinton Falls, NJ | On Site | Jan 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[IT Software Development Internship - Summer 2025](https://jobright.ai/jobs/info/6780c3779189721284fbadf6?utm_campaign=1079&utm_source=git)** | Omaha, NE | On Site | Jan 09 |
 | **[Viasat](http://www.viasat.com)** | **[Software Engineer Intern - Government Services and Solutions](https://jobright.ai/jobs/info/6780c3779189721284fbae06?utm_campaign=1079&utm_source=git)** | Germantown, MD | Hybrid | Jan 09 |
 | ↳ | **[Software Engineer Intern - Government Services and Solutions](https://jobright.ai/jobs/info/6780c3779189721284fbae52?utm_campaign=1079&utm_source=git)** | Carlsbad, CA | Hybrid | Jan 09 |
-| ↳ | **[Systems and Software Test Intern](https://jobright.ai/jobs/info/6780c3779189721284fbae0a?utm_campaign=1079&utm_source=git)** | Germantown, MD | Hybrid | Jan 09 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Haskell Software Developer, Vehicle Firmware (Summer 2025)](https://jobright.ai/jobs/info/6780bad39bf910f435090d36?utm_campaign=1079&utm_source=git)** | PALO ALTO, California | On Site | Jan 09 |
-| ↳ | **[Internship, Integration Platforms Software Developer, Vehicle Firmware (Summer 2025)](https://jobright.ai/jobs/info/6780bad39bf910f435090d3d?utm_campaign=1079&utm_source=git)** | PALO ALTO, California | On Site | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
