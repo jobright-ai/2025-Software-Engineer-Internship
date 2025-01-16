@@ -57,6 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Insulet Corporation](https://www.insulet.com)** | **[Co-op, Design Quality Assurance Engineering: July - December 2025 (Hybrid)](https://jobright.ai/jobs/info/67887a70d0a32ca338ed38ae?utm_campaign=1079&utm_source=git)** | Acton, MA | Hybrid | Jan 15 |
+| ↳ | **[Co-op, Design Quality Assurance Engineering: July - December 2025 (Hybrid)](https://jobright.ai/jobs/info/678878026592ae737644dfed?utm_campaign=1079&utm_source=git)** | US - Massachusetts (Acton - Office) | Hybrid | Jan 15 |
+| **[Copart](http://www.copart.com)** | **[SDET Java Intern](https://jobright.ai/jobs/info/6788774b639a52880f01c9f8?utm_campaign=1079&utm_source=git)** | Dallas, TX | Hybrid | Jan 15 |
+| **[ByteDance](http://bytedance.com)** | **[Video HW Design Intern (Multimedia Lab) - 2025 Summer (MS)](https://jobright.ai/jobs/info/678877f82961e26d16b1a96b?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 15 |
+| **[STMicroelectronics](https://www.st.com)** | **[Application Engineer Intern](https://jobright.ai/jobs/info/67886c45f7e61f59aaf2c2b5?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | Hybrid | Jan 15 |
+| **[Benchmark](http://www.bench.com)** | **[Intern - Software Engineer](https://jobright.ai/jobs/info/678869d76ea2c62d568c3903?utm_campaign=1079&utm_source=git)** | Rochester, MN | On Site | Jan 15 |
+| **[Western Digital](https://www.westerndigital.com)** | **[Software Engineering (Embedded) Intern Summer 2025](https://jobright.ai/jobs/info/67886d4000c5aae97d8dca00?utm_campaign=1079&utm_source=git)** | Rochester, MN | On Site | Jan 15 |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 Software Engineering Internship](https://jobright.ai/jobs/info/6788530d8568ba75ad2aa59e?utm_campaign=1079&utm_source=git)** | Overland Park, KS | On Site | Jan 15 |
+| **[William Blair](http://www.williamblair.com)** | **[Working in Technology (WiT) Application Development - Summer 2025](https://jobright.ai/jobs/info/67885ab635eda3721cc901fa?utm_campaign=1079&utm_source=git)** | Chicago, Illinois, United States | On Site | Jan 15 |
+| **[Western Digital](https://www.westerndigital.com)** | **[Software Engineering (Embedded) Intern Summer 2025](https://jobright.ai/jobs/info/67885233f4feec671e53757e?utm_campaign=1079&utm_source=git)** | Rochester, MN | On Site | Jan 15 |
+| **[Verint](https://www.verint.com)** | **[Intern, Software Engineer](https://jobright.ai/jobs/info/678872a7ce4462a506652b16?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 15 |
+| **[IBM](http://www.ibm.com)** | **[Back End Developer Intern: 2025](https://jobright.ai/jobs/info/67886096b94adef2d6b0972a?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Jan 15 |
+| **[Capital One](http://www.capitalone.com)** | **[Technology Internship Program - Summer 2025](https://jobright.ai/jobs/info/67887241d67fb975ffc036d6?utm_campaign=1079&utm_source=git)** | McLean, VA | Hybrid | Jan 15 |
+| **[ITHAKA](http://www.ithaka.org)** | **[Intern, Software Engineering (Platform Engineering)](https://jobright.ai/jobs/info/67885ab635eda3721cc904aa?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 15 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Technology Intern - 2025 Summer JJT Intern](https://jobright.ai/jobs/info/67883469bed67993bd341ca9?utm_campaign=1079&utm_source=git)** | Raritan, NJ | Hybrid | Jan 15 |
 | **[Reinsurance Group of America, Incorporated](http://www.rgare.com)** | **[Summer Intern - Global Technology](https://jobright.ai/jobs/info/678840b3c8202aa4db7e402d?utm_campaign=1079&utm_source=git)** | Chesterfield, MO | On Site | Jan 15 |
 | **[Leidos](https://www.leidos.com/)** | **[Software Development Intern](https://jobright.ai/jobs/info/67883c9263ffaa87734d9648?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 15 |
@@ -73,9 +87,9 @@ For a complete list, click the following sortable link below:
 | **[Greystone](https://www.greystone.com)** | **[Summer 2025: Full Stack Engineer Internship](https://jobright.ai/jobs/info/678836735e8aa11d9537b1ae?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jan 15 |
 | **[Two Sigma](https://www.twosigma.com/)** | **[First Year Software Engineering Internship - NYC](https://jobright.ai/jobs/info/678824c4a351c092f6381533?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Jan 15 |
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Information Technology Intern - Summer 2025](https://jobright.ai/jobs/info/678824c4a351c092f6381514?utm_campaign=1079&utm_source=git)** | West Des Moines, IA | On Site | Jan 15 |
-| **[Chime](https://www.chime.com)** | **[SWE Intern, KYC (Summer 2025)](https://jobright.ai/jobs/info/67859740de6019b3f62d6181?utm_campaign=1079&utm_source=git)** | Chicago | On Site | Jan 15 |
-| ↳ | **[Software Engineer Intern, SpotMe (Summer 2025)](https://jobright.ai/jobs/info/6785b10f3e219e35d1e6c776?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jan 15 |
-| **[Verint](https://www.verint.com)** | **[Intern, Software Engineer](https://jobright.ai/jobs/info/678816d9b19af4abbda2a2e1?utm_campaign=1079&utm_source=git)** | Remote, United States | Remote | Jan 15 |
+| **[Chime](https://www.chime.com)** | **[Software Engineer Intern, SpotMe (Summer 2025)](https://jobright.ai/jobs/info/6785b10f3e219e35d1e6c776?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jan 15 |
+| ↳ | **[SWE Intern, KYC (Summer 2025)](https://jobright.ai/jobs/info/67859740de6019b3f62d6181?utm_campaign=1079&utm_source=git)** | Chicago | On Site | Jan 15 |
+| **[Verint](https://www.verint.com)** | **[Intern, Software Engineer](https://jobright.ai/jobs/info/678816d9b19af4abbda2a305?utm_campaign=1079&utm_source=git)** | Remote, United States | Remote | Jan 15 |
 | **[Gunnison Consulting Group, Inc.](https://gunnison.biz)** | **[Full-Stack Web Developer Intern](https://jobright.ai/jobs/info/67884bd3360cc0360251336c?utm_campaign=1079&utm_source=git)** | McLean, VA | On Site | Jan 15 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Software Engineer, Autonomy Systems Foundations (Summer 2025)](https://jobright.ai/jobs/info/67882c9732f192eebe7bb95d?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Jan 15 |
 | **[Freudenberg Group](http://www.freudenberg.com)** | **[Intern - BMS Software Integration](https://jobright.ai/jobs/info/67882c9732f192eebe7bb9c5?utm_campaign=1079&utm_source=git)** | Auburn Hills, MI | Hybrid | Jan 15 |
@@ -84,6 +98,7 @@ For a complete list, click the following sortable link below:
 | **[Medpace](http://www.medpace.com)** | **[Software Development Co-Op - Summer 2025](https://jobright.ai/jobs/info/6769d2a2648f6b58fd426866?utm_campaign=1079&utm_source=git)** | Cincinnati, OH | Hybrid | Jan 15 |
 | **[IEX](https://iex.io/)** | **[Software Development Engineer in Test Intern](https://jobright.ai/jobs/info/67884bd3360cc036025133c1?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jan 15 |
 | **[RR Donnelley](http://www.rrd.com)** | **[Procurement IT/Outsourcing Intern](https://jobright.ai/jobs/info/67880089acdf7a8f8e102b0f?utm_campaign=1079&utm_source=git)** | Chicago, IL, USA | On Site | Jan 15 |
+| **[NASK Incorporated](https://nask.world)** | **[SkillBridge Python Software Developer](https://jobright.ai/jobs/info/67880f12f14bd6dbf9b3312c?utm_campaign=1079&utm_source=git)** | Fairfax, VA | On Site | Jan 15 |
 | **[KLA](https://www.kla.com)** | **[Software Intern (CUDA)](https://jobright.ai/jobs/info/678800b075648b6e8088f6cf?utm_campaign=1079&utm_source=git)** | Milpitas, CA | On Site | Jan 15 |
 | **[Demandbase](http://www.demandbase.com)** | **[Software Engineer Co-op (Data Platform)](https://jobright.ai/jobs/info/678807811332bc68b5a46031?utm_campaign=1079&utm_source=git)** | United States - Remote | On Site | Jan 15 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Software Developer Intern](https://jobright.ai/jobs/info/67881e397579f794e1af749b?utm_campaign=1079&utm_source=git)** | Dayton, OH | On Site | Jan 15 |
@@ -99,11 +114,11 @@ For a complete list, click the following sortable link below:
 | **[KLA](https://www.kla.com)** | **[SW Engineer Intern](https://jobright.ai/jobs/info/6787e8199e7680e6d2647ebf?utm_campaign=1079&utm_source=git)** | Ann Arbor, MI | On Site | Jan 15 |
 | **[Amazon](https://amazon.com)** | **[Jr. Software Development Engineer - Santa Cruz, CA](https://jobright.ai/jobs/info/6787f4f92f3e45a64fb31872?utm_campaign=1079&utm_source=git)** | Santa Cruz, CA | On Site | Jan 15 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Technology Intern - 2025 Summer JJT Intern](https://jobright.ai/jobs/info/6787f136f603d805443da682?utm_campaign=1079&utm_source=git)** | Spring House, PA | Hybrid | Jan 15 |
-| ↳ | **[Technology Intern - 2025 Summer JJT Intern](https://jobright.ai/jobs/info/6787f136f603d805443da681?utm_campaign=1079&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 15 |
 | ↳ | **[Technology Intern - 2025 Summer JJT Intern](https://jobright.ai/jobs/info/6787f136f603d805443da684?utm_campaign=1079&utm_source=git)** | Titusville, NJ | Hybrid | Jan 15 |
+| ↳ | **[Technology Intern - 2025 Summer JJT Intern](https://jobright.ai/jobs/info/6787f136f603d805443da681?utm_campaign=1079&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 15 |
+| ↳ | **[Technology Intern - 2025 Summer JJT Intern](https://jobright.ai/jobs/info/6787f136f603d805443da686?utm_campaign=1079&utm_source=git)** | Palm Beach Gardens, FL | Hybrid | Jan 15 |
 | ↳ | **[Technology Intern - 2025 Summer JJT Intern](https://jobright.ai/jobs/info/6787f136f603d805443da688?utm_campaign=1079&utm_source=git)** | Cambridge, MA | Hybrid | Jan 15 |
 | ↳ | **[Technology Intern - 2025 Summer JJT Intern](https://jobright.ai/jobs/info/6787f136f603d805443da687?utm_campaign=1079&utm_source=git)** | Jacksonville, FL | Hybrid | Jan 15 |
-| ↳ | **[Technology Intern - 2025 Summer JJT Intern](https://jobright.ai/jobs/info/6787f136f603d805443da686?utm_campaign=1079&utm_source=git)** | Palm Beach Gardens, FL | Hybrid | Jan 15 |
 | ↳ | **[Technology Intern - 2025 Summer JJT Intern](https://jobright.ai/jobs/info/6787f136f603d805443da68e?utm_campaign=1079&utm_source=git)** | New Brunswick, NJ | On Site | Jan 15 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6787ef10cbaf45edd2100172?utm_campaign=1079&utm_source=git)** | Knoxville, TN | On Site | Jan 15 |
 | **[CohnReznick LLP](http://www.cohnreznick.com/)** | **[2025 Digital Enterprise Applications Summer Internship](https://jobright.ai/jobs/info/6787ebee68c5e8299bf40da5?utm_campaign=1079&utm_source=git)** | Buffalo-Niagara Area | Hybrid | Jan 15 |
@@ -131,30 +146,15 @@ For a complete list, click the following sortable link below:
 | **[Western Digital](https://www.westerndigital.com)** | **[Software Engineering Co-op (June-December 2025)](https://jobright.ai/jobs/info/6787dfc7e193e0f29ae06095?utm_campaign=1079&utm_source=git)** | Rochester, MN | On Site | Jan 15 |
 | **[Wizards of the Coast](http://company.wizards.com/)** | **[Intern - Software Development Engineer (Summer 2025)](https://jobright.ai/jobs/info/6787e45fc04cd36c3eb5d637?utm_campaign=1079&utm_source=git)** | Renton, WA | On Site | Jan 15 |
 | **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[IT Intern, Summer 2025](https://jobright.ai/jobs/info/6787b9dfdf1de9a8e2f298aa?utm_campaign=1079&utm_source=git)** | Neenah, WI | On Site | Jan 15 |
+| **[Bristol Myers Squibb](http://www.bms.com)** | **[DigITal Accelerator Program Internship - Summer 2025](https://jobright.ai/jobs/info/67887f67365837b6abe7c014?utm_campaign=1079&utm_source=git)** | Princeton, NJ | Hybrid | Jan 15 |
 | **[CGI](https://www.cgi.com)** | **[Software Developer Intern (Summer Internship Program)](https://jobright.ai/jobs/info/6787b403a9e01bb767156d3e?utm_campaign=1079&utm_source=git)** | Lebanon, VA | Hybrid | Jan 15 |
 | **[Analytical Mechanics Associates](https://www.ama-inc.com)** | **[Formal Methods Intern (Summer 2025)](https://jobright.ai/jobs/info/6787b9dfdf1de9a8e2f29a47?utm_campaign=1079&utm_source=git)** | Rhode Island, United States | Remote | Jan 15 |
 | ↳ | **[Formal Methods Intern (Summer 2025)](https://jobright.ai/jobs/info/6787bb58df1de9a8e2f2a3c1?utm_campaign=1079&utm_source=git)** | Alaska, United States | Remote | Jan 15 |
 | ↳ | **[Formal Methods Intern (Summer 2025)](https://jobright.ai/jobs/info/6787bb58df1de9a8e2f2a3c2?utm_campaign=1079&utm_source=git)** | Hawaii, United States | Remote | Jan 15 |
-| ↳ | **[Formal Methods Intern (Summer 2025)](https://jobright.ai/jobs/info/6787bb58df1de9a8e2f2a3c4?utm_campaign=1079&utm_source=git)** | Texas, United States | Remote | Jan 15 |
 | ↳ | **[Formal Methods Intern (Summer 2025)](https://jobright.ai/jobs/info/6787bb58df1de9a8e2f2a3c3?utm_campaign=1079&utm_source=git)** | Tennessee, United States | On Site | Jan 15 |
+| ↳ | **[Formal Methods Intern (Summer 2025)](https://jobright.ai/jobs/info/6787bb58df1de9a8e2f2a3c4?utm_campaign=1079&utm_source=git)** | Texas, United States | Remote | Jan 15 |
 | ↳ | **[Formal Methods Intern (Summer 2025)](https://jobright.ai/jobs/info/6787bb58df1de9a8e2f2a3c5?utm_campaign=1079&utm_source=git)** | Arkansas, United States | Remote | Jan 15 |
 | ↳ | **[Formal Methods Intern (Summer 2025)](https://jobright.ai/jobs/info/6787bb58df1de9a8e2f2a3c6?utm_campaign=1079&utm_source=git)** | Georgia, United States | Remote | Jan 15 |
-| ↳ | **[Formal Methods Intern (Summer 2025)](https://jobright.ai/jobs/info/6787bb58df1de9a8e2f2a3c7?utm_campaign=1079&utm_source=git)** | Michigan, United States | Remote | Jan 15 |
-| ↳ | **[Formal Methods Intern (Summer 2025)](https://jobright.ai/jobs/info/6787bb58df1de9a8e2f2a3c9?utm_campaign=1079&utm_source=git)** | Utah, United States | Remote | Jan 15 |
 | ↳ | **[Formal Methods Intern (Summer 2025)](https://jobright.ai/jobs/info/6787bb58df1de9a8e2f2a3c8?utm_campaign=1079&utm_source=git)** | Wisconsin, United States | Remote | Jan 15 |
-| ↳ | **[Formal Methods Intern (Summer 2025)](https://jobright.ai/jobs/info/6787bb58df1de9a8e2f2a3ca?utm_campaign=1079&utm_source=git)** | New Mexico, United States | Remote | Jan 15 |
-| ↳ | **[Formal Methods Intern (Summer 2025)](https://jobright.ai/jobs/info/6787bb58df1de9a8e2f2a3cb?utm_campaign=1079&utm_source=git)** | South Dakota, United States | Remote | Jan 15 |
-| ↳ | **[Formal Methods Intern (Summer 2025)](https://jobright.ai/jobs/info/6787bb58df1de9a8e2f2a3d0?utm_campaign=1079&utm_source=git)** | Alabama, United States | Remote | Jan 15 |
-| ↳ | **[Formal Methods Intern (Summer 2025)](https://jobright.ai/jobs/info/6787bb58df1de9a8e2f2a3cf?utm_campaign=1079&utm_source=git)** | Oklahoma, United States | Remote | Jan 15 |
-| ↳ | **[Formal Methods Intern (Summer 2025)](https://jobright.ai/jobs/info/6787bb58df1de9a8e2f2a3ce?utm_campaign=1079&utm_source=git)** | Iowa, United States | Remote | Jan 15 |
-| ↳ | **[Formal Methods Intern (Summer 2025)](https://jobright.ai/jobs/info/6787bb58df1de9a8e2f2a3cd?utm_campaign=1079&utm_source=git)** | Maine, United States | Remote | Jan 15 |
-| ↳ | **[Formal Methods Intern (Summer 2025)](https://jobright.ai/jobs/info/6787bb58df1de9a8e2f2a3cc?utm_campaign=1079&utm_source=git)** | North Dakota, United States | Remote | Jan 15 |
-| ↳ | **[Formal Methods Intern (Summer 2025)](https://jobright.ai/jobs/info/6787bb58df1de9a8e2f2a3d5?utm_campaign=1079&utm_source=git)** | Nebraska, United States | On Site | Jan 15 |
-| ↳ | **[Formal Methods Intern (Summer 2025)](https://jobright.ai/jobs/info/6787bb58df1de9a8e2f2a3d2?utm_campaign=1079&utm_source=git)** | Missouri, United States | Remote | Jan 15 |
-| ↳ | **[Formal Methods Intern (Summer 2025)](https://jobright.ai/jobs/info/6787bb58df1de9a8e2f2a3d1?utm_campaign=1079&utm_source=git)** | Wyoming, United States | Remote | Jan 15 |
-| ↳ | **[Formal Methods Intern (Summer 2025)](https://jobright.ai/jobs/info/6787bb58df1de9a8e2f2a3d4?utm_campaign=1079&utm_source=git)** | South Carolina, United States | Remote | Jan 15 |
-| ↳ | **[Formal Methods Intern (Summer 2025)](https://jobright.ai/jobs/info/6787bb58df1de9a8e2f2a3d3?utm_campaign=1079&utm_source=git)** | Hampton, VA | Remote | Jan 15 |
-| ↳ | **[Formal Methods Intern (Summer 2025)](https://jobright.ai/jobs/info/6787bb58df1de9a8e2f2a3da?utm_campaign=1079&utm_source=git)** | Virginia, United States | On Site | Jan 15 |
-| ↳ | **[Formal Methods Intern (Summer 2025)](https://jobright.ai/jobs/info/6787bb58df1de9a8e2f2a3dc?utm_campaign=1079&utm_source=git)** | Vermont, United States | Remote | Jan 15 |
-| ↳ | **[Formal Methods Intern (Summer 2025)](https://jobright.ai/jobs/info/6787bb58df1de9a8e2f2a3d8?utm_campaign=1079&utm_source=git)** | Mississippi, United States | Remote | Jan 15 |
+| ↳ | **[Formal Methods Intern (Summer 2025)](https://jobright.ai/jobs/info/6787bb58df1de9a8e2f2a3c9?utm_campaign=1079&utm_source=git)** | Utah, United States | Remote | Jan 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
