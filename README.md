@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gibraltar Industries](http://www.gibraltar1.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/679e994309a66a5a6e1cffcc?utm_campaign=1079&utm_source=git)** | Fife, WA | On Site | Feb 01 |
+| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2025 Embedded Software Engineer Intern Cincinnati OH - R10184717](https://jobright.ai/jobs/info/679e870665e7db95337c82e9?utm_campaign=1079&utm_source=git)** | Cincinnati, OH | On Site | Feb 01 |
+| **[Links Global](http://www.linksglobal.org/)** | **[SW Application Developer, Digital Marketing Internship Program](https://jobright.ai/jobs/info/679e7aecd343caff554b0996?utm_campaign=1079&utm_source=git)** | Rockville, MD | On Site | Feb 01 |
 | **[Fiserv](http://www.fiserv.com)** | **[Technology - Summer Intern](https://jobright.ai/jobs/info/679e65bcbb04b9b9989704e3?utm_campaign=1079&utm_source=git)** | Fishers, IN | On Site | Feb 01 |
 | **[Baxter International Inc.](http://www.baxter.com)** | **[2025 Summer Internship - Embedded Software](https://jobright.ai/jobs/info/679e57f03856b691215b6520?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Feb 01 |
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern](https://jobright.ai/jobs/info/679e5786299b2edc5b6cdf8d?utm_campaign=1079&utm_source=git)** | Effingham, IL | On Site | Feb 01 |
@@ -72,8 +75,11 @@ For a complete list, click the following sortable link below:
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Software Development Intern (Summer 2025; LCS)](https://jobright.ai/jobs/info/679e2690a27ed03d23ba8618?utm_campaign=1079&utm_source=git)** | Troy, MI | Hybrid | Feb 01 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/679e1f6d46a0e1a9ebb047b4?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 01 |
 | ↳ | **[Information Technology Intern](https://jobright.ai/jobs/info/679e1f6d46a0e1a9ebb047ba?utm_campaign=1079&utm_source=git)** | Carlsbad, CA | On Site | Feb 01 |
+| **[TikTok](https://www.tiktok.com)** | **[Backend Software Engineer Intern (TikTok Privacy and Security) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/677e0af29fae9cead86515e1?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 01 |
 | **[Cox Automotive Inc.](http://www.coxautoinc.com)** | **[Software Test Engineer Intern](https://jobright.ai/jobs/info/679e168614269032adfbefa0?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Feb 01 |
+| **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Software Development Intern - Summer 2025](https://jobright.ai/jobs/info/67494643ee80fb2f30b476bd?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Feb 01 |
 | **[Amazon](https://amazon.com)** | **[Front-End Engineer Internship – 2025 (US)](https://jobright.ai/jobs/info/675da73af6a01aa5e3d739c4?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Feb 01 |
+| **[MKS Instruments](http://www.mksinst.com)** | **[2025 Summer and Fall Software Engineering Co-op (R11663)](https://jobright.ai/jobs/info/6761c7dae735b0f7e07b1f35?utm_campaign=1079&utm_source=git)** | Rochester, NY | Hybrid | Feb 01 |
 | **[TTM Technologies](https://www.ttm.com)** | **[Software Engineering Internship](https://jobright.ai/jobs/info/675bae1760145fc4a572f158?utm_campaign=1079&utm_source=git)** | Farmingdale, NY | On Site | Feb 01 |
 | **[Cisco](http://www.cisco.com)** | **[Software Engineer I (Intern) United States](https://jobright.ai/jobs/info/679e03f01e83ccfacbe0a040?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 01 |
 | **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[High Performance Computing Post Bachelors Student](https://jobright.ai/jobs/info/6785ecc4994c85533e67501d?utm_campaign=1079&utm_source=git)** | Los Alamos, NM | On Site | Feb 01 |
@@ -145,16 +151,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Mission Simulation & Analysis Software Engineering Intern (Summer 2025) (Onsite)](https://jobright.ai/jobs/info/679d4672959d2712b230aa30?utm_campaign=1079&utm_source=git)** | Cedar Rapids, IA | On Site | Jan 31 |
 | **[Hibbett](http://www.hibbett.com)** | **[IT Collaboration Intern](https://jobright.ai/jobs/info/679d3c79b94eb02350243094?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | Jan 31 |
 | **[L3Harris Technologies](https://www.l3harris.com/)** | **[Software Engineer Level C (San Diego, CA)](https://jobright.ai/jobs/info/679d4672959d2712b230ab5a?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Jan 31 |
-| ↳ | **[Software Engineer Level D (San Diego, CA)](https://jobright.ai/jobs/info/679d4672959d2712b230ab3e?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Jan 31 |
 | ↳ | **[Software Engineer Level D (Van Nuys, CA)](https://jobright.ai/jobs/info/679d4672959d2712b230ab30?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Jan 31 |
+| ↳ | **[Software Engineer Level D (San Diego, CA)](https://jobright.ai/jobs/info/679d4672959d2712b230ab3e?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Jan 31 |
 | **[Farallon Capital Management](http://www.faralloncapital.com)** | **[Intern - Software - Summer 2025](https://jobright.ai/jobs/info/679d34fb76b222a41044baf6?utm_campaign=1079&utm_source=git)** | Minnesota | On Site | Jan 31 |
 | **[Cox Enterprises](http://coxenterprises.com)** | **[Software Test Engineer Intern](https://jobright.ai/jobs/info/679d32ed9b91dbe07356594b?utm_campaign=1079&utm_source=git)** | Austin TX | On Site | Jan 31 |
-| **[Maxar Technologies](https://www.maxar.com)** | **[Software Engineering Intern (UI & DevOps)](https://jobright.ai/jobs/info/679d37935f02d464f3c5fe22?utm_campaign=1079&utm_source=git)** | Herndon, VA | On Site | Jan 31 |
-| **[Symbotic](https://bit.ly/m/Symbotic)** | **[Co-op- Software Engineer](https://jobright.ai/jobs/info/679d2fc137ceb576ab10c842?utm_campaign=1079&utm_source=git)** | Wilmington, MA | On Site | Jan 31 |
-| **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Software Engineering Intern (Summer 2025) (Onsite)](https://jobright.ai/jobs/info/679d493cea0f8d197dd50351?utm_campaign=1079&utm_source=git)** | Windsor Locks, CT | On Site | Jan 31 |
-| **[Boston Scientific](http://www.bostonscientific.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/679d410cb9e979ed334d5400?utm_campaign=1079&utm_source=git)** | Arden Hills, MN | On Site | Jan 31 |
-| **[Symbotic](https://bit.ly/m/Symbotic)** | **[Co-op- Software Engineer](https://jobright.ai/jobs/info/679d225ee2ae991d92f5bd49?utm_campaign=1079&utm_source=git)** | USA Wilmington,  MA - HQ | On Site | Jan 31 |
-| **[Hughes](http://www.hughes.com)** | **[Software Engineering Summer Intern - 2025](https://jobright.ai/jobs/info/679d225ee2ae991d92f5bd43?utm_campaign=1079&utm_source=git)** | CA-San Diego | On Site | Jan 31 |
-| **[Intuitive](https://intusurg.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/679d3e7b6cf67dfba4ec64a9?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Jan 31 |
-| **[Mercedes-Benz Research & Development North America, Inc.](http://www.mbrdna.com)** | **[Intern Programming Accelerators in Embedded Systems](https://jobright.ai/jobs/info/679d16e1f6f9c7faa4b1e5f5?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Jan 31 |
+| **[Maxar Technologies](https://www.maxar.com)** | **[Software Engineering Intern (UI & DevOps)](https://jobright.ai/jobs/info/679d37935f02d464f3c5fd3e?utm_campaign=1079&utm_source=git)** | Melbourne, FL | On Site | Jan 31 |
+| ↳ | **[Software Engineering Intern (UI & DevOps)](https://jobright.ai/jobs/info/679d37935f02d464f3c5fe22?utm_campaign=1079&utm_source=git)** | Herndon, VA | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
