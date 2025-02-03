@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Karman Space & Defense](https://karmanmss.com/)** | **[Python/ Back-End Engineer Intern](https://jobright.ai/jobs/info/67a0197ef2a7dc815525776a?utm_campaign=1079&utm_source=git)** | Wilsonville, OR | On Site | Feb 02 |
 | **[Stonebranch](https://www.stonebranch.com/)** | **[Java Developer Intern](https://jobright.ai/jobs/info/67a00ad45fc00940e359e880?utm_campaign=1079&utm_source=git)** | Alpharetta, GA | On Site | Feb 02 |
 | ↳ | **[C Developer Intern](https://jobright.ai/jobs/info/67a00ad45fc00940e359e882?utm_campaign=1079&utm_source=git)** | Alpharetta, GA | On Site | Feb 02 |
 | **[Links Global](http://www.linksglobal.org/)** | **[SW Application Developer, Digital Marketing Internship Program](https://jobright.ai/jobs/info/679fa5e7563fe292db374e67?utm_campaign=1079&utm_source=git)** | Rockville, MD | Hybrid | Feb 02 |
@@ -137,7 +138,7 @@ For a complete list, click the following sortable link below:
 | **[Box](http://www.box.com)** | **[Software Engineering Intern - Summer 2025](https://jobright.ai/jobs/info/679d510a5206526febef7251?utm_campaign=1079&utm_source=git)** | Redwood City | On Site | Jan 31 |
 | **[Coalition, Inc.](https://www.coalitioninc.com/)** | **[Frontend Engineer Internship](https://jobright.ai/jobs/info/679d55a181e671d3c6185de1?utm_campaign=1079&utm_source=git)** | Any location, United States | On Site | Jan 31 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Digital Solution Advisory](https://jobright.ai/jobs/info/679d4c8807e0785fdcc0eb2d?utm_campaign=1079&utm_source=git)** | Alpharetta, GA | Hybrid | Jan 31 |
-| **[Cadence](https://www.cadence.com)** | **[Software Development Internship, SDA (Summer 2025)](https://jobright.ai/jobs/info/679d4c4dc26405b0b8189510?utm_campaign=1079&utm_source=git)** | Burlington, MA | On Site | Jan 31 |
+| **[Cadence](https://www.cadence.com)** | **[Software Development Internship, SDA (Summer 2025)](https://jobright.ai/jobs/info/679d4c4dc26405b0b8189638?utm_campaign=1079&utm_source=git)** | Burlington, MA | On Site | Jan 31 |
 | **[Microsoft](https://www.microsoft.com)** | **[Design Engineer Intern](https://jobright.ai/jobs/info/679d4c4dc26405b0b81895ce?utm_campaign=1079&utm_source=git)** | Redmond, Washington, United States | On Site | Jan 31 |
 | **[Catalyte](https://www.catalyte.io)** | **[Software Developer Analyst - Apprentice (Must live in Vermont)](https://jobright.ai/jobs/info/6792a71b93d549cdf8f7b351?utm_campaign=1079&utm_source=git)** | Burlington, VT | Remote | Jan 31 |
 | **[Plexus Corp.](http://www.plexus.com/)** | **[Intern - Software Engineer (Spring 2026)](https://jobright.ai/jobs/info/679d510a5206526febef7272?utm_campaign=1079&utm_source=git)** | Neenah, WI | On Site | Jan 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[L3Harris Technologies](https://www.l3harris.com/)** | **[Software Engineer Level C (San Diego, CA)](https://jobright.ai/jobs/info/679d4672959d2712b230ab5a?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Jan 31 |
 | ↳ | **[Software Engineer Level D (Van Nuys, CA)](https://jobright.ai/jobs/info/679d4672959d2712b230ab30?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Jan 31 |
 | ↳ | **[Software Engineer Level D (San Diego, CA)](https://jobright.ai/jobs/info/679d4672959d2712b230ab3e?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Jan 31 |
-| **[Farallon Capital Management](http://www.faralloncapital.com)** | **[Intern - Software - Summer 2025](https://jobright.ai/jobs/info/679d34fb76b222a41044baf6?utm_campaign=1079&utm_source=git)** | Minnesota | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
