@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Viasat](http://www.viasat.com)** | **[Software Engineer Intern - Product Development](https://jobright.ai/jobs/info/67a20b29939cf747f991fa71?utm_campaign=1079&utm_source=git)** | Carlsbad, CA | Hybrid | Feb 04 |
+| **[Sandhills Global](https://www.sandhills.com/)** | **[Software Development Intern](https://jobright.ai/jobs/info/66ca0a763673251f8b24f33d?utm_campaign=1079&utm_source=git)** | Lincoln, NE | On Site | Feb 04 |
+| **[CommScope](http://www.commscope.com)** | **[Test Engineer Intern](https://jobright.ai/jobs/info/67818803457b6fd58af53989?utm_campaign=1079&utm_source=git)** | Claremont, NC | On Site | Feb 04 |
+| **[Lam Research](http://www.lamresearch.com)** | **[Software Quality Assurance Engineering Intern - Summer 2025](https://jobright.ai/jobs/info/671c1ddcd57b9e1f88d1786a?utm_campaign=1079&utm_source=git)** | Waltham, MA | Hybrid | Feb 04 |
+| **[Arconic](https://www.arconic.com)** | **[Intern – IT (Summer 2025)](https://jobright.ai/jobs/info/6785915f29384755cc04a0f9?utm_campaign=1079&utm_source=git)** | Norcross, GA | On Site | Feb 04 |
 | **[Axle](https://axle.insure)** | **[Product Engineer Intern (Summer 2025)](https://jobright.ai/jobs/info/67a1df4b86f17c04dc598905?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Feb 04 |
 | **[BambooHR](http://www.BambooHR.com)** | **[Cloud Engineering Intern](https://jobright.ai/jobs/info/67a1d354605aaa6d5242fa92?utm_campaign=1079&utm_source=git)** | Draper, UT | Hybrid | Feb 03 |
 | **[Links Global](http://www.linksglobal.org/)** | **[SW Application Developer, Digital Marketing Internship Program](https://jobright.ai/jobs/info/67a1d354605aaa6d5242fb9c?utm_campaign=1079&utm_source=git)** | Rockville, MD | On Site | Feb 03 |
@@ -76,6 +81,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern: Associate Software Developer](https://jobright.ai/jobs/info/67a19d1cf20d1f9f2954fa80?utm_campaign=1079&utm_source=git)** | Arizona, United States | Hybrid | Feb 03 |
 | ↳ | **[Intern: Associate Software Developer](https://jobright.ai/jobs/info/67a196cd9644a9fa32f2ec57?utm_campaign=1079&utm_source=git)** | Washington, United States | Hybrid | Feb 03 |
 | **[Archer](https://www.archer.com)** | **[Full Stack Application Intern](https://jobright.ai/jobs/info/67a18acca73da279841d0fe8?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 03 |
+| **[Light & Wonder](https://www.lnw.com/)** | **[Software Engineer - Intern](https://jobright.ai/jobs/info/67a19369c93339ec93444dbd?utm_campaign=1079&utm_source=git)** | Las Vegas, NV | Hybrid | Feb 03 |
 | **[Visa](https://www.visa.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/67a1891ebff704818923747b?utm_campaign=1079&utm_source=git)** | Highlands Ranch, CO | On Site | Feb 03 |
 | ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/67a1891ebff704818923747d?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Feb 03 |
 | ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/67a1891ebff704818923747e?utm_campaign=1079&utm_source=git)** | Ashburn, VA | On Site | Feb 03 |
@@ -83,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6769cc669b43e47937769c5c?utm_campaign=1079&utm_source=git)** | Tucson, AZ | On Site | Feb 03 |
 | **[Arthrex](https://www.arthrex.com/)** | **[3D Application Developer Intern](https://jobright.ai/jobs/info/67a1a41aa2fee5109f8004f1?utm_campaign=1079&utm_source=git)** | Naples, FL | On Site | Feb 03 |
 | **[Perkins&Will](http://perkinswill.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/67a188d885b2c9d285d62a29?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Feb 03 |
-| **[ManTech](https://www.mantech.com)** | **[Application Developer Intern](https://jobright.ai/jobs/info/67a1e06686f17c04dc59933f?utm_campaign=1079&utm_source=git)** | Clarksburg, WV | On Site | Feb 03 |
 | **[Space Dynamics Laboratory](https://www.sdl.usu.edu)** | **[Student: Embedded Software Engineering Assistant](https://jobright.ai/jobs/info/67a1a41aa2fee5109f800122?utm_campaign=1079&utm_source=git)** | North Logan, UT | Hybrid | Feb 03 |
 | **[Quad](https://www.quad.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/67a184c8cf58108ffd55200c?utm_campaign=1079&utm_source=git)** | Sussex, WI | On Site | Feb 03 |
 | **[RR Donnelley](http://www.rrd.com)** | **[Procurement IT/Outsourcing Intern](https://jobright.ai/jobs/info/678824c4a351c092f6381934?utm_campaign=1079&utm_source=git)** | Chicago, IL | Remote | Feb 03 |
@@ -110,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[Archer](https://www.archer.com)** | **[Full Stack Application Intern](https://jobright.ai/jobs/info/67a1615f0110c45541ebbaea?utm_campaign=1079&utm_source=git)** | San Jose, California, United States | On Site | Feb 03 |
 | **[Samsung Research America (SRA)](http://www.sra.samsung.com/)** | **[2025 Summer Intern, Software Engineer (MPS)](https://jobright.ai/jobs/info/67a162c4fa60af753bc23ba5?utm_campaign=1079&utm_source=git)** | 665 Clyde Avenue, Mountain View,  CA, USA | On Site | Feb 03 |
 | **[Light & Wonder](https://www.lnw.com/)** | **[Software Engineer - Intern](https://jobright.ai/jobs/info/67a15d1480180e1071d39561?utm_campaign=1079&utm_source=git)** | Reno, NV | Hybrid | Feb 03 |
-| ↳ | **[Software Engineer - Intern](https://jobright.ai/jobs/info/67a15d1480180e1071d39415?utm_campaign=1079&utm_source=git)** | Las Vegas, NV | Hybrid | Feb 03 |
 | **[Western Digital](https://www.westerndigital.com)** | **[SSD Firmware Engineer Intern (Masters, Summer 2025)](https://jobright.ai/jobs/info/67a15d1480180e1071d394ec?utm_campaign=1079&utm_source=git)** | Milpitas, CA | On Site | Feb 03 |
 | **[Battelle](http://www.battelle.org)** | **[Software Engineering Intern (Summer 2025)](https://jobright.ai/jobs/info/67a168d2462718493389ca50?utm_campaign=1079&utm_source=git)** | Columbus, OH | Hybrid | Feb 03 |
 | **[Centric Software](http://www.centricsoftware.com/)** | **[Front End Engineering Intern, Innovations Group](https://jobright.ai/jobs/info/67a15a78b7a9f8f098b11dae?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 03 |
@@ -135,26 +139,22 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tech Intern: Associate SDET](https://jobright.ai/jobs/info/67a14c7bf6e5f993a30fd31d?utm_campaign=1079&utm_source=git)** | Oregon, United States | Hybrid | Feb 03 |
 | ↳ | **[Tech Intern: Associate SDET](https://jobright.ai/jobs/info/67a14c7bf6e5f993a30fd56e?utm_campaign=1079&utm_source=git)** | Idaho, United States | Hybrid | Feb 03 |
 | ↳ | **[Tech Intern: Associate SDET](https://jobright.ai/jobs/info/67a14c7bf6e5f993a30fd56f?utm_campaign=1079&utm_source=git)** | Arizona, United States | Hybrid | Feb 03 |
-| ↳ | **[Intern: Associate SDET](https://jobright.ai/jobs/info/67a14c7bf6e5f993a30fd571?utm_campaign=1079&utm_source=git)** | Washington, United States | Hybrid | Feb 03 |
 | ↳ | **[Intern: Associate SDET](https://jobright.ai/jobs/info/67a14c7bf6e5f993a30fd2f2?utm_campaign=1079&utm_source=git)** | Arizona, United States | Hybrid | Feb 03 |
 | ↳ | **[Tech Intern: Associate SDET](https://jobright.ai/jobs/info/67a14c7bf6e5f993a30fd570?utm_campaign=1079&utm_source=git)** | Washington, United States | Hybrid | Feb 03 |
-| ↳ | **[Intern: Associate SDET](https://jobright.ai/jobs/info/67a14c7bf6e5f993a30fd572?utm_campaign=1079&utm_source=git)** | Texas, United States | Hybrid | Feb 03 |
+| ↳ | **[Intern: Associate SDET](https://jobright.ai/jobs/info/67a14c7bf6e5f993a30fd571?utm_campaign=1079&utm_source=git)** | Washington, United States | Hybrid | Feb 03 |
 | ↳ | **[Tech Intern: Associate SDET](https://jobright.ai/jobs/info/67a14c7bf6e5f993a30fd573?utm_campaign=1079&utm_source=git)** | Texas, United States | Hybrid | Feb 03 |
+| ↳ | **[Intern: Associate SDET](https://jobright.ai/jobs/info/67a14c7bf6e5f993a30fd572?utm_campaign=1079&utm_source=git)** | Texas, United States | Hybrid | Feb 03 |
 | ↳ | **[Intern: Associate SDET](https://jobright.ai/jobs/info/67a14c7bf6e5f993a30fd574?utm_campaign=1079&utm_source=git)** | Oregon, United States | Hybrid | Feb 03 |
 | **[Amazon](https://amazon.com)** | **[SDE Intern (Embedded Systems)](https://jobright.ai/jobs/info/67a14684e88b34073ad9f962?utm_campaign=1079&utm_source=git)** | Redmond, WA | On Site | Feb 03 |
 | ↳ | **[SDE Intern (Embedded Systems)](https://jobright.ai/jobs/info/67a14684e88b34073ad9f964?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Feb 03 |
 | ↳ | **[SDE Intern (Embedded Systems)](https://jobright.ai/jobs/info/67a142b77d177bef7de49c9c?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Feb 03 |
 | **[SailPoint](http://www.sailpoint.com)** | **[Software Engineer - Intern](https://jobright.ai/jobs/info/67a146914240e689c9eb30ae?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 03 |
 | **[BECU](https://www.becu.org/landing/fintech-incubator)** | **[Tech Intern: Associate SDET](https://jobright.ai/jobs/info/67a135f8bbf6a3ce7a0cc68a?utm_campaign=1079&utm_source=git)** | Remote, TX | Hybrid | Feb 03 |
-| ↳ | **[Tech Intern: Associate SDET](https://jobright.ai/jobs/info/67a135f8bbf6a3ce7a0cc50e?utm_campaign=1079&utm_source=git)** | Remote, WA | Hybrid | Feb 03 |
-| ↳ | **[Tech Intern: Associate SDET](https://jobright.ai/jobs/info/67a135f8bbf6a3ce7a0cc689?utm_campaign=1079&utm_source=git)** | Remote, OR | Hybrid | Feb 03 |
 | ↳ | **[Tech Intern: Associate SDET](https://jobright.ai/jobs/info/67a135f8bbf6a3ce7a0cc68b?utm_campaign=1079&utm_source=git)** | Remote, AZ | Hybrid | Feb 03 |
+| ↳ | **[Tech Intern: Associate SDET](https://jobright.ai/jobs/info/67a135f8bbf6a3ce7a0cc50e?utm_campaign=1079&utm_source=git)** | Remote, WA | Hybrid | Feb 03 |
 | ↳ | **[Tech Intern: Associate SDET](https://jobright.ai/jobs/info/67a135f8bbf6a3ce7a0cc688?utm_campaign=1079&utm_source=git)** | Remote, ID | Hybrid | Feb 03 |
+| ↳ | **[Tech Intern: Associate SDET](https://jobright.ai/jobs/info/67a135f8bbf6a3ce7a0cc689?utm_campaign=1079&utm_source=git)** | Remote, OR | Hybrid | Feb 03 |
 | **[SailPoint](http://www.sailpoint.com)** | **[Software Engineer - Intern](https://jobright.ai/jobs/info/67a12bbfe3bb3bca2ad8f8e1?utm_campaign=1079&utm_source=git)** | Texas, United States | Remote | Feb 03 |
 | **[Scientific Research Corporation](http://www.scires.com)** | **[Software Developer/Engineer Intern](https://jobright.ai/jobs/info/67a12bbfe3bb3bca2ad8f8d2?utm_campaign=1079&utm_source=git)** | North Charleston, SC | On Site | Feb 03 |
 | **[Norman Noble, Inc.](https://nnoble.com)** | **[Information Technology Summer Intern](https://jobright.ai/jobs/info/67a1376e42238d0fb2291650?utm_campaign=1079&utm_source=git)** | Cleveland, OH | On Site | Feb 03 |
-| **[Oregon Department of Corrections](https://www.oregon.gov/doc/)** | **[Information Technology (IT) System Intern (Student Professional/Technical Worker)](https://jobright.ai/jobs/info/67a1251bb97642ef9c7234e5?utm_campaign=1079&utm_source=git)** | Salem | DCBS | Labor & Industries Building | On Site | Feb 03 |
-| **[SailPoint](http://www.sailpoint.com)** | **[Software Engineer- Intern](https://jobright.ai/jobs/info/67a1251bb97642ef9c72350e?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 03 |
-| ↳ | **[Software Engineer - Intern](https://jobright.ai/jobs/info/67a1251bb97642ef9c723676?utm_campaign=1079&utm_source=git)** | Remote (Texas, USA) | Remote | Feb 03 |
-| ↳ | **[Software Engineer - Intern](https://jobright.ai/jobs/info/67a1251bb97642ef9c723671?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
