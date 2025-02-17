@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Delta Electronics Americas](http://www.delta-americas.com/)** | **[Software Engineer - Intern (Plano, TX)](https://jobright.ai/jobs/info/67b29af59487bc55395d4de5?utm_campaign=1079&utm_source=git)** | Plano, TX | On Site | Feb 16 |
+| ↳ | **[Software Engineer - Intern (Fremont, CA)](https://jobright.ai/jobs/info/67b2988e583151805b1c9858?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Feb 16 |
 | **[Lucid Motors](http://lucidmotors.com)** | **[Intern, Android Applications Software Engineer, Summer 2025](https://jobright.ai/jobs/info/67b24d3224f73735cfe0ad02?utm_campaign=1079&utm_source=git)** | Newark, NJ | On Site | Feb 16 |
 | **[Indiana Farmers Insurance](https://insurance.indianafarmers.com/)** | **[.Net Development Intern](https://jobright.ai/jobs/info/67b24f04bb365d758f4e3e3e?utm_campaign=1079&utm_source=git)** | Indianapolis, IN | Hybrid | Feb 16 |
 | **[Yahara Software](http://yaharasoftware.com)** | **[Software Development Internship- Summer 2025](https://jobright.ai/jobs/info/67b24d6ab23f9454559eb3d4?utm_campaign=1079&utm_source=git)** | Madison, WI | On Site | Feb 16 |
@@ -80,6 +82,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Software Engineer](https://jobright.ai/jobs/info/67b166f82d7497fbeeab35c9?utm_campaign=1079&utm_source=git)** | Cranberry Township, PA | Hybrid | Feb 15 |
 | ↳ | **[Intern - Software Engineer](https://jobright.ai/jobs/info/67b1541c20c962c72bace40c?utm_campaign=1079&utm_source=git)** | Boulder, CO | Hybrid | Feb 15 |
 | ↳ | **[Intern - Software Engineer](https://jobright.ai/jobs/info/67b1567a8bd72b4d935ec74d?utm_campaign=1079&utm_source=git)** | Wichita, KS | Hybrid | Feb 15 |
+| **[Wing](https://www.wing.com/)** | **[Backend Software Engineering Intern, Operational Tooling](https://jobright.ai/jobs/info/67b2a471cda608b01c0861cd?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Feb 15 |
+| **[Lennox](http://www.lennox.com)** | **[Software Engineer Co-Op - 2025](https://jobright.ai/jobs/info/67a8219cef835387d722e11e?utm_campaign=1079&utm_source=git)** | Carrollton, TX | On Site | Feb 15 |
 | **[Perkins&Will](http://perkinswill.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/6794a418bc0954b91be9f823?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Feb 15 |
 | **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Technology Intern](https://jobright.ai/jobs/info/67b128c69bdd8328a48ea020?utm_campaign=1079&utm_source=git)** | Pleasanton, CA | On Site | Feb 15 |
 | **[Myers and Stauffer LC](https://myersandstauffer.com/)** | **[Application Development Intern - Summer 2025 (Frankfort, KY)](https://jobright.ai/jobs/info/67914c4c2e78c38d69ac56a9?utm_campaign=1079&utm_source=git)** | Frankfort, KY | Hybrid | Feb 15 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[nVent](https://www.nvent.com/)** | **[Software Engineering Co-op](https://jobright.ai/jobs/info/67902bc155f697137528982b?utm_campaign=1079&utm_source=git)** | Solon, OH | On Site | Feb 15 |
 | **[Illumio](http://www.illumio.com)** | **[Core (Unified Platform) Intern](https://jobright.ai/jobs/info/67803ad040c781ec58c06d8c?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | Hybrid | Feb 15 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2025 Intern Software Engineering - R10186301](https://jobright.ai/jobs/info/67b0a406c14b06280b9931ff?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Feb 15 |
-| **[KLA](https://www.kla.com)** | **[Software Intern (CUDA)](https://jobright.ai/jobs/info/678800b075648b6e8088f6cf?utm_campaign=1079&utm_source=git)** | Milpitas, CA | On Site | Feb 15 |
-| **[MKS Instruments](http://www.mksinst.com)** | **[2025 Summer and Fall Software Engineering Co-op](https://jobright.ai/jobs/info/67618826f6816738daf1f1e9?utm_campaign=1079&utm_source=git)** | Rochester, NY | Hybrid | Feb 15 |
-| **[Samsung Semiconductor](https://www.samsung.com/us/samsungsemiconductor)** | **[Intern, System Software Engineer](https://jobright.ai/jobs/info/6791c844da14e71efe852861?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Feb 15 |
-| **[Oracle](https://www.oracle.com/)** | **[Applications Engineering Intern](https://jobright.ai/jobs/info/676b7ebe0d299e576cb1888b?utm_campaign=1079&utm_source=git)** | Redwood City, CA | On Site | Feb 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
