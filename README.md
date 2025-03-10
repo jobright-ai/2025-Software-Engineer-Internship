@@ -57,13 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lenovo](https://www.lenovo.com/in/en/)** | **[Solution Architect Intern - Summer 2025](https://jobright.ai/jobs/info/677d6a93512b17e04af5110d?utm_campaign=1079&utm_source=git)** | Morrisville, NC | On Site | Mar 10 |
+| **[OSF HealthCare](https://www.osfhealthcare.org/locations/medical-group/)** | **[Software Developer Intern](https://jobright.ai/jobs/info/67ce93e2e06aa71b6771b576?utm_campaign=1079&utm_source=git)** | Peoria, IL | On Site | Mar 09 |
+| **[GE Aerospace](https://www.geaerospace.com)** | **[Computer Engineering Co-op in Electrical Power – Fall 2026 - Returning Students](https://jobright.ai/jobs/info/67ce7daac9ad028ee4f4f5e8?utm_campaign=1079&utm_source=git)** | Dayton, OH | On Site | Mar 09 |
+| ↳ | **[Engineering Engines Intern – Computer or Software Engineering – US – Summer 2026 - Returning Students](https://jobright.ai/jobs/info/67ce8bb0574a5f29be896d05?utm_campaign=1079&utm_source=git)** | Cincinnati, OH | On Site | Mar 09 |
+| ↳ | **[Engineering Engines Co-op – Computer or Software Engineering – US – Spring 2026 - Returning Students](https://jobright.ai/jobs/info/67ce8bb0574a5f29be896ccd?utm_campaign=1079&utm_source=git)** | Cincinnati, OH | On Site | Mar 09 |
+| ↳ | **[Engineering Engines Co-op – Computer or Software Engineering – US – Fall 2026 - Returning Students](https://jobright.ai/jobs/info/67ce8bb0574a5f29be896cb4?utm_campaign=1079&utm_source=git)** | Cincinnati, OH | On Site | Mar 09 |
+| **[Dapper Labs](https://www.dapperlabs.com)** | **[Frontend Software Engineering Intern](https://jobright.ai/jobs/info/67ce6785540ee25ad944294b?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 09 |
 | **[Rad AI](https://www.radai.com)** | **[Software Engineer Internship](https://jobright.ai/jobs/info/67ce454e39a92d903d83ee65?utm_campaign=1079&utm_source=git)** | United States | Hybrid | Mar 09 |
 | **[Trulieve](https://www.trulieve.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/67ce0a029a9b1ae411bd3f08?utm_campaign=1079&utm_source=git)** | Tallahassee, FL | On Site | Mar 09 |
+| **[CGI](https://www.cgi.com)** | **[Software Developer Intern (Summer Internship Program)](https://jobright.ai/jobs/info/67cbb53a116065164c4f1a4c?utm_campaign=1079&utm_source=git)** | Westerville, OH | Hybrid | Mar 08 |
+| **[Skechers](http://www.skechers.com)** | **[Software Quality Engineer Intern (Summer 2025)](https://jobright.ai/jobs/info/67b03d74d5861d3567725df5?utm_campaign=1079&utm_source=git)** | Manhattan Beach, CA | On Site | Mar 08 |
 | **[Sigma](http://sigmacomputing.com)** | **[Software Engineer (New Grad Program)](https://jobright.ai/jobs/info/67a3fe0073aff8322aa18fbb?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Mar 08 |
-| **[NetApp](http://netapp.com)** | **[Intern - Software Engineer](https://jobright.ai/jobs/info/67cd10854a886178cead2a33?utm_campaign=1079&utm_source=git)** | Wichita, KS | Hybrid | Mar 08 |
-| ↳ | **[Intern - Software Engineer](https://jobright.ai/jobs/info/67cd10854a886178cead2a32?utm_campaign=1079&utm_source=git)** | Cranberry Township, PA | Hybrid | Mar 08 |
+| **[Cadence](https://www.cadence.com)** | **[Software R&D Intern, Summer](https://jobright.ai/jobs/info/677cafd44ab24f99a3a868a3?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Mar 08 |
+| **[NetApp](http://netapp.com)** | **[Intern - Software Engineer](https://jobright.ai/jobs/info/67cd10854a886178cead2a32?utm_campaign=1079&utm_source=git)** | Cranberry Township, PA | Hybrid | Mar 08 |
+| ↳ | **[Intern - Software Engineer](https://jobright.ai/jobs/info/67cd10854a886178cead2a33?utm_campaign=1079&utm_source=git)** | Wichita, KS | Hybrid | Mar 08 |
 | ↳ | **[Intern - Software Engineer](https://jobright.ai/jobs/info/67cd039b69556835c5d8d594?utm_campaign=1079&utm_source=git)** | Triangle, NC | Hybrid | Mar 08 |
-| **[Preferred Risk Insurance Services](http://priscorp.net/)** | **[Internship: Full Stack Developer (C# .Net Core and React)](https://jobright.ai/jobs/info/67cd1816c5474976e131cc78?utm_campaign=1079&utm_source=git)** | Bedford Park, IL | On Site | Mar 08 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Quality Engineering Design Assurance Intern](https://jobright.ai/jobs/info/67cce4f97edb158496cd9c04?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Mar 08 |
 | **[Adtran](http://www.adtran.com)** | **[Intern](https://jobright.ai/jobs/info/66e8a057e9a94224647ddb0f?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Mar 08 |
 | **[Zoox](https://www.zoox.com/)** | **[Drive Feature Integration Intern](https://jobright.ai/jobs/info/678a207ea7d90ae728122836?utm_campaign=1079&utm_source=git)** | Foster City, CA | On Site | Mar 08 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Information Technology Intern (Hourly)](https://jobright.ai/jobs/info/67cb5baf5d60346486c5e392?utm_campaign=1079&utm_source=git)** | Trenton, NJ | Hybrid | Mar 07 |
 | **[TransPerfect](http://www.transperfect.com)** | **[Solutions Engineer Intern](https://jobright.ai/jobs/info/67a98c7276d358d8f8504bf2?utm_campaign=1079&utm_source=git)** | Newark, NJ | Hybrid | Mar 07 |
 | ↳ | **[Solutions Engineer Intern](https://jobright.ai/jobs/info/67a98c7276d358d8f8504bed?utm_campaign=1079&utm_source=git)** | Dallas, TX | Hybrid | Mar 07 |
-| **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Lean Business Developer (Summer 2025)](https://jobright.ai/jobs/info/67cc332b30fac953124a4a86?utm_campaign=1079&utm_source=git)** | Joliet, IL | On Site | Mar 07 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Software Algorithms Engineer, Electronic Devices (Summer 2025)](https://jobright.ai/jobs/info/67cb64bbbf7d0c88276542a3?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Mar 07 |
-| **[MEM](https://www.mem-ins.com/)** | **[Software Engineer Intern (Hybrid)](https://jobright.ai/jobs/info/6792e3cfeaa3da7a65e60844?utm_campaign=1079&utm_source=git)** | Columbia, MO | Hybrid | Mar 07 |
-| **[Figure](https://www.figure.ai)** | **[Intern, Embedded SoftwareNew](https://jobright.ai/jobs/info/67cbf25a512694baa82000bc?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Mar 07 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Graduate Software Engineering Intern - 2025 Summer Internship](https://jobright.ai/jobs/info/67cb4a5917dc930fcd698053?utm_campaign=1079&utm_source=git)** | Colorado, US Offsite | On Site | Mar 07 |
-| **[Electrify America](https://www.electrifyamerica.com)** | **[Intern - Software Engineer](https://jobright.ai/jobs/info/67cb6cd344f1b2350ca04984?utm_campaign=1079&utm_source=git)** | Reston, VA | On Site | Mar 07 |
-| **[NEOGOV](http://www.neogov.com)** | **[Information Technology Intern (Hourly)](https://jobright.ai/jobs/info/67cb471ba24f55b253945f69?utm_campaign=1079&utm_source=git)** | Trenton, NJ | On Site | Mar 07 |
-| **[Viasat](http://www.viasat.com)** | **[KVS Software Development Intern](https://jobright.ai/jobs/info/67cb41555d13b9b330527420?utm_campaign=1079&utm_source=git)** | Carlsbad, CA | Hybrid | Mar 07 |
-| **[Nokia](http://www.nokia.com)** | **[Sofware Developer Intern](https://jobright.ai/jobs/info/67cb436bd8e24b110592f015?utm_campaign=1079&utm_source=git)** | 2000 W Lucent Lane, Naperville, Illinois, 60563-1443, US | On Site | Mar 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
