@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rad AI](https://www.radai.com)** | **[Software Engineer Internship](https://jobright.ai/jobs/info/67ce454e39a92d903d83ee65?utm_campaign=1079&utm_source=git)** | United States | Hybrid | Mar 09 |
+| **[Trulieve](https://www.trulieve.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/67ce0a029a9b1ae411bd3f08?utm_campaign=1079&utm_source=git)** | Tallahassee, FL | On Site | Mar 09 |
 | **[Sigma](http://sigmacomputing.com)** | **[Software Engineer (New Grad Program)](https://jobright.ai/jobs/info/67a3fe0073aff8322aa18fbb?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Mar 08 |
 | **[NetApp](http://netapp.com)** | **[Intern - Software Engineer](https://jobright.ai/jobs/info/67cd10854a886178cead2a33?utm_campaign=1079&utm_source=git)** | Wichita, KS | Hybrid | Mar 08 |
 | ↳ | **[Intern - Software Engineer](https://jobright.ai/jobs/info/67cd10854a886178cead2a32?utm_campaign=1079&utm_source=git)** | Cranberry Township, PA | Hybrid | Mar 08 |
@@ -116,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[Visa](https://www.visa.com)** | **[Software Engineer, Intern - Summer 2025 (Foster City, CA)](https://jobright.ai/jobs/info/67cb952f5b83352c4c18f9be?utm_campaign=1079&utm_source=git)** | Foster City, CA, USA | Hybrid | Mar 07 |
 | **[Hypergiant](https://www.hypergiant.com/sensory-sciences/)** | **[SkillBridge Internship (Frontend Engineer)](https://jobright.ai/jobs/info/67a50619eb0ea5ccd00757bc?utm_campaign=1079&utm_source=git)** | United States | Hybrid | Mar 07 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Epidemiology, Software Development Co-Op](https://jobright.ai/jobs/info/67cb96a7e84c60a8c778c146?utm_campaign=1079&utm_source=git)** | Horsham, PA | Remote | Mar 07 |
-| **[Boardwalk Pipelines](http://www.bwpmlp.com/)** | **[Intern- Application Developer ](https://jobright.ai/jobs/info/67cb91936ba7c88b2cade0f2?utm_campaign=1079&utm_source=git)** | Owensboro, KY, USA | On Site | Mar 07 |
 | **[Vantage](https://www.vantage.sh)** | **[Software Engineering Intern (Summer 2025)](https://jobright.ai/jobs/info/67cba60f58d858e79998e509?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Mar 07 |
 | **[Abridge](https://www.abridge.com)** | **[Full Stack Engineer (Intern)](https://jobright.ai/jobs/info/67cbb620f634289cc8bb1b55?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Mar 07 |
 | **[Western Digital](https://www.westerndigital.com)** | **[Summer 2025 Intern, Operations Research & Analytics Engineering](https://jobright.ai/jobs/info/67cb8ea993d3d48e99581f51?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Mar 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NEOGOV](http://www.neogov.com)** | **[Information Technology Intern (Hourly)](https://jobright.ai/jobs/info/67cb471ba24f55b253945f69?utm_campaign=1079&utm_source=git)** | Trenton, NJ | On Site | Mar 07 |
 | **[Viasat](http://www.viasat.com)** | **[KVS Software Development Intern](https://jobright.ai/jobs/info/67cb41555d13b9b330527420?utm_campaign=1079&utm_source=git)** | Carlsbad, CA | Hybrid | Mar 07 |
 | **[Nokia](http://www.nokia.com)** | **[Sofware Developer Intern](https://jobright.ai/jobs/info/67cb436bd8e24b110592f015?utm_campaign=1079&utm_source=git)** | 2000 W Lucent Lane, Naperville, Illinois, 60563-1443, US | On Site | Mar 07 |
-| ↳ | **[Nokia Standards Summer Intern](https://jobright.ai/jobs/info/67cb436bd8e24b110592efe5?utm_campaign=1079&utm_source=git)** | 2000 W Lucent Lane, Naperville, Illinois, 60563-1443, US | On Site | Mar 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
