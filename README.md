@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[SimonComputing, Inc.](https://www.prd.simoncomputing.com/)** | **[Software Development Summer Internship](https://jobright.ai/jobs/info/67e070cfa0097a591795316f?utm_campaign=1079&utm_source=git)** | Alexandria, VA | On Site | Mar 23 |
+| **[Sigma](http://sigmacomputing.com)** | **[Software Engineer (New Grad Program)](https://jobright.ai/jobs/info/67a3fe0073aff8322aa18fbb?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Mar 23 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Software Development Intern](https://jobright.ai/jobs/info/66c67e6289d6136c4923e966?utm_campaign=1079&utm_source=git)** | Scottsdale, AZ | On Site | Mar 23 |
 | **[Woven by Toyota](https://woven.toyota/en)** | **[Solutions Engineering Intern](https://jobright.ai/jobs/info/6789761dc58f5ab08e38e1b6?utm_campaign=1079&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 23 |
 | **[Vast](https://www.vast.space)** | **[Summer 2025 Internship - Software Engineering](https://jobright.ai/jobs/info/678b41ca2f70a4a3a7a33b19?utm_campaign=1079&utm_source=git)** | Long Beach, CA | On Site | Mar 23 |
@@ -74,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Kiewit](http://www.kiewit.com)** | **[Estimating Intern - Kiewit Infrastructure Engineers (Summer 2025)](https://jobright.ai/jobs/info/67763daf4efbcfb5b1b9cc27?utm_campaign=1079&utm_source=git)** | Lone Tree, CO | On Site | Mar 23 |
 | **[The Haskell Company](http://www.haskell.com)** | **[Packaging System Analytics Intern/Co-Op (Seasonal)](https://jobright.ai/jobs/info/66ec3c74e7fbe102a08dd51d?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Mar 23 |
 | **[OptiSigns Inc.](https://www.optisigns.com/)** | **[Software Engineer Intern (Summer 2025)](https://jobright.ai/jobs/info/67dfb4dbada35058921fc143?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | Mar 22 |
+| **[Samsung Semiconductor](https://www.samsung.com/us/samsungsemiconductor)** | **[Intern, Design Engineer](https://jobright.ai/jobs/info/677f02179fcf69ed6bd05f6c?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Mar 22 |
 | **[Amwins](http://www.amwins.com)** | **[Technology Intern](https://jobright.ai/jobs/info/67df1946dd2342a89e150122?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Mar 22 |
 | **[Fiserv](http://www.fiserv.com)** | **[Technology - Summer Intern](https://jobright.ai/jobs/info/67defc7e951339f2dc431e73?utm_campaign=1079&utm_source=git)** | Columbus, OH | On Site | Mar 22 |
 | **[STMicroelectronics](https://www.st.com)** | **[Application Engineer Intern](https://jobright.ai/jobs/info/67886c45f7e61f59aaf2c2b5?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | Hybrid | Mar 22 |
@@ -107,9 +109,9 @@ For a complete list, click the following sortable link below:
 | **[Vertiv](https://www.Vertiv.com)** | **[Computer Engineering Internship (Summer 2025)](https://jobright.ai/jobs/info/66d87b1ca6a566a473a29415?utm_campaign=1079&utm_source=git)** | Westerville, OH | On Site | Mar 22 |
 | **[Coalition, Inc.](https://www.coalitioninc.com)** | **[Frontend Engineer Internship](https://jobright.ai/jobs/info/67c2023c2d784a278e100221?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 22 |
 | **[FM](https://www.fmglobal.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/67c225359846462e5fcef08c?utm_campaign=1079&utm_source=git)** | Johnston, RI | Remote | Mar 22 |
-| **[Cadence](https://www.cadence.com)** | **[Software Intern](https://jobright.ai/jobs/info/67a5791e55bde95c4a7fed66?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Mar 22 |
 | **[AARP](http://www.aarp.org)** | **[Information Technology Intern](https://jobright.ai/jobs/info/67de99f6940760072e1e1d79?utm_campaign=1079&utm_source=git)** | Washington, DC | Hybrid | Mar 22 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Software Development Intern (Summer 2025)](https://jobright.ai/jobs/info/67de99f6940760072e1e1f0d?utm_campaign=1079&utm_source=git)** | Milford, OH | On Site | Mar 22 |
+| **[Cadence](https://www.cadence.com)** | **[Software Intern](https://jobright.ai/jobs/info/67a5791e55bde95c4a7fec86?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Mar 22 |
 | **[HP](http://www.hp.com)** | **[Gaming Software Experience Engineer Intern](https://jobright.ai/jobs/info/67c5326294ebde4771a1ed7e?utm_campaign=1079&utm_source=git)** | Spring, TX | On Site | Mar 22 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - Software Engineer](https://jobright.ai/jobs/info/6740050222e7eebe1ee6bca6?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Mar 22 |
 | **[Waymo](https://waymo.com/)** | **[2025 Summer Intern, MS/PhD, Model Performance Optimization](https://jobright.ai/jobs/info/67a54c6da9385b70f9353e15?utm_campaign=1079&utm_source=git)** | Mountain View, CA | Hybrid | Mar 22 |
@@ -126,35 +128,33 @@ For a complete list, click the following sortable link below:
 | **[Foot Locker](http://www.footlocker-inc.com)** | **[Intern - Engineer, End User Services](https://jobright.ai/jobs/info/67de65740fac721981a79d23?utm_campaign=1079&utm_source=git)** | Irving, TX | Hybrid | Mar 21 |
 | **[Karman Space & Defense](https://linktr.ee/karmanspacedefense)** | **[Software Engineer](https://jobright.ai/jobs/info/67de627255be9ca315924606?utm_campaign=1079&utm_source=git)** | Wilsonville, OR | On Site | Mar 21 |
 | **[John Deere](https://www.deere.com)** | **[Part Time Student - Software Engineer - East Moline, IL](https://jobright.ai/jobs/info/67df9df99d09bf1043b900f3?utm_campaign=1079&utm_source=git)** | East Moline, IL | Hybrid | Mar 21 |
-| **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Intern - Programmer](https://jobright.ai/jobs/info/67de5a5e8939f2138de590c5?utm_campaign=1079&utm_source=git)** | Plano, TX | On Site | Mar 21 |
+| **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Intern - Programmer](https://jobright.ai/jobs/info/67de5c518939f2138de59b52?utm_campaign=1079&utm_source=git)** | Plano, TX | On Site | Mar 21 |
 | **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[QA Engineering Intern (Remote in California)](https://jobright.ai/jobs/info/67de4c5eeec1cf77625dfadf?utm_campaign=1079&utm_source=git)** | California, United States | Remote | Mar 21 |
 | **[McLane Company, Inc.](http://www.mclaneco.com)** | **[Summer 2025 Intern I- Computer Science](https://jobright.ai/jobs/info/67df9d987e4a0e18cdb55fcf?utm_campaign=1079&utm_source=git)** | Temple, TX | On Site | Mar 21 |
 | **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[Software Engineering Intern (Remote in California)](https://jobright.ai/jobs/info/67de4c5eeec1cf77625dfabb?utm_campaign=1079&utm_source=git)** | California, United States | Remote | Mar 21 |
-| ↳ | **[Software Engineering Intern (Remote in North Carolina)](https://jobright.ai/jobs/info/67de4c5eeec1cf77625dfadc?utm_campaign=1079&utm_source=git)** | North Carolina, United States | Remote | Mar 21 |
-| ↳ | **[Software Engineering Intern (Remote in Colorado)](https://jobright.ai/jobs/info/67de4c5eeec1cf77625dfae0?utm_campaign=1079&utm_source=git)** | Colorado, United States | Remote | Mar 21 |
-| ↳ | **[QA Engineering Intern (Remote in North Carolina)](https://jobright.ai/jobs/info/67de4c5eeec1cf77625dfade?utm_campaign=1079&utm_source=git)** | North Carolina, United States | Remote | Mar 21 |
 | ↳ | **[Software Engineering Intern (Remote in Arizona)](https://jobright.ai/jobs/info/67de4c5eeec1cf77625dfac4?utm_campaign=1079&utm_source=git)** | Arizona, United States | Remote | Mar 21 |
+| ↳ | **[Software Engineering Intern (Remote in Colorado)](https://jobright.ai/jobs/info/67de4c5eeec1cf77625dfae0?utm_campaign=1079&utm_source=git)** | Colorado, United States | Remote | Mar 21 |
+| ↳ | **[Software Engineering Intern (Remote in North Carolina)](https://jobright.ai/jobs/info/67de4c5eeec1cf77625dfadc?utm_campaign=1079&utm_source=git)** | North Carolina, United States | Remote | Mar 21 |
+| ↳ | **[QA Engineering Intern (Remote in North Carolina)](https://jobright.ai/jobs/info/67de4c5eeec1cf77625dfade?utm_campaign=1079&utm_source=git)** | North Carolina, United States | Remote | Mar 21 |
 | ↳ | **[QA Engineering Intern (Remote in Colorado)](https://jobright.ai/jobs/info/67de4c5eeec1cf77625dface?utm_campaign=1079&utm_source=git)** | Colorado, United States | Remote | Mar 21 |
+| ↳ | **[QA Engineering Intern (Remote in Arizona)](https://jobright.ai/jobs/info/67de4c5eeec1cf77625dfad5?utm_campaign=1079&utm_source=git)** | Arizona, United States | Remote | Mar 21 |
 | ↳ | **[QA Engineering Intern (Remote in Utah)](https://jobright.ai/jobs/info/67de4c5eeec1cf77625dfaeb?utm_campaign=1079&utm_source=git)** | Utah, United States | Remote | Mar 21 |
 | ↳ | **[Software Engineering Intern (Remote in Utah)](https://jobright.ai/jobs/info/67de4c5eeec1cf77625dfb06?utm_campaign=1079&utm_source=git)** | Utah, United States | Remote | Mar 21 |
-| ↳ | **[QA Engineering Intern (Remote in Arizona)](https://jobright.ai/jobs/info/67de4c5eeec1cf77625dfad5?utm_campaign=1079&utm_source=git)** | Arizona, United States | Remote | Mar 21 |
 | **[Sony Interactive Entertainment](https://www.sie.com)** | **[Software Engineering Intern - Undergraduate ](https://jobright.ai/jobs/info/67de44106fed32fda1866c25?utm_campaign=1079&utm_source=git)** | United States, San Diego, CA | On Site | Mar 21 |
+| **[SEPHORA](https://www.sephora.com)** | **[Intern, IT Supply Chain Engineer](https://jobright.ai/jobs/info/67e0cfabc18fe01ac5626220?utm_campaign=1079&utm_source=git)** | California, United States | On Site | Mar 21 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2025 Summer Intern - Software Engineer (Bachelor's Degree)](https://jobright.ai/jobs/info/67df71c6fed21a2afe3ae235?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Mar 21 |
 | **[Ampirical](http://ampirical.com)** | **[Intern - Software Engineering](https://jobright.ai/jobs/info/67de1d7a281c95fcf692ccf8?utm_campaign=1079&utm_source=git)** | Covington, LA | Hybrid | Mar 21 |
 | **[The Johns Hopkins University Applied Physics Laboratory](http://jhuapl.edu/)** | **[2025 Internship - Software Development & Data Engineering](https://jobright.ai/jobs/info/67de2c3089f0463a130c2904?utm_campaign=1079&utm_source=git)** | Laurel, MD | On Site | Mar 21 |
 | **[Tandem Diabetes Care](http://www.tandemdiabetes.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/67de0d2b0a8756902046bce1?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | Mar 21 |
 | **[KLA](https://www.kla.com)** | **[System Software Intern](https://jobright.ai/jobs/info/67de0cc11046cc372312ae07?utm_campaign=1079&utm_source=git)** | Milpitas, CA | On Site | Mar 21 |
-| **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[Software Engineering Intern (Remote in Utah)](https://jobright.ai/jobs/info/67de08b06659c3e6feb1c8f4?utm_campaign=1079&utm_source=git)** | Utah | Remote | Mar 21 |
-| ↳ | **[Software Engineering Intern (Remote in North Carolina)](https://jobright.ai/jobs/info/67de08b06659c3e6feb1c8da?utm_campaign=1079&utm_source=git)** | North Carolina | Remote | Mar 21 |
+| **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[Software Engineering Intern (Remote in North Carolina)](https://jobright.ai/jobs/info/67de08b06659c3e6feb1c8da?utm_campaign=1079&utm_source=git)** | North Carolina | Remote | Mar 21 |
+| ↳ | **[Software Engineering Intern (Remote in Utah)](https://jobright.ai/jobs/info/67de08b06659c3e6feb1c8f4?utm_campaign=1079&utm_source=git)** | Utah | Remote | Mar 21 |
 | ↳ | **[Software Engineering Intern (Remote in Colorado)](https://jobright.ai/jobs/info/67de08b06659c3e6feb1c8f2?utm_campaign=1079&utm_source=git)** | Colorado | Remote | Mar 21 |
-| ↳ | **[Software Engineering Intern (Remote in Arizona)](https://jobright.ai/jobs/info/67de08b06659c3e6feb1c974?utm_campaign=1079&utm_source=git)** | Arizona | Remote | Mar 21 |
 | ↳ | **[Software Engineering Intern (Remote in California)](https://jobright.ai/jobs/info/67de08b06659c3e6feb1c91a?utm_campaign=1079&utm_source=git)** | California | Remote | Mar 21 |
+| ↳ | **[Software Engineering Intern (Remote in Arizona)](https://jobright.ai/jobs/info/67de08b06659c3e6feb1c974?utm_campaign=1079&utm_source=git)** | Arizona | Remote | Mar 21 |
 | ↳ | **[QA Engineering Intern (Remote in California)](https://jobright.ai/jobs/info/67de08b06659c3e6feb1c934?utm_campaign=1079&utm_source=git)** | California | Remote | Mar 21 |
-| ↳ | **[QA Engineering Intern (Remote in Utah)](https://jobright.ai/jobs/info/67de08b06659c3e6feb1c8d9?utm_campaign=1079&utm_source=git)** | Utah | Remote | Mar 21 |
 | ↳ | **[ QA Engineering Intern (Remote in North Carolina)](https://jobright.ai/jobs/info/67de08b06659c3e6feb1c8e1?utm_campaign=1079&utm_source=git)** | North Carolina | Remote | Mar 21 |
+| ↳ | **[QA Engineering Intern (Remote in Utah)](https://jobright.ai/jobs/info/67de08b06659c3e6feb1c8d9?utm_campaign=1079&utm_source=git)** | Utah | Remote | Mar 21 |
 | ↳ | **[QA Engineering Intern (Remote in Colorado)](https://jobright.ai/jobs/info/67de08b06659c3e6feb1c8d4?utm_campaign=1079&utm_source=git)** | Colorado | Remote | Mar 21 |
 | ↳ | **[QA Engineering Intern (Remote in Arizona)](https://jobright.ai/jobs/info/67de08b06659c3e6feb1c902?utm_campaign=1079&utm_source=git)** | Arizona | Remote | Mar 21 |
-| **[BMO U.S.](http://www.bmoharris.com/us)** | **[Junior Software Developer, Summer 2025 (Internship) - 10 Weeks](https://jobright.ai/jobs/info/67de01ed6efee23d378f57f5?utm_campaign=1079&utm_source=git)** | Naperville, IL | On Site | Mar 21 |
-| **[Draper](https://www.draper.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/67ddfd35985c29c5fe7bb01f?utm_campaign=1079&utm_source=git)** | Cambridge, MA | Hybrid | Mar 21 |
-| **[Kiewit](http://www.kiewit.com)** | **[Kiewit Technology Group Intern](https://jobright.ai/jobs/info/67de01ed6efee23d378f5cea?utm_campaign=1079&utm_source=git)** | Lenexa, KS | On Site | Mar 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
