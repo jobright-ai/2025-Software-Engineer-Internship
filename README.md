@@ -57,12 +57,25 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Johnson & Johnson](http://www.jnj.com)** | **[Technology Intern - 2025 Summer JJT Intern](https://jobright.ai/jobs/info/67e544eafef78c5591757aaf?utm_campaign=1079&utm_source=git)** | New Brunswick, NJ | Hybrid | Mar 27 |
+| ↳ | **[Technology Intern - 2025 Summer JJT Intern](https://jobright.ai/jobs/info/67e544eafef78c5591757ab1?utm_campaign=1079&utm_source=git)** | Jacksonville, FL | Hybrid | Mar 27 |
+| ↳ | **[Technology Intern - 2025 Summer JJT Intern](https://jobright.ai/jobs/info/67e544eafef78c5591757ab7?utm_campaign=1079&utm_source=git)** | Trenton, NJ | Hybrid | Mar 27 |
+| ↳ | **[Technology Intern - 2025 Summer JJT Intern](https://jobright.ai/jobs/info/67e54903af661755005d7c8c?utm_campaign=1079&utm_source=git)** | Cambridge, MA | Hybrid | Mar 27 |
+| ↳ | **[Technology Intern - 2025 Summer JJT Intern](https://jobright.ai/jobs/info/67e544eafef78c5591757abf?utm_campaign=1079&utm_source=git)** | Palm Beach Gardens, FL | Hybrid | Mar 27 |
+| ↳ | **[Technology Intern - 2025 Summer JJT Intern](https://jobright.ai/jobs/info/67e54903af661755005d7c8f?utm_campaign=1079&utm_source=git)** | Bridgewater, NJ | Hybrid | Mar 27 |
+| ↳ | **[Technology Intern - 2025 Summer JJT Intern](https://jobright.ai/jobs/info/67e544eafef78c5591757ac3?utm_campaign=1079&utm_source=git)** | Spring House, PA | Hybrid | Mar 27 |
+| **[ABC Fitness](http://www.abcfinancial.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/67e533e774b0dc8a0035e9e8?utm_campaign=1079&utm_source=git)** | Remote, United States | Remote | Mar 27 |
+| ↳ | **[Software Developer Intern](https://jobright.ai/jobs/info/67e54aa117488ada46dcb062?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 27 |
+| **[Chime](https://www.chime.com)** | **[Software Engineer Intern, Referrals (Summer 2025)](https://jobright.ai/jobs/info/67e54aa117488ada46dcb2b9?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Mar 27 |
+| **[Samsung Electronics America](http://www.samsung.com/us/)** | **[Summer Intern, eComm Software Dev Engineer](https://jobright.ai/jobs/info/67e54029b606d9ecbed19bb9?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Mar 27 |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[SAP IT Intern - Summer 2025](https://jobright.ai/jobs/info/678aee5441240f32e1253c44?utm_campaign=1079&utm_source=git)** | Cranberry Township, PA | Hybrid | Mar 27 |
+| **[Plus](http://plus.ai)** | **[Software Engineer Intern- Runtime, Robotics](https://jobright.ai/jobs/info/67e5294b1adb2c2565a87294?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Mar 27 |
+| ↳ | **[Software Engineer Intern- Runtime, Compute Platform](https://jobright.ai/jobs/info/67e5294b1adb2c2565a872f3?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Mar 27 |
 | **[Raich Ende Malter & Co. LLP](https://www.rem-co.com)** | **[2025 SAP ERP Systems Analyst Summer Intern](https://jobright.ai/jobs/info/67e506de0c4553c6df00d2cf?utm_campaign=1079&utm_source=git)** | Iselin, NJ | On Site | Mar 26 |
 | ↳ | **[2025 Enterprise Technology Developer Summer Intern](https://jobright.ai/jobs/info/67e506de0c4553c6df00d313?utm_campaign=1079&utm_source=git)** | Iselin, NJ | On Site | Mar 26 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Software Engineer, Autonomy Systems Foundations (Fall 2025)](https://jobright.ai/jobs/info/67e4f1870d42a15d4768f682?utm_campaign=1079&utm_source=git)** | Palo Alto, California | On Site | Mar 26 |
 | ↳ | **[Internship, Embedded Software Engineer, Optimus (Fall 2025) ](https://jobright.ai/jobs/info/67e4f1870d42a15d4768f694?utm_campaign=1079&utm_source=git)** | Palo Alto, California | On Site | Mar 26 |
-| **[Keolis Commuter Services](http://keoliscs.com/)** | **[Digital Solutions-Service Delivery Technology Co-op](https://jobright.ai/jobs/info/67e4fd30b8c3aa0b12f02761?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Mar 26 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, UI Developer, Vehicle Firmware (Fall 2025)](https://jobright.ai/jobs/info/67e4fd30b8c3aa0b12f02780?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Mar 26 |
+| ↳ | **[Internship, UI Developer, Vehicle Firmware (Fall 2025)](https://jobright.ai/jobs/info/67e4fd30b8c3aa0b12f02780?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Mar 26 |
 | ↳ | **[Internship, Embedded Software Engineer Body Controls, Vehicle Firmware (Fall 2025)](https://jobright.ai/jobs/info/67e4fd30b8c3aa0b12f02830?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Mar 26 |
 | **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[PhD Intern - Memory Systems](https://jobright.ai/jobs/info/67e4fd30b8c3aa0b12f0282e?utm_campaign=1079&utm_source=git)** | United States | Hybrid | Mar 26 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Embedded Software Engineer, Optimus (Fall 2025)](https://jobright.ai/jobs/info/67e4ee72d007ee2aa15f8fd1?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Mar 26 |
@@ -70,34 +83,30 @@ For a complete list, click the following sortable link below:
 | **[Ion Bank](http://ionbank.com)** | **[Technology Intern - Summer 2025](https://jobright.ai/jobs/info/67e4e5d297f4ebefa10a8ba0?utm_campaign=1079&utm_source=git)** | Naugatuck, CT | On Site | Mar 26 |
 | **[Google](https://www.google.com)** | **[Engineering Manager, Google Compute Engine Autoscaling](https://jobright.ai/jobs/info/67e4e107f45df8e82fa0bc39?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Mar 26 |
 | ↳ | **[Engineering Manager, Google Compute Engine Autoscaling](https://jobright.ai/jobs/info/67e4e107f45df8e82fa0bc3a?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Mar 26 |
-| ↳ | **[Engineering Manager, Google Compute Engine Autoscaling](https://jobright.ai/jobs/info/67e4e107f45df8e82fa0bc3b?utm_campaign=1079&utm_source=git)** | South San Francisco, CA | On Site | Mar 26 |
 | ↳ | **[Engineering Manager, Google Compute Engine Autoscaling](https://jobright.ai/jobs/info/67e4e107f45df8e82fa0bc3c?utm_campaign=1079&utm_source=git)** | Bellevue, WA | On Site | Mar 26 |
+| ↳ | **[Engineering Manager, Google Compute Engine Autoscaling](https://jobright.ai/jobs/info/67e4e107f45df8e82fa0bc3b?utm_campaign=1079&utm_source=git)** | South San Francisco, CA | On Site | Mar 26 |
 | ↳ | **[Engineering Manager, Google Compute Engine Autoscaling](https://jobright.ai/jobs/info/67e4e107f45df8e82fa0bc3f?utm_campaign=1079&utm_source=git)** | Santa Cruz, CA | On Site | Mar 26 |
 | ↳ | **[Engineering Manager, Google Compute Engine Autoscaling](https://jobright.ai/jobs/info/67e4e107f45df8e82fa0bc3e?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Mar 26 |
-| ↳ | **[Engineering Manager, Google Compute Engine Autoscaling](https://jobright.ai/jobs/info/67e4e107f45df8e82fa0bc40?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Mar 26 |
 | ↳ | **[Engineering Manager, Google Compute Engine Autoscaling](https://jobright.ai/jobs/info/67e4e107f45df8e82fa0bc41?utm_campaign=1079&utm_source=git)** | Kirkland, WA | On Site | Mar 26 |
 | ↳ | **[Engineering Manager, Google Compute Engine Autoscaling](https://jobright.ai/jobs/info/67e4e107f45df8e82fa0bc42?utm_campaign=1079&utm_source=git)** | Portland, OR | On Site | Mar 26 |
 | ↳ | **[Engineering Manager, Google Compute Engine Autoscaling](https://jobright.ai/jobs/info/67e4e107f45df8e82fa0bc43?utm_campaign=1079&utm_source=git)** | Reston, VA | On Site | Mar 26 |
 | ↳ | **[Engineering Manager, Google Compute Engine Autoscaling](https://jobright.ai/jobs/info/67e4e107f45df8e82fa0bc44?utm_campaign=1079&utm_source=git)** | Boulder, CO | On Site | Mar 26 |
-| ↳ | **[Engineering Manager, Google Compute Engine Autoscaling](https://jobright.ai/jobs/info/67e4e107f45df8e82fa0bc45?utm_campaign=1079&utm_source=git)** | Washington, DC | On Site | Mar 26 |
-| ↳ | **[Engineering Manager, Google Compute Engine Autoscaling](https://jobright.ai/jobs/info/67e4e107f45df8e82fa0bc4d?utm_campaign=1079&utm_source=git)** | Durham, NC | On Site | Mar 26 |
-| ↳ | **[Engineering Manager, Google Compute Engine Autoscaling](https://jobright.ai/jobs/info/67e4e107f45df8e82fa0bc47?utm_campaign=1079&utm_source=git)** | Madison, WI | On Site | Mar 26 |
 | ↳ | **[Engineering Manager, Google Compute Engine Autoscaling](https://jobright.ai/jobs/info/67e4e107f45df8e82fa0bc48?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Mar 26 |
 | ↳ | **[Engineering Manager, Google Compute Engine Autoscaling](https://jobright.ai/jobs/info/67e4e107f45df8e82fa0bc4c?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Mar 26 |
 | ↳ | **[Engineering Manager, Google Compute Engine Autoscaling](https://jobright.ai/jobs/info/67e4e107f45df8e82fa0bc4a?utm_campaign=1079&utm_source=git)** | Pittsburgh, PA | On Site | Mar 26 |
 | ↳ | **[Engineering Manager, Google Compute Engine Autoscaling](https://jobright.ai/jobs/info/67e4e107f45df8e82fa0bc4b?utm_campaign=1079&utm_source=git)** | Redmond, WA | On Site | Mar 26 |
+| ↳ | **[Engineering Manager, Google Compute Engine Autoscaling](https://jobright.ai/jobs/info/67e4e107f45df8e82fa0bc47?utm_campaign=1079&utm_source=git)** | Madison, WI | On Site | Mar 26 |
+| ↳ | **[Engineering Manager, Google Compute Engine Autoscaling](https://jobright.ai/jobs/info/67e4e107f45df8e82fa0bc4d?utm_campaign=1079&utm_source=git)** | Durham, NC | On Site | Mar 26 |
+| ↳ | **[Engineering Manager, Google Compute Engine Autoscaling](https://jobright.ai/jobs/info/67e4e107f45df8e82fa0bc4f?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Mar 26 |
 | ↳ | **[Engineering Manager, Google Compute Engine Autoscaling](https://jobright.ai/jobs/info/67e4e107f45df8e82fa0bc50?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Mar 26 |
 | ↳ | **[Engineering Manager, Google Compute Engine Autoscaling](https://jobright.ai/jobs/info/67e4e107f45df8e82fa0bc4e?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Mar 26 |
-| ↳ | **[Engineering Manager, Google Compute Engine Autoscaling](https://jobright.ai/jobs/info/67e4e107f45df8e82fa0bc4f?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Mar 26 |
 | ↳ | **[Engineering Manager, Google Compute Engine Autoscaling](https://jobright.ai/jobs/info/67e4e107f45df8e82fa0bc51?utm_campaign=1079&utm_source=git)** | Goleta, CA | On Site | Mar 26 |
 | ↳ | **[Engineering Manager, Google Compute Engine Autoscaling](https://jobright.ai/jobs/info/67e4e107f45df8e82fa0bc52?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Mar 26 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Frameworks Software Engineer Intern, Summer 2025](https://jobright.ai/jobs/info/67e4d1d31ada29e077e90249?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Mar 26 |
 | **[Google](https://www.google.com)** | **[Engineering Manager, Google Compute Engine Autoscaling](https://jobright.ai/jobs/info/67e4fee529c52d2731863225?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Mar 26 |
 | ↳ | **[Engineering Manager, Google Compute Engine Autoscaling](https://jobright.ai/jobs/info/67e4fee529c52d2731863226?utm_campaign=1079&utm_source=git)** | Redwood City, CA | On Site | Mar 26 |
 | ↳ | **[Engineering Manager, Google Compute Engine Autoscaling](https://jobright.ai/jobs/info/67e4fee529c52d2731863227?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Mar 26 |
-| ↳ | **[Engineering Manager, Google Compute Engine Autoscaling](https://jobright.ai/jobs/info/67e4fee529c52d2731863228?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Mar 26 |
 | ↳ | **[Engineering Manager, Google Compute Engine Autoscaling](https://jobright.ai/jobs/info/67e4cb0fa39da7c2f66b4630?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Mar 26 |
-| ↳ | **[Engineering Manager, Google Compute Engine Autoscaling](https://jobright.ai/jobs/info/67e4cb0fa39da7c2f66b45b1?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Mar 26 |
 | ↳ | **[Engineering Manager, Google Compute Engine Autoscaling](https://jobright.ai/jobs/info/67e4cb0fa39da7c2f66b4631?utm_campaign=1079&utm_source=git)** | San Bruno, CA | On Site | Mar 26 |
 | **[CompanyCam](https://www.companycam.com)** | **[Quality Assurance Engineer Intern](https://jobright.ai/jobs/info/67e4ee72d007ee2aa15f9188?utm_campaign=1079&utm_source=git)** | Lincoln, NE | On Site | Mar 26 |
 | **[Ticketmaster](https://www.ticketmaster.com)** | **[Intern, Software Engineer](https://jobright.ai/jobs/info/67e4ca62e0d3d98dc8699308?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Mar 26 |
@@ -141,20 +150,11 @@ For a complete list, click the following sortable link below:
 | **[IPC Systems](http://www.ipc.com)** | **[Product Engineering OSS Engineer Intern](https://jobright.ai/jobs/info/67e481c938df783307099648?utm_campaign=1079&utm_source=git)** | Newark, NJ | On Site | Mar 26 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Digital Software Engineering Intern](https://jobright.ai/jobs/info/67e463f2bb496d2c29b48acc?utm_campaign=1079&utm_source=git)** | Helpful Smiles Technology Center (HST), James Street, Grimes, IA | On Site | Mar 26 |
 | **[Jane Street](https://www.janestreet.com)** | **[NYC Summer INSIGHT 2025 - Software Engineering](https://jobright.ai/jobs/info/67e46e503d2fa58f318dbdd9?utm_campaign=1079&utm_source=git)** | New York, New York, United States | On Site | Mar 26 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/67e462662787f36ea494cd02?utm_campaign=1079&utm_source=git)** | Work From Home - California | On Site | Mar 26 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/67e462662787f36ea494ce7e?utm_campaign=1079&utm_source=git)** | Work From Home - California | On Site | Mar 26 |
 | **[Sedgwick](http://www.sedgwick.com)** | **[SAP ERP Intern](https://jobright.ai/jobs/info/67e455deefe511899d8d5846?utm_campaign=1079&utm_source=git)** | Telecommuter AR | On Site | Mar 26 |
 | **[Acima](https://www.acima.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/67e4661d9ebeaa907f541333?utm_campaign=1079&utm_source=git)** | Draper, UT | On Site | Mar 26 |
 | **[Cadence](https://www.cadence.com)** | **[Software Internship, Linux ARM Project (Summer 2025)](https://jobright.ai/jobs/info/67e4547804449acb21b2a37c?utm_campaign=1079&utm_source=git)** | HOME MA | On Site | Mar 26 |
 | **[Magna International](http://www.magna.com/)** | **[Student - Engineering Low Speed Features](https://jobright.ai/jobs/info/67e45f1f13e4dc5ab95e0614?utm_campaign=1079&utm_source=git)** | Auburn Hills, MI | On Site | Mar 26 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Software Engineer - Intern](https://jobright.ai/jobs/info/67e45c70333f09a9f48c350a?utm_campaign=1079&utm_source=git)** | Scottsdale, AZ | Hybrid | Mar 26 |
 | **[Actian](http://www.actian.com)** | **[UI Intern](https://jobright.ai/jobs/info/67e45c70333f09a9f48c3557?utm_campaign=1079&utm_source=git)** | US-Remote | Remote | Mar 26 |
-| **[Tencent Americas](http://www.exploretencent.com/careers/)** | **[IT Engineer Intern](https://jobright.ai/jobs/info/67c8b552286b91220b0e7b4b?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Mar 26 |
-| **[Chime](https://www.chime.com)** | **[Software Engineer Intern, Referrals (Summer 2025)](https://jobright.ai/jobs/info/67e45250bc4ba27bee56f1be?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Mar 26 |
-| **[Actian](http://www.actian.com)** | **[UI Intern](https://jobright.ai/jobs/info/67e478827eb7981958978f1d?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 26 |
-| **[Illumio](http://www.illumio.com)** | **[Engineering Intern, Architecture ](https://jobright.ai/jobs/info/67e45250bc4ba27bee56ed88?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Mar 26 |
-| **[ARxIUM](https://www.arxium.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/67e4661d9ebeaa907f541664?utm_campaign=1079&utm_source=git)** | Buffalo Grove, IL | Hybrid | Mar 26 |
-| **[Gen](https://www.gendigital.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/67e44de158123b13d99ef958?utm_campaign=1079&utm_source=git)** | Phoenix, AZ | Hybrid | Mar 26 |
-| **[Calix](http://www.calix.com)** | **[Oracle Integration Engineer Intern](https://jobright.ai/jobs/info/67e43bc7247a236433eaca46?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 26 |
-| ↳ | **[Oracle Analytics Engineering Intern](https://jobright.ai/jobs/info/67e43bc7247a236433eaca37?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 26 |
-| **[CGI](https://www.cgi.com)** | **[Software Developer Intern (Summer Internship Program)](https://jobright.ai/jobs/info/67e388c2f40e9150b5286be6?utm_campaign=1079&utm_source=git)** | Belton, TX | Hybrid | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
