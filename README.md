@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BD](https://www.bd.com)** | **[Software Technology Solutions Intern, Software Engineering (HealthSight) (Remote)](https://jobright.ai/jobs/info/67ea9886c91983c74c7f4aa0?utm_campaign=1079&utm_source=git)** | USA CA - San Diego Bldg A&B | Remote | Mar 31 |
+| **[NVIDIA](https://www.nvidia.com)** | **[Performance Engineering Intern, Deep Learning and HPC - Summer 2025](https://jobright.ai/jobs/info/67ea9824694ea6f05b338667?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Mar 31 |
 | **[Genuine Parts Company](http://genpt.com)** | **[Technology Intern - Engineer - Summer 2025](https://jobright.ai/jobs/info/67e3fe289753a40d0da78fb2?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Hybrid | Mar 30 |
 | **[Flow](https://flowai.tech)** | **[Senior Web Developer Intern (March 2025 Start)](https://jobright.ai/jobs/info/67e9ef3a80882e8c53a340d1?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Mar 30 |
 | ↳ | **[Senior Full-Stack Engineer Intern (March 2025 Start)](https://jobright.ai/jobs/info/67e9ef3a80882e8c53a340d2?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Mar 30 |
@@ -86,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Maximus](http://www.maximus.com/)** | **[Cloud Engineering Intern](https://jobright.ai/jobs/info/67a3f0c595275fd814c3f922?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 29 |
 | **[Hydrow, Inc.](https://hydrow.com)** | **[Co-op: Software Engineering](https://jobright.ai/jobs/info/67e83ad0bdf23dd08cbb84ea?utm_campaign=1079&utm_source=git)** | Boston, MA | Hybrid | Mar 29 |
 | **[BioSpace](http://www.biospace.com/)** | **[Grad Intern  -Digital Technology Innovation (Summer 2025)](https://jobright.ai/jobs/info/67e8151e37e326730a4f22ab?utm_campaign=1079&utm_source=git)** | Washington, DC | On Site | Mar 29 |
-| **[Amgen](http://www.amgen.com)** | **[Grad Intern  -Digital Technology Innovation (Summer 2025)](https://jobright.ai/jobs/info/67e4179a7e58b45fa3092a63?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 29 |
 | **[NetApp](http://netapp.com)** | **[Intern - Solutions Engineer](https://jobright.ai/jobs/info/67e80aaf7aa2c3631ebe2f85?utm_campaign=1079&utm_source=git)** | United States | Hybrid | Mar 29 |
 | ↳ | **[Sales Product Architect Intern](https://jobright.ai/jobs/info/67e810ef18d113875962c535?utm_campaign=1079&utm_source=git)** | United States | Hybrid | Mar 29 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Frontend Developer Intern](https://jobright.ai/jobs/info/67e80f07248cfee4b34e947c?utm_campaign=1079&utm_source=git)** | Moon, PA | Hybrid | Mar 29 |
@@ -97,6 +98,7 @@ For a complete list, click the following sortable link below:
 | **[Hydrow, Inc.](https://hydrow.com)** | **[Co-op: Software Engineering](https://jobright.ai/jobs/info/67e7eec1789e3bc218d384a1?utm_campaign=1079&utm_source=git)** | Boston, MA or Hybrid | Hybrid | Mar 29 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Software Engineering Intern 4](https://jobright.ai/jobs/info/67ca3ecff4acae9f8e9f2bff?utm_campaign=1079&utm_source=git)** | Pocasset, MA | On Site | Mar 29 |
 | **[Cadence](https://www.cadence.com)** | **[Software Engineering Intern - Circuit Simulation infrastructure](https://jobright.ai/jobs/info/67aec0f5293b472cd13eda98?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Mar 29 |
+| **[Veryable](http://veryableops.com)** | **[Mobile Engineer Intern (iOS) - Unpaid](https://jobright.ai/jobs/info/67e6b205a91f2755870bbe92?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Mar 29 |
 | **[Relativity](http://www.relativity.com)** | **[Software Engineering Intern - Processing Platform](https://jobright.ai/jobs/info/67ae94c8ad66fa822eccdf26?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 29 |
 | **[Cadence](https://www.cadence.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/67aeb5cb4a85d98dff772f96?utm_campaign=1079&utm_source=git)** | Pittsburgh, PA | On Site | Mar 29 |
 | **[Relativity](http://www.relativity.com)** | **[Software Engineering Intern - PDF](https://jobright.ai/jobs/info/67ae92eead66fa822eccd77d?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Blue Origin](http://www.blueorigin.com)** | **[Software Applications Engineer I – Early Career 2025 University Grad](https://jobright.ai/jobs/info/67e703de4cf80329a5881df1?utm_campaign=1079&utm_source=git)** | Merritt Island, FL | On Site | Mar 28 |
 | ↳ | **[Software Development Engineer I – Early Career 2025 University Grad](https://jobright.ai/jobs/info/67e70e6ee256c7955b4b891c?utm_campaign=1079&utm_source=git)** | Denver, CO | On Site | Mar 28 |
 | ↳ | **[Software Applications Engineer I – Early Career 2025 University Grad](https://jobright.ai/jobs/info/67e70e6ee256c7955b4b891d?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Mar 28 |
-| ↳ | **[Software Development Engineer I – Early Career 2025 University Grad](https://jobright.ai/jobs/info/67e70e6ee256c7955b4b8922?utm_campaign=1079&utm_source=git)** | Merritt Island, FL | On Site | Mar 28 |
-| ↳ | **[Software Applications Engineer I – Early Career 2025 University Grad](https://jobright.ai/jobs/info/67e70e6ee256c7955b4b8928?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
