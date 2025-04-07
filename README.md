@@ -57,14 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sigma](http://sigmacomputing.com)** | **[Software Engineering Intern (Summer 2025)](https://jobright.ai/jobs/info/67eff0e8887f340f1f8bc8eb?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Apr 06 |
+| ↳ | **[Software Engineer (New Grad Program)](https://jobright.ai/jobs/info/67f193322f8c6a4af26e7c72?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Apr 06 |
 | **[Cadence](https://www.cadence.com)** | **[Software Development Internship, SDA (Summer 2025)](https://jobright.ai/jobs/info/679d8d8404b8775e2042d790?utm_campaign=1079&utm_source=git)** | Burlington, MA | On Site | Apr 06 |
 | **[Ericsson](https://www.ericsson.com)** | **[RA DRI Silicon Valley Intern](https://jobright.ai/jobs/info/67f28aca335228edcad1d91e?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Apr 06 |
+| **[Astranis Space Technologies](http://www.astranis.com)** | **[Full Stack Developer, Network Software - Intern (Spring 2025)](https://jobright.ai/jobs/info/6749631c818aa0a84e66a12a?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Apr 06 |
 | **[Granite Telecommunications](http://www.granitenet.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/67f274b56b87e00b8a519980?utm_campaign=1079&utm_source=git)** | Quincy, MA | On Site | Apr 06 |
+| **[Cisco](http://www.cisco.com)** | **[Software Engineer I (Intern) United States](https://jobright.ai/jobs/info/67f21062028a403bf5e7e7a7?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 06 |
 | **[Juniper Networks](http://www.juniper.net)** | **[Software Engineering Intern - RAG & Automation (Summer 2025)](https://jobright.ai/jobs/info/67de7662bc30ebe2ca28b7b1?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Apr 06 |
 | **[Cadence](https://www.cadence.com)** | **[SVG Software Intern (Summer 2025)](https://jobright.ai/jobs/info/67f2458f0beae0f9cd924420?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 06 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2025 Fall Co-op Software Engineer Intern - Chantilly VA - R10191719-2](https://jobright.ai/jobs/info/67f1fda4191eaafd232cb52b?utm_campaign=1079&utm_source=git)** | Chantilly, VA | On Site | Apr 05 |
 | **[Oracle](https://www.oracle.com/)** | **[Global Improvement Intern](https://jobright.ai/jobs/info/67f1d92201be1d135290d452?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Apr 05 |
-| ↳ | **[Global Improvement Intern](https://jobright.ai/jobs/info/67f192cd51c6b317d7a8609a?utm_campaign=1079&utm_source=git)** | Austin, TX, United States | On Site | Apr 05 |
+| **[Bob's Discount Furniture](http://www.mybobs.com)** | **[IT Intern – Quality Assurance and Automated Testing](https://jobright.ai/jobs/info/67b8d76b008cd5df56055ef2?utm_campaign=1079&utm_source=git)** | Massachusetts, United States | Remote | Apr 05 |
+| **[Oracle](https://www.oracle.com/)** | **[Global Improvement Intern](https://jobright.ai/jobs/info/67f192cd51c6b317d7a8609a?utm_campaign=1079&utm_source=git)** | Austin, TX, United States | On Site | Apr 05 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Software R&D Engineer](https://jobright.ai/jobs/info/67f195e114374d66f3a2fe4d?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Apr 05 |
 | ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/67f18c564f7d39914c2c34d8?utm_campaign=1079&utm_source=git)** | Arden Hills, MN | On Site | Apr 05 |
 | **[Bob's Discount Furniture](http://www.mybobs.com)** | **[IT SAP Intern](https://jobright.ai/jobs/info/67b8ce204bcfe65d6cd999dc?utm_campaign=1079&utm_source=git)** | Manhattan, NY | On Site | Apr 05 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ansys](http://www.ansys.com)** | **[Fall 2025 Intern - Software Testing - Design (Bachelor's)](https://jobright.ai/jobs/info/67c92a1392abaeaf4ea244e2?utm_campaign=1079&utm_source=git)** | Canonsburg, PA | On Site | Apr 04 |
 | **[Catalyte](https://www.catalyte.io)** | **[Apprentice Software Developer](https://jobright.ai/jobs/info/67f02030330e4ca458eb39b9?utm_campaign=1079&utm_source=git)** | Arlington, VA | On Site | Apr 04 |
 | **[The Hartford](http://www.thehartford.com)** | **[Jr Software Quality Engineering Summer Intern](https://jobright.ai/jobs/info/67f016d68dd4bef39a3aa583?utm_campaign=1079&utm_source=git)** | Hartford, CT | On Site | Apr 04 |
-| ↳ | **[Cloud Services Platform Intern](https://jobright.ai/jobs/info/67f016d68dd4bef39a3aa539?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Apr 04 |
-| **[HDR](http://www.hdrinc.com)** | **[Functional ERP Intern (Summer 2025)](https://jobright.ai/jobs/info/67f00fd1cb5cca358cd97f2b?utm_campaign=1079&utm_source=git)** | United States-Nebraska-Omaha | On Site | Apr 04 |
-| **[The Hartford](http://www.thehartford.com)** | **[Enterprise Digital Enablement Intern](https://jobright.ai/jobs/info/67f0096341eed88aa39c3e51?utm_campaign=1079&utm_source=git)** | Hartford, CT | On Site | Apr 04 |
-| **[Juniper Networks](http://www.juniper.net)** | **[Software Engineering Intern - Summer 2025](https://jobright.ai/jobs/info/67f018d0ba92eb874815001c?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Apr 04 |
-| **[Cadence](https://www.cadence.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/67b7fcafd9a3e4b4aa3d2e3d?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
