@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IMA360](https://www.ima360.com)** | **[Backend Software Engineer Intern - Programming Language "Go"](https://jobright.ai/jobs/info/6832831a539ef4434bdc1043?utm_campaign=1079&utm_source=git)** | DFW Metroplex | On Site | May 24 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Software Engineering Intern Level D (Alpharetta, GA)](https://jobright.ai/jobs/info/683220b862f0b2a7a793debc?utm_campaign=1079&utm_source=git)** | Alpharetta, GA | On Site | May 24 |
 | **[Alo Yoga](https://www.aloyoga.com/)** | **[Business Systems Engineering Intern](https://jobright.ai/jobs/info/67f8983d143e69ba53049f90?utm_campaign=1079&utm_source=git)** | Beverly Hills, CA | On Site | May 24 |
 | **[Wasabi Technologies](http://www.wasabi.com)** | **[Software Engineering Co-op - Storage](https://jobright.ai/jobs/info/6814d3eb293f964559aa9144?utm_campaign=1079&utm_source=git)** | United States | Remote | May 24 |
@@ -71,14 +72,16 @@ For a complete list, click the following sortable link below:
 | **[Salina Regional Health Center](https://www.srhc.com/)** | **[INFORMATION TECHNOLOGY INTERN](https://jobright.ai/jobs/info/683129d257f96f53b5b08e5a?utm_campaign=1079&utm_source=git)** | Salina, KS | On Site | May 23 |
 | **[Transdev North America](http://www.transdevna.com)** | **[Test Engineer [Internship]](https://jobright.ai/jobs/info/683125783f73b67e7e64d826?utm_campaign=1079&utm_source=git)** | Atwater, CA | On Site | May 23 |
 | **[KCI](http://www.kci.com/)** | **[Technology Intern](https://jobright.ai/jobs/info/683121bb306ae571633ef87c?utm_campaign=1079&utm_source=git)** | Sparks, MD | On Site | May 23 |
-| **[Hyundai AutoEver America](https://www.autoeveramerica.com)** | **[Intern - Software Engineer, Product Development](https://jobright.ai/jobs/info/683119fbeb1acb6b01655cfe?utm_campaign=1079&utm_source=git)** | Costa Mesa, CA | On Site | May 23 |
-| ↳ | **[Intern - Software Engineer](https://jobright.ai/jobs/info/683119fbeb1acb6b01655d0c?utm_campaign=1079&utm_source=git)** | Costa Mesa, CA | On Site | May 23 |
+| **[John Deere](https://www.deere.com)** | **[Part-Time Student - Software Engineering - Urbandale, IA, Ames, IA, or Austin, TX](https://jobright.ai/jobs/info/6813dd3ac427d6d6c5810ef1?utm_campaign=1079&utm_source=git)** | Urbandale, IA | Hybrid | May 23 |
+| **[Hyundai AutoEver America](https://www.autoeveramerica.com)** | **[Intern - Software Engineer](https://jobright.ai/jobs/info/683119fbeb1acb6b01655d0c?utm_campaign=1079&utm_source=git)** | Costa Mesa, CA | On Site | May 23 |
 | ↳ | **[Intern - Software Engineer, Dealer Applications](https://jobright.ai/jobs/info/683119fbeb1acb6b01655cfa?utm_campaign=1079&utm_source=git)** | Fountain Valley, CA | On Site | May 23 |
+| ↳ | **[Intern - Software Engineer, Product Development](https://jobright.ai/jobs/info/683119fbeb1acb6b01655cfe?utm_campaign=1079&utm_source=git)** | Costa Mesa, CA | On Site | May 23 |
 | **[LiveRamp](http://www.liveramp.com)** | **[Co-Op, Software Engineering](https://jobright.ai/jobs/info/68310a4d6aacd90cf6222fd2?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | May 23 |
 | **[Chatsworth Products](http://www.chatsworth.com)** | **[Electronics Software Engineer Internship](https://jobright.ai/jobs/info/680ab4d59cff3c078f3d2c05?utm_campaign=1079&utm_source=git)** | Round Rock, TX | On Site | May 23 |
 | **[Medpace](http://www.medpace.com)** | **[Web Developer Internship/Co-Op Fall 2025](https://jobright.ai/jobs/info/6830d9292943170715b3775f?utm_campaign=1079&utm_source=git)** | Cincinnati, OH | Hybrid | May 23 |
 | **[Arcadis](http://www.arcadis.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6830d6dd5a74073a28ecdd32?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | May 23 |
 | **[Sonova Group](http://www.sonova.com)** | **[Intern, R&T - Software](https://jobright.ai/jobs/info/6830d275a830fee55f600089?utm_campaign=1079&utm_source=git)** | Santa Clarita, CA | Hybrid | May 23 |
+| **[Draper](https://www.draper.com)** | **[System Concepts and Design Summer 2025 Intern](https://jobright.ai/jobs/info/6830d275a830fee55f6001c6?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | May 23 |
 | **[LiveRamp](http://www.liveramp.com)** | **[Co-Op, Software Engineering](https://jobright.ai/jobs/info/6830c8e0c87779964d1701ec?utm_campaign=1079&utm_source=git)** | San Francisco | On Site | May 23 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Software Engineer Intern/Co-Op (Fall 2025)](https://jobright.ai/jobs/info/6830d9292943170715b37767?utm_campaign=1079&utm_source=git)** | Chandler, AZ | On Site | May 23 |
 | ↳ | **[Software Engineer Intern/Co-Op (Fall 2025)](https://jobright.ai/jobs/info/6830c8b5b348fc7ae050c3c0?utm_campaign=1079&utm_source=git)** | Olathe, KS | On Site | May 23 |
@@ -114,13 +117,13 @@ For a complete list, click the following sortable link below:
 | **[Axio Research](http://axioresearch.com)** | **[Research and Innovation - Summer Intern (Paid) - Remote (US or Canada)](https://jobright.ai/jobs/info/682fc01f3d01055c85a970d0?utm_campaign=1079&utm_source=git)** | United States | Remote | May 22 |
 | **[Ansys](http://www.ansys.com)** | **[Fall 2025 Co-op, Software Development (Bachelors)](https://jobright.ai/jobs/info/682aaec1fae5c67ef98e84c3?utm_campaign=1079&utm_source=git)** | Lansing, MI | On Site | May 22 |
 | **[DoorDash](http://www.doordash.com)** | **[Software Engineer I, Entry-Level (Graduation Date: Fall 2024-Summer 2025)](https://jobright.ai/jobs/info/682fad8813c78e17ef884f03?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | May 22 |
-| ↳ | **[Software Engineer I, Entry-Level (Graduation Date: Fall 2024-Summer 2025)](https://jobright.ai/jobs/info/682fabb3f37d7cf6a408c321?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | May 22 |
-| ↳ | **[Software Engineer I, Entry-Level (Graduation Date: Fall 2024-Summer 2025)](https://jobright.ai/jobs/info/682fabb3f37d7cf6a408c34d?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | May 22 |
 | ↳ | **[Software Engineer I, Entry-Level (Graduation Date: Fall 2024-Summer 2025)](https://jobright.ai/jobs/info/682fabb3f37d7cf6a408c34e?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | May 22 |
+| ↳ | **[Software Engineer I, Entry-Level (Graduation Date: Fall 2024-Summer 2025)](https://jobright.ai/jobs/info/682fabb3f37d7cf6a408c34d?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | May 22 |
 | ↳ | **[Software Engineer I, Entry-Level (Graduation Date: Fall 2024-Summer 2025)](https://jobright.ai/jobs/info/682fabb3f37d7cf6a408c34f?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | May 22 |
+| ↳ | **[Software Engineer I, Entry-Level (Graduation Date: Fall 2024-Summer 2025)](https://jobright.ai/jobs/info/682fabb3f37d7cf6a408c321?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | May 22 |
 | **[Amana Brand Heating & Air Conditioning](https://www.amana-hac.com)** | **[INTERN - TEMPORARY](https://jobright.ai/jobs/info/682f9501a94d3237ac5c2097?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | May 22 |
-| **[Everyday Health Group](https://www.everydayhealthgroup.com)** | **[iOS Software Engineer: Co-op Intern](https://jobright.ai/jobs/info/682f8c7dc771a3f2c750d91e?utm_campaign=1079&utm_source=git)** | United States | Remote | May 22 |
-| ↳ | **[iOS Software Engineer: Co-op Intern](https://jobright.ai/jobs/info/682f8c7dc771a3f2c750d97a?utm_campaign=1079&utm_source=git)** | Western, NE | Remote | May 22 |
+| **[Everyday Health Group](https://www.everydayhealthgroup.com)** | **[iOS Software Engineer: Co-op Intern](https://jobright.ai/jobs/info/682f8c7dc771a3f2c750d97a?utm_campaign=1079&utm_source=git)** | Western, NE | Remote | May 22 |
+| ↳ | **[iOS Software Engineer: Co-op Intern](https://jobright.ai/jobs/info/682f8c7dc771a3f2c750d91e?utm_campaign=1079&utm_source=git)** | United States | Remote | May 22 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[IT Intern](https://jobright.ai/jobs/info/682fa577ba412533b5bb9b06?utm_campaign=1079&utm_source=git)** | Greeley, CO | On Site | May 22 |
 | **[OpenAI](https://www.openai.com)** | **[Software Engineer Internship/Co-op (Fall 2025), Applied Engineering](https://jobright.ai/jobs/info/682f7c8f500e1d5a61b15e4c?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | May 22 |
 | **[Everyday Health Group](https://www.everydayhealthgroup.com)** | **[iOS Software Engineer: Co-op Intern](https://jobright.ai/jobs/info/682f79ab7b70aa21dbd643f8?utm_campaign=1079&utm_source=git)** | Remote - Western US | Remote | May 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Samsung Research America (SRA)](http://www.sra.samsung.com/)** | **[2025 Intern, SOC Modeling Infrastructure](https://jobright.ai/jobs/info/682e40a81655a11152f66d41?utm_campaign=1079&utm_source=git)** | 665 Clyde Avenue, Mountain View,  CA, USA | On Site | May 21 |
 | **[Noblis](http://www.noblis.org)** | **[Summer 2025 Intern - Computer Science](https://jobright.ai/jobs/info/682e3d4b4b6a84be5feb3689?utm_campaign=1079&utm_source=git)** | Baltimore, MD | Hybrid | May 21 |
 | **[WuXi Biologics](https://www.wuxibiologics.com/)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/67f9e55c5beaf1e3e74aca5b?utm_campaign=1079&utm_source=git)** | Cranbury, NJ | On Site | May 21 |
-| **[The Citco Group Limited](https://www.citco.com)** | **[IT Intern](https://jobright.ai/jobs/info/682e383c29b3aaa08e0c35c3?utm_campaign=1079&utm_source=git)** | Charlotte, NC | Hybrid | May 21 |
-| ↳ | **[Citco Technology Management (IT) Intern](https://jobright.ai/jobs/info/682e383c29b3aaa08e0c35cf?utm_campaign=1079&utm_source=git)** | Jersey City, NJ | Hybrid | May 21 |
-| **[Cenovus Energy](http://www.cenovus.com)** | **[Computer Science Engineering/IT Student, OH - Lima OR Toledo (Fall 2025)](https://jobright.ai/jobs/info/682e31e3ca241a8c5e432376?utm_campaign=1079&utm_source=git)** | Toledo, OH | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
