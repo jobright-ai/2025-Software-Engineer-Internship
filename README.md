@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Inmar Intelligence](http://www.inmar.com)** | **[Intern, Software Engineer](https://jobright.ai/jobs/info/6839ab1ecf5a1902a21c74e5?utm_campaign=1079&utm_source=git)** | Winston-Salem, NC | On Site | May 30 |
+| **[Leonardo DRS](https://www.leonardodrs.com)** | **[Associate Software Engineering Technician Intern - Fall 2025](https://jobright.ai/jobs/info/681d09e2e371c3e185ac88d3?utm_campaign=1079&utm_source=git)** | Huntsville, AL | Hybrid | May 30 |
+| **[Inmar Intelligence](http://www.inmar.com)** | **[Intern, Software Engineer](https://jobright.ai/jobs/info/683997d54b3757836e5ed4c1?utm_campaign=1079&utm_source=git)** | Headquarters, Winston Salem, NC | On Site | May 30 |
+| **[KLA](https://www.kla.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/681cf6928d7d76c6a9a9779e?utm_campaign=1079&utm_source=git)** | Milpitas, CA | Hybrid | May 30 |
 | **[Farmers Insurance](https://www.farmers.com)** | **[IT Development Internship in Caledonia, MI](https://jobright.ai/jobs/info/68396beb595fedd687aa3924?utm_campaign=1079&utm_source=git)** | Grand Rapids, MI | Hybrid | May 30 |
 | **[Fast Enterprises, LLC](http://www.fastenterprises.com)** | **[Implementation Intern](https://jobright.ai/jobs/info/67f7a08450095ace0265d42d?utm_campaign=1079&utm_source=git)** | Colorado, United States | On Site | May 29 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Software Engineer Opticaster, Energy Engineering (Fall 2025)](https://jobright.ai/jobs/info/68391733e3bca59dacc15f86?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | May 29 |
@@ -89,9 +93,9 @@ For a complete list, click the following sortable link below:
 | **[Salina Regional Health Center](https://www.srhc.com/)** | **[INFORMATION TECHNOLOGY INTERN](https://jobright.ai/jobs/info/6837d56384d6723a7a3028a8?utm_campaign=1079&utm_source=git)** | Salina, KS | On Site | May 28 |
 | **[Tencent](https://www.tencent.com/en-us)** | **[Game Research & Development Intern, Engine Research](https://jobright.ai/jobs/info/6837c4d0c158786d0253ebb9?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | May 28 |
 | **[Southwest Research Institute](http://www.swri.org)** | **[STUDENT ASSISTANT-R&D - STUDENT ENGINEER - Student Software Engineer](https://jobright.ai/jobs/info/68384c1c985c80a14dabbb62?utm_campaign=1079&utm_source=git)** | San Antonio, TX | On Site | May 28 |
-| **[Bank of America](https://www.bankofamerica.com)** | **[Software Engineer - Year Up](https://jobright.ai/jobs/info/6837b7ab0f53f4eeed562710?utm_campaign=1079&utm_source=git)** | Jersey City, NJ | On Site | May 28 |
-| ↳ | **[Software Engineer - Year Up](https://jobright.ai/jobs/info/6837b7ab0f53f4eeed562708?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | May 28 |
-| **[Centric Software](http://www.centricsoftware.com/)** | **[Software Engineer Intern 2025](https://jobright.ai/jobs/info/6837b4285f785b23b9195c20?utm_campaign=1079&utm_source=git)** | CAMPBELL, CA | Hybrid | May 28 |
+| **[Bank of America](https://www.bankofamerica.com)** | **[Software Engineer - Year Up](https://jobright.ai/jobs/info/6837b7ab0f53f4eeed562708?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | May 28 |
+| ↳ | **[Software Engineer - Year Up](https://jobright.ai/jobs/info/6837b7ab0f53f4eeed562710?utm_campaign=1079&utm_source=git)** | Jersey City, NJ | On Site | May 28 |
+| **[Centric Software](http://www.centricsoftware.com/)** | **[Software Engineer Intern 2025](https://jobright.ai/jobs/info/6837b4285f785b23b9195f6c?utm_campaign=1079&utm_source=git)** | CAMPBELL, CA | Hybrid | May 28 |
 | ↳ | **[Software Engineer Intern 2025](https://jobright.ai/jobs/info/6837af58513394dcc9c56c1b?utm_campaign=1079&utm_source=git)** | Campbell, CA | Hybrid | May 28 |
 | **[Service Wire Company](http://servicewire.com)** | **[Internship - Information Technology (IT)](https://jobright.ai/jobs/info/6838bd69f24ef6cf01066cfa?utm_campaign=1079&utm_source=git)** | Culloden, WV | On Site | May 28 |
 | **[TetraMem - Accelerate The World](https://www.tetramem.com/)** | **[Software Intern HK](https://jobright.ai/jobs/info/6838bd69f24ef6cf01066a9f?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 28 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ursa Major](https://www.ursamajor.com)** | **[Avionics Embedded Software Intern](https://jobright.ai/jobs/info/68358848fa8a32692d93e544?utm_campaign=1079&utm_source=git)** | Berthoud, Colorado | On Site | May 27 |
 | **[Nuro](https://nuro.ai)** | **[Software Engineer, Performance - Intern](https://jobright.ai/jobs/info/68358848fa8a32692d93dfb8?utm_campaign=1079&utm_source=git)** | Mountain View, California (HQ) | On Site | May 27 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[Partner Solutions Engineering Intern](https://jobright.ai/jobs/info/683583a62c053d3649c90786?utm_campaign=1079&utm_source=git)** | United States - Remote | Remote | May 27 |
-| **[California ISO](http://www.caiso.com/)** | **[Computer Science Intern - Summer 2025 (Hybrid or Remote)](https://jobright.ai/jobs/info/677d9eb4a8992d20875aa8ae?utm_campaign=1079&utm_source=git)** | Folsom, CA | Hybrid | May 27 |
-| **[Adobe](http://www.adobe.com)** | **[2025 Intern - Software Engineer](https://jobright.ai/jobs/info/6740050222e7eebe1ee6bca6?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 27 |
-| **[Sigma](http://sigmacomputing.com)** | **[Software Engineer (New Grad Program)](https://jobright.ai/jobs/info/68355ee7fa2725e8adbf622b?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | May 26 |
-| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Software Engineer](https://jobright.ai/jobs/info/6834cdd48bdd9011000b63ff?utm_campaign=1079&utm_source=git)** | Milwaukee, Wisconsin, United States | Hybrid | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
