@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[KBR, Inc.](https://www.kbr.com)** | **[National Security Solutions (NSS) Software Engineering Internship](https://jobright.ai/jobs/info/683ced39898ccd2a95c62086?utm_campaign=1079&utm_source=git)** | Virginia, OH | On Site | Jun 01 |
+| **[LiveRamp](http://www.liveramp.com)** | **[Co-Op, Software Engineering](https://jobright.ai/jobs/info/683d9b49baf1916bf1739a8b?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jun 02 |
+| ↳ | **[Co-Op, Software Engineering](https://jobright.ai/jobs/info/683d80580a8de06679599f33?utm_campaign=1079&utm_source=git)** | San Francisco | On Site | Jun 02 |
+| **[ByteDance](http://bytedance.com)** | **[Frontend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce) - 2025 Start Fall (BS/MS)](https://jobright.ai/jobs/info/67cb21239c050af6d0fa3410?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jun 02 |
 | **[Sigma](http://sigmacomputing.com)** | **[Software Engineer (New Grad Program)](https://jobright.ai/jobs/info/68355ee7fa2725e8adbf622b?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jun 01 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Flight Software Intern (Summer 2025)](https://jobright.ai/jobs/info/67f17fe3ab95e873e94bd184?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jun 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Security) - Summer 2025 (BS/MS)](https://jobright.ai/jobs/info/6826da4a5d451099c23f312f?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jun 01 |
@@ -80,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[Neuralink](https://www.neuralink.com)** | **[Software Engineer Intern, BCI Applications](https://jobright.ai/jobs/info/683a6b008f1dc4958bd0be50?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | May 30 |
 | **[Activision](https://www.activision.com/)** | **[Engineering Co-Op - Central Technology - Portland, ME](https://jobright.ai/jobs/info/6825971fda585ad6dc38d341?utm_campaign=1079&utm_source=git)** | Portland, ME | On Site | May 30 |
 | **[Cisco](http://www.cisco.com)** | **[Software Engineer II (Co-Op) United States](https://jobright.ai/jobs/info/683a53e010b95a64a2751214?utm_campaign=1079&utm_source=git)** | RTP, North Carolina, US | On Site | May 30 |
-| ↳ | **[Software Engineer II (Co-Op) United States](https://jobright.ai/jobs/info/683a53e010b95a64a2750f9b?utm_campaign=1079&utm_source=git)** | San Jose, California, US | On Site | May 30 |
 | ↳ | **[Software Engineer II (Co-Op) United States](https://jobright.ai/jobs/info/683a53e010b95a64a2751215?utm_campaign=1079&utm_source=git)** | Maynard, Massachusetts, US | On Site | May 30 |
+| ↳ | **[Software Engineer II (Co-Op) United States](https://jobright.ai/jobs/info/683a53e010b95a64a2750f9b?utm_campaign=1079&utm_source=git)** | San Jose, California, US | On Site | May 30 |
 | ↳ | **[Software Engineer I (Co-Op) United States](https://jobright.ai/jobs/info/683a510a914edeeea36a9759?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | May 30 |
 | **[Neuralink](https://www.neuralink.com)** | **[Software Engineer Intern, BCI Applications](https://jobright.ai/jobs/info/683a4f10018e850cfc42a5fe?utm_campaign=1079&utm_source=git)** | Fremont, California, United States | On Site | May 30 |
 | **[Cisco](http://www.cisco.com)** | **[Software Engineer I (Co-Op) United States](https://jobright.ai/jobs/info/683a4df75ec1cd85f6a78679?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 30 |
@@ -92,7 +94,7 @@ For a complete list, click the following sortable link below:
 | **[Fiserv](http://www.fiserv.com)** | **[Software Development Engineering Apprentice](https://jobright.ai/jobs/info/683a09723a120df2dfc5d7c2?utm_campaign=1079&utm_source=git)** | Milwaukee, WI | On Site | May 30 |
 | **[SRI](http://www.sri.com)** | **[Drexel University Co-op: Software Engineering](https://jobright.ai/jobs/info/683a04efef8356c3e9c37ee1?utm_campaign=1079&utm_source=git)** | US-NJ-Princeton | On Site | May 30 |
 | ↳ | **[Drexel University Co-op: Software Engineering](https://jobright.ai/jobs/info/683a041ceca18f548b0e88d7?utm_campaign=1079&utm_source=git)** | Princeton, NJ | On Site | May 30 |
-| **[Leonardo DRS](https://www.leonardodrs.com)** | **[Fall 2025 Software Engineering Intern](https://jobright.ai/jobs/info/6839fbeee59f9dd56e1f9536?utm_campaign=1079&utm_source=git)** | Beavercreek, OH | Hybrid | May 30 |
+| **[Leonardo DRS](https://www.leonardodrs.com)** | **[Fall 2025 Software Engineering Intern](https://jobright.ai/jobs/info/683a041ceca18f548b0e887f?utm_campaign=1079&utm_source=git)** | Beavercreek, OH | Hybrid | May 30 |
 | **[SoFi](https://www.sofi.com)** | **[MBA Veteran Fellowship, Crypto](https://jobright.ai/jobs/info/6839fa2773763ee05894f113?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | May 30 |
 | **[Nokia](http://www.nokia.com)** | **[Space and Defense SW Test Engineer Co-Op](https://jobright.ai/jobs/info/681d9ec256d71d232697613f?utm_campaign=1079&utm_source=git)** | Naperville, IL | On Site | May 30 |
 | **[Fetch](https://www.fetch.com)** | **[Frontend Engineering Apprentice](https://jobright.ai/jobs/info/6839f1d225e642cc1ed507ed?utm_campaign=1079&utm_source=git)** | Madison, WI | Hybrid | May 30 |
@@ -113,7 +115,7 @@ For a complete list, click the following sortable link below:
 | **[Fast Enterprises, LLC](http://www.fastenterprises.com)** | **[Implementation Intern](https://jobright.ai/jobs/info/67f7a08450095ace0265d42d?utm_campaign=1079&utm_source=git)** | Colorado, United States | On Site | May 29 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Software Engineer Opticaster, Energy Engineering (Fall 2025)](https://jobright.ai/jobs/info/68391733e3bca59dacc15f86?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | May 29 |
 | **[Gametime](http://www.gametime.co)** | **[Full Stack Engineering Intern](https://jobright.ai/jobs/info/681589eeca7a9939ebb8465b?utm_campaign=1079&utm_source=git)** | United States | Remote | May 29 |
-| **[Trideum Corporation](http://trideum.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/68390a355d9db6c6efa759ce?utm_campaign=1079&utm_source=git)** | Killeen, TX | On Site | May 29 |
+| **[Trideum Corporation](http://trideum.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/6839050c40872350a4803774?utm_campaign=1079&utm_source=git)** | Killeen, TX | On Site | May 29 |
 | **[Ansys](http://www.ansys.com)** | **[Fall 2025 Co-op, Software Development (Bachelors)](https://jobright.ai/jobs/info/682aaec1fae5c67ef98e84c3?utm_campaign=1079&utm_source=git)** | Lansing, MI | On Site | May 29 |
 | **[Magna International](http://www.magna.com/)** | **[Student - Engineering Software](https://jobright.ai/jobs/info/681bac15dd031e1cb325f5f0?utm_campaign=1079&utm_source=git)** | Auburn Hills, MI | On Site | May 29 |
 | **[Forterra](https://www.forterra.com)** | **[2025 Intern - Linux / Bash](https://jobright.ai/jobs/info/6838c04e23dbc049590ce46d?utm_campaign=1079&utm_source=git)** | Clarksburg, MD | On Site | May 29 |
@@ -127,8 +129,8 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Jr. Software Development Engineer - Detroit](https://jobright.ai/jobs/info/673c5989096ee402f274db91?utm_campaign=1079&utm_source=git)** | Detroit, MI | On Site | May 29 |
 | **[LiveRamp](http://www.liveramp.com)** | **[Software Engineer, Co-op - Clean Rooms](https://jobright.ai/jobs/info/6838509e1b05479312727b84?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | May 29 |
 | **[C3 AI](https://c3.ai)** | **[Software Engineer - Intern (Summer 2025)](https://jobright.ai/jobs/info/681bb37763f20947b75bfd10?utm_campaign=1079&utm_source=git)** | Redwood City, CA | On Site | May 29 |
-| **[LiveRamp](http://www.liveramp.com)** | **[Software Engineer, Co-op - Clean Rooms](https://jobright.ai/jobs/info/683846cc6fba5d8a103b6d6a?utm_campaign=1079&utm_source=git)** | Little Rock | On Site | May 29 |
-| ↳ | **[Software Engineer, Co-op - Clean Rooms](https://jobright.ai/jobs/info/683846cc6fba5d8a103b6e22?utm_campaign=1079&utm_source=git)** | San Francisco | On Site | May 29 |
+| **[LiveRamp](http://www.liveramp.com)** | **[Software Engineer, Co-op - Clean Rooms](https://jobright.ai/jobs/info/683846cc6fba5d8a103b6e22?utm_campaign=1079&utm_source=git)** | San Francisco | On Site | May 29 |
+| ↳ | **[Software Engineer, Co-op - Clean Rooms](https://jobright.ai/jobs/info/683846cc6fba5d8a103b6d6a?utm_campaign=1079&utm_source=git)** | Little Rock | On Site | May 29 |
 | **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/68380a535826e27b695e379c?utm_campaign=1079&utm_source=git)** | Alberta, AL | On Site | May 29 |
 | **[John Deere](https://www.deere.com)** | **[Part Time Student - Software Engineer - Urbandale, IA](https://jobright.ai/jobs/info/683aa12772a8ff1258060ae9?utm_campaign=1079&utm_source=git)** | Urbandale, IA | Hybrid | May 28 |
 | **[Leidos](https://www.leidos.com/)** | **[Event Based Sensing Algorithm Intern](https://jobright.ai/jobs/info/68380f8af8ec85c623a43157?utm_campaign=1079&utm_source=git)** | Beavercreek, OH | On Site | May 28 |
@@ -142,7 +144,7 @@ For a complete list, click the following sortable link below:
 | **[MSA - The Safety Company](https://www.msasafety.com/global)** | **[IT/Test Engineering Intern](https://jobright.ai/jobs/info/6837999fe117a702459c9257?utm_campaign=1079&utm_source=git)** | Cranberry, PA | Hybrid | May 28 |
 | **[BrainChip ](https://brainchip.com/)** | **[Complier Engineering Intern](https://jobright.ai/jobs/info/6837999fe117a702459c9196?utm_campaign=1079&utm_source=git)** | Laguna Hills, CA | Remote | May 28 |
 | **[CALSTART](http://www.calstart.org)** | **[Web Development Intern](https://jobright.ai/jobs/info/683796afef8f94bbf9bcc9a5?utm_campaign=1079&utm_source=git)** | United States | Remote | May 28 |
-| **[Tencent](https://www.tencent.com/en-us)** | **[Game Research & Development Intern, Engine Research](https://jobright.ai/jobs/info/6837916c64d654abc8e8cd5e?utm_campaign=1079&utm_source=git)** | US-California-Los Angeles | On Site | May 28 |
+| **[Tencent](https://www.tencent.com/en-us)** | **[Game Research & Development Intern, Engine Research](https://jobright.ai/jobs/info/6837916c64d654abc8e8cac0?utm_campaign=1079&utm_source=git)** | US-California-Los Angeles | On Site | May 28 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Internship Program: Engineering Technology - Software](https://jobright.ai/jobs/info/683a294ecfe01f601853d5cd?utm_campaign=1079&utm_source=git)** | Southfield, Michigan, USA, 48076 | On Site | May 28 |
 | **[London Computer Systems](https://www.lcs.com/)** | **[Software Developer Coop/Internship (Fall 2025)](https://jobright.ai/jobs/info/6837663479febcb3497dbb0f?utm_campaign=1079&utm_source=git)** | Cincinnati, OH | On Site | May 28 |
 | **[John Deere](https://www.deere.com)** | **[Part Time Student - Software Engineer - Urbandale, IA](https://jobright.ai/jobs/info/6838a5488d505023fd28823c?utm_campaign=1079&utm_source=git)** | Urbandale, IA | Hybrid | May 28 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | **[The Washington Post](https://www.washingtonpost.com)** | **[Summer Intern, Android Apps](https://jobright.ai/jobs/info/68375340a4a8b1b302203c5d?utm_campaign=1079&utm_source=git)** | Washington, DC | On Site | May 28 |
 | **[AMETEK](http://www.ametek.com)** | **[Quality Assurance Engineering Intern](https://jobright.ai/jobs/info/68375340a4a8b1b302203bdb?utm_campaign=1079&utm_source=git)** | Waterbury, CT | On Site | May 28 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[Shop Floor Systems Developer Intern](https://jobright.ai/jobs/info/68372f1582da83c93fe2f968?utm_campaign=1079&utm_source=git)** | Kokomo Technical Center - Indiana - USA | On Site | May 28 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Software Engineer, Energy Engineering (Fall 2025)](https://jobright.ai/jobs/info/6836b25a51f54152b10a5834?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | May 27 |
-| ↳ | **[Internship, Supercharger SIL Test Infrastructure Software Engineer, Energy Engineering (Fall 2025)](https://jobright.ai/jobs/info/6836b25a51f54152b10a5826?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | May 27 |
-| **[Magna International](http://www.magna.com/)** | **[Software and HIL Test Engineering Student - Summer/Fall (May-December)](https://jobright.ai/jobs/info/683bebb86a73cc1a01520d6b?utm_campaign=1079&utm_source=git)** | Troy, MI | On Site | May 27 |
-| **[Verkada](https://www.verkada.com)** | **[Software Engineering Intern, Backend - Fall 2025](https://jobright.ai/jobs/info/68196eb40a6ab5ac8977cc89?utm_campaign=1079&utm_source=git)** | San Mateo, CA | On Site | May 27 |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Supercharger SIL Test Infrastructure Software Engineer, Energy Engineering (Fall 2025)](https://jobright.ai/jobs/info/6836b25a51f54152b10a5826?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | May 27 |
+| ↳ | **[Internship, Software Engineer, Energy Engineering (Fall 2025)](https://jobright.ai/jobs/info/6836b25a51f54152b10a5834?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
