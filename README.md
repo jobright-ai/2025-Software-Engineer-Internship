@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brave](https://www.braveband.tech/)** | **[iOS Developer](https://jobright.ai/jobs/info/684bdc3dbac6f9e3a70bd65c?utm_campaign=1079&utm_source=git)** | LA Metro Area | Remote | Jun 13 |
+| **[TalentAlly](http://www.prodivnet.com/)** | **[Intern, Mobile App](https://jobright.ai/jobs/info/684bc665cab5fc315c60f3ba?utm_campaign=1079&utm_source=git)** | Oakland, CA | Hybrid | Jun 12 |
 | **[Revvity Signals](https://revvitysignals.com/)** | **[Marketing Front-End Developer Intern (Remote)](https://jobright.ai/jobs/info/684b9b46ae6ac631e4ee7708?utm_campaign=1079&utm_source=git)** | Austin, TX | Remote | Jun 12 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Digital and IT (Fall 2025)](https://jobright.ai/jobs/info/684b7fd161b49b398e464d44?utm_campaign=1079&utm_source=git)** | Dublin, VA | On Site | Jun 12 |
 | **[JPI](http://jpi.com)** | **[Digital Workflows Intern](https://jobright.ai/jobs/info/684b7b16062c6b8b7aced1dd?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Jun 12 |
@@ -81,12 +83,11 @@ For a complete list, click the following sortable link below:
 | **[Mirion](https://www.mirion.com)** | **[Intern-Software Developer](https://jobright.ai/jobs/info/684acb599abfd5d4757acda5?utm_campaign=1079&utm_source=git)** | Somerset, NJ | On Site | Jun 12 |
 | **[moomoo ](https://www.moomoo.com)** | **[Risk Quantitative Programming Intern](https://jobright.ai/jobs/info/6812989c7b50544212acd121?utm_campaign=1079&utm_source=git)** | Jersey City, NJ | On Site | Jun 12 |
 | **[Bending Spoons](http://bendingspoons.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/684ac81b7058dff75e4daf16?utm_campaign=1079&utm_source=git)** | Berne, OH | Hybrid | Jun 12 |
-| **[TalentAlly](http://www.prodivnet.com/)** | **[HDS Software Development Intern, Fall](https://jobright.ai/jobs/info/684ac767c96a6723b4f023a5?utm_campaign=1079&utm_source=git)** | Washington, DC | On Site | Jun 12 |
 | **[ExamRoom.AI®](https://examroom.ai/)** | **[Virtual Reality Intern](https://jobright.ai/jobs/info/684ac3baf563153b359fd1ae?utm_campaign=1079&utm_source=git)** | Lake Mary, FL | On Site | Jun 12 |
 | **[Cenovus Energy](http://www.cenovus.com)** | **[Computer Science Engineering/IT Student, OH - Lima OR Toledo (Fall 2025)](https://jobright.ai/jobs/info/682e31e3ca241a8c5e4322e5?utm_campaign=1079&utm_source=git)** | Lima, OH | On Site | Jun 12 |
 | ↳ | **[Computer Science Engineering/IT Student, OH - Lima OR Toledo (Fall 2025)](https://jobright.ai/jobs/info/682e31e3ca241a8c5e432376?utm_campaign=1079&utm_source=git)** | Toledo, OH | On Site | Jun 12 |
 | **[Nokia](http://www.nokia.com)** | **[Software Development Coop](https://jobright.ai/jobs/info/6806c7ab566bdbd59ea61d59?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Jun 12 |
-| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (MSP) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/684a5ada90916af1d0d7053b?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jun 12 |
+| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (MSP) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/684bd828fb7c81b676ade7fa?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jun 12 |
 | **[Syniti](http://www.syniti.com)** | **[Intern](https://jobright.ai/jobs/info/684a7c7bad7828d8ae90df36?utm_campaign=1079&utm_source=git)** | United States | Remote | Jun 12 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Software Engineering Intern, Networking - Fall 2025](https://jobright.ai/jobs/info/684a73b3c8eb0d5c4449edcb?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Jun 11 |
 | **[Signify](https://www.signify.com)** | **[Firmware Development Engineering Intern - Fall 2025](https://jobright.ai/jobs/info/684a4025ca6c40aeea79f780?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Jun 11 |
@@ -117,13 +118,13 @@ For a complete list, click the following sortable link below:
 | **[Copart](http://www.copart.com)** | **[QA Engineer Intern](https://jobright.ai/jobs/info/682d376dd0ca3012053c8301?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Jun 11 |
 | **[TBC Corporation](http://www.tbccorp.com/)** | **[Summer Intern, Information Technology](https://jobright.ai/jobs/info/68496e8a576abacfc0b316ff?utm_campaign=1079&utm_source=git)** | Palm Beach Gardens, FL | On Site | Jun 11 |
 | **[John Deere](https://www.deere.com)** | **[Part-Time Student - Software Engineer, Embedded OS - Cary, NC](https://jobright.ai/jobs/info/682c9bd1437759e8c747f64a?utm_campaign=1079&utm_source=git)** | Cary, NC | Hybrid | Jun 11 |
-| **[Whatnot](https://www.whatnot.com)** | **[2025 Software Engineer Intern (Fall)](https://jobright.ai/jobs/info/684919a4176e40231be5c33e?utm_campaign=1079&utm_source=git)** | United States | Remote | Jun 10 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Software Development Intern (Fall 2025; LCS)](https://jobright.ai/jobs/info/684a49c264fc6ac7462a8a0c?utm_campaign=1079&utm_source=git)** | Milford, OH | On Site | Jun 10 |
 | **[Siemens EDA (Siemens Digital Industries Software)](https://eda.sw.siemens.com/)** | **[Strategic Student Program: Software Product Quality Assurance Intern (EBS, Fall 2025)](https://jobright.ai/jobs/info/684b8fa8a36551061370dbd6?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Jun 10 |
 | **[John Deere](https://www.deere.com)** | **[Part Time Student - Supply Chain/Software Development - Des Moines, IA or Waterloo, IA](https://jobright.ai/jobs/info/6848dd8b5f4ed7a005b075c2?utm_campaign=1079&utm_source=git)** | Des Moines, IA | Hybrid | Jun 10 |
 | **[Genesys](http://www.genesys.com)** | **[Quality Assurance / Testing Intern](https://jobright.ai/jobs/info/6826deddbda62b0c1d13c003?utm_campaign=1079&utm_source=git)** | Durham, NC | Hybrid | Jun 10 |
 | **[ATPCO](http://www.atpco.net)** | **[Platform Capability Engineering Intern (Fall)](https://jobright.ai/jobs/info/6848d6bc8af5a8702e6efd40?utm_campaign=1079&utm_source=git)** | 2340 Dulles Corner Blvd, Herndon, VA 20171, USA | Hybrid | Jun 10 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Ariba Intern - Software Developer](https://jobright.ai/jobs/info/6848d6ac73fdad2d01fee024?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | Hybrid | Jun 10 |
+| **[Whatnot](https://www.whatnot.com)** | **[2025 Software Engineer Intern (Fall)](https://jobright.ai/jobs/info/6848d0bc002ab7791057467d?utm_campaign=1079&utm_source=git)** | United States | Remote | Jun 10 |
 | **[Cadence](https://www.cadence.com)** | **[Software Engineering Intern (Summer 2025)](https://jobright.ai/jobs/info/6848c1073006b6aebc69de01?utm_campaign=1079&utm_source=git)** | AUSTIN | On Site | Jun 10 |
 | **[PolyExplore Inc.](https://www.polyexplore.com)** | **[SLAM Software Engineer（Full-time /Intern）](https://jobright.ai/jobs/info/6848bdf97e4423f1ae198a1e?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jun 10 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Information Technology Intern (Hourly)](https://jobright.ai/jobs/info/683f888b804e1ea0d3120a3d?utm_campaign=1079&utm_source=git)** | Trenton, NJ | Hybrid | Jun 10 |
@@ -138,9 +139,8 @@ For a complete list, click the following sortable link below:
 | **[The Citco Group Limited](https://www.citco.com)** | **[IT Intern](https://jobright.ai/jobs/info/682e383c29b3aaa08e0c35c3?utm_campaign=1079&utm_source=git)** | Charlotte, NC | Hybrid | Jun 10 |
 | ↳ | **[IT Intern](https://jobright.ai/jobs/info/682e383c29b3aaa08e0c35cf?utm_campaign=1079&utm_source=git)** | Jersey City, NJ | Hybrid | Jun 10 |
 | **[Siemens EDA (Siemens Digital Industries Software)](https://eda.sw.siemens.com/)** | **[Strategic Student Program: 3D Technology Software Engineering Co-Op (Fall 2025, EDA)](https://jobright.ai/jobs/info/6848306b34814475bcbdaa83?utm_campaign=1079&utm_source=git)** | Huntsville, AL | Hybrid | Jun 10 |
-| **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Software Development Co-op (Fall 2025, GSCS)](https://jobright.ai/jobs/info/6848306b34814475bcbdaa44?utm_campaign=1079&utm_source=git)** | Milford, OH | Hybrid | Jun 10 |
-| **[IBM](http://www.ibm.com)** | **[Software Engineer Apprentice](https://jobright.ai/jobs/info/682bc8561e9125cce50c3d0f?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jun 10 |
-| ↳ | **[Software Engineer Apprentice](https://jobright.ai/jobs/info/682bbb9e948f4c4be1141e29?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Jun 10 |
+| **[IBM](http://www.ibm.com)** | **[Software Engineer Apprentice](https://jobright.ai/jobs/info/682bbb9e948f4c4be1141e29?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Jun 10 |
+| ↳ | **[Software Engineer Apprentice](https://jobright.ai/jobs/info/682bbb9e948f4c4be1141d8a?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jun 10 |
 | **[John Deere](https://www.deere.com)** | **[Part-Time Student - Software Engineering - Moline, IL](https://jobright.ai/jobs/info/683a7514ec4032d0a0e5ca3e?utm_campaign=1079&utm_source=git)** | Moline, IL | Hybrid | Jun 10 |
 | **[Tencent](https://www.tencent.com/en-us)** | **[Game Research and Application Intern](https://jobright.ai/jobs/info/684921babe75354223220e56?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Jun 09 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Software Engineering, Recruiting (Fall 2025)](https://jobright.ai/jobs/info/6847922ba9fa5005649cb391?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Jun 09 |
