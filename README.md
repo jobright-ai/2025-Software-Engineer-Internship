@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Leonardo DRS](https://www.leonardodrs.com)** | **[Fall 2025 Software Engineering Intern](https://jobright.ai/jobs/info/6861875c1fac969e7c078e0b?utm_campaign=1079&utm_source=git)** | Beavercreek, OH | Hybrid | Jun 29 |
+| **[Waystar](http://www.waystar.com)** | **[Application Engineer: Co-Op](https://jobright.ai/jobs/info/685246d69d22b3ae29218b5f?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Jun 29 |
 | **[Airbus](https://us.airbus.com)** | **[Internship - Software Engineering](https://jobright.ai/jobs/info/686031393cdf213bef266a39?utm_campaign=1079&utm_source=git)** | Bingen, WA | Hybrid | Jun 28 |
 | **[Kratos Defense and Security Solutions](http://www.kratosdefense.com)** | **[Software Engineering Co-Op](https://jobright.ai/jobs/info/68268740b7c1e6c1cee26f33?utm_campaign=1079&utm_source=git)** | Fort Walton Beach, FL | On Site | Jun 28 |
 | **[University of Central Oklahoma](http://www.uco.edu/)** | **[Programming Focused Regular Student Technical - CeCE](https://jobright.ai/jobs/info/685ffa67eff520a5ac91f4c8?utm_campaign=1079&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
@@ -69,7 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[Embedded Systems Software Co-op Fall 2025-Applied Embedded Systems Division/ELSYS](https://jobright.ai/jobs/info/685efe774eb092450f74d1a2?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Jun 27 |
 | **[Orrick, Herrington & Sutcliffe LLP](https://www.orrick.com)** | **[IT Intern - Web Team](https://jobright.ai/jobs/info/685ef60369775480953a0c13?utm_campaign=1079&utm_source=git)** | Wheeling, WV | Hybrid | Jun 27 |
 | **[Magna International](http://www.magna.com/)** | **[Student – Engineering Low Speed ADAS Features](https://jobright.ai/jobs/info/685ef5d4c3f86162f8adea34?utm_campaign=1079&utm_source=git)** | Auburn Hills, MI | On Site | Jun 27 |
-| **[Orrick, Herrington & Sutcliffe LLP](https://www.orrick.com)** | **[IT Intern - Web Team](https://jobright.ai/jobs/info/685eed7e4e5f63826209c57b?utm_campaign=1079&utm_source=git)** | Wheeling, West Virginia | On Site | Jun 27 |
+| **[Orrick, Herrington & Sutcliffe LLP](https://www.orrick.com)** | **[IT Intern - Web Team](https://jobright.ai/jobs/info/685eed7e4e5f63826209c884?utm_campaign=1079&utm_source=git)** | Wheeling, West Virginia | On Site | Jun 27 |
 | **[CAES](https://cobhamaes.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6825a8f7572921545922e9c0?utm_campaign=1079&utm_source=git)** | Woburn, MA | On Site | Jun 27 |
 | **[AMAROK Security](https://www.amarok.com)** | **[Research and Development Intern](https://jobright.ai/jobs/info/685ee24eb93e274e6626722f?utm_campaign=1079&utm_source=git)** | Columbia, SC | On Site | Jun 27 |
 | **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[PhD Intern - Quantum Computing](https://jobright.ai/jobs/info/685edf12e170c993be537228?utm_campaign=1079&utm_source=git)** | United States | Hybrid | Jun 27 |
@@ -121,13 +123,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NYC Early Career Open House Event - Software Engineering New Grads and Interns](https://jobright.ai/jobs/info/685c466bb6b7da281327302c?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jun 25 |
 | **[Skydio](https://www.skydio.com)** | **[Middleware Software Intern - Fall 2025](https://jobright.ai/jobs/info/685c25d75b1ef879120e4646?utm_campaign=1079&utm_source=git)** | San Mateo, California, United States | On Site | Jun 25 |
 | **[Itential](http://www.itential.com/)** | **[Software Engineer Co-Op- Product](https://jobright.ai/jobs/info/685c0e4d4748340ad1dd8002?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Jun 25 |
-| **[Vanguard](http://investor.vanguard.com/corporate-portal)** | **[College to Corporate Internship - Risk & Security - Engineer (NC)](https://jobright.ai/jobs/info/685c0c24346ed107ef4ed37c?utm_campaign=1079&utm_source=git)** | Charlotte, NC | Hybrid | Jun 25 |
-| ↳ | **[College to Corporate Internship - Application Development (TX)](https://jobright.ai/jobs/info/685c0c24346ed107ef4ed313?utm_campaign=1079&utm_source=git)** | Dallas/Ft. Worth, TX | Hybrid | Jun 25 |
+| **[Vanguard](http://investor.vanguard.com/corporate-portal)** | **[College to Corporate Internship - Investment Systems (PA)](https://jobright.ai/jobs/info/685c0c24346ed107ef4ed30d?utm_campaign=1079&utm_source=git)** | Malvern, PA | Hybrid | Jun 25 |
+| ↳ | **[College to Corporate Internship - Risk & Security - Engineer (NC)](https://jobright.ai/jobs/info/685c0c24346ed107ef4ed37c?utm_campaign=1079&utm_source=git)** | Charlotte, NC | Hybrid | Jun 25 |
 | ↳ | **[College to Corporate Internship - Application Development (PA)](https://jobright.ai/jobs/info/685c0c24346ed107ef4ed397?utm_campaign=1079&utm_source=git)** | Malvern, PA | Hybrid | Jun 25 |
+| ↳ | **[College to Corporate Internship - Application Development (TX)](https://jobright.ai/jobs/info/685c0c24346ed107ef4ed313?utm_campaign=1079&utm_source=git)** | Dallas/Ft. Worth, TX | Hybrid | Jun 25 |
 | ↳ | **[College to Corporate Internship - Investment Systems (NC)](https://jobright.ai/jobs/info/685c0c24346ed107ef4ed31b?utm_campaign=1079&utm_source=git)** | Charlotte, NC | Hybrid | Jun 25 |
-| ↳ | **[College to Corporate Internship - Risk & Security - Engineer (TX)](https://jobright.ai/jobs/info/685c0c24346ed107ef4ed331?utm_campaign=1079&utm_source=git)** | Dallas/Ft. Worth, TX | Hybrid | Jun 25 |
-| ↳ | **[College to Corporate Internship - Investment Systems (PA)](https://jobright.ai/jobs/info/685c0c24346ed107ef4ed30d?utm_campaign=1079&utm_source=git)** | Malvern, PA | Hybrid | Jun 25 |
 | ↳ | **[College to Corporate Internship - Risk & Security - Engineer (PA)](https://jobright.ai/jobs/info/685c0c24346ed107ef4ed32c?utm_campaign=1079&utm_source=git)** | Malvern, PA | Hybrid | Jun 25 |
+| ↳ | **[College to Corporate Internship - Risk & Security - Engineer (TX)](https://jobright.ai/jobs/info/685c0c24346ed107ef4ed331?utm_campaign=1079&utm_source=git)** | Dallas/Ft. Worth, TX | Hybrid | Jun 25 |
 | ↳ | **[College to Corporate Internship - Application Development (NC)](https://jobright.ai/jobs/info/685bfbdf9b731955c3d50b21?utm_campaign=1079&utm_source=git)** | Charlotte, NC | Hybrid | Jun 25 |
 | **[Ramp](https://ramp.com)** | **[Software Engineer Internship / iOS](https://jobright.ai/jobs/info/6823d2130a7ff0b3aa525a69?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Jun 25 |
 | ↳ | **[Software Engineer Internship / iOS](https://jobright.ai/jobs/info/6823d7d00915c342fc555d49?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Jun 25 |
@@ -137,8 +139,8 @@ For a complete list, click the following sortable link below:
 | **[NVIDIA](https://www.nvidia.com)** | **[Software Engineering Intern, Simulation and Virtualization - Fall 2025](https://jobright.ai/jobs/info/685b95932a7b7eb029a039f0?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Jun 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Research Intern (Intelligent Creation-Vision and Graphics) - 2025 Summer (PhD)](https://jobright.ai/jobs/info/680ca6fa1af7c73901194f4e?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jun 24 |
 | **[Epredia](https://epredia.com/)** | **[Software Development Intern, Digital Pathology](https://jobright.ai/jobs/info/685b0b721fe76f13ca7b5f23?utm_campaign=1079&utm_source=git)** | Texas, United States | On Site | Jun 24 |
-| **[Ansys](http://www.ansys.com)** | **[Spring 2026 Co-op, Software Development (Bachelors)](https://jobright.ai/jobs/info/685b06cad8fe2cf3865dc4f0?utm_campaign=1079&utm_source=git)** | Canonsburg, PA | On Site | Jun 24 |
-| ↳ | **[Spring 2026 Software Development Co-Op (BS)](https://jobright.ai/jobs/info/685b06cad8fe2cf3865dc4f4?utm_campaign=1079&utm_source=git)** | Canonsburg, PA | On Site | Jun 24 |
+| **[Ansys](http://www.ansys.com)** | **[Spring 2026 Software Development Co-Op (BS)](https://jobright.ai/jobs/info/685b06cad8fe2cf3865dc4f4?utm_campaign=1079&utm_source=git)** | Canonsburg, PA | On Site | Jun 24 |
+| ↳ | **[Spring 2026 Co-op, Software Development (Bachelors)](https://jobright.ai/jobs/info/685b06cad8fe2cf3865dc4f0?utm_campaign=1079&utm_source=git)** | Canonsburg, PA | On Site | Jun 24 |
 | **[Technip Energies](https://www.ten.com/)** | **[Engineering Tool Intern (Fall/Winter 2025)](https://jobright.ai/jobs/info/683e07f6651e57c49c2f17d2?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | Jun 24 |
 | **[Landis+Gyr](https://www.landisgyr.com/)** | **[Fall Intern - Technical Implementation Engineer](https://jobright.ai/jobs/info/685b4cbfba3e4e91f0630095?utm_campaign=1079&utm_source=git)** | Alpharetta, GA | On Site | Jun 24 |
 | **[Radix Trading LLC](https://radix.trade)** | **[Quantitative Technologist (C++ Intern - Summer 2026) ](https://jobright.ai/jobs/info/685af4220a011a6c62381584?utm_campaign=1079&utm_source=git)** | Chicago | On Site | Jun 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[John Deere](https://www.deere.com)** | **[Part-Time Student - Infrastructure Engineer - IT - Moline, IL](https://jobright.ai/jobs/info/685798588c7536683c4491ab?utm_campaign=1079&utm_source=git)** | Moline, IL | Hybrid | Jun 24 |
 | **[John Deere](https://www.deere.com)** | **[Part-Time Student - NGEC Embedded Development - Waterloo, IA](https://jobright.ai/jobs/info/685cb3564b95f89028acfce5?utm_campaign=1079&utm_source=git)** | Waterloo, IA | On Site | Jun 23 |
 | **[AMETEK](http://www.ametek.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6859fab96471dc27ac2cb754?utm_campaign=1079&utm_source=git)** | Wayne, NJ | On Site | Jun 23 |
-| **[Suno](https://www.suno.com)** | **[Software Engineer - Northeastern Co-op (Fall 2025) ](https://jobright.ai/jobs/info/685a9da4c23163d44ac9b3ea?utm_campaign=1079&utm_source=git)** | Boston | On Site | Jun 23 |
-| **[GBIT (Global Bridge InfoTech Inc)](https://www.gbitinc.com/)** | **[Angular Developer Intern](https://jobright.ai/jobs/info/6859b9709fd382d77ee20b4b?utm_campaign=1079&utm_source=git)** | Richardson, TX | On Site | Jun 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
