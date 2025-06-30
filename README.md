@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Toshiba Global Commerce Solutions](https://commerce.toshiba.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68628c7b70bd07d88b6ce43f?utm_campaign=1079&utm_source=git)** | Durham, NC | On Site | Jun 30 |
+| **[Medpace](http://www.medpace.com)** | **[Software Development Co-Op - Fall 2025](https://jobright.ai/jobs/info/67f061dc452962cb4173d952?utm_campaign=1079&utm_source=git)** | Cincinnati, OH | Hybrid | Jun 30 |
 | **[Sigma](http://sigmacomputing.com)** | **[NYC Early Career Open House Event - Software Engineering New Grads and Interns](https://jobright.ai/jobs/info/685c466bb6b7da281327302c?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jun 29 |
-| **[Leonardo DRS](https://www.leonardodrs.com)** | **[Fall 2025 Software Engineering Intern](https://jobright.ai/jobs/info/68618cb740b7e7267a6bd031?utm_campaign=1079&utm_source=git)** | Beavercreek, OH | Hybrid | Jun 29 |
+| **[Leonardo DRS](https://www.leonardodrs.com)** | **[Fall 2025 Software Engineering Intern](https://jobright.ai/jobs/info/68618cb740b7e7267a6bd032?utm_campaign=1079&utm_source=git)** | Beavercreek, OH | Hybrid | Jun 29 |
 | **[Waystar](http://www.waystar.com)** | **[Application Engineer: Co-Op](https://jobright.ai/jobs/info/685246d69d22b3ae29218b5f?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Jun 29 |
 | **[Airbus](https://us.airbus.com)** | **[Internship - Software Engineering](https://jobright.ai/jobs/info/686031393cdf213bef266a39?utm_campaign=1079&utm_source=git)** | Bingen, WA | Hybrid | Jun 28 |
 | **[Kratos Defense and Security Solutions](http://www.kratosdefense.com)** | **[Software Engineering Co-Op](https://jobright.ai/jobs/info/68268740b7c1e6c1cee26f33?utm_campaign=1079&utm_source=git)** | Fort Walton Beach, FL | On Site | Jun 28 |
@@ -124,13 +126,13 @@ For a complete list, click the following sortable link below:
 | **[Sigma](http://sigmacomputing.com)** | **[NYC Early Career Open House Event - Software Engineering New Grads and Interns](https://jobright.ai/jobs/info/685c466bb6b7da281327301a?utm_campaign=1079&utm_source=git)** | New York City | On Site | Jun 25 |
 | **[Skydio](https://www.skydio.com)** | **[Middleware Software Intern - Fall 2025](https://jobright.ai/jobs/info/685c25d75b1ef879120e4646?utm_campaign=1079&utm_source=git)** | San Mateo, California, United States | On Site | Jun 25 |
 | **[Itential](http://www.itential.com/)** | **[Software Engineer Co-Op- Product](https://jobright.ai/jobs/info/685c0e4d4748340ad1dd8002?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Jun 25 |
-| **[Vanguard](http://investor.vanguard.com/corporate-portal)** | **[College to Corporate Internship - Investment Systems (NC)](https://jobright.ai/jobs/info/685c0c24346ed107ef4ed31b?utm_campaign=1079&utm_source=git)** | Charlotte, NC | Hybrid | Jun 25 |
-| ↳ | **[College to Corporate Internship - Risk & Security - Engineer (TX)](https://jobright.ai/jobs/info/685c0c24346ed107ef4ed331?utm_campaign=1079&utm_source=git)** | Dallas/Ft. Worth, TX | Hybrid | Jun 25 |
-| ↳ | **[College to Corporate Internship - Risk & Security - Engineer (NC)](https://jobright.ai/jobs/info/685c0c24346ed107ef4ed37c?utm_campaign=1079&utm_source=git)** | Charlotte, NC | Hybrid | Jun 25 |
-| ↳ | **[College to Corporate Internship - Application Development (TX)](https://jobright.ai/jobs/info/685c0c24346ed107ef4ed313?utm_campaign=1079&utm_source=git)** | Dallas/Ft. Worth, TX | Hybrid | Jun 25 |
+| **[Vanguard](http://investor.vanguard.com/corporate-portal)** | **[College to Corporate Internship - Application Development (TX)](https://jobright.ai/jobs/info/685c0c24346ed107ef4ed313?utm_campaign=1079&utm_source=git)** | Dallas/Ft. Worth, TX | Hybrid | Jun 25 |
 | ↳ | **[College to Corporate Internship - Application Development (PA)](https://jobright.ai/jobs/info/685c0c24346ed107ef4ed397?utm_campaign=1079&utm_source=git)** | Malvern, PA | Hybrid | Jun 25 |
-| ↳ | **[College to Corporate Internship - Investment Systems (PA)](https://jobright.ai/jobs/info/685c0c24346ed107ef4ed30d?utm_campaign=1079&utm_source=git)** | Malvern, PA | Hybrid | Jun 25 |
+| ↳ | **[College to Corporate Internship - Risk & Security - Engineer (TX)](https://jobright.ai/jobs/info/685c0c24346ed107ef4ed331?utm_campaign=1079&utm_source=git)** | Dallas/Ft. Worth, TX | Hybrid | Jun 25 |
 | ↳ | **[College to Corporate Internship - Risk & Security - Engineer (PA)](https://jobright.ai/jobs/info/685c0c24346ed107ef4ed32c?utm_campaign=1079&utm_source=git)** | Malvern, PA | Hybrid | Jun 25 |
+| ↳ | **[College to Corporate Internship - Investment Systems (PA)](https://jobright.ai/jobs/info/685c0c24346ed107ef4ed30d?utm_campaign=1079&utm_source=git)** | Malvern, PA | Hybrid | Jun 25 |
+| ↳ | **[College to Corporate Internship - Risk & Security - Engineer (NC)](https://jobright.ai/jobs/info/685c0c24346ed107ef4ed37c?utm_campaign=1079&utm_source=git)** | Charlotte, NC | Hybrid | Jun 25 |
+| ↳ | **[College to Corporate Internship - Investment Systems (NC)](https://jobright.ai/jobs/info/685c0c24346ed107ef4ed31b?utm_campaign=1079&utm_source=git)** | Charlotte, NC | Hybrid | Jun 25 |
 | ↳ | **[College to Corporate Internship - Application Development (NC)](https://jobright.ai/jobs/info/685bfbdf9b731955c3d50b21?utm_campaign=1079&utm_source=git)** | Charlotte, NC | Hybrid | Jun 25 |
 | **[Ramp](https://ramp.com)** | **[Software Engineer Internship / iOS](https://jobright.ai/jobs/info/6823d2130a7ff0b3aa525a69?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Jun 25 |
 | ↳ | **[Software Engineer Internship / iOS](https://jobright.ai/jobs/info/6823d7d00915c342fc555d49?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Jun 25 |
@@ -145,7 +147,7 @@ For a complete list, click the following sortable link below:
 | **[Technip Energies](https://www.ten.com/)** | **[Engineering Tool Intern (Fall/Winter 2025)](https://jobright.ai/jobs/info/683e07f6651e57c49c2f17d2?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | Jun 24 |
 | **[Landis+Gyr](https://www.landisgyr.com/)** | **[Fall Intern - Technical Implementation Engineer](https://jobright.ai/jobs/info/685b4cbfba3e4e91f0630095?utm_campaign=1079&utm_source=git)** | Alpharetta, GA | On Site | Jun 24 |
 | **[Radix Trading LLC](https://radix.trade)** | **[Quantitative Technologist (C++ Intern - Summer 2026) ](https://jobright.ai/jobs/info/685af4220a011a6c62381584?utm_campaign=1079&utm_source=git)** | Chicago | On Site | Jun 24 |
-| **[Mercedes-Benz Research & Development North America, Inc.](http://www.mbrdna.com)** | **[Software Developer - AIX Intern](https://jobright.ai/jobs/info/685b5a6c5c940c71bad1dc0c?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jun 24 |
+| **[Mercedes-Benz Research & Development North America, Inc.](http://www.mbrdna.com)** | **[Software Developer - AIX Intern](https://jobright.ai/jobs/info/685af4220a011a6c6238166b?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jun 24 |
 | **[Epredia](https://epredia.com/)** | **[Software Development Intern, Digital Pathology](https://jobright.ai/jobs/info/685ae3f653722456e99a094e?utm_campaign=1079&utm_source=git)** | Texas | On Site | Jun 24 |
 | **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Software Developer Intern](https://jobright.ai/jobs/info/685ae2b4cea78762867a596b?utm_campaign=1079&utm_source=git)** | Alberta, AL | On Site | Jun 24 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Technical Intern](https://jobright.ai/jobs/info/685abaf4ce6f7fc9be50175b?utm_campaign=1079&utm_source=git)** | Asheville, NC | On Site | Jun 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nokia](http://www.nokia.com)** | **[Special Projects Software Dev Coop](https://jobright.ai/jobs/info/682284a49828ea3e1b1d055c?utm_campaign=1079&utm_source=git)** | Naperville, IL | On Site | Jun 24 |
 | ↳ | **[Special Projects Software Dev Coop](https://jobright.ai/jobs/info/682284a49828ea3e1b1d0494?utm_campaign=1079&utm_source=git)** | Coppell, TX | On Site | Jun 24 |
 | **[Badger Meter](http://badgermeter.com)** | **[Software Engineering Intern (Summer 2025)](https://jobright.ai/jobs/info/68224921ebd91afd55ad56ad?utm_campaign=1079&utm_source=git)** | Melbourne, FL | On Site | Jun 24 |
-| **[John Deere](https://www.deere.com)** | **[Part-Time Student - Infrastructure Engineer - IT - Moline, IL](https://jobright.ai/jobs/info/685798588c7536683c4491ab?utm_campaign=1079&utm_source=git)** | Moline, IL | Hybrid | Jun 24 |
-| **[John Deere](https://www.deere.com)** | **[Part-Time Student - NGEC Embedded Development - Waterloo, IA](https://jobright.ai/jobs/info/685cb3564b95f89028acfce5?utm_campaign=1079&utm_source=git)** | Waterloo, IA | On Site | Jun 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
