@@ -57,21 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Neusoft](http://www.neusoft.com)** | **[QA Engineer Intern(12month)](https://jobright.ai/jobs/info/68634405de0e68c60cf5ace1?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Jun 30 |
+| **[Bank of America](https://www.bankofamerica.com)** | **[Software Engineer I - Year Up](https://jobright.ai/jobs/info/68634405de0e68c60cf5adbe?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Jun 30 |
+| **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Digital Solutions Intern](https://jobright.ai/jobs/info/686333ca09c6b7a139454608?utm_campaign=1079&utm_source=git)** | Rancho Cordova, CA | On Site | Jun 30 |
 | **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[IT Service Designer/Developer Intern](https://jobright.ai/jobs/info/6863214d691206e74f11db5e?utm_campaign=1079&utm_source=git)** | New York, NY | Remote | Jun 30 |
 | ↳ | **[IT Service Designer/Developer Intern](https://jobright.ai/jobs/info/6863214d691206e74f11dccf?utm_campaign=1079&utm_source=git)** | Malvern, PA | Remote | Jun 30 |
-| **[UKG](https://www.ukg.com)** | **[Software Engineering Internship - Fall 2025](https://jobright.ai/jobs/info/6862f21db38ddfc1c86f6f09?utm_campaign=1079&utm_source=git)** | Lowell, MA | Hybrid | Jun 30 |
+| **[UKG](https://www.ukg.com)** | **[Software Engineering Internship - Fall 2025](https://jobright.ai/jobs/info/6862f21db38ddfc1c86f6f0a?utm_campaign=1079&utm_source=git)** | Branchburg, NJ | Hybrid | Jun 30 |
 | ↳ | **[Software Engineering Internship - Fall 2025](https://jobright.ai/jobs/info/6862f21db38ddfc1c86f6f04?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Hybrid | Jun 30 |
-| ↳ | **[Software Engineering Internship - Fall 2025](https://jobright.ai/jobs/info/6862f21db38ddfc1c86f6f0a?utm_campaign=1079&utm_source=git)** | Branchburg, NJ | Hybrid | Jun 30 |
-| **[Copart](http://www.copart.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6862ef04738b6eb18793f500?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Jun 30 |
+| ↳ | **[Software Engineering Internship - Fall 2025](https://jobright.ai/jobs/info/6862f21db38ddfc1c86f6f09?utm_campaign=1079&utm_source=git)** | Lowell, MA | Hybrid | Jun 30 |
 | **[Hexaware Technologies](https://hexaware.com)** | **[Python Full Stack Engineer - Associate](https://jobright.ai/jobs/info/6862e1801c754ff5556acf1a?utm_campaign=1079&utm_source=git)** | United States | Remote | Jun 30 |
 | **[UKG](https://www.ukg.com)** | **[Software Engineering Internship - Fall 2025](https://jobright.ai/jobs/info/6862e01de9bb63f31c4d72a1?utm_campaign=1079&utm_source=git)** | Weston, FL | Hybrid | Jun 30 |
-| **[Gen](https://www.gendigital.com)** | **[C++ Software Engineer Intern](https://jobright.ai/jobs/info/6862b4184f75c4ce607ad228?utm_campaign=1079&utm_source=git)** | ROU - Alba, Remote | Hybrid | Jun 30 |
-| **[Toshiba Global Commerce Solutions](https://commerce.toshiba.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68628c7b70bd07d88b6ce42d?utm_campaign=1079&utm_source=git)** | Durham, NC | On Site | Jun 30 |
+| **[Gen](https://www.gendigital.com)** | **[C++ Software Engineer Intern](https://jobright.ai/jobs/info/6862b4184f75c4ce607ad3ed?utm_campaign=1079&utm_source=git)** | ROU - Alba, Remote | Hybrid | Jun 30 |
+| **[Toshiba Global Commerce Solutions](https://commerce.toshiba.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6862923536b64377ae2c961f?utm_campaign=1079&utm_source=git)** | Durham, NC | On Site | Jun 30 |
 | **[Built ](http://getbuilt.com)** | **[Express Interest in Future Software Engineering Roles at Built](https://jobright.ai/jobs/info/67ee874634b9809ed6355949?utm_campaign=1079&utm_source=git)** | United States | Hybrid | Jun 30 |
 | **[Medpace](http://www.medpace.com)** | **[Software QA Test Engineer Intern - Fall 2025](https://jobright.ai/jobs/info/67f053f19bc6ac468daac70e?utm_campaign=1079&utm_source=git)** | Cincinnati, OH | Hybrid | Jun 30 |
 | ↳ | **[Software Development Co-Op - Fall 2025](https://jobright.ai/jobs/info/67f061dc452962cb4173d952?utm_campaign=1079&utm_source=git)** | Cincinnati, OH | Hybrid | Jun 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Recommendation Infrastructure) - 2025 Summer/Fall (BS/ MS)](https://jobright.ai/jobs/info/680bb90f67d09ced2ff556df?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jun 30 |
 | ↳ | **[Backend Software Engineer Graduate (TikTok Eng - Backend Online Infra Team) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/680c4beacd08a3a2dd3a1205?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jun 30 |
+| **[University of Cincinnati](http://researchcompliance.uc.edu/UCTCA.aspx)** | **[CO-OP/INTERN 4 - ENTERPRISE TECHNOLOGY SOLUTIONS](https://jobright.ai/jobs/info/68633678980d1a4dc2fce433?utm_campaign=1079&utm_source=git)** | Cincinnati, OH | On Site | Jun 29 |
 | **[Sigma](http://sigmacomputing.com)** | **[NYC Early Career Open House Event - Software Engineering New Grads and Interns](https://jobright.ai/jobs/info/685c466bb6b7da281327302c?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jun 29 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Fall 2025 Software Engineering Intern](https://jobright.ai/jobs/info/68618cb740b7e7267a6bd032?utm_campaign=1079&utm_source=git)** | Beavercreek, OH | Hybrid | Jun 29 |
 | **[Waystar](http://www.waystar.com)** | **[Application Engineer: Co-Op](https://jobright.ai/jobs/info/685246d69d22b3ae29218b5f?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Jun 29 |
@@ -141,12 +144,12 @@ For a complete list, click the following sortable link below:
 | **[Skydio](https://www.skydio.com)** | **[Middleware Software Intern - Fall 2025](https://jobright.ai/jobs/info/685c25d75b1ef879120e4646?utm_campaign=1079&utm_source=git)** | San Mateo, California, United States | On Site | Jun 25 |
 | **[Itential](http://www.itential.com/)** | **[Software Engineer Co-Op- Product](https://jobright.ai/jobs/info/685c0e4d4748340ad1dd8002?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Jun 25 |
 | **[Vanguard](http://investor.vanguard.com/corporate-portal)** | **[College to Corporate Internship - Investment Systems (NC)](https://jobright.ai/jobs/info/685c0c24346ed107ef4ed31b?utm_campaign=1079&utm_source=git)** | Charlotte, NC | Hybrid | Jun 25 |
+| ↳ | **[College to Corporate Internship - Risk & Security - Engineer (PA)](https://jobright.ai/jobs/info/685c0c24346ed107ef4ed32c?utm_campaign=1079&utm_source=git)** | Malvern, PA | Hybrid | Jun 25 |
 | ↳ | **[College to Corporate Internship - Investment Systems (PA)](https://jobright.ai/jobs/info/685c0c24346ed107ef4ed30d?utm_campaign=1079&utm_source=git)** | Malvern, PA | Hybrid | Jun 25 |
 | ↳ | **[College to Corporate Internship - Risk & Security - Engineer (TX)](https://jobright.ai/jobs/info/685c0c24346ed107ef4ed331?utm_campaign=1079&utm_source=git)** | Dallas/Ft. Worth, TX | Hybrid | Jun 25 |
 | ↳ | **[College to Corporate Internship - Risk & Security - Engineer (NC)](https://jobright.ai/jobs/info/685c0c24346ed107ef4ed37c?utm_campaign=1079&utm_source=git)** | Charlotte, NC | Hybrid | Jun 25 |
-| ↳ | **[College to Corporate Internship - Risk & Security - Engineer (PA)](https://jobright.ai/jobs/info/685c0c24346ed107ef4ed32c?utm_campaign=1079&utm_source=git)** | Malvern, PA | Hybrid | Jun 25 |
-| ↳ | **[College to Corporate Internship - Application Development (PA)](https://jobright.ai/jobs/info/685c0c24346ed107ef4ed397?utm_campaign=1079&utm_source=git)** | Malvern, PA | Hybrid | Jun 25 |
 | ↳ | **[College to Corporate Internship - Application Development (TX)](https://jobright.ai/jobs/info/685c0c24346ed107ef4ed313?utm_campaign=1079&utm_source=git)** | Dallas/Ft. Worth, TX | Hybrid | Jun 25 |
+| ↳ | **[College to Corporate Internship - Application Development (PA)](https://jobright.ai/jobs/info/685c0c24346ed107ef4ed397?utm_campaign=1079&utm_source=git)** | Malvern, PA | Hybrid | Jun 25 |
 | ↳ | **[College to Corporate Internship - Application Development (NC)](https://jobright.ai/jobs/info/685bfbdf9b731955c3d50b21?utm_campaign=1079&utm_source=git)** | Charlotte, NC | Hybrid | Jun 25 |
 | **[Ramp](https://ramp.com)** | **[Software Engineer Internship / iOS](https://jobright.ai/jobs/info/6823d2130a7ff0b3aa525a69?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Jun 25 |
 | ↳ | **[Software Engineer Internship / iOS](https://jobright.ai/jobs/info/6823d7d00915c342fc555d49?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Jun 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Badger Meter](http://badgermeter.com)** | **[Software Engineering Intern (Summer 2025)](https://jobright.ai/jobs/info/68223dea8e8f344089b2a0e1?utm_campaign=1079&utm_source=git)** | Escondido, CA | On Site | Jun 25 |
 | **[Maricopa Association of Governments (MAG)](https://azmag.gov/)** | **[IT Software Development Intern](https://jobright.ai/jobs/info/685d219b13e97b6671e211e3?utm_campaign=1079&utm_source=git)** | Phoenix, AZ | On Site | Jun 25 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Software Engineering Intern, Simulation and Virtualization - Fall 2025](https://jobright.ai/jobs/info/685b95932a7b7eb029a039f0?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Jun 24 |
-| **[TikTok](https://www.tiktok.com)** | **[Research Intern (Intelligent Creation-Vision and Graphics) - 2025 Summer (PhD)](https://jobright.ai/jobs/info/680ca6fa1af7c73901194f4e?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jun 24 |
-| **[Ansys](http://www.ansys.com)** | **[Spring 2026 Software Development Co-Op (BS)](https://jobright.ai/jobs/info/685b06cad8fe2cf3865dc4f4?utm_campaign=1079&utm_source=git)** | Canonsburg, PA | On Site | Jun 24 |
-| ↳ | **[Spring 2026 Co-op, Software Development (Bachelors)](https://jobright.ai/jobs/info/685b06cad8fe2cf3865dc4f0?utm_campaign=1079&utm_source=git)** | Canonsburg, PA | On Site | Jun 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
