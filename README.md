@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Trainee, IT Development Program](https://jobright.ai/jobs/info/68705642a5ae807a59cf7acc?utm_campaign=1079&utm_source=git)** | Brentwood, TN | On Site | Jul 10 |
+| **[Baker Group](http://thebakergroup.com)** | **[Intern - Software Development](https://jobright.ai/jobs/info/68706ad206ad7073463bd91d?utm_campaign=1079&utm_source=git)** | Des Moines Metro | On Site | Jul 10 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6870617e06ad7073463bd660?utm_campaign=1079&utm_source=git)** | California, United States | On Site | Jul 10 |
+| ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/687061214ec78aa84e9b7a07?utm_campaign=1079&utm_source=git)** | Work From Home - California | On Site | Jul 10 |
 | **[Altera Digital Health](http://www.alterahealth.com)** | **[Intern, Operational Innovation & Digital Solutions](https://jobright.ai/jobs/info/68702f55a5ae807a59cf6744?utm_campaign=1079&utm_source=git)** | Raleigh, NC | Remote | Jul 10 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Integration Engineer, Factory Software (Fall 2025)](https://jobright.ai/jobs/info/687051c401cc0956e7e811b7?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Jul 10 |
 | **[Rheem Manufacturing](http://www.rheem.com)** | **[Software Engineering - Co-op](https://jobright.ai/jobs/info/68700f169a77984d3d150bf5?utm_campaign=1079&utm_source=git)** | Roswell, GA, United States | On Site | Jul 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nokia](http://www.nokia.com)** | **[Software Development Coop](https://jobright.ai/jobs/info/6806c7ab566bdbd59ea61d59?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Jul 04 |
 | **[Emerson](http://www.emerson.com)** | **[Software Development Co-op (Fall 2025)](https://jobright.ai/jobs/info/684bfc446216c6a865a6aa8a?utm_campaign=1079&utm_source=git)** | Elyria, OH | Hybrid | Jul 04 |
 | **[DoorDash](http://www.doordash.com)** | **[Software Engineer I, Entry-Level (Graduation Date: Fall 2024-Summer 2025)](https://jobright.ai/jobs/info/682fabb3f37d7cf6a408c321?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jul 04 |
-| ↳ | **[Software Engineer I, Entry-Level (Graduation Date: Fall 2024-Summer 2025)](https://jobright.ai/jobs/info/682fabb3f37d7cf6a408c34f?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Jul 04 |
-| ↳ | **[Software Engineer I, Entry-Level (Graduation Date: Fall 2024-Summer 2025)](https://jobright.ai/jobs/info/682fabb3f37d7cf6a408c34d?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Jul 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
