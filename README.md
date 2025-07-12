@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Jobright.ai](https://jobright.ai)** | **[Software Engineer Graduate - 2025 Start](https://jobright.ai/jobs/info/6871d13ba5ae807a59d02186?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 11 |
+| **[Jobright.ai](https://jobright.ai)** | **[Software Engineer, New Grad & Entry Level](https://jobright.ai/jobs/info/6871eef106ad7073463c91fc?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 11 |
+| ↳ | **[Software Engineer Graduate - 2025 Start](https://jobright.ai/jobs/info/6871d13ba5ae807a59d02186?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 11 |
 | ↳ | **[Software Engineer, New Grad & Entry Level](https://jobright.ai/jobs/info/6871d00b06ad7073463c79c3?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 11 |
 | **[QuinStreet](http://www.quinstreet.com)** | **[Engineering Co-Op](https://jobright.ai/jobs/info/6871b1af06ad7073463c6b7a?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 11 |
 | **[Susquehanna International Group](http://sig.com)** | **[Software Engineering Internship: Summer 2026](https://jobright.ai/jobs/info/68719ded06ad7073463c6455?utm_campaign=1079&utm_source=git)** | Greater Philadelphia | On Site | Jul 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Engineering Development Program (EDP) - Intern](https://jobright.ai/jobs/info/6869fab733fe4bfc6108ee76?utm_campaign=1079&utm_source=git)** | MD - Hunt Valley | On Site | Jul 05 |
 | ↳ | **[Engineering Development Program (EDP) - Intern](https://jobright.ai/jobs/info/6869fab733fe4bfc6108ee78?utm_campaign=1079&utm_source=git)** | MN - St. Paul | On Site | Jul 05 |
 | ↳ | **[Engineering Development Program (EDP) - Intern](https://jobright.ai/jobs/info/6869fab733fe4bfc6108ee35?utm_campaign=1079&utm_source=git)** | CT - Hartford | On Site | Jul 05 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Information Technology (Fall 2025)](https://jobright.ai/jobs/info/673dc65dce731a1e1a130c3a?utm_campaign=1079&utm_source=git)** | San Antonio, TX | On Site | Jul 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
