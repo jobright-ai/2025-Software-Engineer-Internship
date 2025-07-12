@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - HANA Cloud Knowledge Graph Engine Software Developer](https://jobright.ai/jobs/info/684f89f220521b60706b87b0?utm_campaign=1079&utm_source=git)** | Burlington, MA | Hybrid | Jul 12 |
 | **[Veralto](https://www.veralto.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6872680406ad7073463cc14a?utm_campaign=1079&utm_source=git)** | Grand Rapids, MI | On Site | Jul 12 |
 | **[ByteDance](http://bytedance.com)** | **[Software Engineer Intern (Recommendation Infra - Data-Arch-TikTok US) - 2025 Summer (PhD)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8d1e?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 12 |
 | ↳ | **[Software Engineer Intern (Privacy & Security- Global Payment) - 2025 Summer(BS/MS)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8d8f?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 12 |
@@ -64,14 +65,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer Intern (Cloud Native Infrastructure) - 2025 Summer (MS)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8da7?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 12 |
 | ↳ | **[Frontend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce) - 2025 Start Fall (BS/MS)](https://jobright.ai/jobs/info/685639617d54b6be490d884b?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 12 |
 | ↳ | **[Software Engineer Intern (Recommendation Infra - Data-Arch-TikTok US) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8d82?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 12 |
+| ↳ | **[Software Engineer Graduate (3D Graphics-PICO) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/685639617d54b6be490d8740?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 12 |
 | ↳ | **[Frontend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce Content) - 2025 Start Fall (BS/MS)](https://jobright.ai/jobs/info/685639617d54b6be490d873c?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 12 |
 | ↳ | **[Software Engineer Intern (SDN) - 2025 Summer/Fall (PhD)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8d3a?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 12 |
 | ↳ | **[GPU/AI Application Platform Engineer Intern (Server Platform) - 2025 Summer/Fall (PhD)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8d5b?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 12 |
 | ↳ | **[Software Engineer Intern (User Product - Global Payment) - 2025 Summer(BS/MS)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8d5a?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 12 |
 | ↳ | **[GPU/AI Application System Software Engineer Intern (System Technologies and Engineering) - 2025 Summer/Fall (BS/MS)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8d64?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 12 |
 | ↳ | **[Frontend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce Seller Business) - 2025 Start Fall (BS/MS)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8d0b?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 12 |
+| ↳ | **[Video Processing and Enhancement Algorithm Engineer Intern (Multimedia Lab) - 2025 Summer/Fall (PhD)](https://jobright.ai/jobs/info/6855f995b0e8b59b0e9db447?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 12 |
 | **[Jobright.ai](https://jobright.ai)** | **[Software Engineer, New Grad & Entry Level](https://jobright.ai/jobs/info/6871eef106ad7073463c91fc?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 11 |
-| ↳ | **[Software Engineer, New Grad & Entry Level](https://jobright.ai/jobs/info/6871d00b06ad7073463c79c3?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 11 |
 | **[QuinStreet](http://www.quinstreet.com)** | **[Engineering Co-Op](https://jobright.ai/jobs/info/6871b1af06ad7073463c6b7a?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 11 |
 | **[Susquehanna International Group](http://sig.com)** | **[Software Engineering Internship: Summer 2026](https://jobright.ai/jobs/info/68719ded06ad7073463c6455?utm_campaign=1079&utm_source=git)** | Greater Philadelphia | On Site | Jul 11 |
 | **[Inland Empire Utilities Agency](https://www.ieua.org/)** | **[Intern (Information Technology)](https://jobright.ai/jobs/info/6871c3e1a5ae807a59d018db?utm_campaign=1079&utm_source=git)** | Chino, CA | Hybrid | Jul 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[GE Vernova Digital Technology Internship - Summer 2026](https://jobright.ai/jobs/info/686b7f7335584b65427024dc?utm_campaign=1079&utm_source=git)** | Schenectady, NY | On Site | Jul 07 |
 | ↳ | **[GE Vernova Digital Technology Internship - Summer 2026](https://jobright.ai/jobs/info/686b7a8a35584b6542567c21?utm_campaign=1079&utm_source=git)** | Greenville, SC | On Site | Jul 07 |
 | **[NimbleRx](https://www.nimblerx.com/)** | **[Software Engineer Intern - Fall Session (September - December 2025)](https://jobright.ai/jobs/info/686b4c7935584b6542a07869?utm_campaign=1079&utm_source=git)** | Redwood City, CA | Hybrid | Jul 06 |
-| **[Audax Group](https://www.audaxprivateequity.com)** | **[Software Development Intern, Business Solutions](https://jobright.ai/jobs/info/686ae25b35584b6542b8b997?utm_campaign=1079&utm_source=git)** | Boston, MA | Hybrid | Jul 06 |
-| ↳ | **[Copy of Software Development Intern, Business Solutions](https://jobright.ai/jobs/info/686ada1b35584b654294f12f?utm_campaign=1079&utm_source=git)** | Utah, United States | On Site | Jul 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
