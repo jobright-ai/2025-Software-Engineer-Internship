@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Veralto](https://www.veralto.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6872680406ad7073463cc14a?utm_campaign=1079&utm_source=git)** | Grand Rapids, MI | On Site | Jul 12 |
 | **[ByteDance](http://bytedance.com)** | **[Software Engineer Intern (Recommendation Infra - Data-Arch-TikTok US) - 2025 Summer (PhD)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8d1e?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 12 |
 | ↳ | **[Software Engineer Intern (Privacy & Security- Global Payment) - 2025 Summer(BS/MS)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8d8f?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 12 |
 | ↳ | **[Backend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce Seller Business)- 2025 Fall(BS/MS)](https://jobright.ai/jobs/info/6855f995b0e8b59b0e9db47f?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 12 |
 | ↳ | **[Software Engineer Intern (Cloud Native Infrastructure) - 2025 Summer (MS)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8da7?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 12 |
+| ↳ | **[Frontend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce) - 2025 Start Fall (BS/MS)](https://jobright.ai/jobs/info/685639617d54b6be490d884b?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 12 |
+| ↳ | **[Software Engineer Intern (Recommendation Infra - Data-Arch-TikTok US) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8d82?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 12 |
+| ↳ | **[Frontend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce Content) - 2025 Start Fall (BS/MS)](https://jobright.ai/jobs/info/685639617d54b6be490d873c?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 12 |
 | ↳ | **[Software Engineer Intern (SDN) - 2025 Summer/Fall (PhD)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8d3a?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 12 |
 | ↳ | **[GPU/AI Application Platform Engineer Intern (Server Platform) - 2025 Summer/Fall (PhD)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8d5b?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 12 |
 | ↳ | **[Software Engineer Intern (User Product - Global Payment) - 2025 Summer(BS/MS)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8d5a?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 12 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NimbleRx](https://www.nimblerx.com/)** | **[Software Engineer Intern - Fall Session (September - December 2025)](https://jobright.ai/jobs/info/686b4c7935584b6542a07869?utm_campaign=1079&utm_source=git)** | Redwood City, CA | Hybrid | Jul 06 |
 | **[Audax Group](https://www.audaxprivateequity.com)** | **[Software Development Intern, Business Solutions](https://jobright.ai/jobs/info/686ae25b35584b6542b8b997?utm_campaign=1079&utm_source=git)** | Boston, MA | Hybrid | Jul 06 |
 | ↳ | **[Copy of Software Development Intern, Business Solutions](https://jobright.ai/jobs/info/686ada1b35584b654294f12f?utm_campaign=1079&utm_source=git)** | Utah, United States | On Site | Jul 06 |
-| **[Wichita State University](http://www.wichita.edu)** | **[NetApp Quality Assurance Student Assistant](https://jobright.ai/jobs/info/686ab30c35584b6542d96379?utm_campaign=1079&utm_source=git)** | Wichita, KS | On Site | Jul 06 |
-| **[Sandhills Global](https://www.sandhills.com/)** | **[Software Development Intern](https://jobright.ai/jobs/info/66ca0a763673251f8b24f33d?utm_campaign=1079&utm_source=git)** | Lincoln, NE | On Site | Jul 06 |
-| **[TikTok](https://www.tiktok.com)** | **[3D Graphics-Immersive Innovation Intern (Product RD and Infrastructure-Mobile OS-PICO Foundation) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/680cf284997916b8eca0d216?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 06 |
-| **[IBM](http://www.ibm.com)** | **[Software Engineer Apprentice](https://jobright.ai/jobs/info/68666c3717581bdfaa493f11?utm_campaign=1079&utm_source=git)** | Lowell, MA | On Site | Jul 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
