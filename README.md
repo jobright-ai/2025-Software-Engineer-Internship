@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[QuinStreet](http://www.quinstreet.com)** | **[Engineering Co-Op](https://jobright.ai/jobs/info/6871b1af06ad7073463c6b7a?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 11 |
 | **[Susquehanna International Group](http://sig.com)** | **[Software Engineering Internship: Summer 2026](https://jobright.ai/jobs/info/68719ded06ad7073463c6455?utm_campaign=1079&utm_source=git)** | Greater Philadelphia | On Site | Jul 11 |
-| **[ZEISS Group](http://www.zeiss.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/687182b8e8a09752c972ee1d?utm_campaign=1079&utm_source=git)** | Dublin, CA | On Site | Jul 11 |
+| **[ZEISS Group](http://www.zeiss.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68718bed06ad7073463c5cee?utm_campaign=1079&utm_source=git)** | Dublin, CA | On Site | Jul 11 |
+| ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/687182b8e8a09752c972ee1d?utm_campaign=1079&utm_source=git)** | Dublin, CA | On Site | Jul 11 |
 | **[CAE](http://www.cae.com)** | **[Software Engineer Co-op-EN](https://jobright.ai/jobs/info/68716d1aa5ae807a59cff7f8?utm_campaign=1079&utm_source=git)** | Arlington, TX | On Site | Jul 11 |
 | **[X-Rite](http://www.xrite.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68715b69a5ae807a59cff235?utm_campaign=1079&utm_source=git)** | Grand Rapids, MI | Hybrid | Jul 11 |
 | ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/687149e8630cfafb2db09790?utm_campaign=1079&utm_source=git)** | Grand Rapids, Michigan, United States | On Site | Jul 11 |
 | **[CAE](http://www.cae.com)** | **[Software Engineer Co-op](https://jobright.ai/jobs/info/68713ac8bd640363bba9a1f5?utm_campaign=1079&utm_source=git)** | Arlington, TX | On Site | Jul 11 |
+| **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Information Technology Engineer](https://jobright.ai/jobs/info/686a0b3135584b6542539c0f?utm_campaign=1079&utm_source=git)** | Lexington, KY | On Site | Jul 11 |
 | **[Spencer's](http://www.spencersonline.com/)** | **[Retail Development Internship](https://jobright.ai/jobs/info/6870e4a901cc0956e7e86497?utm_campaign=1079&utm_source=git)** | Egg Harbor, NJ | On Site | Jul 10 |
 | ↳ | **[Ecommerce Java Development Internship](https://jobright.ai/jobs/info/6870bd2e06ad7073463c09b8?utm_campaign=1079&utm_source=git)** | Egg Harbor, NJ | On Site | Jul 10 |
 | **[Altera Digital Health](http://www.alterahealth.com)** | **[Intern, Operational Innovation & Digital Solutions](https://jobright.ai/jobs/info/68708f1d06ad7073463bebcd?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Jul 10 |
@@ -88,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[Codeworks IT Careers ](http://codeworks-inc.com)** | **[Software Engineer, Intern (Wisconsin based)](https://jobright.ai/jobs/info/68423eb32d1d1dcc5fd249d5?utm_campaign=1079&utm_source=git)** | Waukesha, WI | On Site | Jul 10 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[IT Innovation Intern or Co-op - Fall 2025](https://jobright.ai/jobs/info/6853053b586d1b8ea7024508?utm_campaign=1079&utm_source=git)** | Parsippany, NJ | Hybrid | Jul 10 |
 | **[Omniskope, Inc](http://www.omniskope.com/)** | **[Salesforce Agentforce Solutions Analyst Intern](https://jobright.ai/jobs/info/686fc256a5ae807a59cf339e?utm_campaign=1079&utm_source=git)** | St Louis, MO | On Site | Jul 10 |
-| **[Amazon](https://amazon.com)** | **[SDE I Intern, Amazon University Talent Acquisition](https://jobright.ai/jobs/info/686f24a49363c4a2d107ed0d?utm_campaign=1079&utm_source=git)** | Delhi, NY | On Site | Jul 09 |
 | **[Siemens EDA (Siemens Digital Industries Software)](https://eda.sw.siemens.com/)** | **[Strategic Student Program: R&D Software Engineering Co-Op (Fall 2025, T&I)](https://jobright.ai/jobs/info/686f1e28cd4d4665c604001e?utm_campaign=1079&utm_source=git)** | Milford, OH | Hybrid | Jul 09 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, Software Engineer](https://jobright.ai/jobs/info/686f1259fcf89d62783c20f0?utm_campaign=1079&utm_source=git)** | Santa Barbara, CA | On Site | Jul 09 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Microsoft Power Platform Program Services)](https://jobright.ai/jobs/info/686ed936b9087e8e3590c740?utm_campaign=1079&utm_source=git)** | Vienna, VA, United States | On Site | Jul 09 |
@@ -112,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[AI Fund](https://aifund.ai/)** | **[Full-Stack Engineer Intern](https://jobright.ai/jobs/info/686d8a586dc4f54b7dcb550e?utm_campaign=1079&utm_source=git)** | San Francisco, California | Hybrid | Jul 08 |
 | **[Magna International](http://www.magna.com/)** | **[Student – Engineering Low Speed ADAS Features](https://jobright.ai/jobs/info/686d85c66185bcab123911a9?utm_campaign=1079&utm_source=git)** | Auburn Hills, Michigan, US | On Site | Jul 08 |
 | **[Globus Medical](http://www.globusmedical.com)** | **[Software Engineer Co-op](https://jobright.ai/jobs/info/686d76ee83f312c81bf9a82a?utm_campaign=1079&utm_source=git)** | King of Prussia, PA | On Site | Jul 08 |
-| **[Abridge](https://www.abridge.com)** | **[Full Stack Engineer (Intern)](https://jobright.ai/jobs/info/686e03b5a64d005d86c0f8bb?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Jul 08 |
 | **[Natus Medical Incorporated](http://www.natus.com)** | **[Firmware Engineering Intern - Temporary](https://jobright.ai/jobs/info/686d7cab7ca8d01b2625ada0?utm_campaign=1079&utm_source=git)** | Schaumburg, IL | On Site | Jul 08 |
 | **[Wasabi Technologies](http://www.wasabi.com)** | **[AI Software Engineering Co-op - Infrastructure](https://jobright.ai/jobs/info/686d506f9ef07cdd3d2547f4?utm_campaign=1079&utm_source=git)** | United States of America | On Site | Jul 08 |
 | **[MedPro Group](https://www.medpro.com/)** | **[Intern - Application Developer](https://jobright.ai/jobs/info/686d2cbdbe1c30cb391fa825?utm_campaign=1079&utm_source=git)** | Fort Wayne, IN | Hybrid | Jul 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Information Technology (Fall 2025)](https://jobright.ai/jobs/info/673dc65dce731a1e1a130c3a?utm_campaign=1079&utm_source=git)** | San Antonio, TX | On Site | Jul 05 |
 | **[Albuquerque Public Schools](https://www.aps.edu/)** | **[Manzano Deca Intern](https://jobright.ai/jobs/info/6869991235584b65423731c6?utm_campaign=1079&utm_source=git)** | Albuquerque, NM | On Site | Jul 05 |
 | **[CooperSurgical](http://www.coopersurgical.com)** | **[Software Engineer Intern (SaaP)](https://jobright.ai/jobs/info/6830b281f56c2b11dfd427a7?utm_campaign=1079&utm_source=git)** | Trumbull, CT | On Site | Jul 05 |
-| **[Ansys](http://www.ansys.com)** | **[Spring 2026 Cloud, AI, Solutions and Enablement - SaaS, HPC, Python, GoLang](https://jobright.ai/jobs/info/68673da603b8509aacb71880?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Jul 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
