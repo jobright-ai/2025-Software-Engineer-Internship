@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Jobright.ai](https://jobright.ai)** | **[Software Engineer Graduate - 2025 Start](https://jobright.ai/jobs/info/68733e0706ad7073463ce7e6?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 12 |
-| ↳ | **[Software Engineer, New Grad & Entry Level](https://jobright.ai/jobs/info/68733aa1a5ae807a59d08bfa?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 12 |
-| ↳ | **[Software Engineer, New Grad & Entry Level](https://jobright.ai/jobs/info/68731a8406ad7073463cd45d?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 12 |
+| **[Jobright.ai](https://jobright.ai)** | **[Software Engineer, New Grad & Entry Level](https://jobright.ai/jobs/info/6873bd3b4001e95011b197b9?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 13 |
+| **[Jobright.ai](https://jobright.ai)** | **[Software Engineer, New Grad & Entry Level](https://jobright.ai/jobs/info/68731a8406ad7073463cd45d?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 12 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - HANA Cloud Knowledge Graph Engine Software Developer](https://jobright.ai/jobs/info/684f89f220521b60706b87b0?utm_campaign=1079&utm_source=git)** | Burlington, MA | Hybrid | Jul 12 |
+| **[ByteDance](http://bytedance.com)** | **[Video Experience Software Engineer Intern (Global StreamingMedia) - 2025 Summer/Fall (BS/MS)](https://jobright.ai/jobs/info/6855f995b0e8b59b0e9db48d?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 12 |
 | **[Veralto](https://www.veralto.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6872680406ad7073463cc14a?utm_campaign=1079&utm_source=git)** | Grand Rapids, MI | On Site | Jul 12 |
 | **[Copart](http://www.copart.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6811abd51f4024cee35f9194?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Jul 12 |
 | **[Jobright.ai](https://jobright.ai)** | **[Software Engineer, New Grad & Entry Level](https://jobright.ai/jobs/info/6872437e06ad7073463cbaf6?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 12 |
