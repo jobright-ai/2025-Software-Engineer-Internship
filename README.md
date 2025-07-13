@@ -71,6 +71,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer Intern (Cloud Native Infrastructure) - 2025 Summer (MS)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8da7?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 12 |
 | ↳ | **[Backend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce Customer Business)- 2025 Fall(BS/MS)](https://jobright.ai/jobs/info/685639617d54b6be490d8733?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 12 |
 | ↳ | **[Frontend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce) - 2025 Start Fall (BS/MS)](https://jobright.ai/jobs/info/685639617d54b6be490d884b?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 12 |
+| ↳ | **[Video Experience Software Engineer Intern (Global StreamingMedia) - 2025 Summer/Fall (PhD)](https://jobright.ai/jobs/info/685639617d54b6be490d871b?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 12 |
 | ↳ | **[Software Engineer Intern (Recommendation Infra - Data-Arch-TikTok US) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8d82?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 12 |
 | ↳ | **[Software Engineer Graduate (3D Graphics-PICO) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/685639617d54b6be490d8740?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 12 |
 | ↳ | **[Frontend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce Content) - 2025 Start Fall (BS/MS)](https://jobright.ai/jobs/info/685639617d54b6be490d873c?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Software Development Intern](https://jobright.ai/jobs/info/66c67e6289d6136c4923e966?utm_campaign=1079&utm_source=git)** | Scottsdale, AZ | On Site | Jul 07 |
 | **[DRW](http://drw.com/)** | **[Software Developer Intern](https://jobright.ai/jobs/info/686bdcbd35584b654224d841?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jul 07 |
 | **[Amazon](https://amazon.com)** | **[Amazon Robotics - Software Development Engineer Co-Op - Fall 2025](https://jobright.ai/jobs/info/67dbb5747ffbd53383b58f7c?utm_campaign=1079&utm_source=git)** | Westborough, MA | On Site | Jul 07 |
-| **[Mason Companies, Inc](http://www.masoncompaniesinc.com/)** | **[Software Development Summer Intern](https://jobright.ai/jobs/info/685b6e083e53182ab3689f29?utm_campaign=1079&utm_source=git)** | Chippewa Falls, WI | On Site | Jul 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
