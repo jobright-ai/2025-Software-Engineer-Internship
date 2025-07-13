@@ -58,8 +58,9 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Jobright.ai](https://jobright.ai)** | **[Software Engineer Graduate - 2025 Start](https://jobright.ai/jobs/info/6873ec6c4001e95011b1b5a2?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 13 |
-| **[Jobright.ai](https://jobright.ai)** | **[Software Engineer, New Grad & Entry Level](https://jobright.ai/jobs/info/68733aa1a5ae807a59d08bfa?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 12 |
-| ↳ | **[Software Engineer, New Grad & Entry Level](https://jobright.ai/jobs/info/68731a8406ad7073463cd45d?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 12 |
+| ↳ | **[Software Engineer, New Grad & Entry Level](https://jobright.ai/jobs/info/6873b3e54001e95011b190ce?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 13 |
+| **[Jobright.ai](https://jobright.ai)** | **[Software Engineer, New Grad & Entry Level](https://jobright.ai/jobs/info/68731a8406ad7073463cd45d?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 12 |
+| **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[SW Dev and Test Co-op - Fall 2025 - ASL](https://jobright.ai/jobs/info/681cfa19f6c65e3672548bf5?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Jul 12 |
 | **[ByteDance](http://bytedance.com)** | **[Software Engineer Intern (Cloud Native Infrastructure) - 2025 Summer (PhD)](https://jobright.ai/jobs/info/685639617d54b6be490d8721?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 12 |
 | ↳ | **[Software Development Engineer Intern in Test (Global E-commerce-Quality Assurance) - 2025 Fall (BS/MS)](https://jobright.ai/jobs/info/685639617d54b6be490d8725?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 12 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - HANA Cloud Knowledge Graph Engine Software Developer](https://jobright.ai/jobs/info/684f89f220521b60706b87b0?utm_campaign=1079&utm_source=git)** | Burlington, MA | Hybrid | Jul 12 |
@@ -93,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Information Technology Engineer](https://jobright.ai/jobs/info/686a0b3135584b6542539c0f?utm_campaign=1079&utm_source=git)** | Lexington, KY | On Site | Jul 11 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Integration Engineer, Factory Software (Fall 2025)](https://jobright.ai/jobs/info/68736fbe4001e95011b15019?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Jul 10 |
 | **[Spencer's](http://www.spencersonline.com/)** | **[Retail Development Internship](https://jobright.ai/jobs/info/6870e4a901cc0956e7e86497?utm_campaign=1079&utm_source=git)** | Egg Harbor, NJ | On Site | Jul 10 |
-| ↳ | **[Ecommerce Java Development Internship](https://jobright.ai/jobs/info/6870bd2e06ad7073463c09b8?utm_campaign=1079&utm_source=git)** | Egg Harbor, NJ | On Site | Jul 10 |
 | **[Altera Digital Health](http://www.alterahealth.com)** | **[Intern, Operational Innovation & Digital Solutions](https://jobright.ai/jobs/info/68708f1d06ad7073463bebcd?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Jul 10 |
 | **[Qualitest](http://www.qualitestgroup.com/)** | **[Qualitest - Internship](https://jobright.ai/jobs/info/6870837101cc0956e7e82765?utm_campaign=1079&utm_source=git)** | California, United States | On Site | Jul 10 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6870617e06ad7073463bd660?utm_campaign=1079&utm_source=git)** | California, United States | On Site | Jul 10 |
@@ -106,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[Rheem Manufacturing](http://www.rheem.com)** | **[Software Engineering - Co-op](https://jobright.ai/jobs/info/687023e401cc0956e7e7f96c?utm_campaign=1079&utm_source=git)** | Roswell, GA | Hybrid | Jul 10 |
 | **[Businessolver](https://www.businessolver.com)** | **[Software Engineering Internship - Java, React (Work Anywhere within the U.S.)](https://jobright.ai/jobs/info/68701faaa5ae807a59cf5e83?utm_campaign=1079&utm_source=git)** | Work Remotely Anywhere in the U.S. | Remote | Jul 10 |
 | **[SAP](https://www.sap.com)** | **[SAP HCM iXp Intern - IT Technology Services Associate](https://jobright.ai/jobs/info/685363005b83af762465f500?utm_campaign=1079&utm_source=git)** | San Ramon, CA | Hybrid | Jul 10 |
-| **[NVIDIA](https://www.nvidia.com)** | **[System Software Engineering Intern, GPU Server - Fall 2025](https://jobright.ai/jobs/info/6853d36881868f79ea07cd53?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Jul 10 |
 | **[Jane Street](https://www.janestreet.com)** | **[Tools & Compilers Research and Development](https://jobright.ai/jobs/info/686fff7ba5ae807a59cf4e0d?utm_campaign=1079&utm_source=git)** | New York, New York, United States | On Site | Jul 10 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Compiler Engineering Intern, GPU Compute and CUDA - Fall 2025](https://jobright.ai/jobs/info/6853d3a681868f79ea07d48e?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Jul 10 |
 | ↳ | **[Compiler Engineering Intern, GPU Compute and CUDA - Fall 2025](https://jobright.ai/jobs/info/6853d3a681868f79ea07d48a?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Jul 10 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Bank of America](https://www.bankofamerica.com)** | **[Global Technology Summer Analyst 2026 - Software Engineer](https://jobright.ai/jobs/info/686c67b035584b65428b00e3?utm_campaign=1079&utm_source=git)** | Richmond, VA | On Site | Jul 07 |
 | **[MAHLE](https://www.mahle.com)** | **[Jr. Finance Process Architect Intern](https://jobright.ai/jobs/info/686c207935584b6542c7fd77?utm_campaign=1079&utm_source=git)** | Farmington Hills, MI | On Site | Jul 07 |
 | **[Ciena](http://www.ciena.com)** | **[Verification Engineer Intern (Fall 2025)](https://jobright.ai/jobs/info/686c367c35584b654262c572?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Hybrid | Jul 07 |
+| ↳ | **[Verification Engineer Intern (Fall 2025)](https://jobright.ai/jobs/info/686be7ff35584b654262ae91?utm_campaign=1079&utm_source=git)** | Atlanta | Hybrid | Jul 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
