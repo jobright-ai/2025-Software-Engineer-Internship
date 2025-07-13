@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Jobright.ai](https://jobright.ai)** | **[Software Engineer, New Grad & Entry Level](https://jobright.ai/jobs/info/6873bd3b4001e95011b197b9?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 13 |
+| **[Jobright.ai](https://jobright.ai)** | **[Software Engineer Graduate - 2025 Start](https://jobright.ai/jobs/info/6873ec6c4001e95011b1b5a2?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 13 |
+| ↳ | **[Software Engineer, New Grad & Entry Level](https://jobright.ai/jobs/info/6873e5fc27d5e6163cae6eb2?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 13 |
 | **[Jobright.ai](https://jobright.ai)** | **[Software Engineer, New Grad & Entry Level](https://jobright.ai/jobs/info/68731a8406ad7073463cd45d?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 12 |
+| **[ByteDance](http://bytedance.com)** | **[Software Development Engineer Intern in Test (Global E-commerce-Quality Assurance) - 2025 Fall (BS/MS)](https://jobright.ai/jobs/info/685639617d54b6be490d8725?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 12 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - HANA Cloud Knowledge Graph Engine Software Developer](https://jobright.ai/jobs/info/684f89f220521b60706b87b0?utm_campaign=1079&utm_source=git)** | Burlington, MA | Hybrid | Jul 12 |
 | **[ByteDance](http://bytedance.com)** | **[Video Experience Software Engineer Intern (Global StreamingMedia) - 2025 Summer/Fall (BS/MS)](https://jobright.ai/jobs/info/6855f995b0e8b59b0e9db48d?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 12 |
 | **[Veralto](https://www.veralto.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6872680406ad7073463cc14a?utm_campaign=1079&utm_source=git)** | Grand Rapids, MI | On Site | Jul 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MAHLE](https://www.mahle.com)** | **[Jr. Finance Process Architect Intern](https://jobright.ai/jobs/info/686c207935584b6542c7fd77?utm_campaign=1079&utm_source=git)** | Farmington Hills, MI | On Site | Jul 07 |
 | **[Ciena](http://www.ciena.com)** | **[Verification Engineer Intern (Fall 2025)](https://jobright.ai/jobs/info/686c367c35584b654262c572?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Hybrid | Jul 07 |
 | ↳ | **[Verification Engineer Intern (Fall 2025)](https://jobright.ai/jobs/info/686be7ff35584b654262ae91?utm_campaign=1079&utm_source=git)** | Atlanta | Hybrid | Jul 07 |
-| **[Sandhills Global](https://www.sandhills.com/)** | **[Software Development Intern](https://jobright.ai/jobs/info/66c67e6289d6136c4923e966?utm_campaign=1079&utm_source=git)** | Scottsdale, AZ | On Site | Jul 07 |
-| **[DRW](http://drw.com/)** | **[Software Developer Intern](https://jobright.ai/jobs/info/686bdcbd35584b654224d841?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jul 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
