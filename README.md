@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Jobright.ai](https://jobright.ai)** | **[Software Engineer, New Grad & Entry Level](https://jobright.ai/jobs/info/68731a7406ad7073463cd45a?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 12 |
+| **[Jobright.ai](https://jobright.ai)** | **[Software Engineer Graduate - 2025 Start](https://jobright.ai/jobs/info/68733e0706ad7073463ce7e6?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 12 |
+| ↳ | **[Software Engineer, New Grad & Entry Level](https://jobright.ai/jobs/info/68733aa1a5ae807a59d08bfa?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 12 |
+| ↳ | **[Software Engineer, New Grad & Entry Level](https://jobright.ai/jobs/info/68731a7406ad7073463cd45a?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 12 |
 | ↳ | **[Software Engineer, New Grad & Entry Level](https://jobright.ai/jobs/info/68731a8406ad7073463cd45d?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 12 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - HANA Cloud Knowledge Graph Engine Software Developer](https://jobright.ai/jobs/info/684f89f220521b60706b87b0?utm_campaign=1079&utm_source=git)** | Burlington, MA | Hybrid | Jul 12 |
 | **[Veralto](https://www.veralto.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6872680406ad7073463cc14a?utm_campaign=1079&utm_source=git)** | Grand Rapids, MI | On Site | Jul 12 |
@@ -82,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[ZEISS Group](http://www.zeiss.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/687182b8e8a09752c972ee1d?utm_campaign=1079&utm_source=git)** | Dublin, CA | On Site | Jul 11 |
 | **[CAE](http://www.cae.com)** | **[Software Engineer Co-op-EN](https://jobright.ai/jobs/info/68716d1aa5ae807a59cff7f8?utm_campaign=1079&utm_source=git)** | Arlington, TX | On Site | Jul 11 |
 | **[X-Rite](http://www.xrite.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68715b69a5ae807a59cff235?utm_campaign=1079&utm_source=git)** | Grand Rapids, MI | Hybrid | Jul 11 |
-| ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/687149e8630cfafb2db09790?utm_campaign=1079&utm_source=git)** | Grand Rapids, Michigan, United States | On Site | Jul 11 |
 | **[CAE](http://www.cae.com)** | **[Software Engineer Co-op](https://jobright.ai/jobs/info/68713ac8bd640363bba9a1f5?utm_campaign=1079&utm_source=git)** | Arlington, TX | On Site | Jul 11 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Information Technology Engineer](https://jobright.ai/jobs/info/686a0b3135584b6542539c0f?utm_campaign=1079&utm_source=git)** | Lexington, KY | On Site | Jul 11 |
 | **[Spencer's](http://www.spencersonline.com/)** | **[Retail Development Internship](https://jobright.ai/jobs/info/6870e4a901cc0956e7e86497?utm_campaign=1079&utm_source=git)** | Egg Harbor, NJ | On Site | Jul 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mason Companies, Inc](http://www.masoncompaniesinc.com/)** | **[Software Development Summer Intern](https://jobright.ai/jobs/info/685b6e083e53182ab3689f29?utm_campaign=1079&utm_source=git)** | Chippewa Falls, WI | On Site | Jul 07 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Ground Software Engineer Intern (Summer 2025)](https://jobright.ai/jobs/info/67f191312f8c6a4af26e769f?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jul 07 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Digital Technology Internship - Summer 2026](https://jobright.ai/jobs/info/686b83c235584b6542893bad?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Jul 07 |
-| ↳ | **[GE Vernova Digital Technology Internship - Summer 2026](https://jobright.ai/jobs/info/686b7f7335584b65427024dc?utm_campaign=1079&utm_source=git)** | Schenectady, NY | On Site | Jul 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
