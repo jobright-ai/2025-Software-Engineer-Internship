@@ -83,8 +83,7 @@ For a complete list, click the following sortable link below:
 | **[Susquehanna International Group](http://sig.com)** | **[Software Engineering Internship: Summer 2026](https://jobright.ai/jobs/info/68719ded06ad7073463c6455?utm_campaign=1079&utm_source=git)** | Greater Philadelphia | On Site | Jul 11 |
 | **[ZEISS Group](http://www.zeiss.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/687182b8e8a09752c972ee1d?utm_campaign=1079&utm_source=git)** | Dublin, CA | On Site | Jul 11 |
 | **[CAE](http://www.cae.com)** | **[Software Engineer Co-op-EN](https://jobright.ai/jobs/info/68716d1aa5ae807a59cff7f8?utm_campaign=1079&utm_source=git)** | Arlington, TX | On Site | Jul 11 |
-| **[X-Rite](http://www.xrite.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68715b69a5ae807a59cff235?utm_campaign=1079&utm_source=git)** | Grand Rapids, MI | Hybrid | Jul 11 |
-| **[CAE](http://www.cae.com)** | **[Software Engineer Co-op](https://jobright.ai/jobs/info/68713ac8bd640363bba9a1f5?utm_campaign=1079&utm_source=git)** | Arlington, TX | On Site | Jul 11 |
+| ↳ | **[Software Engineer Co-op](https://jobright.ai/jobs/info/68713ac8bd640363bba9a1f5?utm_campaign=1079&utm_source=git)** | Arlington, TX | On Site | Jul 11 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Information Technology Engineer](https://jobright.ai/jobs/info/686a0b3135584b6542539c0f?utm_campaign=1079&utm_source=git)** | Lexington, KY | On Site | Jul 11 |
 | **[Spencer's](http://www.spencersonline.com/)** | **[Retail Development Internship](https://jobright.ai/jobs/info/6870e4a901cc0956e7e86497?utm_campaign=1079&utm_source=git)** | Egg Harbor, NJ | On Site | Jul 10 |
 | ↳ | **[Ecommerce Java Development Internship](https://jobright.ai/jobs/info/6870bd2e06ad7073463c09b8?utm_campaign=1079&utm_source=git)** | Egg Harbor, NJ | On Site | Jul 10 |
@@ -122,6 +121,7 @@ For a complete list, click the following sortable link below:
 | **[Nokia](http://www.nokia.com)** | **[Software Quality Assurance Coop](https://jobright.ai/jobs/info/6819434fa31cf47e07c3a585?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Jul 09 |
 | **[Western Digital](https://www.westerndigital.com)** | **[Software Engineering Co-Op (January-August 2026)](https://jobright.ai/jobs/info/68521aa4dd29c874a1dff3cc?utm_campaign=1079&utm_source=git)** | Rochester, MN | On Site | Jul 09 |
 | **[AI Fund](https://aifund.ai/)** | **[Full-Stack Engineer Intern](https://jobright.ai/jobs/info/686e0e22e1a3bf00a3809dc9?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Jul 08 |
+| **[American Fidelity](http://www.americanfidelity.com)** | **[Software Mobile Internship (Android)](https://jobright.ai/jobs/info/6873556ca5ae807a59d098b7?utm_campaign=1079&utm_source=git)** | Oklahoma City, OK | On Site | Jul 08 |
 | **[Generac](https://www.generac.com/)** | **[IT Intern - Web Development](https://jobright.ai/jobs/info/6870853b06ad7073463be551?utm_campaign=1079&utm_source=git)** | Waukesha, WI | On Site | Jul 08 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Software Developer [Palo Alto, CA]](https://jobright.ai/jobs/info/686dcebf0dea4386449cfe9b?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | Hybrid | Jul 08 |
 | **[HBK - Hottinger Brüel & Kjær](https://www.hbkworld.com)** | **[Application Engineer Intern](https://jobright.ai/jobs/info/686dcbae3747c55e01110e85?utm_campaign=1079&utm_source=git)** | Canton, MI | On Site | Jul 08 |
