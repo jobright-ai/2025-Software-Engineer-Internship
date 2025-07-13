@@ -59,8 +59,8 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - HANA Cloud Knowledge Graph Engine Software Developer](https://jobright.ai/jobs/info/684f89f220521b60706b87b0?utm_campaign=1079&utm_source=git)** | Burlington, MA | Hybrid | Jul 12 |
 | **[Veralto](https://www.veralto.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6872680406ad7073463cc14a?utm_campaign=1079&utm_source=git)** | Grand Rapids, MI | On Site | Jul 12 |
+| **[Jobright.ai](https://jobright.ai)** | **[Software Engineer, New Grad & Entry Level](https://jobright.ai/jobs/info/6872661fa5ae807a59d066e1?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 12 |
 | **[Copart](http://www.copart.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6811abd51f4024cee35f9194?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Jul 12 |
-| **[Jobright.ai](https://jobright.ai)** | **[Software Engineer, New Grad & Entry Level](https://jobright.ai/jobs/info/6872437e06ad7073463cbaf6?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 12 |
 | **[ByteDance](http://bytedance.com)** | **[Software Engineer Intern (Recommendation Infra - Data-Arch-TikTok US) - 2025 Summer (PhD)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8d1e?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 12 |
 | ↳ | **[Software Engineer Intern (Privacy & Security- Global Payment) - 2025 Summer(BS/MS)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8d8f?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 12 |
 | ↳ | **[Backend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce Seller Business)- 2025 Fall(BS/MS)](https://jobright.ai/jobs/info/6855f995b0e8b59b0e9db47f?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 12 |
