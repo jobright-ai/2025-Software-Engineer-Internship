@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jobright.ai](https://jobright.ai)** | **[Software Engineer, New Grad & Entry Level](https://jobright.ai/jobs/info/68731a7406ad7073463cd45a?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 12 |
+| ↳ | **[Software Engineer, New Grad & Entry Level](https://jobright.ai/jobs/info/68731a8406ad7073463cd45d?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 12 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - HANA Cloud Knowledge Graph Engine Software Developer](https://jobright.ai/jobs/info/684f89f220521b60706b87b0?utm_campaign=1079&utm_source=git)** | Burlington, MA | Hybrid | Jul 12 |
 | **[Veralto](https://www.veralto.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6872680406ad7073463cc14a?utm_campaign=1079&utm_source=git)** | Grand Rapids, MI | On Site | Jul 12 |
 | **[Copart](http://www.copart.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6811abd51f4024cee35f9194?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Jul 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Ground Software Engineer Intern (Summer 2025)](https://jobright.ai/jobs/info/67f191312f8c6a4af26e769f?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jul 07 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Digital Technology Internship - Summer 2026](https://jobright.ai/jobs/info/686b83c235584b6542893bad?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Jul 07 |
 | ↳ | **[GE Vernova Digital Technology Internship - Summer 2026](https://jobright.ai/jobs/info/686b7f7335584b65427024dc?utm_campaign=1079&utm_source=git)** | Schenectady, NY | On Site | Jul 07 |
-| ↳ | **[GE Vernova Digital Technology Internship - Summer 2026](https://jobright.ai/jobs/info/686b7a8a35584b6542567c21?utm_campaign=1079&utm_source=git)** | Greenville, SC | On Site | Jul 07 |
-| **[NimbleRx](https://www.nimblerx.com/)** | **[Software Engineer Intern - Fall Session (September - December 2025)](https://jobright.ai/jobs/info/686b4c7935584b6542a07869?utm_campaign=1079&utm_source=git)** | Redwood City, CA | Hybrid | Jul 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
