@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jobright.ai](https://jobright.ai)** | **[Software Engineer, New Grad & Entry Level](https://jobright.ai/jobs/info/68750533ae2f413e4a5a2e98?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 14 |
+| **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Distribution Technology](https://jobright.ai/jobs/info/6875037bae2f413e4a5a2d7a?utm_campaign=1079&utm_source=git)** | Tempe, AZ | Hybrid | Jul 14 |
 | **[Harris Computer](http://www.harriscomputer.com)** | **[Software Developer, Co-op/Intern](https://jobright.ai/jobs/info/687484d5299cbc74b874e9dd?utm_campaign=1079&utm_source=git)** | Remote - New Brunswick - 37.5 | Remote | Jul 13 |
-| **[Jobright.ai](https://jobright.ai)** | **[Software Engineer, New Grad & Entry Level](https://jobright.ai/jobs/info/687483105cebcd1dd51ba672?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 13 |
-| ↳ | **[Software Engineer, New Grad & Entry Level](https://jobright.ai/jobs/info/6873e5fc27d5e6163cae6eb2?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 13 |
+| **[Jobright.ai](https://jobright.ai)** | **[Software Engineer, New Grad & Entry Level](https://jobright.ai/jobs/info/68745ac1299cbc74b874d254?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 13 |
 | **[Jobright.ai](https://jobright.ai)** | **[Software Engineer, New Grad & Entry Level](https://jobright.ai/jobs/info/68731a8406ad7073463cd45d?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 12 |
-| ↳ | **[Software Engineer Graduate - 2025 Start](https://jobright.ai/jobs/info/6874cf18ae2f413e4a5a0790?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 12 |
 | **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[SW Dev and Test Co-op - Fall 2025 - ASL](https://jobright.ai/jobs/info/681cfa19f6c65e3672548bf5?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Jul 12 |
 | **[Kansas State University](http://www.k-state.edu/)** | **[Student ERP Systems Manager](https://jobright.ai/jobs/info/6874d4c3ae2f413e4a5a0b6f?utm_campaign=1079&utm_source=git)** | Manhattan, KS | On Site | Jul 12 |
 | **[ByteDance](http://bytedance.com)** | **[Software Development Engineer Intern in Test (Global E-commerce-Quality Assurance) - 2025 Fall (BS/MS)](https://jobright.ai/jobs/info/685639617d54b6be490d8725?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 12 |
@@ -77,8 +77,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Frontend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce) - 2025 Start Fall (BS/MS)](https://jobright.ai/jobs/info/685639617d54b6be490d884b?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 12 |
 | ↳ | **[Video Experience Software Engineer Intern (Global StreamingMedia) - 2025 Summer/Fall (PhD)](https://jobright.ai/jobs/info/685639617d54b6be490d871b?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 12 |
 | ↳ | **[Software Engineer Intern (Recommendation Infra - Data-Arch-TikTok US) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8d82?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 12 |
-| ↳ | **[Software Engineer Graduate (3D Graphics-PICO) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/685639617d54b6be490d8740?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 12 |
-| ↳ | **[Frontend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce Content) - 2025 Start Fall (BS/MS)](https://jobright.ai/jobs/info/685639617d54b6be490d873c?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 12 |
+| **[Jobright.ai](https://jobright.ai)** | **[Software Engineer Graduate - 2025 Start](https://jobright.ai/jobs/info/6874f70cae2f413e4a5a22fa?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 12 |
+| **[ByteDance](http://bytedance.com)** | **[Frontend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce Content) - 2025 Start Fall (BS/MS)](https://jobright.ai/jobs/info/685639617d54b6be490d873c?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 12 |
 | ↳ | **[Software Engineer Intern (SDN) - 2025 Summer/Fall (PhD)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8d3a?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 12 |
 | ↳ | **[GPU/AI Application Platform Engineer Intern (Server Platform) - 2025 Summer/Fall (PhD)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8d5b?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 12 |
 | ↳ | **[Software Engineer Intern (User Product - Global Payment) - 2025 Summer(BS/MS)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8d5a?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 12 |
