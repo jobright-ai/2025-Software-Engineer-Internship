@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Jobright.ai](https://jobright.ai)** | **[Software Engineer Graduate - 2025 Start](https://jobright.ai/jobs/info/6873ec6c4001e95011b1b5a2?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 13 |
+| **[Jobright.ai](https://jobright.ai)** | **[Software Engineer, New Grad & Entry Level](https://jobright.ai/jobs/info/68745e815cebcd1dd51b8fed?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 13 |
+| ↳ | **[Software Engineer Graduate - 2025 Start](https://jobright.ai/jobs/info/6873ec6c4001e95011b1b5a2?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 13 |
 | ↳ | **[Software Engineer, New Grad & Entry Level](https://jobright.ai/jobs/info/6873e5fc27d5e6163cae6eb2?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 13 |
 | **[Jobright.ai](https://jobright.ai)** | **[Software Engineer, New Grad & Entry Level](https://jobright.ai/jobs/info/68731a8406ad7073463cd45d?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 12 |
 | **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[SW Dev and Test Co-op - Fall 2025 - ASL](https://jobright.ai/jobs/info/681cfa19f6c65e3672548bf5?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Jul 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MAHLE](https://www.mahle.com)** | **[Jr. Finance Process Architect Intern](https://jobright.ai/jobs/info/686c207935584b6542c7fd77?utm_campaign=1079&utm_source=git)** | Farmington Hills, MI | On Site | Jul 07 |
 | **[Ciena](http://www.ciena.com)** | **[Verification Engineer Intern (Fall 2025)](https://jobright.ai/jobs/info/686c367c35584b654262c572?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Hybrid | Jul 07 |
 | ↳ | **[Verification Engineer Intern (Fall 2025)](https://jobright.ai/jobs/info/686be7ff35584b654262ae91?utm_campaign=1079&utm_source=git)** | Atlanta | Hybrid | Jul 07 |
-| **[Sandhills Global](https://www.sandhills.com/)** | **[Software Development Intern](https://jobright.ai/jobs/info/66c67e6289d6136c4923e966?utm_campaign=1079&utm_source=git)** | Scottsdale, AZ | On Site | Jul 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
