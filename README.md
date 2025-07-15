@@ -57,14 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jobright.ai](https://jobright.ai)** | **[Software Engineer, New Grad & Entry Level](https://jobright.ai/jobs/info/6875baefae2f413e4a5a969f?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 14 |
+| **[indie.inc](http://www.indiesemi.com)** | **[Software Intern – Register Tools & Scripting](https://jobright.ai/jobs/info/6875b6b1ae2f413e4a5a94d8?utm_campaign=1079&utm_source=git)** | Michigan, United States | On Site | Jul 14 |
+| **[Globus Medical](http://www.globusmedical.com)** | **[Software Engineer Co-Op](https://jobright.ai/jobs/info/6875b33f299cbc74b87570e7?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Jul 14 |
+| **[BILL](http://www.bill.com)** | **[2026 Campus Recruiting: Software Engineer Intern](https://jobright.ai/jobs/info/6875c2ad5cebcd1dd51c337b?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 14 |
+| **[Harris Computer](http://www.harriscomputer.com)** | **[Software Developer, Co-op/Intern](https://jobright.ai/jobs/info/6875c4855cebcd1dd51c340f?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 14 |
 | **[Akuna Capital](https://akunacapital.com)** | **[Software Engineer Intern - C++, Summer 2026](https://jobright.ai/jobs/info/68759eff299cbc74b87564ee?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jul 14 |
 | ↳ | **[Quantitative Development & Strategy Intern, Summer 2026](https://jobright.ai/jobs/info/68759b72ae2f413e4a5a85dd?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jul 14 |
 | ↳ | **[Software Engineer Intern - C# .NET Desktop, Summer 2026](https://jobright.ai/jobs/info/68759b605cebcd1dd51c20f5?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jul 14 |
-| ↳ | **[Software Engineer Intern - Python, Summer 2026](https://jobright.ai/jobs/info/687597155cebcd1dd51c1f53?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jul 14 |
+| **[Mirion](https://www.mirion.com)** | **[Software Developer Intern- Fall 2025 (Onsite)](https://jobright.ai/jobs/info/6875c8925cebcd1dd51c3578?utm_campaign=1079&utm_source=git)** | Somerset, NJ | On Site | Jul 14 |
+| **[Jobright.ai](https://jobright.ai)** | **[Software Engineer, New Grad & Entry Level](https://jobright.ai/jobs/info/68759499299cbc74b87561a3?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 14 |
+| **[Akuna Capital](https://akunacapital.com)** | **[Software Engineer Intern - Full Stack Web, Summer 2026](https://jobright.ai/jobs/info/6875b9255cebcd1dd51c2ff3?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jul 14 |
 | **[BILL](http://www.bill.com)** | **[2026 Campus Recruiting: Software Engineer Intern](https://jobright.ai/jobs/info/687584c5ae2f413e4a5a7dc9?utm_campaign=1079&utm_source=git)** | Draper, Utah, United States | On Site | Jul 14 |
-| **[Jobright.ai](https://jobright.ai)** | **[Software Engineer, New Grad & Entry Level](https://jobright.ai/jobs/info/687580235cebcd1dd51c156e?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 14 |
 | **[indie.inc](http://www.indiesemi.com)** | **[Software Intern – Register Tools & Scripting](https://jobright.ai/jobs/info/68757755299cbc74b875543b?utm_campaign=1079&utm_source=git)** | Michigan | On Site | Jul 14 |
-| **[Precision Strip, Inc.](http://www.precision-strip.com/)** | **[IT Software Co-Op](https://jobright.ai/jobs/info/68757209ae2f413e4a5a710a?utm_campaign=1079&utm_source=git)** | Minster, OH | On Site | Jul 14 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Global Scripted Development & Programming Intern – Fall 2025](https://jobright.ai/jobs/info/68756824ae2f413e4a5a6951?utm_campaign=1079&utm_source=git)** | Culver City, California | On Site | Jul 14 |
 | **[Western Governors University](http://www.wgu.edu/)** | **[Associate Software Engineer Intern](https://jobright.ai/jobs/info/68755edd5cebcd1dd51bff8d?utm_campaign=1079&utm_source=git)** | Salt Lake City Office | On Site | Jul 14 |
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[2026 Summer Corporate Intern - Information Technology](https://jobright.ai/jobs/info/68755ea3299cbc74b87542d5?utm_campaign=1079&utm_source=git)** | East Peoria, IL | On Site | Jul 14 |
@@ -72,6 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Akuna Capital](https://akunacapital.com)** | **[Software Engineer Intern - Full Stack Web, Summer 2026](https://jobright.ai/jobs/info/68755a6aae2f413e4a5a61e0?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jul 14 |
 | ↳ | **[Software Engineer Intern - C++, Summer 2026](https://jobright.ai/jobs/info/68755944299cbc74b8754004?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jul 14 |
 | ↳ | **[Software Engineer Intern - C# .NET Desktop, Summer 2026](https://jobright.ai/jobs/info/687557df5cebcd1dd51bfbc4?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jul 14 |
+| ↳ | **[Software Engineer Intern - Python, Summer 2026](https://jobright.ai/jobs/info/687554f3299cbc74b8753dba?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jul 14 |
 | **[Globus Medical](http://www.globusmedical.com)** | **[Software Engineer Co-Op](https://jobright.ai/jobs/info/687552ee5cebcd1dd51bf87e?utm_campaign=1079&utm_source=git)** | California - San Diego | On Site | Jul 14 |
 | **[Akuna Capital](https://akunacapital.com)** | **[Quantitative Development & Strategy Intern, Summer 2026](https://jobright.ai/jobs/info/687551975cebcd1dd51bf70a?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jul 14 |
 | **[Globus Medical](http://www.globusmedical.com)** | **[Software Engineer Co-Op](https://jobright.ai/jobs/info/687550f5ae2f413e4a5a5ada?utm_campaign=1079&utm_source=git)** | Methuen, MA | On Site | Jul 14 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AI Fund](https://aifund.ai/)** | **[Full-Stack Engineer Intern](https://jobright.ai/jobs/info/686e0e22e1a3bf00a3809dc9?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Jul 08 |
 | **[Generac](https://www.generac.com/)** | **[IT Intern - Web Development](https://jobright.ai/jobs/info/6870853b06ad7073463be551?utm_campaign=1079&utm_source=git)** | Waukesha, WI | On Site | Jul 08 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Software Developer [Palo Alto, CA]](https://jobright.ai/jobs/info/686dcebf0dea4386449cfe9b?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | Hybrid | Jul 08 |
-| **[HBK - Hottinger Brüel & Kjær](https://www.hbkworld.com)** | **[Application Engineer Intern](https://jobright.ai/jobs/info/686dcbae3747c55e01110e85?utm_campaign=1079&utm_source=git)** | Canton, MI | On Site | Jul 08 |
-| **[AFL](http://www.AFLglobal.com)** | **[Web Design/ Development Intern- Fall 2025](https://jobright.ai/jobs/info/686dcbae3747c55e01110cb1?utm_campaign=1079&utm_source=git)** | Duncan, SC | On Site | Jul 08 |
-| **[Magna International](http://www.magna.com/)** | **[Student – Engineering Low Speed ADAS Features](https://jobright.ai/jobs/info/686dc9d0b9d41c6a02699d1c?utm_campaign=1079&utm_source=git)** | Auburn Hills, MI | On Site | Jul 08 |
-| **[GP Enterprise Solutions](https://www.gpes.com)** | **[Computer Science Intern - Fall 2025](https://jobright.ai/jobs/info/686e7454436813b9265ab5bf?utm_campaign=1079&utm_source=git)** | Latham, NY | On Site | Jul 08 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Mobile Integration Developer](https://jobright.ai/jobs/info/686dafbfdf0f605f2a704bcc?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Jul 08 |
-| **[AI Fund](https://aifund.ai/)** | **[Full-Stack Engineer Intern](https://jobright.ai/jobs/info/686d8a586dc4f54b7dcb550e?utm_campaign=1079&utm_source=git)** | San Francisco, California | Hybrid | Jul 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
