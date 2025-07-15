@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Jobright.ai](https://jobright.ai)** | **[Software Engineer, New Grad & Entry Level](https://jobright.ai/jobs/info/6875baefae2f413e4a5a969f?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 14 |
+| **[Jobright.ai](https://jobright.ai)** | **[Software Engineer, New Grad & Entry Level](https://jobright.ai/jobs/info/6875ebbfae2f413e4a5ab1b9?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 14 |
 | **[indie.inc](http://www.indiesemi.com)** | **[Software Intern – Register Tools & Scripting](https://jobright.ai/jobs/info/6875b6b1ae2f413e4a5a94d8?utm_campaign=1079&utm_source=git)** | Michigan, United States | On Site | Jul 14 |
 | **[Globus Medical](http://www.globusmedical.com)** | **[Software Engineer Co-Op](https://jobright.ai/jobs/info/6875b33f299cbc74b87570e7?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Jul 14 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Software Engineer, Energy Engineering (Fall 2025)](https://jobright.ai/jobs/info/6875da395cebcd1dd51c40a4?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Jul 14 |
@@ -68,11 +68,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Quantitative Development & Strategy Intern, Summer 2026](https://jobright.ai/jobs/info/68759b72ae2f413e4a5a85dd?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jul 14 |
 | ↳ | **[Software Engineer Intern - C# .NET Desktop, Summer 2026](https://jobright.ai/jobs/info/68759b605cebcd1dd51c20f5?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jul 14 |
 | **[Mirion](https://www.mirion.com)** | **[Software Developer Intern- Fall 2025 (Onsite)](https://jobright.ai/jobs/info/6875c8925cebcd1dd51c3578?utm_campaign=1079&utm_source=git)** | Somerset, NJ | On Site | Jul 14 |
+| **[Globus Medical](http://www.globusmedical.com)** | **[Software Engineer Co-Op](https://jobright.ai/jobs/info/6875b4a4299cbc74b8757140?utm_campaign=1079&utm_source=git)** | Methuen, MA | On Site | Jul 14 |
 | **[Akuna Capital](https://akunacapital.com)** | **[Software Engineer Intern - Full Stack Web, Summer 2026](https://jobright.ai/jobs/info/6875b9255cebcd1dd51c2ff3?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jul 14 |
 | **[BILL](http://www.bill.com)** | **[2026 Campus Recruiting: Software Engineer Intern](https://jobright.ai/jobs/info/687584c5ae2f413e4a5a7dc9?utm_campaign=1079&utm_source=git)** | Draper, Utah, United States | On Site | Jul 14 |
-| **[Jobright.ai](https://jobright.ai)** | **[Software Engineer, New Grad & Entry Level](https://jobright.ai/jobs/info/687580235cebcd1dd51c156e?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 14 |
 | **[indie.inc](http://www.indiesemi.com)** | **[Software Intern – Register Tools & Scripting](https://jobright.ai/jobs/info/68757755299cbc74b875543b?utm_campaign=1079&utm_source=git)** | Michigan | On Site | Jul 14 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Global Scripted Development & Programming Intern – Fall 2025](https://jobright.ai/jobs/info/68756824ae2f413e4a5a6951?utm_campaign=1079&utm_source=git)** | Culver City, California | On Site | Jul 14 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Global Scripted Development & Programming Intern – Fall 2025](https://jobright.ai/jobs/info/687567be299cbc74b8754814?utm_campaign=1079&utm_source=git)** | Culver City, California | On Site | Jul 14 |
 | **[Western Governors University](http://www.wgu.edu/)** | **[Associate Software Engineer Intern](https://jobright.ai/jobs/info/68755edd5cebcd1dd51bff8d?utm_campaign=1079&utm_source=git)** | Salt Lake City Office | On Site | Jul 14 |
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[2026 Summer Corporate Intern - Information Technology](https://jobright.ai/jobs/info/68755ea3299cbc74b87542d5?utm_campaign=1079&utm_source=git)** | East Peoria, IL | On Site | Jul 14 |
 | **[Western Governors University](http://www.wgu.edu/)** | **[Associate Software Engineer Intern](https://jobright.ai/jobs/info/68757bc6ae2f413e4a5a78b8?utm_campaign=1079&utm_source=git)** | SLC Metro Area | On Site | Jul 14 |
@@ -82,13 +82,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer Intern - Python, Summer 2026](https://jobright.ai/jobs/info/687554f3299cbc74b8753dba?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jul 14 |
 | **[Globus Medical](http://www.globusmedical.com)** | **[Software Engineer Co-Op](https://jobright.ai/jobs/info/687552ee5cebcd1dd51bf87e?utm_campaign=1079&utm_source=git)** | California - San Diego | On Site | Jul 14 |
 | **[Akuna Capital](https://akunacapital.com)** | **[Quantitative Development & Strategy Intern, Summer 2026](https://jobright.ai/jobs/info/687551975cebcd1dd51bf70a?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jul 14 |
-| **[Globus Medical](http://www.globusmedical.com)** | **[Software Engineer Co-Op](https://jobright.ai/jobs/info/687550f5ae2f413e4a5a5ada?utm_campaign=1079&utm_source=git)** | Methuen, MA | On Site | Jul 14 |
 | **[Amazon](https://amazon.com)** | **[Jr. Software Development Engineer- San Luis Obispo](https://jobright.ai/jobs/info/67423c72b23418b7466b49de?utm_campaign=1079&utm_source=git)** | San Luis Obispo, CA | On Site | Jul 14 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Flight Software Intern (Summer 2025)](https://jobright.ai/jobs/info/67f17fe3ab95e873e94bd184?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jul 14 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Distribution Technology](https://jobright.ai/jobs/info/6875037bae2f413e4a5a2d7a?utm_campaign=1079&utm_source=git)** | Tempe, AZ | Hybrid | Jul 14 |
+| **[Jobright.ai](https://jobright.ai)** | **[Software Engineer, New Grad & Entry Level](https://jobright.ai/jobs/info/6874d39bae2f413e4a5a0a9b?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 14 |
 | **[Harris Computer](http://www.harriscomputer.com)** | **[Software Developer, Co-op/Intern](https://jobright.ai/jobs/info/687484d5299cbc74b874e9dd?utm_campaign=1079&utm_source=git)** | Remote - New Brunswick - 37.5 | Remote | Jul 13 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (MSP) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6875d0655cebcd1dd51c3b51?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 13 |
-| **[Jobright.ai](https://jobright.ai)** | **[Software Engineer, New Grad & Entry Level](https://jobright.ai/jobs/info/6873e5fc27d5e6163cae6eb2?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 13 |
+| **[Jobright.ai](https://jobright.ai)** | **[Software Engineer, New Grad & Entry Level](https://jobright.ai/jobs/info/68745ac1299cbc74b874d254?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 13 |
 | **[Jobright.ai](https://jobright.ai)** | **[Software Engineer, New Grad & Entry Level](https://jobright.ai/jobs/info/68731a8406ad7073463cd45d?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 12 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Software Engineering Intern - Fall 2025](https://jobright.ai/jobs/info/681d09e2e371c3e185ac88d3?utm_campaign=1079&utm_source=git)** | Huntsville, AL | Hybrid | Jul 12 |
 | **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[SW Dev and Test Co-op - Fall 2025 - ASL](https://jobright.ai/jobs/info/681cfa19f6c65e3672548bf5?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Jul 12 |
