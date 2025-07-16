@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Distribution Technology](https://jobright.ai/jobs/info/6876e686299cbc74b8761a43?utm_campaign=1079&utm_source=git)** | Tempe, AZ | Hybrid | Jul 15 |
+| **[AGAP Technologies Inc](https://agaptech.com/)** | **[JAVA Fullstack Developer Training](https://jobright.ai/jobs/info/6876d946ae2f413e4a5b450e?utm_campaign=1079&utm_source=git)** | Albuquerque, NM | On Site | Jul 15 |
+| **[Samsung Research America (SRA)](http://www.sra.samsung.com/)** | **[2025 Fall Intern - XR Graphics Developer](https://jobright.ai/jobs/info/6876cdfdae2f413e4a5b3da1?utm_campaign=1079&utm_source=git)** | 665 Clyde Avenue, Mountain View,  CA, USA | On Site | Jul 15 |
+| **[Neuralink](https://www.neuralink.com)** | **[Firmware Engineer Intern](https://jobright.ai/jobs/info/6876cdb5299cbc74b8760d1f?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Jul 15 |
 | **[Amazon](https://amazon.com)** | **[Fall Quality Assurance Engineer Internship – 2025 (US)](https://jobright.ai/jobs/info/6876ba9a299cbc74b8760088?utm_campaign=1079&utm_source=git)** | Seattle, Washington, USA | On Site | Jul 15 |
 | **[Isuzu North America](http://www.isuzu.com/)** | **[Autonomous Driving Intern](https://jobright.ai/jobs/info/6876a3d1299cbc74b875ee95?utm_campaign=1079&utm_source=git)** | Plymouth, MI | On Site | Jul 15 |
 | **[Neuralink](https://www.neuralink.com)** | **[Firmware Engineer Intern](https://jobright.ai/jobs/info/6876ba2fae2f413e4a5b2f22?utm_campaign=1079&utm_source=git)** | Fremont, California, United States | On Site | Jul 15 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Global Scripted Development & Programming Intern – Fall 2025](https://jobright.ai/jobs/info/68769965299cbc74b875e841?utm_campaign=1079&utm_source=git)** | Culver City, CA | On Site | Jul 15 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Revenue Accounting Technical](https://jobright.ai/jobs/info/68769852299cbc74b875e7ae?utm_campaign=1079&utm_source=git)** | Newtown Square, PA | Hybrid | Jul 15 |
-| **[Jobright.ai](https://jobright.ai)** | **[Software Engineer, New Grad & Entry Level](https://jobright.ai/jobs/info/6876937fae2f413e4a5b10a4?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 15 |
 | **[Honeywell](http://www.honeywell.com)** | **[Co-Op - Masters Software Eng](https://jobright.ai/jobs/info/6876b05fae2f413e4a5b26be?utm_campaign=1079&utm_source=git)** | Mason, OH | Hybrid | Jul 15 |
 | **[IBM](http://www.ibm.com)** | **[Software Engineer Apprentice](https://jobright.ai/jobs/info/6876b3745cebcd1dd51cb914?utm_campaign=1079&utm_source=git)** | Lowell, MA | On Site | Jul 15 |
 | ↳ | **[Intern Conversion - Associate Package Specialist](https://jobright.ai/jobs/info/6876c7075cebcd1dd51cc52b?utm_campaign=1079&utm_source=git)** | Bedford, IN | Hybrid | Jul 15 |
@@ -89,6 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Chicago Trading Company](http://www.chicagotrading.com/)** | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/6876868cae2f413e4a5b0934?utm_campaign=1079&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Jul 15 |
 | **[Nokia](http://www.nokia.com)** | **[Special Projects Software Dev Coop](https://jobright.ai/jobs/info/682284a49828ea3e1b1d055c?utm_campaign=1079&utm_source=git)** | Naperville, IL | On Site | Jul 15 |
 | **[TikTok](https://www.tiktok.com)** | **[Research Intern (Intelligent Creation-Vision and Graphics) - 2025 Summer (PhD)](https://jobright.ai/jobs/info/68735943a5ae807a59d09b58?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 15 |
+| **[Jobright.ai](https://jobright.ai)** | **[Software Engineer, New Grad & Entry Level](https://jobright.ai/jobs/info/6876269e5cebcd1dd51c6e60?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 15 |
 | **[AMETEK](http://www.ametek.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6859fab96471dc27ac2cb754?utm_campaign=1079&utm_source=git)** | Wayne, NJ | On Site | Jul 15 |
 | **[Honeywell](http://www.honeywell.com)** | **[Co-Op - Bachelors Software Eng (Fall 2025)](https://jobright.ai/jobs/info/68765034ae2f413e4a5aecf5?utm_campaign=1079&utm_source=git)** | Mason, OH | On Site | Jul 14 |
 | **[indie.inc](http://www.indiesemi.com)** | **[Software Intern – Register Tools & Scripting](https://jobright.ai/jobs/info/6875b6b1ae2f413e4a5a94d8?utm_campaign=1079&utm_source=git)** | Michigan, United States | On Site | Jul 14 |
@@ -114,7 +118,7 @@ For a complete list, click the following sortable link below:
 | **[Globus Medical](http://www.globusmedical.com)** | **[Software Engineer Co-Op](https://jobright.ai/jobs/info/687552ee5cebcd1dd51bf87e?utm_campaign=1079&utm_source=git)** | California - San Diego | On Site | Jul 14 |
 | **[Akuna Capital](https://akunacapital.com)** | **[Quantitative Development & Strategy Intern, Summer 2026](https://jobright.ai/jobs/info/687551975cebcd1dd51bf70a?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jul 14 |
 | **[Globus Medical](http://www.globusmedical.com)** | **[Software Engineer Co-Op](https://jobright.ai/jobs/info/687550f5ae2f413e4a5a5ada?utm_campaign=1079&utm_source=git)** | Methuen, MA | On Site | Jul 14 |
-| **[Jobright.ai](https://jobright.ai)** | **[Software Engineer, New Grad & Entry Level](https://jobright.ai/jobs/info/68753d2e5cebcd1dd51bed97?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 14 |
+| **[Jobright.ai](https://jobright.ai)** | **[Software Engineer, New Grad & Entry Level](https://jobright.ai/jobs/info/68751c8cae2f413e4a5a3c8a?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 14 |
 | **[Amazon](https://amazon.com)** | **[Jr. Software Development Engineer- San Luis Obispo](https://jobright.ai/jobs/info/67423c72b23418b7466b49de?utm_campaign=1079&utm_source=git)** | San Luis Obispo, CA | On Site | Jul 14 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Flight Software Intern (Summer 2025)](https://jobright.ai/jobs/info/67f17fe3ab95e873e94bd184?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jul 14 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Distribution Technology](https://jobright.ai/jobs/info/6875037bae2f413e4a5a2d7a?utm_campaign=1079&utm_source=git)** | Tempe, AZ | Hybrid | Jul 14 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer Graduate (Multi Cloud CDN) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8d4d?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 12 |
 | **[ZEISS Group](http://www.zeiss.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/687481b7299cbc74b874e8e9?utm_campaign=1079&utm_source=git)** | Dublin, CA | On Site | Jul 11 |
 | **[Spencer's](http://www.spencersonline.com/)** | **[Ecommerce Java Development Internship](https://jobright.ai/jobs/info/6875e2b3299cbc74b875878b?utm_campaign=1079&utm_source=git)** | Egg Harbor, NJ | On Site | Jul 11 |
-| **[QuinStreet](http://www.quinstreet.com)** | **[Engineering Co-Op](https://jobright.ai/jobs/info/6871b1af06ad7073463c6b7a?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 11 |
-| **[Susquehanna International Group](http://sig.com)** | **[Software Engineering Internship: Summer 2026](https://jobright.ai/jobs/info/68719ded06ad7073463c6455?utm_campaign=1079&utm_source=git)** | Greater Philadelphia | On Site | Jul 11 |
-| **[QuinStreet](http://www.quinstreet.com)** | **[Engineering Co-Op](https://jobright.ai/jobs/info/6874ca93ae2f413e4a5a04c4?utm_campaign=1079&utm_source=git)** | Foster City, CA | On Site | Jul 11 |
-| **[ZEISS Group](http://www.zeiss.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/687182b8e8a09752c972ee1d?utm_campaign=1079&utm_source=git)** | Dublin, CA | On Site | Jul 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
