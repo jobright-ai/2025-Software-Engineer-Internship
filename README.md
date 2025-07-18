@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jobright.ai](https://jobright.ai)** | **[Junior Developer - Sounding Board (Internship) (Remote)](https://jobright.ai/jobs/info/6879d75eed63844c9449ed0c?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 17 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Fall 2025 Software Engineering Intern (MLB, FL)](https://jobright.ai/jobs/info/6879b3cced63844c9449d7fb?utm_campaign=1079&utm_source=git)** | Melbourne, FL | Hybrid | Jul 17 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Information Systems Assurance - Summer 2026 (San Francisco)](https://jobright.ai/jobs/info/6879ab66ed63844c9449d499?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Jul 17 |
 | ↳ | **[Assurance Intern, Information Systems Assurance - Summer 2026 (San Francisco)](https://jobright.ai/jobs/info/6879a9892097a271a89792a2?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Jul 17 |
+| **[Leonardo DRS](https://www.leonardodrs.com)** | **[Fall 2025-Software Engineering Intern (MLB, FL)](https://jobright.ai/jobs/info/6879d922ed63844c9449ede1?utm_campaign=1079&utm_source=git)** | Melbourne, FL | Hybrid | Jul 17 |
 | **[IBM](http://www.ibm.com)** | **[Intern Conversion - Associate Package Specialist - Application Developer](https://jobright.ai/jobs/info/6879961d2097a271a89788af?utm_campaign=1079&utm_source=git)** | Bedford, IN | Hybrid | Jul 17 |
 | **[Jobright.ai](https://jobright.ai)** | **[Software Development Engineer I - Internship](https://jobright.ai/jobs/info/687981272097a271a8978154?utm_campaign=1079&utm_source=git)** | Arlington, TX | Hybrid | Jul 17 |
 | ↳ | **[Software Engineer 1 - Fitness (Internship)](https://jobright.ai/jobs/info/68797d992097a271a8977fc9?utm_campaign=1079&utm_source=git)** | Olathe, KS | On Site | Jul 17 |
@@ -76,10 +78,11 @@ For a complete list, click the following sortable link below:
 | **[Resource Innovations ](https://www.resource-innovations.com/)** | **[Application Software Engineer - Intern](https://jobright.ai/jobs/info/68796816ed63844c9449b623?utm_campaign=1079&utm_source=git)** | Chandler, AZ | Hybrid | Jul 17 |
 | **[Jobright.ai](https://jobright.ai)** | **[Software Engineer I/II (Internship) (Remote)](https://jobright.ai/jobs/info/6879349ea7fc8904e3960c39?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 17 |
 | **[Michigan Health Information Network Shared Services (MiHIN)](http://mihin.org)** | **[Cloud Engineer Intern](https://jobright.ai/jobs/info/68792b3d2097a271a89753e6?utm_campaign=1079&utm_source=git)** | Michigan, United States | Hybrid | Jul 17 |
+| **[Jobright.ai](https://jobright.ai)** | **[Software Engineer, New Grad & Entry Level](https://jobright.ai/jobs/info/6878ffdea7fc8904e395ef23?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 17 |
 | **[Digital Dynamics, Inc.](http://www.digitaldynamics.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6879100ded63844c94498516?utm_campaign=1079&utm_source=git)** | Scotts Valley, CA | On Site | Jul 17 |
 | **[Ramp](https://ramp.com)** | **[Software Engineer Internship / iOS](https://jobright.ai/jobs/info/6823d2130a7ff0b3aa525a69?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Jul 17 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Software Engineering Intern - Fall 2025](https://jobright.ai/jobs/info/683f62413250c09f1dd7fe9d?utm_campaign=1079&utm_source=git)** | Huntsville, AL | Hybrid | Jul 17 |
-| **[Jobright.ai](https://jobright.ai)** | **[Software Engineer, New Grad & Entry Level](https://jobright.ai/jobs/info/68787780866a435525ab9c75?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 16 |
+| **[Service Wire Company](http://servicewire.com)** | **[Internship - Information Technology (IT)](https://jobright.ai/jobs/info/6879d5cded63844c9449ec23?utm_campaign=1079&utm_source=git)** | Culloden, WV | On Site | Jul 16 |
 | **[Radix Trading LLC](https://radix.trade)** | **[Quantitative Technologist (C++ Intern)](https://jobright.ai/jobs/info/6878695a5cebcd1dd51da410?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jul 16 |
 | **[SMUD](https://www.smud.org/en)** | **[Enterprise Applications Engineering Intern - Year-round](https://jobright.ai/jobs/info/68784a86866a435525ab80e6?utm_campaign=1079&utm_source=git)** | Sacramento, CA, US | On Site | Jul 16 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Distribution Technology](https://jobright.ai/jobs/info/68783bc0ae2f413e4a5c0b34?utm_campaign=1079&utm_source=git)** | Tempe, AZ | Hybrid | Jul 16 |
@@ -153,8 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Whatnot](https://www.whatnot.com)** | **[2025 Software Engineer Intern (Fall)](https://jobright.ai/jobs/info/68762fe9299cbc74b875b400?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jul 14 |
 | **[Akuna Capital](https://akunacapital.com)** | **[Quantitative Development & Strategy Intern, Summer 2026](https://jobright.ai/jobs/info/68759b72ae2f413e4a5a85dd?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jul 14 |
 | ↳ | **[Software Engineer Intern - C# .NET Desktop, Summer 2026](https://jobright.ai/jobs/info/68759b605cebcd1dd51c20f5?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jul 14 |
-| ↳ | **[Software Engineer Intern - Python, Summer 2026](https://jobright.ai/jobs/info/687597155cebcd1dd51c1f53?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jul 14 |
 | **[Mirion](https://www.mirion.com)** | **[Software Developer Intern- Fall 2025 (Onsite)](https://jobright.ai/jobs/info/6875c8925cebcd1dd51c3578?utm_campaign=1079&utm_source=git)** | Somerset, NJ | On Site | Jul 14 |
-| **[Jobright.ai](https://jobright.ai)** | **[Software Engineer, New Grad & Entry Level](https://jobright.ai/jobs/info/68759499299cbc74b87561a3?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 14 |
-| **[Akuna Capital](https://akunacapital.com)** | **[Software Engineer Intern - Full Stack Web, Summer 2026](https://jobright.ai/jobs/info/6875b9255cebcd1dd51c2ff3?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jul 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
