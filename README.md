@@ -85,11 +85,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer, Internship](https://jobright.ai/jobs/info/687bd885764c3d7411c35b88?utm_campaign=1079&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | Jul 19 |
 | **[Sparrow](https://www.sparrowup.com)** | **[Android Development Intern](https://jobright.ai/jobs/info/687bd2492097a271a8987853?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 19 |
 | **[Jobright.ai](https://jobright.ai)** | **[Full-Stack Software Engineer, Internship, (Remote)](https://jobright.ai/jobs/info/687bd0a4ed63844c944abb48?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 19 |
-| ↳ | **[Software Engineer, Internship](https://jobright.ai/jobs/info/687bcef5ed63844c944abaaf?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | Jul 19 |
 | ↳ | **[Software Engineer (New Grad), Internship](https://jobright.ai/jobs/info/687bcd902097a271a8987686?utm_campaign=1079&utm_source=git)** | Denver, CO | On Site | Jul 19 |
 | ↳ | **[Software Engineer (New Grad) - Internship](https://jobright.ai/jobs/info/687bcb7f2097a271a89875c3?utm_campaign=1079&utm_source=git)** | Denver, CO | On Site | Jul 19 |
 | ↳ | **[Full-Stack Software Engineer - Internship - (Remote)](https://jobright.ai/jobs/info/687bcaafed63844c944ab996?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 19 |
-| ↳ | **[Junior Software Engineer - Internship](https://jobright.ai/jobs/info/687bc6bb764c3d7411c35774?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jul 19 |
 | ↳ | **[Software Engineer I/II, Internship, (Remote)](https://jobright.ai/jobs/info/687c781d764c3d7411c37eed?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 19 |
 | ↳ | **[Software Engineer I - Internship - (Remote)](https://jobright.ai/jobs/info/687bc44c764c3d7411c35698?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 19 |
 | ↳ | **[Software Engineer, Internship](https://jobright.ai/jobs/info/687bc322ed63844c944ab66d?utm_campaign=1079&utm_source=git)** | Decatur, GA | On Site | Jul 19 |
@@ -109,7 +107,13 @@ For a complete list, click the following sortable link below:
 | **[WebFX](https://www.webfx.com)** | **[Web Developer Internship](https://jobright.ai/jobs/info/67eec162357dc4681d864228?utm_campaign=1079&utm_source=git)** | Harrisburg, PA | On Site | Jul 19 |
 | **[Databricks](https://www.databricks.com)** | **[Senior Software Engineer - Database Engine Internals](https://jobright.ai/jobs/info/668a7835dfbe564b9b904c6a?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Jul 19 |
 | **[Jobright.ai](https://jobright.ai)** | **[Junior Developer - Sounding Board (Internship) (Remote)](https://jobright.ai/jobs/info/687bb3c0764c3d7411c34f40?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 19 |
-| **[Jobright.ai](https://jobright.ai)** | **[Software Engineer 1 - Fitness (Internship)](https://jobright.ai/jobs/info/687c80fbed63844c944ae954?utm_campaign=1079&utm_source=git)** | Olathe, KS | On Site | Jul 18 |
+| **[Jobright.ai](https://jobright.ai)** | **[Full-Stack Software Engineer (Internship) (Remote)](https://jobright.ai/jobs/info/687c87ee2097a271a898abc3?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 18 |
+| ↳ | **[Software Engineer 1 - Fitness (Internship)](https://jobright.ai/jobs/info/687c80fbed63844c944ae954?utm_campaign=1079&utm_source=git)** | Olathe, KS | On Site | Jul 18 |
+| ↳ | **[Software Engineer I/II - Internship - (Remote)](https://jobright.ai/jobs/info/687c83e2ed63844c944aeb05?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 18 |
+| ↳ | **[Software Engineer, C++ (New Grad) - Internship](https://jobright.ai/jobs/info/687c89b6ed63844c944aee13?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Jul 18 |
+| ↳ | **[Software Engineer, Internship](https://jobright.ai/jobs/info/687c80b0764c3d7411c3892b?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | Jul 18 |
+| ↳ | **[Junior Software Engineer (Internship)](https://jobright.ai/jobs/info/687c8a96764c3d7411c38ee7?utm_campaign=1079&utm_source=git)** | Scottsdale, AZ | Hybrid | Jul 18 |
+| ↳ | **[Junior Software Engineer - Internship](https://jobright.ai/jobs/info/687c8ae2ed63844c944aeeaf?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jul 18 |
 | **[Oracle](https://www.oracle.com/)** | **[Software Engineer Intern - Oracle Health](https://jobright.ai/jobs/info/687b45ad764c3d7411c31c41?utm_campaign=1079&utm_source=git)** | United States | Hybrid | Jul 18 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Software Systems Hardware Integration Engineer Intern (Fall 2025)](https://jobright.ai/jobs/info/687b9afb764c3d7411c341ef?utm_campaign=1079&utm_source=git)** | San Francisco | On Site | Jul 18 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Software Engineer Intern - Oracle Health](https://jobright.ai/jobs/info/687ad9d32097a271a898184c?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 18 |
@@ -117,8 +121,6 @@ For a complete list, click the following sortable link below:
 | **[Oracle](https://www.oracle.com/)** | **[Software Engineer Intern - Oracle Health](https://jobright.ai/jobs/info/687ad36ded63844c944a5948?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 18 |
 | **[IBM](http://www.ibm.com)** | **[Intern Conversion - Associate Package Specialist](https://jobright.ai/jobs/info/687b097f2097a271a89824b1?utm_campaign=1079&utm_source=git)** | Bedford, IN | Hybrid | Jul 18 |
 | **[Neuralink](https://www.neuralink.com)** | **[Software Engineer Intern, Infrastructure](https://jobright.ai/jobs/info/67064ff4951d5bd907271090?utm_campaign=1079&utm_source=git)** | Fremont, California, United States | On Site | Jul 18 |
-| **[Uber](http://www.uber.com)** | **[2026 Software Engineering UberSTAR Internship, Uber Career Prep (United States)](https://jobright.ai/jobs/info/687aae32ed63844c944a5248?utm_campaign=1079&utm_source=git)** | US-CA-San Francisco | On Site | Jul 18 |
-| ↳ | **[2026 Software Engineering Internship, Uber Career Prep (United States)](https://jobright.ai/jobs/info/687aac7d2097a271a8980fee?utm_campaign=1079&utm_source=git)** | US-CA-San Francisco | On Site | Jul 18 |
 | **[PENTAX Medical](https://www.pentaxmedical.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/687afa792097a271a89820c9?utm_campaign=1079&utm_source=git)** | Montvale, NJ | Remote | Jul 18 |
 | **[Elekta](http://elekta.com/)** | **[Engineering & Science - Software Engineering Intern](https://jobright.ai/jobs/info/687aa648764c3d7411c2ed9e?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 18 |
 | **[Landis+Gyr](https://www.landisgyr.com/)** | **[Fall Intern - Technical Implementation Engineer](https://jobright.ai/jobs/info/687aa2472097a271a898071a?utm_campaign=1079&utm_source=git)** | Alpharetta, GA | On Site | Jul 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Jobright.ai](https://jobright.ai)** | **[Software Engineer I/II - Internship - (Remote)](https://jobright.ai/jobs/info/687974bea7fc8904e3962f5d?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 17 |
 | **[Argonne National Laboratory](http://www.anl.gov/)** | **[Research Aide - ESI - Kanneganti, Nageshv - 7.16.25](https://jobright.ai/jobs/info/68796b4e2097a271a8977647?utm_campaign=1079&utm_source=git)** | Lemont, IL USA | On Site | Jul 17 |
 | ↳ | **[Research Aide - ESI - Kanneganti, Nageshv - 7.16.25](https://jobright.ai/jobs/info/68796aeded63844c9449b886?utm_campaign=1079&utm_source=git)** | On-site | On Site | Jul 17 |
-| **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Software Development Engineer Apprentice, AWS Opportunity for Veterans](https://jobright.ai/jobs/info/6746f5b32470b36d5a693f19?utm_campaign=1079&utm_source=git)** | Bellevue, WA | On Site | Jul 17 |
-| **[Sparrow](https://www.sparrowup.com)** | **[Full Stack Intern](https://jobright.ai/jobs/info/687979dda7fc8904e396323e?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
