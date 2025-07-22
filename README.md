@@ -58,7 +58,9 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Cambium Assessment](https://www.cambiumassessment.com)** | **[Assessment Engineering Intern](https://jobright.ai/jobs/info/6848837829262efa8e1284cd?utm_campaign=1079&utm_source=git)** | Concord, MA | Remote | Jul 22 |
+| **[Impulse Space](https://www.impulsespace.com)** | **[Flight/Embedded Software Engineering Intern (Fall 2025)](https://jobright.ai/jobs/info/687f8b689f728042457039b1?utm_campaign=1079&utm_source=git)** | Redondo Beach | On Site | Jul 22 |
 | **[PENTAX Medical](https://www.pentaxmedical.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/687afa792097a271a89820c9?utm_campaign=1079&utm_source=git)** | Montvale, NJ | Remote | Jul 22 |
+| **[OSF Saint Francis Medical Center](https://www.osfhealthcare.org)** | **[Innovation Internship](https://jobright.ai/jobs/info/687f60c29f72804245703311?utm_campaign=1079&utm_source=git)** | Mendota, IL | On Site | Jul 22 |
 | **[Jobright.ai](https://jobright.ai)** | **[Software Engineer 1 - Fitness (Internship)](https://jobright.ai/jobs/info/687f56d99f728042457030fa?utm_campaign=1079&utm_source=git)** | Olathe, KS | On Site | Jul 22 |
 | ↳ | **[Software Engineer, Internship](https://jobright.ai/jobs/info/687f564c764c3d7411c4b0ee?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | Jul 22 |
 | ↳ | **[Software Engineer I/II - Internship - (Remote)](https://jobright.ai/jobs/info/687f550a764c3d7411c4b0a1?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 22 |
@@ -77,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Jobright.ai](https://jobright.ai)** | **[Software Engineer (New Grad) (Internship)](https://jobright.ai/jobs/info/687efb312097a271a89995a2?utm_campaign=1079&utm_source=git)** | Denver, CO | On Site | Jul 21 |
 | ↳ | **[Software Engineer, Internship](https://jobright.ai/jobs/info/687f26ac764c3d7411c49a29?utm_campaign=1079&utm_source=git)** | Richmond, VA | On Site | Jul 21 |
 | **[PACSUN](http://www.pacsun.com/)** | **[ERP Analyst Intern](https://jobright.ai/jobs/info/687ef1f42097a271a899918e?utm_campaign=1079&utm_source=git)** | Anaheim, CA | On Site | Jul 21 |
+| **[Vendra (YC S24)](https://vendra.io/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/687f8bf02097a271a899d373?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jul 21 |
 | **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship – Information Systems/Information Technology](https://jobright.ai/jobs/info/687eeb532097a271a8998e64?utm_campaign=1079&utm_source=git)** | Midland (MI, USA) | On Site | Jul 21 |
 | **[The Trade Desk](http://thetradedesk.com)** | **[2026 North America Software Engineering Internship](https://jobright.ai/jobs/info/687ee9fedb19f31cf0d6e16e?utm_campaign=1079&utm_source=git)** | Bellevue, WA | On Site | Jul 21 |
 | **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship – Information Systems/Information Technology](https://jobright.ai/jobs/info/687ee9e3db19f31cf0d6e15c?utm_campaign=1079&utm_source=git)** | Houston (TX, USA) | On Site | Jul 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kratos Defense and Security Solutions](http://www.kratosdefense.com)** | **[Software Engineering Co-Op](https://jobright.ai/jobs/info/68268740b7c1e6c1cee26f33?utm_campaign=1079&utm_source=git)** | Fort Walton Beach, FL | On Site | Jul 20 |
 | **[Jobright.ai](https://jobright.ai)** | **[Software Engineer - Internship](https://jobright.ai/jobs/info/687d23eded63844c944b217c?utm_campaign=1079&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | Jul 20 |
 | ↳ | **[AI Trainer - Advanced Python Developers (Internship) (Remote)](https://jobright.ai/jobs/info/687d1aa9ed63844c944b1fe3?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 20 |
-| ↳ | **[Junior Software Engineer, Internship](https://jobright.ai/jobs/info/687d0dc12097a271a898dd8b?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jul 20 |
-| ↳ | **[Software Engineer - packaging - optimize Ubuntu Server for public clouds - Internship - (Remote)](https://jobright.ai/jobs/info/687dbe44764c3d7411c3e4ee?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 20 |
-| ↳ | **[Software Engineer I/II (Internship) (Remote)](https://jobright.ai/jobs/info/687dbc93764c3d7411c3e3e9?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
