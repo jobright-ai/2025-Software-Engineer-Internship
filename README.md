@@ -81,7 +81,9 @@ For a complete list, click the following sortable link below:
 | **[Tencent](https://www.tencent.com/en-us)** | **[IT Engineer Intern](https://jobright.ai/jobs/info/687effd9db19f31cf0d6eb69?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Jul 21 |
 | **[Jobright.ai](https://jobright.ai)** | **[Software Engineer (New Grad) (Internship)](https://jobright.ai/jobs/info/687efb312097a271a89995a2?utm_campaign=1079&utm_source=git)** | Denver, CO | On Site | Jul 21 |
 | ↳ | **[Software Engineer, Internship](https://jobright.ai/jobs/info/687f26ac764c3d7411c49a29?utm_campaign=1079&utm_source=git)** | Richmond, VA | On Site | Jul 21 |
+| **[Xcimer Energy Corporation](https://www.xcimer.net/)** | **[Spring Semester 2026 Internship - Computational and Software Engineering](https://jobright.ai/jobs/info/687ef28a2097a271a89991d0?utm_campaign=1079&utm_source=git)** | Denver, CO | On Site | Jul 21 |
 | **[PACSUN](http://www.pacsun.com/)** | **[ERP Analyst Intern](https://jobright.ai/jobs/info/687ef1f42097a271a899918e?utm_campaign=1079&utm_source=git)** | Anaheim, CA | On Site | Jul 21 |
+| **[Vorticity Inc.](http://vorticity.xyz)** | **[Full Stack Software Engineer](https://jobright.ai/jobs/info/687f25ed764c3d7411c49991?utm_campaign=1079&utm_source=git)** | Redwood City, CA | On Site | Jul 21 |
 | **[Vendra (YC S24)](https://vendra.io/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/687f8bf02097a271a899d373?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jul 21 |
 | **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship – Information Systems/Information Technology](https://jobright.ai/jobs/info/687eeb532097a271a8998e64?utm_campaign=1079&utm_source=git)** | Midland (MI, USA) | On Site | Jul 21 |
 | **[The Trade Desk](http://thetradedesk.com)** | **[2026 North America Software Engineering Internship](https://jobright.ai/jobs/info/687ee9fedb19f31cf0d6e16e?utm_campaign=1079&utm_source=git)** | Bellevue, WA | On Site | Jul 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer, C++ (New Grad) - Internship](https://jobright.ai/jobs/info/687d8d1f2097a271a898ebbb?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Jul 20 |
 | ↳ | **[Software Development Engineer I, Internship](https://jobright.ai/jobs/info/687d80e92097a271a898ea69?utm_campaign=1079&utm_source=git)** | Arlington, TX | Hybrid | Jul 20 |
 | ↳ | **[Software Engineer, New Grad, Internship](https://jobright.ai/jobs/info/687d7a732097a271a898ea2b?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Jul 20 |
-| ↳ | **[Software Engineer - packaging - optimize Ubuntu Server for public clouds (Internship) (Remote)](https://jobright.ai/jobs/info/687d7a6c2097a271a898ea25?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 20 |
-| ↳ | **[Software Engineer - packaging - optimize Ubuntu Server for public clouds - Internship - (Remote)](https://jobright.ai/jobs/info/687d68ee764c3d7411c3cc0c?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
