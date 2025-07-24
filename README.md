@@ -58,7 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Jobright.ai](https://jobright.ai)** | **[Software Engineer - Internship](https://jobright.ai/jobs/info/6881c32341fbda106ee6cd66?utm_campaign=1079&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | Jul 23 |
-| ↳ | **[Software Engineer Intern, Internship](https://jobright.ai/jobs/info/6881be1d1321092fa0060bb9?utm_campaign=1079&utm_source=git)** | NYC Metro Area | On Site | Jul 23 |
+| **[Medlaunch Concepts](medlaunchlp.com)** | **[Fall 2025 UI/UX Frontend Internship](https://jobright.ai/jobs/info/6881e4e01321092fa0062933?utm_campaign=1079&utm_source=git)** | Clearwater, FL | Remote | Jul 23 |
+| **[Jobright.ai](https://jobright.ai)** | **[Software Engineer Intern, Internship](https://jobright.ai/jobs/info/6881be1d1321092fa0060bb9?utm_campaign=1079&utm_source=git)** | NYC Metro Area | On Site | Jul 23 |
 | **[Asana](https://asana.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/688047f39f72804245708ddf?utm_campaign=1079&utm_source=git)** | New York City | On Site | Jul 23 |
 | **[Medlaunch Concepts](medlaunchlp.com)** | **[QA Engineering Intern](https://jobright.ai/jobs/info/6881afcd16ea5743a373b5f1?utm_campaign=1079&utm_source=git)** | Clearwater, FL | Remote | Jul 23 |
 | **[Jobright.ai](https://jobright.ai)** | **[Software Engineer I (Internship) (Remote)](https://jobright.ai/jobs/info/6881afbe29ad6b2744ae46c9?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 23 |
@@ -115,6 +116,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Web Developer, Internship, (Remote)](https://jobright.ai/jobs/info/68816af816ea5743a3738f6c?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 23 |
 | ↳ | **[Software Engineer I/II (Internship) (Remote)](https://jobright.ai/jobs/info/68816bd329ad6b2744ae20da?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 23 |
 | **[Nowadays (YC S23)](https://www.getnowadays.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/687c4ab12097a271a8988677?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jul 23 |
+| **[Jobright.ai](https://jobright.ai)** | **[Software Engineer, Internship](https://jobright.ai/jobs/info/688154ca29ad6b2744ae15bb?utm_campaign=1079&utm_source=git)** | Richmond, VA | On Site | Jul 23 |
 | **[Lynk](https://www.lynk.world)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6881be081321092fa0060bb1?utm_campaign=1079&utm_source=git)** | Headquarters, KY | On Site | Jul 23 |
 | **[Jobright.ai](https://jobright.ai)** | **[Application Developer 3 - Internship](https://jobright.ai/jobs/info/68812d8e16ea5743a3736c81?utm_campaign=1079&utm_source=git)** | Redmond, WA | On Site | Jul 23 |
 | **[IBM](http://www.ibm.com)** | **[2026 Sr Returning Intern (IBM Research)](https://jobright.ai/jobs/info/68812a1529ad6b2744adfc09?utm_campaign=1079&utm_source=git)** | Albany, NY | Hybrid | Jul 23 |
@@ -125,7 +127,7 @@ For a complete list, click the following sortable link below:
 | **[Jobright.ai](https://jobright.ai)** | **[AI Trainer - COBOL Developer (Internship) (Remote)](https://jobright.ai/jobs/info/68811618f4f06100f3a23d20?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 23 |
 | ↳ | **[Future MIP Development Scholar (Internship) (Remote)](https://jobright.ai/jobs/info/688114fb29ad6b2744aded8d?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 23 |
 | **[Manhattan Star Academy](www.yai.org/msa)** | **[Access VR Summer Employment Intern](https://jobright.ai/jobs/info/68811295f4f06100f3a23a0c?utm_campaign=1079&utm_source=git)** | Rockland County | On Site | Jul 23 |
-| ↳ | **[Access VR Summer Employment Intern](https://jobright.ai/jobs/info/6881115916ea5743a3735962?utm_campaign=1079&utm_source=git)** | Rockland County | On Site | Jul 23 |
+| ↳ | **[Access VR Summer Employment Intern](https://jobright.ai/jobs/info/688111f3f4f06100f3a2390d?utm_campaign=1079&utm_source=git)** | Rockland County | On Site | Jul 23 |
 | **[Akuna Capital](https://akunacapital.com)** | **[Software Engineer Intern - C++, Summer 2026](https://jobright.ai/jobs/info/68755944299cbc74b8754004?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jul 23 |
 | **[Palantir Technologies](http://www.palantir.com)** | **[Software Engineer, Internship](https://jobright.ai/jobs/info/68643e48360613910d1075a3?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jul 23 |
 | **[Jobright.ai](https://jobright.ai)** | **[Winter Intern 2026 - Software Developer, Internship](https://jobright.ai/jobs/info/68812a8829ad6b2744adfc43?utm_campaign=1079&utm_source=git)** | New York, United States | On Site | Jul 23 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Optiver](http://www.optiver.com)** | **[Software Engineer Intern (Summer 2026 - Chicago)](https://jobright.ai/jobs/info/6871ece7a5ae807a59d035fd?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jul 23 |
 | ↳ | **[Software Engineer Intern (Summer 2026 - Austin)](https://jobright.ai/jobs/info/68789494866a435525abad6d?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Jul 23 |
 | **[Jobright.ai](https://jobright.ai)** | **[Software Engineer 1 - Fitness - Internship](https://jobright.ai/jobs/info/6880a75716ea5743a3731cf2?utm_campaign=1079&utm_source=git)** | Olathe, KS | On Site | Jul 23 |
-| ↳ | **[Software Engineer, Internship](https://jobright.ai/jobs/info/6880a4f329ad6b2744adaa3b?utm_campaign=1079&utm_source=git)** | Richmond, VA | On Site | Jul 23 |
 | ↳ | **[Software Engineer Intern (Internship)](https://jobright.ai/jobs/info/6880fc8716ea5743a3734b34?utm_campaign=1079&utm_source=git)** | Montvale, NJ | On Site | Jul 23 |
 | ↳ | **[Software Engineer, Internship](https://jobright.ai/jobs/info/6880f2c616ea5743a3734497?utm_campaign=1079&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Jul 23 |
-| ↳ | **[Software Engineer I, Internship, (Remote)](https://jobright.ai/jobs/info/6880dfc329ad6b2744adcb8b?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
