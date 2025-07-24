@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SANMINA-SCI TECHNOLOGY INDIA PRIVATE LIMITED](http://www.sanmina.com)** | **[Test Development CoOp (Fall 2025)](https://jobright.ai/jobs/info/68821b824b37ff1fba97bce7?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Jul 24 |
+| ↳ | **[Engineering Intern (Fall 2025)](https://jobright.ai/jobs/info/6882125289987b37105b142e?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Jul 24 |
+| ↳ | **[Test Engineering CoOp (Summer 2025)](https://jobright.ai/jobs/info/68820c0316a5e1637304d535?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Jul 24 |
+| **[Honeywell UOP Training](https://uoptraining.secure.force.com/UOPTrainingHomePage)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68820c0016a5e1637304d534?utm_campaign=1079&utm_source=git)** | Woburn, MA | On Site | Jul 24 |
+| **[SANMINA-SCI TECHNOLOGY INDIA PRIVATE LIMITED](http://www.sanmina.com)** | **[Engineering Intern (Summer 2025)](https://jobright.ai/jobs/info/68820b0e1329ae22b0a01ce2?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Jul 24 |
 | **[Jobright.ai](https://jobright.ai)** | **[Software Engineer, New Grad, Internship](https://jobright.ai/jobs/info/6881fab841fbda106ee6f505?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Jul 24 |
 | **[IBM Canada Software Lab - Toronto](https://research.ibm.com)** | **[2026 Sr Returning Intern (IBM Research)](https://jobright.ai/jobs/info/6881f5f741fbda106ee6f308?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 24 |
 | **[Jobright.ai](https://jobright.ai)** | **[Software Engineer - packaging - optimize Ubuntu Server for public clouds - Internship - (Remote)](https://jobright.ai/jobs/info/6881f5ec41fbda106ee6f303?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 24 |
@@ -116,10 +121,10 @@ For a complete list, click the following sortable link below:
 | **[Jobright.ai](https://jobright.ai)** | **[Software Engineer - Packaging (Internship) (Remote)](https://jobright.ai/jobs/info/6881652df4f06100f3a26a63?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 23 |
 | ↳ | **[Future MIP Development Scholar, Internship, (Remote)](https://jobright.ai/jobs/info/68816503f4f06100f3a26a51?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 23 |
 | **[HNTB](http://www.hntb.com/)** | **[Returning Software Engineer I - Summer 2026 (Southeast Division) (For Current/Previous HNTB Interns ONLY)](https://jobright.ai/jobs/info/6881a22f29ad6b2744ae3a66?utm_campaign=1079&utm_source=git)** | Macon, GA | On Site | Jul 23 |
-| **[Jobright.ai](https://jobright.ai)** | **[Software Engineer - packaging - optimize Ubuntu Server for public clouds - Internship - (Remote)](https://jobright.ai/jobs/info/68815e9a16ea5743a3738966?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 23 |
 | **[Ensign College ](https://www.ldsbc.edu/)** | **[Student Employee – Internship Automation & AI Support](https://jobright.ai/jobs/info/688147cb16ea5743a3737c2e?utm_campaign=1079&utm_source=git)** | Ensign College | On Site | Jul 23 |
 | **[Gurobi Optimization](http://www.gurobi.com/)** | **[Future MIP Development Scholar (Global Remote)](https://jobright.ai/jobs/info/688068182097a271a89a4668?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 23 |
 | **[Jobright.ai](https://jobright.ai)** | **[Junior Software Engineer, Internship](https://jobright.ai/jobs/info/688144a016ea5743a3737a8c?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jul 23 |
+| ↳ | **[Software Engineer - packaging - optimize Ubuntu Server for public clouds - Internship - (Remote)](https://jobright.ai/jobs/info/688141b729ad6b2744ae0a2b?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 23 |
 | ↳ | **[Web Developer, Internship, (Remote)](https://jobright.ai/jobs/info/68816af816ea5743a3738f6c?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 23 |
 | ↳ | **[Software Engineer I/II (Internship) (Remote)](https://jobright.ai/jobs/info/68816bd329ad6b2744ae20da?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 23 |
 | **[Nowadays (YC S23)](https://www.getnowadays.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/687c4ab12097a271a8988677?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jul 23 |
@@ -127,14 +132,13 @@ For a complete list, click the following sortable link below:
 | **[Lynk](https://www.lynk.world)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6881be081321092fa0060bb1?utm_campaign=1079&utm_source=git)** | Headquarters, KY | On Site | Jul 23 |
 | **[Jobright.ai](https://jobright.ai)** | **[Application Developer 3 - Internship](https://jobright.ai/jobs/info/68812d8e16ea5743a3736c81?utm_campaign=1079&utm_source=git)** | Redmond, WA | On Site | Jul 23 |
 | **[IBM](http://www.ibm.com)** | **[2026 Sr Returning Intern (IBM Research)](https://jobright.ai/jobs/info/68812a1529ad6b2744adfc09?utm_campaign=1079&utm_source=git)** | Albany, NY | Hybrid | Jul 23 |
-| **[Sprouts.ai](https://sprouts.ai)** | **[Full-Stack Engineer Intern](https://jobright.ai/jobs/info/688145a816ea5743a3737af4?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Jul 23 |
-| **[IBM](http://www.ibm.com)** | **[2026 Sr Returning Intern (IBM Research)](https://jobright.ai/jobs/info/688126a116ea5743a3736979?utm_campaign=1079&utm_source=git)** | Yorktown Heights, NY | Hybrid | Jul 23 |
+| ↳ | **[2026 Sr Returning Intern (IBM Research)](https://jobright.ai/jobs/info/688126a116ea5743a3736979?utm_campaign=1079&utm_source=git)** | Yorktown Heights, NY | Hybrid | Jul 23 |
 | **[Jobright.ai](https://jobright.ai)** | **[Software Engineer Intern - C++ (Internship)](https://jobright.ai/jobs/info/6881207616ea5743a3736635?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jul 23 |
 | **[IBM](http://www.ibm.com)** | **[2026 Sr Returning Intern (IBM Research)](https://jobright.ai/jobs/info/688134a8f4f06100f3a251c3?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Jul 23 |
 | **[Jobright.ai](https://jobright.ai)** | **[AI Trainer - COBOL Developer (Internship) (Remote)](https://jobright.ai/jobs/info/68811618f4f06100f3a23d20?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 23 |
 | ↳ | **[Future MIP Development Scholar (Internship) (Remote)](https://jobright.ai/jobs/info/688114fb29ad6b2744aded8d?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 23 |
 | **[Manhattan Star Academy](www.yai.org/msa)** | **[Access VR Summer Employment Intern](https://jobright.ai/jobs/info/68811295f4f06100f3a23a0c?utm_campaign=1079&utm_source=git)** | Rockland County | On Site | Jul 23 |
-| ↳ | **[Access VR Summer Employment Intern](https://jobright.ai/jobs/info/68811203f4f06100f3a23923?utm_campaign=1079&utm_source=git)** | Rockland County | On Site | Jul 23 |
+| ↳ | **[Access VR Summer Employment Intern](https://jobright.ai/jobs/info/68811243f4f06100f3a23986?utm_campaign=1079&utm_source=git)** | Rockland County | On Site | Jul 23 |
 | **[Akuna Capital](https://akunacapital.com)** | **[Software Engineer Intern - C++, Summer 2026](https://jobright.ai/jobs/info/68755944299cbc74b8754004?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jul 23 |
 | **[Palantir Technologies](http://www.palantir.com)** | **[Software Engineer, Internship](https://jobright.ai/jobs/info/68643e48360613910d1075a3?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jul 23 |
 | **[Jobright.ai](https://jobright.ai)** | **[Winter Intern 2026 - Software Developer, Internship](https://jobright.ai/jobs/info/68812a8829ad6b2744adfc43?utm_campaign=1079&utm_source=git)** | New York, United States | On Site | Jul 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Jr. Software Development Engineer - Sunnyvale, CA](https://jobright.ai/jobs/info/686474fad3573cd7f66a0814?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Jul 23 |
 | **[Layup Parts](www.layupparts.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/687071c206ad7073463bdaba?utm_campaign=1079&utm_source=git)** | Huntington Beach, CA | On Site | Jul 23 |
 | **[Jobright.ai](https://jobright.ai)** | **[Software Engineer Intern, BCI Applications (Internship)](https://jobright.ai/jobs/info/68811d2316ea5743a373633c?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Jul 23 |
-| **[Siemens EDA (Siemens Digital Industries Software)](https://eda.sw.siemens.com/)** | **[Strategic Student Program: Software Development Co-Op (Fall 2025; LCS)](https://jobright.ai/jobs/info/6880f637f4f06100f3a226fa?utm_campaign=1079&utm_source=git)** | Milford, OH | Hybrid | Jul 23 |
-| **[Atomic Semi](https://atomicsemi.com)** | **[Embedded Software Engineering Intern - Fall](https://jobright.ai/jobs/info/67fa85e29dbea63fe8b06b5a?utm_campaign=1079&utm_source=git)** | San Francisco Office | On Site | Jul 23 |
-| **[Palantir Technologies](http://www.palantir.com)** | **[Forward Deployed Software Engineer, Internship - US Government](https://jobright.ai/jobs/info/68644e5b904a59da9fd9ddb9?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Jul 23 |
-| **[OPENCHIP & SOFTWARE TECHNOLOGIES](https://openchip.com)** | **[INTERNSHIP - Frontend Developer (Graphical Interface)](https://jobright.ai/jobs/info/686506e8f43f4c9ef529d9ef?utm_campaign=1079&utm_source=git)** | Innovation, VA | Hybrid | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
