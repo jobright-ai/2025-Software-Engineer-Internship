@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Shop Online New York](https://www.topofny.com)** | **[Non-Paid Internship for Flutter Developer](https://jobright.ai/jobs/info/68829e556fcd973d15adafe7?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 24 |
+| **[Jobright.ai](https://jobright.ai)** | **[Software Engineer I/II (Internship) (Remote)](https://jobright.ai/jobs/info/6882c040b54cac0f1e7328ae?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 24 |
+| **[Verse](http://verse.inc)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6882b7cf6fcd973d15adbf22?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jul 24 |
 | **[Ryerson](https://www.ryerson.com)** | **[Programming Intern](https://jobright.ai/jobs/info/68829cb56fcd973d15adaea7?utm_campaign=1079&utm_source=git)** | Fresno, CA | On Site | Jul 24 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Software Engineer Fall 2025 Intern (Tulsa, OK)](https://jobright.ai/jobs/info/68829bc4835a903aa07ef464?utm_campaign=1079&utm_source=git)** | Tulsa, OK | On Site | Jul 24 |
 | **[Sartorius](http://sartorius.com)** | **[Software Engineer Intern - Ann Arbor, MI](https://jobright.ai/jobs/info/6882938d6fcd973d15ada9be?utm_campaign=1079&utm_source=git)** | Ann Arbor, MI | On Site | Jul 24 |
@@ -71,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Ansys](http://www.ansys.com)** | **[Fall 2025 CASE Intern](https://jobright.ai/jobs/info/68828b07b54cac0f1e7309b6?utm_campaign=1079&utm_source=git)** | Albany, NY | On Site | Jul 24 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Technology & Engineer Fellow, IT Transportation Products](https://jobright.ai/jobs/info/68828ad16fcd973d15ada403?utm_campaign=1079&utm_source=git)** | Jamaica, NY | On Site | Jul 24 |
 | ↳ | **[Technology & Engineer Fellow, Agile & App Development](https://jobright.ai/jobs/info/68828950835a903aa07ee806?utm_campaign=1079&utm_source=git)** | Jamaica, NY | On Site | Jul 24 |
+| **[Jobright.ai](https://jobright.ai)** | **[Software Engineer, Internship](https://jobright.ai/jobs/info/6882b140b54cac0f1e73217b?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Jul 24 |
 | **[Fujitsu](http://www.fujitsu.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/688288476fcd973d15ad9f19?utm_campaign=1079&utm_source=git)** | Santa Clara, CA, United States | On Site | Jul 24 |
 | **[VetsEZ](https://vetsez.com)** | **[API Developer Intern (Remote Opportunity)](https://jobright.ai/jobs/info/688287f76fcd973d15ad9e88?utm_campaign=1079&utm_source=git)** | Miami, FL | Remote | Jul 24 |
 | ↳ | **[API Developer Intern (Remote Opportunity)](https://jobright.ai/jobs/info/688285c7835a903aa07ee213?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Remote | Jul 24 |
@@ -93,6 +95,7 @@ For a complete list, click the following sortable link below:
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[(#8075289002) 2025 Fall Intern – XR Graphics Developer at Samsung Research America](https://jobright.ai/jobs/info/68823347835a903aa07ebb2d?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Jul 24 |
 | **[SANMINA-SCI TECHNOLOGY INDIA PRIVATE LIMITED](http://www.sanmina.com)** | **[Test Engineering CoOp (Summer 2025)](https://jobright.ai/jobs/info/68820c0316a5e1637304d535?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Jul 24 |
 | **[Honeywell UOP Training](https://uoptraining.secure.force.com/UOPTrainingHomePage)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68820c0016a5e1637304d534?utm_campaign=1079&utm_source=git)** | Woburn, MA | On Site | Jul 24 |
+| **[Android Industries](http://www.android-ind.com/)** | **[Software Developer Intern](https://jobright.ai/jobs/info/6849e2befef6a65076fe1e6d?utm_campaign=1079&utm_source=git)** | Auburn Hills, MI | On Site | Jul 24 |
 | **[Monolithic Power Systems, Inc.](http://www.monolithicpower.com)** | **[Software Engineering Intern, Building Automation](https://jobright.ai/jobs/info/687c71832097a271a89894c4?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 24 |
 | **[Jobright.ai](https://jobright.ai)** | **[Software Engineer, New Grad, Internship](https://jobright.ai/jobs/info/6881fab841fbda106ee6f505?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Jul 24 |
 | **[IBM Canada Software Lab - Toronto](https://research.ibm.com)** | **[2026 Sr Returning Intern (IBM Research)](https://jobright.ai/jobs/info/6881f5f741fbda106ee6f308?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Jobright.ai](https://jobright.ai)** | **[Software Engineer - Packaging (Internship) (Remote)](https://jobright.ai/jobs/info/6881652df4f06100f3a26a63?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 23 |
 | ↳ | **[Future MIP Development Scholar, Internship, (Remote)](https://jobright.ai/jobs/info/68816503f4f06100f3a26a51?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 23 |
 | **[HNTB](http://www.hntb.com/)** | **[Returning Software Engineer I - Summer 2026 (Southeast Division) (For Current/Previous HNTB Interns ONLY)](https://jobright.ai/jobs/info/6881a22f29ad6b2744ae3a66?utm_campaign=1079&utm_source=git)** | Macon, GA | On Site | Jul 23 |
-| **[Jobright.ai](https://jobright.ai)** | **[AI Trainer - COBOL Developer - Internship - (Remote)](https://jobright.ai/jobs/info/6882a5fe6fcd973d15adb42c?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 23 |
-| ↳ | **[Software Engineering Intern - Internship](https://jobright.ai/jobs/info/6882ab7c6fcd973d15adb6d7?utm_campaign=1079&utm_source=git)** | Huntington Beach, CA | On Site | Jul 23 |
-| ↳ | **[Software Engineer 1, Internship](https://jobright.ai/jobs/info/6882a8d8835a903aa07efc48?utm_campaign=1079&utm_source=git)** | Scottsdale, AZ | On Site | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
