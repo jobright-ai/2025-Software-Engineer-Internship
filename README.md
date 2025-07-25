@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Asana](https://asana.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/688047f39f72804245708ddf?utm_campaign=1079&utm_source=git)** | New York City | On Site | Jul 25 |
+| **[Chase](https://www.chase.com/)** | **[2025 - 2026 Software Engineer Program Summer Internship - Academic Internship](https://jobright.ai/jobs/info/68832b936fcd973d15adff38?utm_campaign=1079&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 25 |
+| **[Verse](http://verse.inc)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68832af9b54cac0f1e73659c?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Jul 24 |
+| **[Jobright.ai](https://jobright.ai)** | **[Future MIP Development Scholar, Internship, (Remote)](https://jobright.ai/jobs/info/6883242b835a903aa07f412f?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 24 |
 | **[Gurobi Optimization](http://www.gurobi.com/)** | **[Future MIP Development Scholar (Global Remote)](https://jobright.ai/jobs/info/688068182097a271a89a4668?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 24 |
 | **[Jobright.ai](https://jobright.ai)** | **[Software Engineer - Packaging - Internship - (Remote)](https://jobright.ai/jobs/info/688313c4835a903aa07f36df?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 24 |
 | **[VetsEZ](https://vetsez.com)** | **[API Developer Intern (Remote Opportunity)](https://jobright.ai/jobs/info/688285c7835a903aa07ee213?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Remote | Jul 24 |
@@ -98,6 +102,7 @@ For a complete list, click the following sortable link below:
 | **[Fujitsu](http://www.fujitsu.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6882813e835a903aa07edf90?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | Hybrid | Jul 24 |
 | **[Jobright.ai](https://jobright.ai)** | **[Entry-Level Software Engineer (Internship)](https://jobright.ai/jobs/info/68827e30b54cac0f1e72fd91?utm_campaign=1079&utm_source=git)** | Foster City, CA | On Site | Jul 24 |
 | **[Stoke Space](https://www.stokespace.com)** | **[Winter 2026 Internship - Software](https://jobright.ai/jobs/info/68827c166fcd973d15ad9656?utm_campaign=1079&utm_source=git)** | Kent, WA | On Site | Jul 24 |
+| **[HNTB](http://www.hntb.com/)** | **[Returning Software Engineer I - Summer 2026 (Southeast Division) (For Current/Previous HNTB Interns ONLY)](https://jobright.ai/jobs/info/68833049b54cac0f1e7369c7?utm_campaign=1079&utm_source=git)** | Sandy Springs, GA | On Site | Jul 24 |
 | **[Corpay](https://payments.corpay.com)** | **[Web Application Developer Intern](https://jobright.ai/jobs/info/6882663c6fcd973d15ad8d67?utm_campaign=1079&utm_source=git)** | Louisville, KY | On Site | Jul 24 |
 | **[Stoke Space](https://www.stokespace.com)** | **[Winter 2026 Internship - Software](https://jobright.ai/jobs/info/688261d86fcd973d15ad8b74?utm_campaign=1079&utm_source=git)** | Kent, Washington, United States | On Site | Jul 24 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Lending Agile Maturity Measurement)](https://jobright.ai/jobs/info/6865c6b25947108dca60d44f?utm_campaign=1079&utm_source=git)** | Pensacola, FL | Hybrid | Jul 24 |
@@ -119,13 +124,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer - packaging - optimize Ubuntu Server for public clouds (Internship) (Remote)](https://jobright.ai/jobs/info/6881f39f41fbda106ee6f20c?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 24 |
 | **[SkipQ](http://www.skiptq.com)** | **[Backend Web Developer](https://jobright.ai/jobs/info/68829cd26fcd973d15adaeba?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 23 |
 | **[Medlaunch Concepts](medlaunchlp.com)** | **[Fall 2025 - Full Stack Software Engineering Intern](https://jobright.ai/jobs/info/6881e764ee15177ae9718ce8?utm_campaign=1079&utm_source=git)** | Clearwater, FL | Remote | Jul 23 |
+| **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Software Development Intern (Fall 2025, EBS)](https://jobright.ai/jobs/info/68832204835a903aa07f3eda?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Jul 23 |
 | **[Jobright.ai](https://jobright.ai)** | **[Software Engineer - Internship](https://jobright.ai/jobs/info/6881c32341fbda106ee6cd66?utm_campaign=1079&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | Jul 23 |
 | **[Medlaunch Concepts](medlaunchlp.com)** | **[Fall 2025 UI/UX Frontend Internship](https://jobright.ai/jobs/info/6881e4e01321092fa0062933?utm_campaign=1079&utm_source=git)** | Clearwater, FL | Remote | Jul 23 |
 | **[Jobright.ai](https://jobright.ai)** | **[Software Engineer Intern, Internship](https://jobright.ai/jobs/info/6881be1d1321092fa0060bb9?utm_campaign=1079&utm_source=git)** | NYC Metro Area | On Site | Jul 23 |
 | ↳ | **[Software Engineer - Recent Grad 2026, Internship](https://jobright.ai/jobs/info/6881eca7ee15177ae9718fed?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | On Site | Jul 23 |
 | ↳ | **[Software Engineer - Internship](https://jobright.ai/jobs/info/68829f4eb54cac0f1e731761?utm_campaign=1079&utm_source=git)** | Decatur, GA | On Site | Jul 23 |
-| **[Asana](https://asana.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/688047f39f72804245708ddf?utm_campaign=1079&utm_source=git)** | New York City | On Site | Jul 23 |
-| **[Jobright.ai](https://jobright.ai)** | **[Software Engineer I (Internship) (Remote)](https://jobright.ai/jobs/info/6881afbe29ad6b2744ae46c9?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 23 |
+| ↳ | **[Software Engineer I (Internship) (Remote)](https://jobright.ai/jobs/info/6881afbe29ad6b2744ae46c9?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 23 |
 | ↳ | **[Software Engineer - Video (Internship)](https://jobright.ai/jobs/info/6881add229ad6b2744ae45d5?utm_campaign=1079&utm_source=git)** | Tysons Corner, VA | On Site | Jul 23 |
 | ↳ | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/6881a4c929ad6b2744ae3c71?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Jul 23 |
 | ↳ | **[Software Engineer Intern, BCI Applications, Internship](https://jobright.ai/jobs/info/6881a28ef4f06100f3a28744?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Jul 23 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Returning Software Engineer I - Summer 2026 (Southeast Division) (For Current/Previous HNTB Interns ONLY)](https://jobright.ai/jobs/info/68817d9cf4f06100f3a2751c?utm_campaign=1079&utm_source=git)** | Bradenton, FL | On Site | Jul 23 |
 | ↳ | **[Returning Software Engineer I - Summer 2026 (Southeast Division) (For Current/Previous HNTB Interns ONLY)](https://jobright.ai/jobs/info/68817d6e16ea5743a373975a?utm_campaign=1079&utm_source=git)** | Clearwater, FL | On Site | Jul 23 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Joule Full-Stack Developer [Palo Alto, CA]](https://jobright.ai/jobs/info/68817c66f4f06100f3a27489?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | Hybrid | Jul 23 |
-| **[HNTB](http://www.hntb.com/)** | **[Returning Software Engineer I - Summer 2026 (Southeast Division) (For Current/Previous HNTB Interns ONLY)](https://jobright.ai/jobs/info/68817c22f4f06100f3a27463?utm_campaign=1079&utm_source=git)** | Cutler Bay, FL | On Site | Jul 23 |
-| ↳ | **[Returning Software Engineer I - Summer 2026 (Southeast Division) (For Current/Previous HNTB Interns ONLY)](https://jobright.ai/jobs/info/68817adaf4f06100f3a273cc?utm_campaign=1079&utm_source=git)** | Green Cove Springs, FL | On Site | Jul 23 |
-| ↳ | **[Returning Software Engineer I - Summer 2026 (Southeast Division) (For Current/Previous HNTB Interns ONLY)](https://jobright.ai/jobs/info/68817ad3f4f06100f3a273c8?utm_campaign=1079&utm_source=git)** | Melbourne, FL | On Site | Jul 23 |
-| ↳ | **[Returning Software Engineer I - Summer 2026 (Southeast Division) (For Current/Previous HNTB Interns ONLY)](https://jobright.ai/jobs/info/68817a9b16ea5743a373960a?utm_campaign=1079&utm_source=git)** | Miami, FL | On Site | Jul 23 |
-| **[Jobright.ai](https://jobright.ai)** | **[Software Engineer - Internship](https://jobright.ai/jobs/info/6881a56e16ea5743a373acb4?utm_campaign=1079&utm_source=git)** | Richmond, VA | On Site | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
