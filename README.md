@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Waliin](https://waliin.com/)** | **[Android Developer](https://jobright.ai/jobs/info/68862637b651c92cb78aee44?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 27 |
+| **[Jobright.ai](https://jobright.ai)** | **[Cloud, AI, Solutions and Enablement Co-op (Internship)](https://jobright.ai/jobs/info/68867f4bfbbf032d00070281?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Jul 27 |
+| ↳ | **[Software Engineer I (Internship) (Remote)](https://jobright.ai/jobs/info/68867f164174df41e0f9a428?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 27 |
+| **[Ansys](http://www.ansys.com)** | **[Spring 2026 Cloud, AI, Solutions and Enablement - SaaS, HPC, Python, GoLang](https://jobright.ai/jobs/info/68673da603b8509aacb71880?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Jul 27 |
+| **[Jobright.ai](https://jobright.ai)** | **[Software Engineer - Platform (Internship)](https://jobright.ai/jobs/info/68867bec4174df41e0f9a3e9?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | Hybrid | Jul 27 |
+| **[Avary.ai](https://www.avary.ai/)** | **[Software Engineer Intern/co-op/New graduate](https://jobright.ai/jobs/info/68867939fbbf032d00070225?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | Remote | Jul 27 |
 | **[Jobright.ai](https://jobright.ai)** | **[Software Engineer I, Internship, (Remote)](https://jobright.ai/jobs/info/6885ff074174df41e0f99901?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 27 |
 | **[TikTok](https://www.tiktok.com)** | **[3D Graphics-Immersive Innovation Intern (Product RD and Infrastructure-Mobile OS-PICO Foundation) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/687b9a78ed63844c944a9e8c?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 27 |
 | **[SoloPulse Corp](https://www.solopulseco.com/)** | **[Software Engineer Intern/Co-Op - Fall 2025](https://jobright.ai/jobs/info/6885f059fbbf032d0006f70e?utm_campaign=1079&utm_source=git)** | Peachtree Corners, GA | Hybrid | Jul 27 |
@@ -85,16 +89,15 @@ For a complete list, click the following sortable link below:
 | **[Jobright.ai](https://jobright.ai)** | **[Software Engineer - Internship](https://jobright.ai/jobs/info/6885647ffbbf032d0006c686?utm_campaign=1079&utm_source=git)** | Annapolis Junction, MD | Hybrid | Jul 26 |
 | ↳ | **[Software Developer (Internship)](https://jobright.ai/jobs/info/68862ac44174df41e0f99cc1?utm_campaign=1079&utm_source=git)** | Charlottesville, VA | On Site | Jul 26 |
 | ↳ | **[Software Engineer, Internship](https://jobright.ai/jobs/info/68855e75b651c92cb78ab9f3?utm_campaign=1079&utm_source=git)** | Redwood City, CA | On Site | Jul 26 |
+| ↳ | **[Software Engineer, Ceph & Distributed Storage - Internship - (Remote)](https://jobright.ai/jobs/info/688543d4b651c92cb78ab867?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 26 |
 | ↳ | **[Software Engineer I, Internship](https://jobright.ai/jobs/info/688543abb651c92cb78ab851?utm_campaign=1079&utm_source=git)** | Goleta, CA | Hybrid | Jul 26 |
 | ↳ | **[Software Engineer, Ceph & Distributed Storage - Internship - (Remote)](https://jobright.ai/jobs/info/68862ad8fbbf032d0006fb03?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 26 |
 | ↳ | **[QA Software Tester - Internship - (Remote)](https://jobright.ai/jobs/info/68853c14fbbf032d0006c400?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 26 |
 | ↳ | **[Software Engineer, Ceph & Distributed Storage, Internship, (Remote)](https://jobright.ai/jobs/info/688534c04174df41e0f965df?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 26 |
 | **[Medlaunch Concepts](medlaunchlp.com)** | **[Fall 2025 QA Engineering Intern](https://jobright.ai/jobs/info/6885aa024174df41e0f9801f?utm_campaign=1079&utm_source=git)** | Clearwater, FL | On Site | Jul 26 |
-| **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2025 - 2026 Software Engineer Program Summer Internship - Academic Internship](https://jobright.ai/jobs/info/6885115f4174df41e0f960cb?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Jul 26 |
 | **[Philo Ventures](https://www.philo.ventures)** | **[Software Engineer Intern - NASA Grant (Orlando, FL)](https://jobright.ai/jobs/info/6884f493fbbf032d0006b863?utm_campaign=1079&utm_source=git)** | Orlando, FL | On Site | Jul 26 |
 | **[Jobright.ai](https://jobright.ai)** | **[Software Engineer, Ceph & Distributed Storage (Internship) (Remote)](https://jobright.ai/jobs/info/688648c0fbbf032d0006fec6?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 26 |
 | ↳ | **[QA Software Tester, Internship, (Remote)](https://jobright.ai/jobs/info/68864857b651c92cb78af1ce?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 26 |
-| **[Ansys](http://www.ansys.com)** | **[Spring 2026 Cloud, AI, Solutions and Enablement - SaaS, HPC, Python, GoLang](https://jobright.ai/jobs/info/68673da603b8509aacb71880?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Jul 26 |
 | **[Philo Ventures](https://www.philo.ventures)** | **[Software Engineer Intern - NASA Grant (Lehi, UT)](https://jobright.ai/jobs/info/6884e69c4174df41e0f958bb?utm_campaign=1079&utm_source=git)** | Lehi, UT | On Site | Jul 26 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Software Developer <Palo Alto>](https://jobright.ai/jobs/info/684fb5ac707392e347a4f543?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | Hybrid | Jul 26 |
 | **[Midmark Corporation](http://www.midmark.com/)** | **[Firmware Engineering Co-op - Spring 2026](https://jobright.ai/jobs/info/67a11e93459a531c82e6b738?utm_campaign=1079&utm_source=git)** | Versailles, OH | On Site | Jul 26 |
@@ -110,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[Jobright.ai](https://jobright.ai)** | **[Software Engineer in Test - Selenium / Rest Assured (Internship)](https://jobright.ai/jobs/info/688479b0fbbf032d00069b6c?utm_campaign=1079&utm_source=git)** | Roanoke, VA | On Site | Jul 25 |
 | ↳ | **[Software Applications Engineer - C/C++ - Internship](https://jobright.ai/jobs/info/6884752eb651c92cb78a8aca?utm_campaign=1079&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Jul 25 |
 | ↳ | **[Software Development Intern - Internship](https://jobright.ai/jobs/info/688451d1fbbf032d00067807?utm_campaign=1079&utm_source=git)** | Orlando, FL | On Site | Jul 25 |
-| ↳ | **[Software Engineer, Ceph & Distributed Storage - Internship - (Remote)](https://jobright.ai/jobs/info/68844abafbbf032d00066e8d?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 25 |
 | **[Leidos](https://www.leidos.com/)** | **[Software Development Intern](https://jobright.ai/jobs/info/6883e398b54cac0f1e73a9d5?utm_campaign=1079&utm_source=git)** | Orlando, FL | On Site | Jul 25 |
 | **[Jobright.ai](https://jobright.ai)** | **[Software Engineer, Ceph & Distributed Storage (Internship) (Remote)](https://jobright.ai/jobs/info/688443424174df41e0f9093e?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 25 |
 | **[Black Hills Energy](https://www.blackhillsenergy.com)** | **[IT Asset Management Internship](https://jobright.ai/jobs/info/6884429dfbbf032d00066726?utm_campaign=1079&utm_source=git)** | Rapid City, SD | On Site | Jul 25 |
@@ -119,29 +121,29 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Backend Software Engineer Graduate (Internship)](https://jobright.ai/jobs/info/68841913b54cac0f1e73c0f5?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 25 |
 | ↳ | **[Software Engineer I, Internship](https://jobright.ai/jobs/info/688416a9835a903aa07fa13b?utm_campaign=1079&utm_source=git)** | Goleta, CA | Hybrid | Jul 25 |
 | ↳ | **[Software Engineer Intern - Platform efficiency - Internship](https://jobright.ai/jobs/info/6884148eb54cac0f1e73bfce?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 25 |
-| ↳ | **[Software Engineer, Ceph & Distributed Storage - Internship - (Remote)](https://jobright.ai/jobs/info/68850a174174df41e0f95d8b?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 25 |
 | ↳ | **[Software Engineer - Internship](https://jobright.ai/jobs/info/688411f3b54cac0f1e73be80?utm_campaign=1079&utm_source=git)** | Lisle, IL | On Site | Jul 25 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern - Platform efficiency - 2025 Fall (BS/MS)](https://jobright.ai/jobs/info/688309516fcd973d15ade8e0?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 25 |
-| **[Jobright.ai](https://jobright.ai)** | **[Software Engineer, Ceph & Distributed Storage (Internship) (Remote)](https://jobright.ai/jobs/info/68840c96b54cac0f1e73bc38?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 25 |
+| **[Jobright.ai](https://jobright.ai)** | **[Software Engineer, Ceph & Distributed Storage - Internship - (Remote)](https://jobright.ai/jobs/info/68840d0bb54cac0f1e73bc8e?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 25 |
 | **[X-Bow Systems](https://www.xbowsystems.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/68840b096fcd973d15ae54aa?utm_campaign=1079&utm_source=git)** | Texas, United States | Remote | Jul 25 |
 | **[Jobright.ai](https://jobright.ai)** | **[Software Engineer (Internship)](https://jobright.ai/jobs/info/68850a5d4174df41e0f95db5?utm_campaign=1079&utm_source=git)** | Denver Metropolitan Area | On Site | Jul 25 |
 | ↳ | **[Software Developer I, Internship](https://jobright.ai/jobs/info/688402c86fcd973d15ae5194?utm_campaign=1079&utm_source=git)** | Poway, CA | Hybrid | Jul 25 |
 | **[Tencent](https://www.tencent.com/en-us)** | **[Gameplay Design Intern](https://jobright.ai/jobs/info/68840261835a903aa07f99ed?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Jul 25 |
 | **[Jobright.ai](https://jobright.ai)** | **[Information Technology Development Program, Internship, (Remote)](https://jobright.ai/jobs/info/6883fb36835a903aa07f9872?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 25 |
-| ↳ | **[Software Engineer, Ceph & Distributed Storage, Internship, (Remote)](https://jobright.ai/jobs/info/68850a174174df41e0f95d8c?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 25 |
-| ↳ | **[Software Engineer, Ceph & Distributed Storage, Internship, (Remote)](https://jobright.ai/jobs/info/6883f4aeb54cac0f1e73b36e?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 25 |
-| ↳ | **[Entry-Level Software Engineer - Internship](https://jobright.ai/jobs/info/6883efa8835a903aa07f90f6?utm_campaign=1079&utm_source=git)** | Foster City, CA | On Site | Jul 25 |
+| ↳ | **[Software Engineer, Ceph & Distributed Storage, Internship, (Remote)](https://jobright.ai/jobs/info/68850aaefbbf032d0006bbfb?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 25 |
 | ↳ | **[Future MIP Development Scholar (Internship) (Remote)](https://jobright.ai/jobs/info/6883ef096fcd973d15ae4919?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 25 |
 | ↳ | **[Entry-Level Software Engineer, Internship](https://jobright.ai/jobs/info/6883ee97835a903aa07f8fc7?utm_campaign=1079&utm_source=git)** | Foster City, CA | On Site | Jul 25 |
+| ↳ | **[Software Engineer Intern, Internship](https://jobright.ai/jobs/info/6883ee63b54cac0f1e73b0c8?utm_campaign=1079&utm_source=git)** | NYC Metro Area | On Site | Jul 25 |
 | ↳ | **[Software Engineer Program Summer Internship - Academic Internship](https://jobright.ai/jobs/info/6883ee1db54cac0f1e73b080?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Jul 25 |
+| ↳ | **[Software Engineer, Ceph & Distributed Storage (Internship) (Remote)](https://jobright.ai/jobs/info/6883ec9db54cac0f1e73af01?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 25 |
+| ↳ | **[Software Engineer, Ceph & Distributed Storage - Internship - (Remote)](https://jobright.ai/jobs/info/68850a30b651c92cb78aaf32?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 25 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2025 - 2026 Software Engineer Program Summer Internship - Academic Internship](https://jobright.ai/jobs/info/68830e86835a903aa07f3285?utm_campaign=1079&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 25 |
 | **[Gurobi Optimization](http://www.gurobi.com/)** | **[Future MIP Development Scholar (Global Remote)](https://jobright.ai/jobs/info/688068182097a271a89a4668?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 25 |
 | **[Jobright.ai](https://jobright.ai)** | **[Software Engineer - packaging - optimize Ubuntu Server for public clouds - Internship - (Remote)](https://jobright.ai/jobs/info/6883e2a26fcd973d15ae4221?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 25 |
 | ↳ | **[Software Engineer - Packaging (Internship) (Remote)](https://jobright.ai/jobs/info/6883e29c835a903aa07f893a?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 25 |
-| ↳ | **[Software Engineer, Ceph & Distributed Storage - Internship - (Remote)](https://jobright.ai/jobs/info/6883df9ab54cac0f1e73a7f0?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 25 |
-| **[Tencent](https://www.tencent.com/en-us)** | **[Gameplay Design Intern](https://jobright.ai/jobs/info/6883ddbf835a903aa07f85b7?utm_campaign=1079&utm_source=git)** | US-California-Irvine | On Site | Jul 25 |
+| **[Tencent](https://www.tencent.com/en-us)** | **[Gameplay Design Intern](https://jobright.ai/jobs/info/6883de4cb54cac0f1e73a6b6?utm_campaign=1079&utm_source=git)** | US-California-Irvine | On Site | Jul 25 |
 | **[Jobright.ai](https://jobright.ai)** | **[AI Trainer - Advanced Python Developers, Internship, (Remote)](https://jobright.ai/jobs/info/68850ab4fbbf032d0006bc03?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 25 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Embedded Software Engineering Co-Op](https://jobright.ai/jobs/info/6883db2db54cac0f1e73a461?utm_campaign=1079&utm_source=git)** | Scottsdale, AZ | Hybrid | Jul 25 |
+| **[Jobright.ai](https://jobright.ai)** | **[Software Engineer, Ceph & Distributed Storage, Internship, (Remote)](https://jobright.ai/jobs/info/6883d8ce6fcd973d15ae3cd7?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 25 |
 | **[Asana](https://asana.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/688047f39f72804245708ddf?utm_campaign=1079&utm_source=git)** | New York City | On Site | Jul 25 |
 | **[Jobright.ai](https://jobright.ai)** | **[Internship - Software Engineer](https://jobright.ai/jobs/info/68852188fbbf032d0006c199?utm_campaign=1079&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Jul 25 |
 | ↳ | **[Software Engineer I - Internship - (Remote)](https://jobright.ai/jobs/info/68850cb7b651c92cb78ab0ac?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sony Electronics](http://www.sonyjobs.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/682d8aa9e836060bba6b1b71?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | Jul 25 |
 | **[Jobright.ai](https://jobright.ai)** | **[Software Engineering Intern - React and Design Systems (Internship) (Remote)](https://jobright.ai/jobs/info/68837d3d6fcd973d15ae1788?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 25 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Software Engineering Intern - React and Design Systems](https://jobright.ai/jobs/info/68829172835a903aa07eef3a?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 25 |
-| **[Jobright.ai](https://jobright.ai)** | **[Software Engineer - Internship](https://jobright.ai/jobs/info/68836b1f6fcd973d15ae1570?utm_campaign=1079&utm_source=git)** | Hanover, PA | On Site | Jul 25 |
-| ↳ | **[Software Engineer Intern (Internship)](https://jobright.ai/jobs/info/68836684835a903aa07f5c20?utm_campaign=1079&utm_source=git)** | Tampa, FL | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
