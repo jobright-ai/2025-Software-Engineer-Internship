@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lumeno AI](https://www.lumenoai.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6887ee63fbbf032d0007796a?utm_campaign=1079&utm_source=git)** | New York, NY | Remote | Jul 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Backend Software Engineer Intern (Trust and Safety-Engineering-Risk & Response) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6887ede04174df41e0fa1b33?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 28 |
 | ↳ | **[Frontend Engineer Intern (Trust and Safety-Engineering-Data Product & General Service) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6887e94573e3e13cbd941135?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 28 |
 | **[Waliin](https://waliin.com/)** | **[Android Developer](https://jobright.ai/jobs/info/6887e82cfbbf032d00077638?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 28 |
@@ -70,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Northeastern University](https://www.northeastern.edu/cri/)** | **[Web Developer Intern](https://jobright.ai/jobs/info/6887e01a4174df41e0fa142b?utm_campaign=1079&utm_source=git)** | Boston, MA (Main Campus) | On Site | Jul 28 |
 | **[VetsEZ](https://vetsez.com)** | **[API Developer Intern (Remote Opportunity)](https://jobright.ai/jobs/info/68828b35b54cac0f1e7309fb?utm_campaign=1079&utm_source=git)** | Austin, TX | Remote | Jul 28 |
 | **[Businessolver](https://www.businessolver.com)** | **[Software Engineering Internship - Java, React (Work Anywhere within the U.S.)](https://jobright.ai/jobs/info/68701faaa5ae807a59cf5e83?utm_campaign=1079&utm_source=git)** | Work Remotely Anywhere in the U.S. | Remote | Jul 28 |
-| **[Talentix](https://www.thetalentix.com)** | **[Frontend Developer Intern](https://jobright.ai/jobs/info/6887d509fbbf032d00076d67?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Jul 28 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Intern](https://jobright.ai/jobs/info/6887d505fbbf032d00076d63?utm_campaign=1079&utm_source=git)** | Nashville, TN | On Site | Jul 28 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Software Developer <Palo Alto>](https://jobright.ai/jobs/info/684fb5ac707392e347a4f543?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | Hybrid | Jul 28 |
 | **[Oracle](https://www.oracle.com/)** | **[Software Engineer Intern - Oracle Health](https://jobright.ai/jobs/info/687ad36ded63844c944a5948?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 28 |
@@ -158,4 +156,6 @@ Job ID : 260261](https://jobright.ai/jobs/info/6887031ab651c92cb78b12af?utm_camp
 | ↳ | **[Intern - Year Round (Lending Agile Maturity Measurement)](https://jobright.ai/jobs/info/6865c6b25947108dca60d51a?utm_campaign=1079&utm_source=git)** | Winchester, VA | Hybrid | Jul 24 |
 | **[OPSWAT](http://www.opswat.com)** | **[Software Engineer Intern (Summer)](https://jobright.ai/jobs/info/6882513b835a903aa07eca57?utm_campaign=1079&utm_source=git)** | Tampa, Florida, United States | On Site | Jul 24 |
 | **[EnergeX AI](energexai.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68830b1db54cac0f1e73507f?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 24 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Lending Agile Maturity Measurement)](https://jobright.ai/jobs/info/6865c6b25947108dca60d51f?utm_campaign=1079&utm_source=git)** | Vienna, VA | Hybrid | Jul 24 |
+| **[Deloitte](https://www2.deloitte.com)** | **[Deloitte - Tech Enablement and Transformation Summer Scholar](https://jobright.ai/jobs/info/68825f7eb54cac0f1e72f05c?utm_campaign=1079&utm_source=git)** | USA | On Site | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
