@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (TikTok-Social-Product Innovation)- 2025 Fall (BS/MS)](https://jobright.ai/jobs/info/687b8401764c3d7411c33514?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 29 |
+| ↳ | **[Full Stack Software Engineer Intern (Foundation Platform) - 2025 Fall (BS/MS)](https://jobright.ai/jobs/info/68341b732c4c280dd72c6319?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 29 |
 | **[Stax Payments](https://staxpayments.com)** | **[Software Engineer Internship](https://jobright.ai/jobs/info/6888658273e3e13cbd9451ff?utm_campaign=1079&utm_source=git)** | Lindon, UT | On Site | Jul 28 |
 | **[TikTok](https://www.tiktok.com)** | **[QA Engineer Intern (TikTok-Privacy and Security-Product Privacy)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688843b973e3e13cbd9437f6?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 28 |
 | **[Neuralink](https://www.neuralink.com)** | **[Firmware Engineer Intern](https://jobright.ai/jobs/info/6876cdb5299cbc74b8760d1f?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Jul 28 |
@@ -142,8 +144,8 @@ Job ID : 260261](https://jobright.ai/jobs/info/6887031ab651c92cb78b12af?utm_camp
 | **[Tencent](https://www.tencent.com/en-us)** | **[Gameplay Design Intern](https://jobright.ai/jobs/info/68840261835a903aa07f99ed?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Jul 25 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2025 - 2026 Software Engineer Program Summer Internship - Academic Internship](https://jobright.ai/jobs/info/68830e86835a903aa07f3285?utm_campaign=1079&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 25 |
 | **[Gurobi Optimization](http://www.gurobi.com/)** | **[Future MIP Development Scholar (Global Remote)](https://jobright.ai/jobs/info/688068182097a271a89a4668?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 25 |
-| **[Tencent](https://www.tencent.com/en-us)** | **[Gameplay Design Intern](https://jobright.ai/jobs/info/6883de4cb54cac0f1e73a6b6?utm_campaign=1079&utm_source=git)** | US-California-Irvine | On Site | Jul 25 |
 | **[Bits to Atoms](https://bitstoatoms.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6883f39c835a903aa07f9388?utm_campaign=1079&utm_source=git)** | Berkeley, CA | On Site | Jul 25 |
+| **[Tencent](https://www.tencent.com/en-us)** | **[Gameplay Design Intern](https://jobright.ai/jobs/info/6883ddbf835a903aa07f85b7?utm_campaign=1079&utm_source=git)** | US-California-Irvine | On Site | Jul 25 |
 | **[Leidos](https://www.leidos.com/)** | **[Software Development Intern](https://jobright.ai/jobs/info/6883afb5b54cac0f1e738d31?utm_campaign=1079&utm_source=git)** | Orlando, FL | On Site | Jul 25 |
 | **[Virtu Financial](https://www.virtu.com/)** | **[Internship - Software Engineer](https://jobright.ai/jobs/info/6881834916ea5743a373994d?utm_campaign=1079&utm_source=git)** | Austin | On Site | Jul 25 |
 | **[Copart](http://www.copart.com)** | **[QA Engineer Intern](https://jobright.ai/jobs/info/687c5cbc764c3d7411c36f52?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Jul 25 |
@@ -151,11 +153,9 @@ Job ID : 260261](https://jobright.ai/jobs/info/6887031ab651c92cb78b12af?utm_camp
 | **[ByteDance](http://bytedance.com)** | **[Backend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce Content)- 2025 Fall(BS/MS)](https://jobright.ai/jobs/info/68676dddbd90504aa43548b5?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 25 |
 | **[Red Aspen](https://www.redaspenlove.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/688346f3835a903aa07f553a?utm_campaign=1079&utm_source=git)** | Meridian, ID | On Site | Jul 25 |
 | **[SoloPulse Corp](https://www.solopulseco.com/)** | **[Software Engineer Intern/Co-Op - Fall 2025](https://jobright.ai/jobs/info/6882565c835a903aa07ecbf6?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Hybrid | Jul 25 |
+| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Mobile App](https://jobright.ai/jobs/info/684a17541fedbea8705aae31?utm_campaign=1079&utm_source=git)** | Oakland, CA | Hybrid | Jul 25 |
 | **[VetsEZ](https://vetsez.com)** | **[API Developer Intern (Remote Opportunity)](https://jobright.ai/jobs/info/688285c7835a903aa07ee213?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Remote | Jul 24 |
 | **[Sartorius](http://sartorius.com)** | **[Software Engineer Intern - Ann Arbor, MI](https://jobright.ai/jobs/info/688859de73e3e13cbd944b46?utm_campaign=1079&utm_source=git)** | Ann Arbor, MI | On Site | Jul 24 |
 | **[Arcade](https://www.arcade.ai)** | **[Intern, Software Engineering](https://jobright.ai/jobs/info/6882fdc26fcd973d15addf0c?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Jul 24 |
 | **[International Institute of New England](https://iine.org/)** | **[Quality Assurance Intern (IINE Boston)](https://jobright.ai/jobs/info/6882d3e7835a903aa07f0faa?utm_campaign=1079&utm_source=git)** | Boston, MA | Hybrid | Jul 24 |
-| **[Blockhouse](https://www.blockhouse.app)** | **[Quantitative Developer Internship](https://jobright.ai/jobs/info/6882d062b54cac0f1e732df3?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jul 24 |
-| **[Corpay Technologies](http://www.corpay.com/)** | **[Web Application Developer Intern](https://jobright.ai/jobs/info/6883017c6fcd973d15ade239?utm_campaign=1079&utm_source=git)** | Louisville, KY | On Site | Jul 24 |
-| **[Verse](http://verse.inc)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6882b7cf6fcd973d15adbf22?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
