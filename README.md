@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Medpace](http://www.medpace.com)** | **[Software QA Test Engineer Intern - Spring 2026](https://jobright.ai/jobs/info/688a3c9909808a6103e4d455?utm_campaign=1079&utm_source=git)** | Cincinnati, OH | Hybrid | Jul 30 |
+| ↳ | **[Software Development Co-Op - Spring 2026](https://jobright.ai/jobs/info/688a3132aab47a17f6707065?utm_campaign=1079&utm_source=git)** | Cincinnati, OH | Hybrid | Jul 30 |
+| **[Ansys](http://www.ansys.com)** | **[Spring 2026 Intern - Software Development - Mechanical (Bachelor's)](https://jobright.ai/jobs/info/6850dec4b74c6cfc50088071?utm_campaign=1079&utm_source=git)** | Canonsburg, PA | On Site | Jul 30 |
 | **[PNC](http://www.pnc.com)** | **[Technology Summer Intern](https://jobright.ai/jobs/info/6889bdb09f961617fe21810e?utm_campaign=1079&utm_source=git)** | Pittsburgh, PA | On Site | Jul 30 |
 | **[Lillup](https://www.lillup.com/)** | **[iOS Developer Internship (Remote, Unpaid)](https://jobright.ai/jobs/info/6889fbf609808a6103e4c3cc?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 30 |
 | **[HP Women's Impact Network France](https://www8.hp.com/fr/fr/home.html)** | **[Software Developer Internship](https://jobright.ai/jobs/info/6889f6ed9f961617fe219030?utm_campaign=1079&utm_source=git)** | Spring, TX | On Site | Jul 30 |
-| **[Caterpillar Inc.](https://www.caterpillar.com)** | **[2026 Internship ITS (Information Technology Solutions)](https://jobright.ai/jobs/info/6889f6ec09808a6103e4c2ed?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Jul 30 |
 | **[Hudson River Trading](https://www.hudsonrivertrading.com)** | **[Software Engineering Internship – Summer 2026](https://jobright.ai/jobs/info/6887fdff4174df41e0fa22cb?utm_campaign=1079&utm_source=git)** | New York, NY, United States | On Site | Jul 30 |
 | **[Genies](https://genies.com)** | **[Backend Engineer Intern (LLM) - 2025 Fall](https://jobright.ai/jobs/info/67fad56d71abbee297c542d1?utm_campaign=1079&utm_source=git)** | San Mateo, CA | On Site | Jul 30 |
 | **[PIP Labs](piplabs.xyz)** | **[Engineering Intern (App Team)](https://jobright.ai/jobs/info/67f9c3102777827478b582e4?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Jul 30 |
@@ -78,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[HP](http://www.hp.com)** | **[Software Developer Internship](https://jobright.ai/jobs/info/688987f4aab47a17f6702410?utm_campaign=1079&utm_source=git)** | Spring, TX | Hybrid | Jul 29 |
 | **[RTX](http://www.raytheon.com)** | **[Intern: Summer 2026 - Software Engineer (Onsite)](https://jobright.ai/jobs/info/68898708aab47a17f67023ac?utm_campaign=1079&utm_source=git)** | PW100: East Hartford 400 Main Street, East Hartford, CT, 06118 USA | On Site | Jul 29 |
 | **[KBR, Inc.](https://www.kbr.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68896a209f961617fe21417e?utm_campaign=1079&utm_source=git)** | Sioux Falls, SD | Hybrid | Jul 29 |
-| **[OAISIS](https://www.linkedin.com/company/106383497)** | **[Join OAISIS — We’re Hiring Tech Interns!](https://jobright.ai/jobs/info/688958d2aab47a17f6700f9b?utm_campaign=1079&utm_source=git)** | Dallas, TX | Remote | Jul 29 |
 | **[Hypergiant](https://www.hypergiant.com/sensory-sciences/)** | **[SkillBridge Internship (Frontend Engineer)](https://jobright.ai/jobs/info/687ea055db19f31cf0d6bc94?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 29 |
 | **[HP](http://www.hp.com)** | **[Software Developer Internship](https://jobright.ai/jobs/info/68894d1baab47a17f6700ad3?utm_campaign=1079&utm_source=git)** | Spring, Texas, United States of America | On Site | Jul 29 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Embedded Software Engineer Intern](https://jobright.ai/jobs/info/6889498109808a6103e46883?utm_campaign=1079&utm_source=git)** | Bridgeton, MO | Hybrid | Jul 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[3D Graphics-Immersive Innovation Intern (Product RD and Infrastructure-Mobile OS-PICO Foundation) - 2025 Summer (PhD)](https://jobright.ai/jobs/info/6875e4f9299cbc74b87589da?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 28 |
 | **[CooperSurgical](http://www.coopersurgical.com)** | **[Software Engineer Intern (SaaP)](https://jobright.ai/jobs/info/6830b281f56c2b11dfd427a7?utm_campaign=1079&utm_source=git)** | Trumbull, CT | On Site | Jul 28 |
 | **[Sigma](http://sigmacomputing.com)** | **[Software Engineer (New Grad Program)](https://jobright.ai/jobs/info/6868cba735584b654279a717?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jul 28 |
-| **[SoloPulse Corp](https://www.solopulseco.com/)** | **[Software Engineer Intern/Co-Op - Fall 2025](https://jobright.ai/jobs/info/6885f059fbbf032d0006f70e?utm_campaign=1079&utm_source=git)** | Peachtree Corners, GA | Hybrid | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
