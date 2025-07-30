@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[OAISIS](https://www.linkedin.com/company/106383497)** | **[Join OAISIS — We’re Hiring Tech Interns!](https://jobright.ai/jobs/info/688958d2aab47a17f6700f9b?utm_campaign=1079&utm_source=git)** | Dallas, TX | Remote | Jul 29 |
+| **[SmartBettor AI](https://SmartBettor.ai)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6889538e9f961617fe2139e0?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 29 |
+| **[Hypergiant](https://www.hypergiant.com/sensory-sciences/)** | **[SkillBridge Internship (Frontend Engineer)](https://jobright.ai/jobs/info/687ea055db19f31cf0d6bc94?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 29 |
+| **[HP](http://www.hp.com)** | **[Software Developer Internship](https://jobright.ai/jobs/info/68894d1baab47a17f6700ad3?utm_campaign=1079&utm_source=git)** | Spring, Texas, United States of America | On Site | Jul 29 |
+| **[Leonardo DRS](https://www.leonardodrs.com)** | **[Embedded Software Engineer Intern](https://jobright.ai/jobs/info/6889498109808a6103e46883?utm_campaign=1079&utm_source=git)** | Bridgeton, MO | Hybrid | Jul 29 |
+| **[Space Dynamics Laboratory](https://www.sdl.usu.edu)** | **[Student: Test Engineering Assistant](https://jobright.ai/jobs/info/6889496109808a6103e4686d?utm_campaign=1079&utm_source=git)** | North Logan, UT | On Site | Jul 29 |
+| **[TikTok](https://www.tiktok.com)** | **[Backend Software Engineer Intern (TikTok-Music-Music Content Ecosystem) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6889427309808a6103e464ca?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 29 |
 | **[Copart](http://www.copart.com)** | **[Data & AI QA Intern](https://jobright.ai/jobs/info/68893fe8aab47a17f6700477?utm_campaign=1079&utm_source=git)** | Dallas, TX - Headquarters | On Site | Jul 29 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship - Solutions. Platforms. Engineered.](https://jobright.ai/jobs/info/68893f76aab47a17f67003d2?utm_campaign=1079&utm_source=git)** | San Diego, California | On Site | Jul 29 |
 | **[Cenovus Energy](http://www.cenovus.com)** | **[Computer Science Engineering/IT Student, OH - Lima OR Toledo (Fall 2025)](https://jobright.ai/jobs/info/6889358d09808a6103e45d17?utm_campaign=1079&utm_source=git)** | Lima, OH | On Site | Jul 29 |
@@ -67,8 +74,8 @@ For a complete list, click the following sortable link below:
 | **[Harmonic](https://www.harmonic.ai)** | **[Software Engineer Intern (Summer '26)](https://jobright.ai/jobs/info/68891f9209808a6103e4528d?utm_campaign=1079&utm_source=git)** | New York City | On Site | Jul 29 |
 | **[Castleton Commodities International](http://www.cci.com/)** | **[Front Office Software Engineer Internship (Summer 2026)](https://jobright.ai/jobs/info/687e9968764c3d7411c44c30?utm_campaign=1079&utm_source=git)** | Stamford, CT | On Site | Jul 29 |
 | **[Blockhouse](https://www.blockhouse.app)** | **[Crypto Quantitative Developer Internship](https://jobright.ai/jobs/info/68884b1c4174df41e0fa478d?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jul 29 |
-| **[Space Dynamics Laboratory](https://www.sdl.usu.edu)** | **[Student: Test Engineering Assistant](https://jobright.ai/jobs/info/68891aa009808a6103e44cdb?utm_campaign=1079&utm_source=git)** | North Logan, UT | On Site | Jul 29 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Digital Platforms Development & Product Ownership](https://jobright.ai/jobs/info/68891642aab47a17f66feae1?utm_campaign=1079&utm_source=git)** | Newtown Square, PA | Hybrid | Jul 29 |
+| **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[Fall 2025 Research IT Intern](https://jobright.ai/jobs/info/6889476109808a6103e46738?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Jul 29 |
 | **[IBM](http://www.ibm.com)** | **[Research Co-Op](https://jobright.ai/jobs/info/6889128009808a6103e44838?utm_campaign=1079&utm_source=git)** | Yorktown Heights, NY | On Site | Jul 29 |
 | **[Able Aerospace](www.ableaerospace.com)** | **[2025 Fall High School Intern - IT (Mesa, AZ)](https://jobright.ai/jobs/info/688909059f961617fe2111c3?utm_campaign=1079&utm_source=git)** | Mesa, AZ | On Site | Jul 29 |
 | **[Textron](http://textron.com)** | **[2025 Fall High School Intern - IT (Mesa, AZ)](https://jobright.ai/jobs/info/688904bdaab47a17f66fe49c?utm_campaign=1079&utm_source=git)** | Mesa, AZ | On Site | Jul 29 |
@@ -78,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Fall 2025 Research IT Intern](https://jobright.ai/jobs/info/6888e013aab47a17f66fd418?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Jul 29 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Software Development Intern](https://jobright.ai/jobs/info/66c67e6289d6136c4923e966?utm_campaign=1079&utm_source=git)** | Scottsdale, AZ | On Site | Jul 29 |
 | **[Altom Transport](http://altomtransport.com)** | **[Fall Software Development Intern](https://jobright.ai/jobs/info/6888f798aab47a17f66fde47?utm_campaign=1079&utm_source=git)** | Hammond, IN | On Site | Jul 29 |
+| **[TeamWorx Security](https://teamworxsecurity.com)** | **[DoD SkillBridge: Software Developer or Engineer](https://jobright.ai/jobs/info/67a3e9dfcb8538d289ac006a?utm_campaign=1079&utm_source=git)** | Columbia, MD | On Site | Jul 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (TikTok-Social-Product Innovation)- 2025 Fall (BS/MS)](https://jobright.ai/jobs/info/687b8401764c3d7411c33514?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 29 |
 | ↳ | **[Full Stack Software Engineer Intern (Foundation Platform) - 2025 Fall (BS/MS)](https://jobright.ai/jobs/info/68341b732c4c280dd72c6319?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 29 |
 | **[PIP Labs](piplabs.xyz)** | **[Engineering Intern (App Team)](https://jobright.ai/jobs/info/67f9c3102777827478b582e4?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Jul 29 |
@@ -137,7 +145,6 @@ For a complete list, click the following sortable link below:
 | **[Blockhouse](https://www.blockhouse.app)** | **[Crypto Quantitative Developer Internship](https://jobright.ai/jobs/info/6887ea174174df41e0fa18ac?utm_campaign=1079&utm_source=git)** | New York City Area | On Site | Jul 27 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Embedded Software Engineering Co-Op](https://jobright.ai/jobs/info/6883db2db54cac0f1e73a461?utm_campaign=1079&utm_source=git)** | Scottsdale, AZ | Hybrid | Jul 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (MSP) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/687b56b62097a271a89832eb?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 27 |
-| **[Carboncopies Foundation](https://carboncopies.org)** | **[C++  Fall 2025 Volunteer](https://jobright.ai/jobs/info/68868ab1fbbf032d0007036d?utm_campaign=1079&utm_source=git)** | United States | Hybrid | Jul 27 |
 | **[Ansys](http://www.ansys.com)** | **[Spring 2026 Cloud, AI, Solutions and Enablement - SaaS, HPC, Python, GoLang](https://jobright.ai/jobs/info/68673da603b8509aacb71880?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Jul 27 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Software Development Intern](https://jobright.ai/jobs/info/66ca0a763673251f8b24f33d?utm_campaign=1079&utm_source=git)** | Lincoln, NE | On Site | Jul 27 |
 | **[TikTok](https://www.tiktok.com)** | **[3D Graphics-Immersive Innovation Intern (Product RD and Infrastructure-Mobile OS-PICO Foundation) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/687b9a78ed63844c944a9e8c?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 27 |
@@ -150,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Midmark Corporation](http://www.midmark.com/)** | **[Firmware Engineering Co-op - Spring 2026](https://jobright.ai/jobs/info/67a11e93459a531c82e6b738?utm_campaign=1079&utm_source=git)** | Versailles, OH | On Site | Jul 26 |
 | **[Copart](http://www.copart.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/687c6967ed63844c944ad4bb?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Jul 26 |
 | **[Bits to Atoms](https://bitstoatoms.com/)** | **[[Fall 2025] Software Engineer Intern](https://jobright.ai/jobs/info/6883f39c835a903aa07f9388?utm_campaign=1079&utm_source=git)** | Berkeley, CA | On Site | Jul 26 |
-| **[DoorDash](http://www.doordash.com)** | **[Software Engineer I, Entry-Level (Graduation Date: Fall 2024-Summer 2025)](https://jobright.ai/jobs/info/682fabb3f37d7cf6a408c34f?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Jul 26 |
-| ↳ | **[Software Engineer I, Entry-Level (Graduation Date: Fall 2024-Summer 2025)](https://jobright.ai/jobs/info/682fad8813c78e17ef884f03?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jul 26 |
-| ↳ | **[Software Engineer I, Entry-Level (Graduation Date: Fall 2024-Summer 2025)](https://jobright.ai/jobs/info/682fabb3f37d7cf6a408c34d?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Jul 26 |
-| ↳ | **[Software Engineer I, Entry-Level (Graduation Date: Fall 2024-Summer 2025)](https://jobright.ai/jobs/info/682fabb3f37d7cf6a408c321?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jul 26 |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern - Information Systems and Communication Technology
-Job ID : 260261](https://jobright.ai/jobs/info/6887031ab651c92cb78b12af?utm_campaign=1079&utm_source=git)** | New York, United States | On Site | Jul 25 |
-| **[Leidos](https://www.leidos.com/)** | **[Software Development Intern](https://jobright.ai/jobs/info/6883e398b54cac0f1e73a9d5?utm_campaign=1079&utm_source=git)** | Orlando, FL | On Site | Jul 25 |
-| **[Black Hills Energy](https://www.blackhillsenergy.com)** | **[IT Asset Management Internship](https://jobright.ai/jobs/info/6884429dfbbf032d00066726?utm_campaign=1079&utm_source=git)** | Rapid City, SD | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
