@@ -57,16 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Intern- Corporate Real Estate](https://jobright.ai/jobs/info/688a9174aab47a17f6709e46?utm_campaign=1079&utm_source=git)** | CW Site - USA - MA - Boston - 125 High Street | Hybrid | Jul 30 |
+| ↳ | **[Intern- Corporate Real Estate](https://jobright.ai/jobs/info/688a90a49f961617fe21cadf?utm_campaign=1079&utm_source=git)** | Remote Client Site - USA - Flexible United States | Remote | Jul 30 |
+| **[CrowdStrike](http://www.crowdstrike.com)** | **[Frontend Engineer Intern - Fall 2025 (Remote, CAN)](https://jobright.ai/jobs/info/688a88bc09808a6103e4f829?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | Remote | Jul 30 |
+| ↳ | **[Frontend Engineer Intern - Fall 2025 (Remote, CAN)](https://jobright.ai/jobs/info/688a81dfaab47a17f6709575?utm_campaign=1079&utm_source=git)** | USA - Remote | Remote | Jul 30 |
 | **[Hypergiant](https://www.hypergiant.com/sensory-sciences/)** | **[SkillBridge Internship (Frontend Engineer)](https://jobright.ai/jobs/info/687ea055db19f31cf0d6bc94?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 30 |
-| **[Pulchritude Fashion Studio](pulchritudefashion.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/688a774baab47a17f67090ae?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 30 |
 | **[Analytical Mechanics Associates](https://www.ama-inc.com)** | **[Optimization Systems Analysis Intern](https://jobright.ai/jobs/info/688a6d7f9f961617fe21b808?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Jul 30 |
 | **[HABIT](https://habitrobotics.com)** | **[Software Engineer Intern (Fall 2025)](https://jobright.ai/jobs/info/6889c7229f961617fe2184f4?utm_campaign=1079&utm_source=git)** | El Segundo, CA | On Site | Jul 30 |
-| **[JETZY](http://jetzyapp.com)** | **[Technology Intern](https://jobright.ai/jobs/info/688a6ecb09808a6103e4eab3?utm_campaign=1079&utm_source=git)** | New York, United States | Remote | Jul 30 |
 | **[Find Me](https://fyndme.co)** | **[Senior Full Stack Developer Internship (Next.js, Node.js, PostgreSQL)](https://jobright.ai/jobs/info/688a4da009808a6103e4db07?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 30 |
 | **[Apprenticely](https://apprenticely.org/)** | **[Junior Python Developer Intern](https://jobright.ai/jobs/info/688a4c1209808a6103e4da8a?utm_campaign=1079&utm_source=git)** | Little Rock, AR | On Site | Jul 30 |
 | **[Medpace](http://www.medpace.com)** | **[Software QA Test Engineer Intern - Spring 2026](https://jobright.ai/jobs/info/688a3c9909808a6103e4d455?utm_campaign=1079&utm_source=git)** | Cincinnati, OH | Hybrid | Jul 30 |
 | ↳ | **[Software Development Co-Op - Spring 2026](https://jobright.ai/jobs/info/688a3132aab47a17f6707065?utm_campaign=1079&utm_source=git)** | Cincinnati, OH | Hybrid | Jul 30 |
 | **[AFL](http://www.AFLglobal.com)** | **[Web Design/ Development Intern- Fall 2025](https://jobright.ai/jobs/info/686dcbae3747c55e01110cb1?utm_campaign=1079&utm_source=git)** | Duncan, SC | On Site | Jul 30 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Mobile Integration Developer](https://jobright.ai/jobs/info/686dafbfdf0f605f2a704bcc?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Jul 30 |
 | **[Ansys](http://www.ansys.com)** | **[Spring 2026 Intern - Software Development - Mechanical (Bachelor's)](https://jobright.ai/jobs/info/6850dec4b74c6cfc50088071?utm_campaign=1079&utm_source=git)** | Canonsburg, PA | On Site | Jul 30 |
 | **[Amazon](https://amazon.com)** | **[Amazon Robotics - Software Development Engineer Co-Op - Fall 2025](https://jobright.ai/jobs/info/678b2d1f4ea3afc8fec871b7?utm_campaign=1079&utm_source=git)** | North Reading, MA | On Site | Jul 30 |
 | **[PNC](http://www.pnc.com)** | **[Technology Summer Intern](https://jobright.ai/jobs/info/6889bdb09f961617fe21810e?utm_campaign=1079&utm_source=git)** | Pittsburgh, PA | On Site | Jul 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Emerson](http://www.emerson.com)** | **[Software Development Co-op (Fall 2025)](https://jobright.ai/jobs/info/684bfc446216c6a865a6aa8a?utm_campaign=1079&utm_source=git)** | Elyria, OH | Hybrid | Jul 28 |
 | **[Trihydro Corporation](https://www.trihydro.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/67f295a458a370dded628b79?utm_campaign=1079&utm_source=git)** | Fort Collins, CO | On Site | Jul 28 |
 | **[IPConfigure Inc.](http://www.ipconfigure.com/)** | **[Software Development Internship for Video Surveillance Software](https://jobright.ai/jobs/info/688797d14174df41e0f9f14b?utm_campaign=1079&utm_source=git)** | Norfolk, VA | On Site | Jul 28 |
-| **[Amazon](https://amazon.com)** | **[Amazon Robotics - Software Development Engineer Co-Op - Fall 2025](https://jobright.ai/jobs/info/67dbb5747ffbd53383b58f7c?utm_campaign=1079&utm_source=git)** | Westborough, MA | On Site | Jul 28 |
-| **[IMC Trading](https://www.imc.com/us/imc-investments/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68640b1c81c76de3a2b71864?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jul 28 |
-| **[Neuralink](https://www.neuralink.com)** | **[Software Engineer Intern, Implant](https://jobright.ai/jobs/info/681c17fa51162154c8dcda7c?utm_campaign=1079&utm_source=git)** | Austin, Texas, United States | On Site | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
