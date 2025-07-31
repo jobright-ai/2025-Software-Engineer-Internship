@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AI Fund](https://aifund.ai/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/688b5dbb906ac06e1d1cadd7?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jul 31 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Technology Summer Internship Program - Analyst](https://jobright.ai/jobs/info/688b1d41aab47a17f670ee11?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jul 31 |
 | ↳ | **[2026 Technology Summer Internship Program - Engineer](https://jobright.ai/jobs/info/688b1ce0aab47a17f670ed88?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jul 31 |
 | **[Codeworks IT Careers ](http://codeworks-inc.com)** | **[Software Engineer, Intern (Wisconsin based)](https://jobright.ai/jobs/info/68423eb32d1d1dcc5fd249d5?utm_campaign=1079&utm_source=git)** | Waukesha, WI | Hybrid | Jul 31 |
@@ -99,7 +100,7 @@ For a complete list, click the following sortable link below:
 | **[Atomic Semi](https://atomicsemi.com)** | **[Full Stack Software Engineering Intern - Fall](https://jobright.ai/jobs/info/688a69e909808a6103e4e5ba?utm_campaign=1079&utm_source=git)** | San Francisco Office | On Site | Jul 30 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Intern- Corporate Real Estate](https://jobright.ai/jobs/info/688a9174aab47a17f6709e46?utm_campaign=1079&utm_source=git)** | CW Site - USA - MA - Boston - 125 High Street | Hybrid | Jul 30 |
 | ↳ | **[Intern- Corporate Real Estate](https://jobright.ai/jobs/info/688a90a49f961617fe21cadf?utm_campaign=1079&utm_source=git)** | Remote Client Site - USA - Flexible United States | Remote | Jul 30 |
-| **[CrowdStrike](http://www.crowdstrike.com)** | **[Frontend Engineer Intern - Fall 2025 (Remote, CAN)](https://jobright.ai/jobs/info/688a88bc09808a6103e4f829?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | Remote | Jul 30 |
+| **[CrowdStrike](http://www.crowdstrike.com)** | **[Frontend Engineer Intern - Fall 2025 (Remote)](https://jobright.ai/jobs/info/688a88bc09808a6103e4f829?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | Remote | Jul 30 |
 | ↳ | **[Frontend Engineer Intern - Fall 2025 (Remote, CAN)](https://jobright.ai/jobs/info/688a81dfaab47a17f6709575?utm_campaign=1079&utm_source=git)** | USA - Remote | Remote | Jul 30 |
 | **[Hypergiant](https://www.hypergiant.com/sensory-sciences/)** | **[SkillBridge Internship (Frontend Engineer)](https://jobright.ai/jobs/info/687ea055db19f31cf0d6bc94?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 30 |
 | **[Analytical Mechanics Associates](https://www.ama-inc.com)** | **[Optimization Systems Analysis Intern](https://jobright.ai/jobs/info/688a6d7f9f961617fe21b808?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Jul 30 |
@@ -136,7 +137,7 @@ For a complete list, click the following sortable link below:
 | **[KBR, Inc.](https://www.kbr.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68896a209f961617fe21417e?utm_campaign=1079&utm_source=git)** | Sioux Falls, SD | Hybrid | Jul 29 |
 | **[Baseten](https://www.baseten.co)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/688aa18baab47a17f670a5e7?utm_campaign=1079&utm_source=git)** | New York | On Site | Jul 29 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Embedded Software Engineering Co-Op](https://jobright.ai/jobs/info/6883db2db54cac0f1e73a461?utm_campaign=1079&utm_source=git)** | Scottsdale, AZ | Hybrid | Jul 29 |
-| **[HP](http://www.hp.com)** | **[Software Developer Internship](https://jobright.ai/jobs/info/68894d59aab47a17f6700b36?utm_campaign=1079&utm_source=git)** | Spring, Texas, United States of America | On Site | Jul 29 |
+| **[HP](http://www.hp.com)** | **[Software Developer Internship](https://jobright.ai/jobs/info/68894d1baab47a17f6700ad3?utm_campaign=1079&utm_source=git)** | Spring, Texas, United States of America | On Site | Jul 29 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Embedded Software Engineer Intern](https://jobright.ai/jobs/info/6889498109808a6103e46883?utm_campaign=1079&utm_source=git)** | Bridgeton, MO | Hybrid | Jul 29 |
 | **[Space Dynamics Laboratory](https://www.sdl.usu.edu)** | **[Student: Test Engineering Assistant](https://jobright.ai/jobs/info/6889496109808a6103e4686d?utm_campaign=1079&utm_source=git)** | North Logan, UT | On Site | Jul 29 |
 | **[Harmonic](https://www.harmonic.ai)** | **[Software Engineer Intern (Summer '26)](https://jobright.ai/jobs/info/688996e509808a6103e48d9d?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jul 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Able Aerospace](www.ableaerospace.com)** | **[2025 Fall High School Intern - IT (Mesa, AZ)](https://jobright.ai/jobs/info/688909059f961617fe2111c3?utm_campaign=1079&utm_source=git)** | Mesa, AZ | On Site | Jul 29 |
 | **[Textron](http://textron.com)** | **[2025 Fall High School Intern - IT (Mesa, AZ)](https://jobright.ai/jobs/info/688904bdaab47a17f66fe49c?utm_campaign=1079&utm_source=git)** | Mesa, AZ | On Site | Jul 29 |
 | **[Schweitzer Engineering Laboratories (SEL)](http://www.selinc.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6889045509808a6103e44303?utm_campaign=1079&utm_source=git)** | Washington - Pullman | On Site | Jul 29 |
-| **[Textron](http://textron.com)** | **[2025 Fall High School Intern - IT (Mesa, AZ)](https://jobright.ai/jobs/info/688904039f961617fe21101d?utm_campaign=1079&utm_source=git)** | US-Arizona-Mesa | On Site | Jul 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
