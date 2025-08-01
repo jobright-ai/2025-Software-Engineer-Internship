@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CuraFitt](https://curafitttech.github.io/)** | **[Mobile Application Developer](https://jobright.ai/jobs/info/688bfc3c906ac06e1d1cfef2?utm_campaign=1079&utm_source=git)** | Chicago, IL | Remote | Jul 31 |
-| **[Work4Flow](www.work4flow.com)** | **[ServiceNow Developer Intern – UI/UX (AngularJS / ReactJS)](https://jobright.ai/jobs/info/688bf0601808534a89cb7421?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 31 |
+| **[Nikkiso Clean Energy & Industrial Gases](https://www.NikkisoCEIG.com)** | **[Applications Engineering Intern I](https://jobright.ai/jobs/info/688c1bf6906ac06e1d1d0c96?utm_campaign=1079&utm_source=git)** | US-NV-North Las Vegas | On Site | Jul 31 |
+| **[Belden Inc.](http://belden.com)** | **[Software Engineering Co-Op](https://jobright.ai/jobs/info/688c1112906ac06e1d1d05b2?utm_campaign=1079&utm_source=git)** | Rochester, NY | On Site | Jul 31 |
+| **[Low Tide Co.](lowtideco.com)** | **[Unpaid Web Developer Intern- Shopify Customization](https://jobright.ai/jobs/info/688c02db1808534a89cb7c2a?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 31 |
 | **[HDR](http://www.hdrinc.com)** | **[Computation Intern](https://jobright.ai/jobs/info/688be461906ac06e1d1cf4e9?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Jul 31 |
 | **[RTX](http://www.raytheon.com)** | **[2026 Return Intern - Raytheon Software Engineer Intern (On-site)](https://jobright.ai/jobs/info/688be3703a30793eb963e838?utm_campaign=1079&utm_source=git)** | TX232: Richardson 1727 CityLine 1727 East CityLine Drive Building C27, Richardson, TX, 75082 USA | On Site | Jul 31 |
 | **[Copart](http://www.copart.com)** | **[Mobile Developer Intern (AI / ML)](https://jobright.ai/jobs/info/688bdb123a30793eb963e437?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Jul 31 |
@@ -66,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Verse](http://verse.inc)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6882b7cf6fcd973d15adbf22?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jul 31 |
 | **[NYS Office of Information Technology Services](https://its.ny.gov/)** | **[Student Assistant Internship (Integrated Eligibility System), Ref# 9506](https://jobright.ai/jobs/info/688bd65f3a30793eb963e16b?utm_campaign=1079&utm_source=git)** | Albany, NY | Hybrid | Jul 31 |
 | **[SuperWorld🌎❤️](http://superworldapp.com)** | **[Webflow Intern](https://jobright.ai/jobs/info/688bd403906ac06e1d1ceba3?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Jul 31 |
-| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[(#R24199) Frontend Engineer Intern – Fall 2025 (Remote, US, CAN) at CrowdStrike, Inc.](https://jobright.ai/jobs/info/688ab9c29f961617fe21db08?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Jul 31 |
 | **[University of Illinois Chicago College of Dentistry](https://dentistry.uic.edu)** | **[Graduate Assistant - WordPress Developer - Technology Solutions](https://jobright.ai/jobs/info/688bbc113a30793eb963cfb9?utm_campaign=1079&utm_source=git)** | Chicago, IL, US | On Site | Jul 31 |
 | **[AppLovin](https://www.applovin.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/688ba7e51808534a89cb4c0e?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 31 |
 | ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/688b9cf23a30793eb963bf28?utm_campaign=1079&utm_source=git)** | Remote - United States | Remote | Jul 31 |
@@ -95,6 +95,7 @@ For a complete list, click the following sortable link below:
 | **[Bot Auto](https://bot.auto/)** | **[Full Stack Engineering Intern](https://jobright.ai/jobs/info/686c21d335584b6542d2a725?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | Jul 31 |
 | **[AI Fund](https://aifund.ai/)** | **[Full-Stack Engineer Intern](https://jobright.ai/jobs/info/68789431866a435525abad07?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jul 31 |
 | **[GPTZero](https://gptzero.me)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/688adb869f961617fe21eadf?utm_campaign=1079&utm_source=git)** | NYC Hybrid | Hybrid | Jul 31 |
+| **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[IT Innovation Intern or Co-op - Fall 2025](https://jobright.ai/jobs/info/6853053b586d1b8ea7024508?utm_campaign=1079&utm_source=git)** | Parsippany, NJ | Hybrid | Jul 31 |
 | **[Baseten](https://www.baseten.co)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/688ab9e709808a6103e50d00?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Jul 31 |
 | **[LABL App Inc.](www.labl-ai.com)** | **[Mobile Video Engineering Intern](https://jobright.ai/jobs/info/688b3d2c906ac06e1d1ca1ee?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 31 |
 | **[DMA - DuCharme, McMillen & Associates, Inc.](https://www.dmainc.com/)** | **[Software Development Intern - Fall 2025](https://jobright.ai/jobs/info/687b4144764c3d7411c31b4b?utm_campaign=1079&utm_source=git)** | Fort Wayne, IN | On Site | Jul 31 |
@@ -120,7 +121,6 @@ For a complete list, click the following sortable link below:
 | **[Analytical Mechanics Associates](https://www.ama-inc.com)** | **[Optimization Systems Analysis Intern](https://jobright.ai/jobs/info/688abcea9f961617fe21dc58?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Jul 30 |
 | **[Baseten](https://www.baseten.co)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/688ab78d9f961617fe21dab4?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jul 30 |
 | **[Medpace](http://www.medpace.com)** | **[Software QA Test Engineer Intern - Spring 2026](https://jobright.ai/jobs/info/688a3c9909808a6103e4d455?utm_campaign=1079&utm_source=git)** | Cincinnati, OH | Hybrid | Jul 30 |
-| **[Sty1e Studios INC](https://www.sty1estudios.com/)** | **[VR Unity Programmer Internship (3 months)](https://jobright.ai/jobs/info/688aa68aaab47a17f670a776?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 30 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Simulation Software Engineer, Optimus (Fall 2025)](https://jobright.ai/jobs/info/688aa46e09808a6103e5056c?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Jul 30 |
 | **[Optiver](http://www.optiver.com)** | **[Software Engineer Intern (Summer 2026 - Chicago)](https://jobright.ai/jobs/info/6889a952aab47a17f6704081?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jul 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (TikTok-Social-Product Innovation)- 2025 Fall (BS/MS)](https://jobright.ai/jobs/info/687b8401764c3d7411c33514?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 30 |
