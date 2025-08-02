@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Software Engineer Program - Summer Internship – United States](https://jobright.ai/jobs/info/688e45a66a4aac5783cd8d60?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Aug 02 |
 | **[QuinStreet](http://www.quinstreet.com)** | **[Engineering Co-Op](https://jobright.ai/jobs/info/6874ca93ae2f413e4a5a04c4?utm_campaign=1079&utm_source=git)** | Foster City, CA | On Site | Aug 02 |
 | **[Waliin](https://waliin.com/)** | **[Android Developer or iOS Developer](https://jobright.ai/jobs/info/688e11ece5cead4afd45baee?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 02 |
+| **[Copart](http://www.copart.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/687c90aded63844c944af32b?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Aug 02 |
 | **[Tower Research Capital](http://www.tower-research.com/)** | **[Software Developer Intern (Summer 2026)](https://jobright.ai/jobs/info/68739da04001e95011b17fe3?utm_campaign=1079&utm_source=git)** | New York, United States | On Site | Aug 02 |
 | **[ByteDance](http://bytedance.com)** | **[Video Processing and Enhancement Algorithm Engineer Intern (Multimedia Lab) - 2025 Summer/Fall (PhD)](https://jobright.ai/jobs/info/6855f995b0e8b59b0e9db447?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 02 |
 | ↳ | **[Software Development Engineer Intern in Test (Global E-commerce-Quality Assurance) - 2025 Fall (BS/MS)](https://jobright.ai/jobs/info/685639617d54b6be490d8725?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 02 |
@@ -76,7 +78,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Duales Studium Informatik - Informationstechnik (m/w/d) 2025](https://jobright.ai/jobs/info/688dc77ee5cead4afd45ab0b?utm_campaign=1079&utm_source=git)** | Location, WV | On Site | Aug 02 |
 | ↳ | **[Duales Studium Informatik - Informationstechnik (m/w/d) 2026](https://jobright.ai/jobs/info/688dc6b16a4aac5783cd7583?utm_campaign=1079&utm_source=git)** | Location, WV | On Site | Aug 02 |
 | ↳ | **[Internship in Industrial Software Systems (80-100%)](https://jobright.ai/jobs/info/688dc552e5cead4afd45a980?utm_campaign=1079&utm_source=git)** | Location, WV | On Site | Aug 02 |
-| ↳ | **[Bachelor-/ Master-Thesis (m/f/d) Software Engineering/Architecture](https://jobright.ai/jobs/info/688dc40ae5cead4afd45a7b7?utm_campaign=1079&utm_source=git)** | Location, WV | Hybrid | Aug 02 |
 | ↳ | **[Internship - R&D Control Software Engineer](https://jobright.ai/jobs/info/688dc34be5cead4afd45a71e?utm_campaign=1079&utm_source=git)** | Location, WV | On Site | Aug 02 |
 | **[University of Illinois Chicago (UIC) School of Public Health](https://publichealth.uic.edu)** | **[Graduate Assistant - WordPress Developer - Technology Solutions](https://jobright.ai/jobs/info/688dc7e76a4aac5783cd7651?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Aug 01 |
 | **[Agile Defense](https://agiledefense.com)** | **[Intern - Agile Defense Labs](https://jobright.ai/jobs/info/6880d163f4f06100f3a21347?utm_campaign=1079&utm_source=git)** | United States | Hybrid | Aug 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineering Intern – Summer 2026](https://jobright.ai/jobs/info/688c42413a30793eb964190b?utm_campaign=1079&utm_source=git)** | Minneapolis, Minnesota, United States of America | On Site | Jul 31 |
 | ↳ | **[Software Engineering Intern – Summer 2026](https://jobright.ai/jobs/info/688c422f1808534a89cba04e?utm_campaign=1079&utm_source=git)** | Lafayette, Colorado, United States of America | On Site | Jul 31 |
 | **[TikTok](https://www.tiktok.com)** | **[Backend Software Engineer Intern (TikTok-Product Infrastructure-Customer Service Platform) - 2026 Summer(BS/MS)](https://jobright.ai/jobs/info/688c40901808534a89cb9f43?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 31 |
-| **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Technology Summer Internship Program - Analyst](https://jobright.ai/jobs/info/688d9be96a4aac5783cd48ad?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
