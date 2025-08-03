@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Viaduct Learn](https://www.viaductlearn.com)** | **[Remote Software Development Internship](https://jobright.ai/jobs/info/688fd1b8e5cead4afd46146e?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 03 |
+| **[Carboncopies Foundation](https://carboncopies.org)** | **[Python engineering  Fall 2025 Internship](https://jobright.ai/jobs/info/688fc2c1cdbd821a36645eff?utm_campaign=1079&utm_source=git)** | United States | Hybrid | Aug 03 |
 | **[Atomic Semi](https://atomicsemi.com)** | **[Embedded Software Engineering Intern - Fall](https://jobright.ai/jobs/info/67fa85e29dbea63fe8b06b5a?utm_campaign=1079&utm_source=git)** | San Francisco Office | On Site | Aug 03 |
 | **[Five Rings](https://fiverings.com)** | **[Winter Intern 2026 - Software Developer](https://jobright.ai/jobs/info/6877d833866a435525ab49da?utm_campaign=1079&utm_source=git)** | New York | On Site | Aug 03 |
 | **[Meridian Finance Solutions](https://www.linkedin.com/company/107869532)** | **[Web Development Intern](https://jobright.ai/jobs/info/688fa6c4cdbd821a36645d5e?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Aug 03 |
@@ -102,8 +104,8 @@ For a complete list, click the following sortable link below:
 | **[Susquehanna International Group](http://sig.com)** | **[Software Engineering Internship: Summer 2026](https://jobright.ai/jobs/info/68719ded06ad7073463c6455?utm_campaign=1079&utm_source=git)** | Greater Philadelphia | On Site | Aug 02 |
 | **[IBM Canada Software Lab - Toronto](https://research.ibm.com)** | **[Research Co-Op](https://jobright.ai/jobs/info/688dca746a4aac5783cd770e?utm_campaign=1079&utm_source=git)** | Yorktown Heights, NY | On Site | Aug 02 |
 | **[ABB](https://global.abb/group/en)** | **[Bachelor / Master Thesis in Computer Science Engineering (80-100%)](https://jobright.ai/jobs/info/688dca1fcdbd821a3663f99f?utm_campaign=1079&utm_source=git)** | Location, WV | On Site | Aug 02 |
+| ↳ | **[Application Software Internship](https://jobright.ai/jobs/info/688dc7b0e5cead4afd45ab2f?utm_campaign=1079&utm_source=git)** | Location, WV | On Site | Aug 02 |
 | ↳ | **[Duales Studium Informatik - Informationstechnik (m/w/d) 2025](https://jobright.ai/jobs/info/688dc77ee5cead4afd45ab0b?utm_campaign=1079&utm_source=git)** | Location, WV | On Site | Aug 02 |
-| ↳ | **[Application Software Internship](https://jobright.ai/jobs/info/688dc7796a4aac5783cd7601?utm_campaign=1079&utm_source=git)** | Location, WV | On Site | Aug 02 |
 | ↳ | **[Duales Studium Informatik - Informationstechnik (m/w/d) 2026](https://jobright.ai/jobs/info/688dc6b16a4aac5783cd7583?utm_campaign=1079&utm_source=git)** | Location, WV | On Site | Aug 02 |
 | ↳ | **[Internship in Industrial Software Systems (80-100%)](https://jobright.ai/jobs/info/688dc552e5cead4afd45a980?utm_campaign=1079&utm_source=git)** | Location, WV | On Site | Aug 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Backend Software Engineer Intern (TikTok-Global Live-Foundation) - 2026 Summer(BS/MS)](https://jobright.ai/jobs/info/688f08d06a4aac5783cdc7c9?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BILL](http://www.bill.com)** | **[2026 Campus Recruiting: Software Engineer Intern](https://jobright.ai/jobs/info/687584c5ae2f413e4a5a7dc9?utm_campaign=1079&utm_source=git)** | Draper, Utah, United States | On Site | Aug 01 |
 | **[Orchids](https://www.orchids.app/)** | **[Full Stack Engineer (Intern)](https://jobright.ai/jobs/info/687a40e02097a271a897e014?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Aug 01 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Software Development Engineer Apprentice, AWS Opportunity for Veterans](https://jobright.ai/jobs/info/67dbc70fb0d4a624b35b2d55?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Aug 01 |
-| **[University of South Florida](http://www.usf.edu)** | **[IAE Research Support Assistant (Computer Science) Fall 2025](https://jobright.ai/jobs/info/687a8a01764c3d7411c2dca4?utm_campaign=1079&utm_source=git)** | Tampa, FL | On Site | Aug 01 |
-| **[BetterHelp](https://www.betterhelp.com)** | **[Full Stack Software Engineer, Internal Tools](https://jobright.ai/jobs/info/6826743d35e01abbfe174b05?utm_campaign=1079&utm_source=git)** | Mountain View, CA | Hybrid | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
