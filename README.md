@@ -57,13 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Optiver](http://www.optiver.com)** | **[Software Engineer Intern (Summer 2026 - Austin)](https://jobright.ai/jobs/info/68885abb73e3e13cbd944c90?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Aug 03 |
+| **[OPSWAT](http://www.opswat.com)** | **[Software Engineer Intern (Summer)](https://jobright.ai/jobs/info/6882513b835a903aa07eca57?utm_campaign=1079&utm_source=git)** | Tampa, Florida, United States | On Site | Aug 03 |
+| **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2025 Code for Good Hackathon - Software Engineer Program - Summer Internship - United States](https://jobright.ai/jobs/info/688f95956a4aac5783cdd803?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Aug 03 |
+| **[Ramp](https://ramp.com)** | **[Software Engineer Internship / Backend](https://jobright.ai/jobs/info/688d22d627f9022553c0958d?utm_campaign=1079&utm_source=git)** | New York | On Site | Aug 03 |
+| **[Sentry](https://www.sentry.io)** | **[Software Engineer, Intern (Summer 2026)](https://jobright.ai/jobs/info/688d2d9227f9022553c09c86?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Aug 03 |
 | **[DV Trading LLC](https://www.dvtrading.co)** | **[2026 Summer Internship - Software Development (DV Commodities)](https://jobright.ai/jobs/info/688d493a3a30793eb9649f4a?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Aug 03 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2025 Code for Good Hackathon - Software Engineer Program - Summer Internship - United States](https://jobright.ai/jobs/info/688d63153a30793eb964a836?utm_campaign=1079&utm_source=git)** | Austin, TX, United States | On Site | Aug 03 |
 | **[ByteDance](http://bytedance.com)** | **[Video Experience Software Engineer Intern (Global StreamingMedia) - 2025 Summer/Fall (BS/MS)](https://jobright.ai/jobs/info/6855f995b0e8b59b0e9db48d?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 03 |
 | ↳ | **[Backend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce Customer Business)- 2025 Fall(BS/MS)](https://jobright.ai/jobs/info/685639617d54b6be490d8733?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 03 |
 | **[University of Illinois Chicago (UIC) School of Public Health](https://publichealth.uic.edu)** | **[Graduate Assistant - WordPress Developer - Technology Solutions](https://jobright.ai/jobs/info/688ef860cdbd821a36643ecf?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Aug 03 |
 | **[Carboncopies Foundation](https://carboncopies.org)** | **[Python dev  Fall 2025 Internship](https://jobright.ai/jobs/info/688f7cc0cdbd821a36645b53?utm_campaign=1079&utm_source=git)** | United States | Hybrid | Aug 03 |
-| **[Integrate](https://integratebpd.com)** | **[Website Development Intern](https://jobright.ai/jobs/info/688f64036a4aac5783cdd3da?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 03 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - IT Software Developer, Corporate Processes & Information Technology](https://jobright.ai/jobs/info/688f5282cdbd821a366456e7?utm_campaign=1079&utm_source=git)** | Newtown Square, PA | Hybrid | Aug 03 |
 | ↳ | **[SAP iXp Intern - SAP Cloud ERP Services Operations Associate](https://jobright.ai/jobs/info/688f5192e5cead4afd4609c0?utm_campaign=1079&utm_source=git)** | Newtown Square, PA | Hybrid | Aug 03 |
 | **[ByteDance](http://bytedance.com)** | **[Software Engineer Intern (Cloud Native Infrastructure) - 2025 Summer (MS)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8da7?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 03 |
@@ -127,7 +131,6 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Technology & Engineer Fellow, IT Transportation Products](https://jobright.ai/jobs/info/68828ad16fcd973d15ada403?utm_campaign=1079&utm_source=git)** | Jamaica, NY | On Site | Aug 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Backend Software Engineer Intern (TikTok-Product Infrastructure-Account) - 2026 Summer(BS/MS)](https://jobright.ai/jobs/info/688d2e2927f9022553c09cc2?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 01 |
 | **[Sentry](https://www.sentry.io)** | **[Software Engineer, Intern (Summer 2026)](https://jobright.ai/jobs/info/688ce9dd1808534a89cbf9a8?utm_campaign=1079&utm_source=git)** | San Francisco, California | Hybrid | Aug 01 |
-| ↳ | **[Software Engineer, Intern (Summer 2026)](https://jobright.ai/jobs/info/688d2d9227f9022553c09c86?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Aug 01 |
 | **[ByteDance](http://bytedance.com)** | **[Frontend Software Engineer Intern (Global E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688cad8a1808534a89cbe449?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Aug 01 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/688d2cdb27f9022553c09c2c?utm_campaign=1079&utm_source=git)** | Tucson, AZ | Hybrid | Aug 01 |
 | **[DV Trading LLC](https://www.dvtrading.co)** | **[2026 Summer Internship - Software Development (DV Commodities)](https://jobright.ai/jobs/info/688d294b3a30793eb9648ec4?utm_campaign=1079&utm_source=git)** | New York | On Site | Aug 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Trade Desk](http://thetradedesk.com)** | **[2026 North America Software Engineering Internship](https://jobright.ai/jobs/info/687ee9fedb19f31cf0d6e16e?utm_campaign=1079&utm_source=git)** | Bellevue, WA | On Site | Aug 01 |
 | **[Vendra (YC S24)](https://vendra.io/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/687f8bf02097a271a899d373?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Aug 01 |
 | **[Vorticity Inc.](http://vorticity.xyz)** | **[Full Stack Software Engineer](https://jobright.ai/jobs/info/687f25ed764c3d7411c49991?utm_campaign=1079&utm_source=git)** | Redwood City, CA | On Site | Aug 01 |
-| **[Method](https://methodfi.com)** | **[Software Engineer - Intern](https://jobright.ai/jobs/info/68784d33ae2f413e4a5c156f?utm_campaign=1079&utm_source=git)** | Austin TX, New York City  | On Site | Aug 01 |
-| **[Agile Defense](https://agiledefense.com)** | **[Intern - Agile Defense Labs](https://jobright.ai/jobs/info/688077622097a271a89a50d5?utm_campaign=1079&utm_source=git)** | United States | Hybrid | Aug 01 |
-| ↳ | **[Intern-Agile Defense Labs.](https://jobright.ai/jobs/info/6880737a9f7280424570b426?utm_campaign=1079&utm_source=git)** | United States | Hybrid | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
