@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Symmetry Systems](https://www.symmetry-systems.com)** | **[Full Stack Software Engineer - 2025 Summer Intern](https://jobright.ai/jobs/info/68901c5ee5cead4afd461b5d?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 03 |
 | **[Neusoft](http://www.neusoft.com)** | **[Bluetooth/Wireless QA Engineer Intern(12month)](https://jobright.ai/jobs/info/68900d936a4aac5783cde1b7?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Aug 03 |
 | **[ByteDance](http://bytedance.com)** | **[Video Experience Software Engineer Intern (Global StreamingMedia) - 2025 Summer/Fall (PhD)](https://jobright.ai/jobs/info/685639617d54b6be490d871b?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 03 |
 | ↳ | **[GPU/AI Application System Software Engineer Intern (System Technologies and Engineering) - 2025 Summer/Fall (BS/MS)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8d64?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 03 |
 | ↳ | **[GPU/AI Application Platform Engineer Intern (Server Platform) - 2025 Summer/Fall (PhD)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8d5b?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 03 |
 | ↳ | **[Software Engineer Intern (Cloud Native Infrastructure) - 2025 Summer (MS)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8da7?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 03 |
 | **[Viaduct Learn](https://www.viaductlearn.com)** | **[Remote Software Development Internship](https://jobright.ai/jobs/info/688fd1b8e5cead4afd46146e?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 03 |
-| **[Carboncopies Foundation](https://carboncopies.org)** | **[Python engineering  Fall 2025 Internship](https://jobright.ai/jobs/info/688fc2c1cdbd821a36645eff?utm_campaign=1079&utm_source=git)** | United States | Hybrid | Aug 03 |
 | **[Atomic Semi](https://atomicsemi.com)** | **[Embedded Software Engineering Intern - Fall](https://jobright.ai/jobs/info/67fa85e29dbea63fe8b06b5a?utm_campaign=1079&utm_source=git)** | San Francisco Office | On Site | Aug 03 |
 | **[Five Rings](https://fiverings.com)** | **[Winter Intern 2026 - Software Developer](https://jobright.ai/jobs/info/6877d833866a435525ab49da?utm_campaign=1079&utm_source=git)** | New York | On Site | Aug 03 |
 | **[Optiver](http://www.optiver.com)** | **[Software Engineer Intern (Summer 2026 - Austin)](https://jobright.ai/jobs/info/68885abb73e3e13cbd944c90?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Aug 03 |
