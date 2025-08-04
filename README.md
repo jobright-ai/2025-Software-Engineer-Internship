@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fable](https://fable.com/pages)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6890359df47efe211394b398?utm_campaign=1079&utm_source=git)** | San Francisco, CA (Hybrid) | Hybrid | Aug 04 |
+| **[University Center for Academic Excellence at UNC Charlotte](https://ucae.uncc.edu/)** | **[Postdoctoral Fellow - Computer Science](https://jobright.ai/jobs/info/68906e2bf5ee707a15db6b58?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Aug 04 |
 | **[Joinrs](http://www.tutored.me)** | **[[Full Remote] Junior Web Developer](https://jobright.ai/jobs/info/689067bdf5ee707a15db6a97?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 04 |
-| **[Meeedly](https://meeedly.com/)** | **[Software Engineering Intern - Global Summer Challenge - #35227](https://jobright.ai/jobs/info/68905cc1f5ee707a15db6589?utm_campaign=1079&utm_source=git)** | Santa Clara County, CA | Remote | Aug 04 |
 | **[Waliin](https://waliin.com/)** | **[iOS Developer](https://jobright.ai/jobs/info/68903c7af5ee707a15db5211?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 03 |
 | **[PVM](https://www.pvm.nl)** | **[DoD Skillbridge Fellowship- Software Engineer](https://jobright.ai/jobs/info/6890373ef47efe211394b433?utm_campaign=1079&utm_source=git)** | Remote- US | Hybrid | Aug 03 |
 | **[Symmetry Systems](https://www.symmetry-systems.com)** | **[Full Stack Software Engineer - 2025 Summer Intern](https://jobright.ai/jobs/info/68901c5ee5cead4afd461b5d?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 03 |
@@ -108,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[SW Dev and Test Co-op - Fall 2025 - ASL](https://jobright.ai/jobs/info/681cfa19f6c65e3672548bf5?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Aug 02 |
 | **[Susquehanna International Group](http://sig.com)** | **[Software Engineering Internship: Summer 2026](https://jobright.ai/jobs/info/68719ded06ad7073463c6455?utm_campaign=1079&utm_source=git)** | Greater Philadelphia | On Site | Aug 02 |
 | **[IBM Canada Software Lab - Toronto](https://research.ibm.com)** | **[Research Co-Op](https://jobright.ai/jobs/info/688dca746a4aac5783cd770e?utm_campaign=1079&utm_source=git)** | Yorktown Heights, NY | On Site | Aug 02 |
-| **[ABB](https://global.abb/group/en)** | **[Bachelor / Master Thesis in Computer Science Engineering (80-100%)](https://jobright.ai/jobs/info/688dca1fcdbd821a3663f99f?utm_campaign=1079&utm_source=git)** | Location, WV | On Site | Aug 02 |
-| ↳ | **[Application Software Internship](https://jobright.ai/jobs/info/688dc7b0e5cead4afd45ab2f?utm_campaign=1079&utm_source=git)** | Location, WV | On Site | Aug 02 |
+| **[ABB](https://global.abb/group/en)** | **[Application Software Internship](https://jobright.ai/jobs/info/688dca406a4aac5783cd76f2?utm_campaign=1079&utm_source=git)** | Location, WV | On Site | Aug 02 |
+| ↳ | **[Bachelor / Master Thesis in Computer Science Engineering (80-100%)](https://jobright.ai/jobs/info/688dca1fcdbd821a3663f99f?utm_campaign=1079&utm_source=git)** | Location, WV | On Site | Aug 02 |
 | ↳ | **[Duales Studium Informatik - Informationstechnik (m/w/d) 2025](https://jobright.ai/jobs/info/688dc77ee5cead4afd45ab0b?utm_campaign=1079&utm_source=git)** | Location, WV | On Site | Aug 02 |
 | ↳ | **[Duales Studium Informatik - Informationstechnik (m/w/d) 2026](https://jobright.ai/jobs/info/688dc6b16a4aac5783cd7583?utm_campaign=1079&utm_source=git)** | Location, WV | On Site | Aug 02 |
 | ↳ | **[Internship in Industrial Software Systems (80-100%)](https://jobright.ai/jobs/info/688dc552e5cead4afd45a980?utm_campaign=1079&utm_source=git)** | Location, WV | On Site | Aug 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NBT Bank](http://www.nbtbank.com)** | **[Student Associate - Software Engineer - EPIC](https://jobright.ai/jobs/info/688cd4703a30793eb9646790?utm_campaign=1079&utm_source=git)** | Rochester, New York | On Site | Aug 01 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Information Technology Engineer](https://jobright.ai/jobs/info/688865034174df41e0fa5a47?utm_campaign=1079&utm_source=git)** | Lexington, KY | On Site | Aug 01 |
 | **[Unisys](http://www.unisys.com)** | **[Banco de Talentos (Future Projects) - Unisys LAC](https://jobright.ai/jobs/info/6853d27ad47b315215e0a72c?utm_campaign=1079&utm_source=git)** | Puerto De Luna, NM | On Site | Aug 01 |
-| **[Otis Elevator Co.](http://www.otis.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/688cbd4f3a30793eb964617d?utm_campaign=1079&utm_source=git)** | Farmington, CT | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
