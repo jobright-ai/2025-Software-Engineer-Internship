@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pulchritude Fashion Studio](pulchritudefashion.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/689278be4c7e851b90ad60dc?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 05 |
+| **[Renesas Electronics](https://www.renesas.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6892787af5ee707a15dc5ee6?utm_campaign=1079&utm_source=git)** | Columbia, MD | On Site | Aug 05 |
+| **[Flatiron School](http://flatironschool.com)** | **[Apprentice, Software Engineer](https://jobright.ai/jobs/info/6892738f4c7e851b90ad5ea1?utm_campaign=1079&utm_source=git)** | Columbia, SC | Hybrid | Aug 05 |
+| **[BlogHunch](https://bloghunch.com)** | **[Web Developer](https://jobright.ai/jobs/info/68926d39f5ee707a15dc59b8?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 05 |
+| **[Flatiron School](http://flatironschool.com)** | **[Apprentice, Software Engineer](https://jobright.ai/jobs/info/68926b724c7e851b90ad5928?utm_campaign=1079&utm_source=git)** | Hybrid (Columbia, South Carolina, US) | Hybrid | Aug 05 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - BTP Developer](https://jobright.ai/jobs/info/68926220f47efe211395bf52?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | Hybrid | Aug 05 |
 | **[HD Supply](http://hdsupply.com)** | **[Summer 2026 Intern - Information Technology](https://jobright.ai/jobs/info/68925f40f47efe211395bcea?utm_campaign=1079&utm_source=git)** | Atlanta-GA-US | On Site | Aug 05 |
 | **[Synopsys Inc](http://www.synopsys.com)** | **[Virtual System Modeling Intern](https://jobright.ai/jobs/info/68925dcbf5ee707a15dc50a4?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Aug 05 |
 | **[Ramp](https://ramp.com)** | **[Software Engineer Internship / Frontend](https://jobright.ai/jobs/info/688d29881808534a89cc1594?utm_campaign=1079&utm_source=git)** | New York | On Site | Aug 05 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Optiver](http://www.optiver.com)** | **[Software Engineer Intern (Summer 2026 - Austin)](https://jobright.ai/jobs/info/68885abb73e3e13cbd944c90?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Aug 03 |
 | **[OPSWAT](http://www.opswat.com)** | **[Software Engineer Intern (Summer)](https://jobright.ai/jobs/info/6882513b835a903aa07eca57?utm_campaign=1079&utm_source=git)** | Tampa, Florida, United States | On Site | Aug 03 |
 | **[Ramp](https://ramp.com)** | **[Software Engineer Internship / Backend](https://jobright.ai/jobs/info/688d22d627f9022553c0958d?utm_campaign=1079&utm_source=git)** | New York | On Site | Aug 03 |
-| **[Sentry](https://www.sentry.io)** | **[Software Engineer, Intern (Summer 2026)](https://jobright.ai/jobs/info/688d2d9227f9022553c09c86?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Aug 03 |
-| **[ByteDance](http://bytedance.com)** | **[Video Experience Software Engineer Intern (Global StreamingMedia) - 2025 Summer/Fall (BS/MS)](https://jobright.ai/jobs/info/6855f995b0e8b59b0e9db48d?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 03 |
-| ↳ | **[Backend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce Customer Business)- 2025 Fall(BS/MS)](https://jobright.ai/jobs/info/685639617d54b6be490d8733?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 03 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - HANA Cloud Knowledge Graph Engine Software Developer](https://jobright.ai/jobs/info/684f89f220521b60706b87b0?utm_campaign=1079&utm_source=git)** | Burlington, MA | Hybrid | Aug 03 |
-| ↳ | **[SAP iXp Intern - IT Software Developer, Corporate Processes & Information Technology](https://jobright.ai/jobs/info/688f5282cdbd821a366456e7?utm_campaign=1079&utm_source=git)** | Newtown Square, PA | Hybrid | Aug 03 |
-| ↳ | **[SAP iXp Intern - SAP Cloud ERP Services Operations Associate](https://jobright.ai/jobs/info/688f5192e5cead4afd4609c0?utm_campaign=1079&utm_source=git)** | Newtown Square, PA | Hybrid | Aug 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
