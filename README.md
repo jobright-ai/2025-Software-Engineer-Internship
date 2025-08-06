@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Firmware Engineer, New Programs Engineering  (Winter/Spring 2026)](https://jobright.ai/jobs/info/6892cb31f47efe211395f268?utm_campaign=1079&utm_source=git)** | Hawthorne, CA | On Site | Aug 05 |
+| **[TikTok](https://www.tiktok.com)** | **[Mobile Software Engineer Intern (TikTok-Search) - 2026 Summer(BS/MS)](https://jobright.ai/jobs/info/6892cad74c7e851b90ad87ba?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 05 |
+| ↳ | **[Software Engineer Intern - TikTok Search Architecture team - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6892ca3bf5ee707a15dc86ba?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 05 |
+| **[Figure](https://www.figure.ai)** | **[Firmware Engineer Intern (Fall 2025)](https://jobright.ai/jobs/info/6892a580f47efe211395de4d?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 05 |
 | **[Astrolab](https://astrolab.space)** | **[Fall 2025 Software Engineering Intern](https://jobright.ai/jobs/info/6892a77bf5ee707a15dc763f?utm_campaign=1079&utm_source=git)** | Hawthorne, CA | On Site | Aug 05 |
 | ↳ | **[Fall 2025 Software Engineering Intern](https://jobright.ai/jobs/info/6892a67cf5ee707a15dc74d6?utm_campaign=1079&utm_source=git)** | Hawthorne, California | On Site | Aug 05 |
-| **[Figure](https://www.figure.ai)** | **[Firmware Engineer Intern (Fall 2025)](https://jobright.ai/jobs/info/6892a580f47efe211395de4d?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 05 |
 | **[HD Supply](http://hdsupply.com)** | **[Summer 2026 Intern - Information Technology](https://jobright.ai/jobs/info/68929c724c7e851b90ad70ba?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Aug 05 |
 | **[Tencent](https://www.tencent.com/en-us)** | **[Game Research & Development Intern, Engine Research](https://jobright.ai/jobs/info/689290f74c7e851b90ad6c56?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Aug 05 |
 | **[Confluent](https://confluent.io)** | **[2026 Confluent Software Engineering Intern Opportunity (Austin, Texas)](https://jobright.ai/jobs/info/6892903ff5ee707a15dc6b98?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Aug 05 |
@@ -124,8 +127,8 @@ For a complete list, click the following sortable link below:
 | **[Hypergiant](https://www.hypergiant.com/sensory-sciences/)** | **[SkillBridge Internship (Frontend Engineer)](https://jobright.ai/jobs/info/687e51aa2097a271a89944e0?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (TikTok Intelligent Creation Effects ) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6890d2f34c7e851b90ac9e42?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 04 |
 | **[MSA - The Safety Company](https://www.msasafety.com/global)** | **[Co-op: Software Engineer, Product Development (Spring 2026)](https://jobright.ai/jobs/info/6890cc64f47efe21139505ff?utm_campaign=1079&utm_source=git)** | Cranberry Twp, Pennsylvania | On Site | Aug 04 |
-| **[Capital One](http://www.capitalone.com)** | **[Technology Internship Program - Summer 2026](https://jobright.ai/jobs/info/6890b777f47efe211394fb0c?utm_campaign=1079&utm_source=git)** | Richmond, VA | Hybrid | Aug 04 |
-| ↳ | **[Technology Internship Program - Summer 2026](https://jobright.ai/jobs/info/6890b7774c7e851b90ac8fb5?utm_campaign=1079&utm_source=git)** | Plano, TX | Hybrid | Aug 04 |
+| **[Capital One](http://www.capitalone.com)** | **[Technology Internship Program - Summer 2026](https://jobright.ai/jobs/info/6890b7774c7e851b90ac8fb5?utm_campaign=1079&utm_source=git)** | Plano, TX | Hybrid | Aug 04 |
+| ↳ | **[Technology Internship Program - Summer 2026](https://jobright.ai/jobs/info/6890b777f47efe211394fb0c?utm_campaign=1079&utm_source=git)** | Richmond, VA | Hybrid | Aug 04 |
 | ↳ | **[Technology Internship Program - Summer 2026](https://jobright.ai/jobs/info/6890b713f5ee707a15db9283?utm_campaign=1079&utm_source=git)** | McLean, VA | Hybrid | Aug 04 |
 | **[Otis Elevator Co.](http://www.otis.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/688cbd9127f9022553c06b15?utm_campaign=1079&utm_source=git)** | Farmington, CT | On Site | Aug 04 |
 | **[DV Trading LLC](https://www.dvtrading.co)** | **[2026 Summer Internship - Software Development (DV Commodities)](https://jobright.ai/jobs/info/688d294b3a30793eb9648ec4?utm_campaign=1079&utm_source=git)** | New York | On Site | Aug 04 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[GPU/AI Application Platform Engineer Intern (Server Platform) - 2025 Summer/Fall (PhD)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8d5b?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 03 |
 | ↳ | **[Software Engineer Intern (Cloud Native Infrastructure) - 2025 Summer (MS)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8da7?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 03 |
 | **[High Tide](https://www.high-tide.xyz)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68919e2af47efe2113957894?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 03 |
-| **[Atomic Semi](https://atomicsemi.com)** | **[Embedded Software Engineering Intern - Fall](https://jobright.ai/jobs/info/67fa85e29dbea63fe8b06b5a?utm_campaign=1079&utm_source=git)** | San Francisco Office | On Site | Aug 03 |
-| **[Five Rings](https://fiverings.com)** | **[Winter Intern 2026 - Software Developer](https://jobright.ai/jobs/info/6877d833866a435525ab49da?utm_campaign=1079&utm_source=git)** | New York | On Site | Aug 03 |
-| **[Optiver](http://www.optiver.com)** | **[Software Engineer Intern (Summer 2026 - Austin)](https://jobright.ai/jobs/info/68885abb73e3e13cbd944c90?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Aug 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
