@@ -57,7 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[ThinkDTM](https://thinkdtm.com)** | **[AI Fullstack App Developer](https://jobright.ai/jobs/info/6893aa664c7e851b90adf51f?utm_campaign=1079&utm_source=git)** | New Brunswick, NJ | On Site | Aug 06 |
+| **[Jump Trading Group](http://www.jumptrading.com/)** | **[Campus Software Engineer (Intern)](https://jobright.ai/jobs/info/6893c752f47efe2113966eb1?utm_campaign=1079&utm_source=git)** | Chicago | On Site | Aug 06 |
+| ↳ | **[Campus UI Software Engineer (Intern)](https://jobright.ai/jobs/info/6893c56e4c7e851b90ae04ca?utm_campaign=1079&utm_source=git)** | Chicago | On Site | Aug 06 |
+| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Recommendation Infrastructure) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/6893bc4af47efe21139667c8?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 06 |
+| ↳ | **[Frontend Engineer Intern (TikTok-Open Platform) - 2026 Summer(BS/MS)](https://jobright.ai/jobs/info/6893bb73a9199876488dfaf0?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Aug 06 |
+| ↳ | **[Software Engineer Intern (Recommendation Infrastructure) - 2026 Fall (BS/ MS)](https://jobright.ai/jobs/info/6893b880f47efe21139665ed?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 06 |
+| **[Sevita](https://sevitahealth.com)** | **[Fall IT Co-op](https://jobright.ai/jobs/info/6893b716a9199876488df8f0?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | Remote | Aug 06 |
+| **[Wurl](http://www.wurl.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6893b5b9a9199876488df80f?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 06 |
+| **[Todd](toddagriscience.com)** | **[Winter Backend Developer Intern](https://jobright.ai/jobs/info/6893b57cf47efe211396643c?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Aug 06 |
+| **[Waliin](https://waliin.com/)** | **[Android Developer](https://jobright.ai/jobs/info/6893b2f8a9199876488df6b8?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 06 |
+| **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Software Engineer Intern](https://jobright.ai/jobs/info/6893b298a9199876488df685?utm_campaign=1079&utm_source=git)** | San Mateo, CA | Hybrid | Aug 06 |
+| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Data Arch - ShortText Rec) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6893c8b8a9199876488e02dc?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 06 |
 | **[RTX](http://www.raytheon.com)** | **[2026 Return Intern - Raytheon Software Development Engineer Intern (Onsite)](https://jobright.ai/jobs/info/6893a7914c7e851b90adf39a?utm_campaign=1079&utm_source=git)** | MA133: Tewksbury, Ma Bldg 3 Concord 50 Apple Hill Drive Concord - Building 3, Tewksbury, MA, 01876 USA | On Site | Aug 06 |
 | **[Brand Executives](https://welcome.thebrandexecutives.com/)** | **[Web Development Intern](https://jobright.ai/jobs/info/6893a7024c7e851b90adf2a6?utm_campaign=1079&utm_source=git)** | DFW Metroplex | Remote | Aug 06 |
 | **[Trihydro Corporation](https://www.trihydro.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/67f295a458a370dded628b79?utm_campaign=1079&utm_source=git)** | Fort Collins, CO | On Site | Aug 06 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer Intern (Agentic AI Engine - Data Management platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68917cd0f47efe2113955b92?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 04 |
 | ↳ | **[Software Engineer Intern (Experimentation & Evaluation, Data Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689179064c7e851b90acee60?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 04 |
 | **[Oracle](https://www.oracle.com/)** | **[ADA Software Engineer Intern](https://jobright.ai/jobs/info/689173064c7e851b90ace9ce?utm_campaign=1079&utm_source=git)** | Nashville, TN | On Site | Aug 04 |
-| ↳ | **[ADA Software Engineer Intern](https://jobright.ai/jobs/info/689170134c7e851b90ace876?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Aug 04 |
-| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Information Systems Assurance - Summer 2026 (Dallas)](https://jobright.ai/jobs/info/68918c444c7e851b90acfda7?utm_campaign=1079&utm_source=git)** | Dallas, TX | Hybrid | Aug 04 |
-| **[BDO](https://global-www.bdo.global/)** | **[Assurance Intern, Information Systems Assurance - Summer 2026 (Dallas)](https://jobright.ai/jobs/info/68915a86f5ee707a15dbdd7d?utm_campaign=1079&utm_source=git)** | Dallas, TX, United States | On Site | Aug 04 |
-| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Information Systems Assurance - Summer 2026 (Dallas)](https://jobright.ai/jobs/info/68915a4cf47efe2113954796?utm_campaign=1079&utm_source=git)** | 23 600 North Pearl, Dallas, TX, 75201, US | On Site | Aug 04 |
-| **[ConocoPhillips](http://www.conocophillips.com)** | **[Intern, Information Technology 2026](https://jobright.ai/jobs/info/689187174c7e851b90acf830?utm_campaign=1079&utm_source=git)** | Bartlesville, OK | On Site | Aug 04 |
-| **[Talos](https://talos.com)** | **[Software Engineer Intern, Front-End, PMS](https://jobright.ai/jobs/info/68914e9ff5ee707a15dbd960?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Aug 04 |
-| **[GE HealthCare](http://www.gehealthcare.com)** | **[Information Technology Development Program - Internship](https://jobright.ai/jobs/info/68914859f5ee707a15dbd7c2?utm_campaign=1079&utm_source=git)** | Wisconsin, United States | Remote | Aug 04 |
-| ↳ | **[Edison Engineering Development Program Intern – Software](https://jobright.ai/jobs/info/689146524c7e851b90acd685?utm_campaign=1079&utm_source=git)** | Waukesha, WI | On Site | Aug 04 |
-| **[Argonne National Laboratory](http://www.anl.gov/)** | **[Research Aide - MCS - Ishibe, Hoku - 8.4.25.](https://jobright.ai/jobs/info/6891293a4c7e851b90acc8fb?utm_campaign=1079&utm_source=git)** | Lemont, IL USA | On Site | Aug 04 |
-| ↳ | **[Research Aide - MCS - Ishibe, Hoku - 8.4.25.](https://jobright.ai/jobs/info/689128e8f5ee707a15dbc93b?utm_campaign=1079&utm_source=git)** | On-site | On Site | Aug 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
