@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ramp](https://ramp.com)** | **[Software Engineer Internship - iOS](https://jobright.ai/jobs/info/6894e6e14ed2ea559ca518e3?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Aug 07 |
+| **[Ivalua](http://ivalua.com/)** | **[Customer Application Engineer Intern](https://jobright.ai/jobs/info/6894df4b4ed2ea559ca51441?utm_campaign=1079&utm_source=git)** | Fremont, California - US | Hybrid | Aug 07 |
 | **[Ansys](http://www.ansys.com)** | **[Spring 2026 Co-op, Software Development (Bachelors)](https://jobright.ai/jobs/info/685b06cad8fe2cf3865dc4f0?utm_campaign=1079&utm_source=git)** | Canonsburg, PA | On Site | Aug 07 |
 | **[RTX](http://www.raytheon.com)** | **[Intern: Summer 2026 - Controls & Diagnostic Systems Engine Systems Software (Onsite)](https://jobright.ai/jobs/info/6894bb768c6d6b4426773dc9?utm_campaign=1079&utm_source=git)** | PW100: East Hartford 400 Main Street, East Hartford, CT, 06118 USA | On Site | Aug 07 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Software Development Engineer Apprentice, AWS Opportunity for Veterans](https://jobright.ai/jobs/info/6894b03f4ed2ea559ca4f756?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Aug 07 |
@@ -79,10 +81,9 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[Frontend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce Seller Business) - 2025 Start Fall (BS/MS)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8d0b?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 06 |
 | **[Talos](https://talos.com)** | **[Software Engineer Intern, Front-End, PMS](https://jobright.ai/jobs/info/68914e9ff5ee707a15dbd960?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Aug 06 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Software Engineer Intern](https://jobright.ai/jobs/info/6893b298a9199876488df685?utm_campaign=1079&utm_source=git)** | San Mateo, CA | Hybrid | Aug 06 |
+| **[Ramp](https://ramp.com)** | **[Software Engineer Internship - iOS](https://jobright.ai/jobs/info/6894e6234ed2ea559ca5188f?utm_campaign=1079&utm_source=git)** | New York | On Site | Aug 06 |
 | **[Nestlé Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[IT Managment Development Associate](https://jobright.ai/jobs/info/6893e588f47efe2113967b24?utm_campaign=1079&utm_source=git)** | Davenport, IA | On Site | Aug 06 |
 | **[Auctor](https://www.getauctor.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6894b9824ed2ea559ca4fcba?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Aug 06 |
-| **[Sysco](http://sysco.com)** | **[Testing Posting Only - Software Dev Engineer Intern](https://jobright.ai/jobs/info/6893dbfb4c7e851b90ae0e62?utm_campaign=1079&utm_source=git)** | Sysco Corporate | On Site | Aug 06 |
-| ↳ | **[Testing Posting Only - Functional Analyst Intern](https://jobright.ai/jobs/info/6893da2ef47efe211396765a?utm_campaign=1079&utm_source=git)** | Sysco Corporate | On Site | Aug 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Recommendation Infrastructure) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/6893bc4af47efe21139667c8?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 06 |
 | ↳ | **[Frontend Engineer Intern (TikTok-Open Platform) - 2026 Summer(BS/MS)](https://jobright.ai/jobs/info/6893bb73a9199876488dfaf0?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Aug 06 |
 | ↳ | **[Software Engineer Intern (Recommendation Infrastructure) - 2026 Fall (BS/ MS)](https://jobright.ai/jobs/info/6893b880f47efe21139665ed?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 06 |
@@ -137,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[HD Supply](http://hdsupply.com)** | **[Summer 2026 Intern - Information Technology](https://jobright.ai/jobs/info/68929c724c7e851b90ad70ba?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Aug 05 |
 | **[Root Access](https://rootaccess.ai/)** | **[Internship -- Firmware Engineer Intern](https://jobright.ai/jobs/info/6893db1e4c7e851b90ae0cec?utm_campaign=1079&utm_source=git)** | New York City | On Site | Aug 05 |
 | **[Primer](https://www.primer.com/)** | **[Fall 2025 Engineering Intern](https://jobright.ai/jobs/info/68931e3d4c7e851b90adc4f7?utm_campaign=1079&utm_source=git)** | San Francisco | On Site | Aug 05 |
-| **[Genies](https://genies.com)** | **[Backend Engineer Intern (LLM) - 2025 Fall](https://jobright.ai/jobs/info/67fad56d71abbee297c542d1?utm_campaign=1079&utm_source=git)** | San Mateo, CA | On Site | Aug 05 |
 | **[Chicago Trading Company](http://www.chicagotrading.com/)** | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/6892d56b4c7e851b90ad921a?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Aug 05 |
 | **[Renesas Electronics](https://www.renesas.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6892787af5ee707a15dc5ee6?utm_campaign=1079&utm_source=git)** | Columbia, MD | On Site | Aug 05 |
 | **[Flatiron School](http://flatironschool.com)** | **[Apprentice, Software Engineer](https://jobright.ai/jobs/info/6892738f4c7e851b90ad5ea1?utm_campaign=1079&utm_source=git)** | Columbia, SC | Hybrid | Aug 05 |
