@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Meeedly](https://meeedly.com/)** | **[Software Engineering Intern - Global Summer Challenge - #35229](https://jobright.ai/jobs/info/68948eaa8c6d6b4426772676?utm_campaign=1079&utm_source=git)** | Santa Clara County, CA | On Site | Aug 07 |
+| **[Joinrs](http://www.tutored.me)** | **[[Full Remote] Junior Web Developer](https://jobright.ai/jobs/info/689067bdf5ee707a15db6a97?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 07 |
 | **[HABIT](https://habitrobotics.com)** | **[Software Engineer Intern (Fall 2025)](https://jobright.ai/jobs/info/6892feeaf47efe2113961f05?utm_campaign=1079&utm_source=git)** | El Segundo, CA | On Site | Aug 06 |
 | **[Talos](https://talos.com)** | **[Software Engineer Intern, Backend, Dealer](https://jobright.ai/jobs/info/68932723f5ee707a15dcc671?utm_campaign=1079&utm_source=git)** | New York, United States | On Site | Aug 06 |
 | **[Root Access](https://rootaccess.ai/)** | **[Internship -- Software Engineer Intern](https://jobright.ai/jobs/info/6893d9674c7e851b90ae0c2c?utm_campaign=1079&utm_source=git)** | New York City | On Site | Aug 06 |
@@ -103,8 +105,8 @@ For a complete list, click the following sortable link below:
 | **[Honeywell](http://www.honeywell.com)** | **[Co-Op - Masters Software Eng](https://jobright.ai/jobs/info/6880cacc16ea5743a3733244?utm_campaign=1079&utm_source=git)** | Mason, OH | Hybrid | Aug 06 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Revenue Accounting Technical](https://jobright.ai/jobs/info/68769852299cbc74b875e7ae?utm_campaign=1079&utm_source=git)** | Newtown Square, PA | Hybrid | Aug 06 |
 | **[Honeywell](http://www.honeywell.com)** | **[Co-Op Bachelors App Eng](https://jobright.ai/jobs/info/6876f4a1ae2f413e4a5b5469?utm_campaign=1079&utm_source=git)** | Mason, OH | Hybrid | Aug 06 |
-| **[ABB](https://global.abb/group/en)** | **[Application Software Internship](https://jobright.ai/jobs/info/688dca406a4aac5783cd76f2?utm_campaign=1079&utm_source=git)** | Location, WV | On Site | Aug 06 |
 | **[Primer](https://www.primer.com/)** | **[Fall 2025 Engineering Intern](https://jobright.ai/jobs/info/68934a014c7e851b90adcdbf?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Aug 06 |
+| **[ABB](https://global.abb/group/en)** | **[Application Software Internship](https://jobright.ai/jobs/info/688dc7b0e5cead4afd45ab2f?utm_campaign=1079&utm_source=git)** | Location, WV | On Site | Aug 06 |
 | **[IBM](http://www.ibm.com)** | **[Software Engineer Apprentice](https://jobright.ai/jobs/info/688c44f53a30793eb9641ab9?utm_campaign=1079&utm_source=git)** | Lowell, MA | On Site | Aug 06 |
 | **[Mermaid Mind](https://yttomermaid.xyz/)** | **[Beta Tester For Mermaid Mind(volunteer role)](https://jobright.ai/jobs/info/68932a614c7e851b90adc7bc?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 06 |
 | **[Figure](https://www.figure.ai)** | **[Firmware Engineer Intern (Fall 2025) New](https://jobright.ai/jobs/info/68930bf64c7e851b90adbeab?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Mobile Software Engineer Intern (TikTok-Privacy and Security-Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6891869af47efe2113956300?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Aug 04 |
 | ↳ | **[Backend Software Engineer Intern (TikTok-Privacy and Security-Data Lifecycle Management) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6891868e4c7e851b90acf7f8?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Aug 04 |
 | ↳ | **[Backend Software Engineer Intern (TikTok-PGC-AI Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6891868a4c7e851b90acf7f4?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 04 |
-| ↳ | **[Mobile Engineer Intern (TikTok-Growth-Customer Lifecycle) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689186404c7e851b90acf7c9?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 04 |
-| ↳ | **[Frontend Engineer Intern (TikTok-Search-Client) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689185c8f47efe211395628e?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
