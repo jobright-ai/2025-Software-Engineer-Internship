@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ramp](https://ramp.com)** | **[Software Engineer Internship / Android](https://jobright.ai/jobs/info/689538a58c6d6b4426778286?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Aug 07 |
+| **[ByteDance](http://bytedance.com)** | **[Software Engineer Intern (AI-Native Databases) - 2026 Summer (PhD)](https://jobright.ai/jobs/info/6895355d8c6d6b4426778100?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 07 |
+| **[Ramp](https://ramp.com)** | **[Software Engineer Internship / Android](https://jobright.ai/jobs/info/689530c873b3a600fe885a72?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Aug 07 |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Software Integration Engineer, AI Platforms (Winter/Spring 2026)](https://jobright.ai/jobs/info/689522514ed2ea559ca53b84?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Aug 07 |
 | **[COUNTRY Financial®](https://www.countryfinancial.com)** | **[Digital Lab Intern - Software Developer](https://jobright.ai/jobs/info/68951bf68c6d6b44267777b1?utm_campaign=1079&utm_source=git)** | DigitaLab University of Illinois | Hybrid | Aug 07 |
 | **[Signify](https://www.signify.com)** | **[Software Quality Engineer Intern - Fall 2025](https://jobright.ai/jobs/info/689510418c6d6b44267770aa?utm_campaign=1079&utm_source=git)** | Menlo Park | On Site | Aug 07 |
-| **[Blue Cross Blue Shield of Arizona](https://www.azblue.com)** | **[Intern - IT Application Development (Hybrid)](https://jobright.ai/jobs/info/6895101173b3a600fe884c12?utm_campaign=1079&utm_source=git)** | AZ Blue Phoenix, AZ 85021 | Hybrid | Aug 07 |
-| **[Signify](https://www.signify.com)** | **[Cloud Development Engineer Intern - Fall 2025](https://jobright.ai/jobs/info/68950fff4ed2ea559ca53186?utm_campaign=1079&utm_source=git)** | Menlo Park | On Site | Aug 07 |
+| ↳ | **[Cloud Development Engineer Intern - Fall 2025](https://jobright.ai/jobs/info/68950fff4ed2ea559ca53186?utm_campaign=1079&utm_source=git)** | Menlo Park | On Site | Aug 07 |
 | **[Manada Technology](http://manadatechnology.com)** | **[Front-End Development Intern](https://jobright.ai/jobs/info/68950ca58c6d6b4426776e0d?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 07 |
 | **[NYS Office of Information Technology Services](https://its.ny.gov/)** | **[Student Assistant Internship (Digital Experience), Ref# 8983](https://jobright.ai/jobs/info/68950c5073b3a600fe884a50?utm_campaign=1079&utm_source=git)** | Albany, NY | Hybrid | Aug 07 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[IT Software Developer Intern](https://jobright.ai/jobs/info/68950a7673b3a600fe884951?utm_campaign=1079&utm_source=git)** | Strongsville, OH | On Site | Aug 07 |
@@ -98,7 +101,9 @@ For a complete list, click the following sortable link below:
 | **[Palantir Technologies](http://www.palantir.com)** | **[Software Engineer, Internship](https://jobright.ai/jobs/info/686416f5a74dbdc4b5bb195b?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Aug 06 |
 | **[ByteDance](http://bytedance.com)** | **[Frontend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce Seller Business) - 2025 Start Fall (BS/MS)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8d0b?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 06 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Software Engineer Intern](https://jobright.ai/jobs/info/6893b298a9199876488df685?utm_campaign=1079&utm_source=git)** | San Mateo, CA | Hybrid | Aug 06 |
-| **[Ramp](https://ramp.com)** | **[Software Engineer Internship - iOS](https://jobright.ai/jobs/info/6894e6234ed2ea559ca5188f?utm_campaign=1079&utm_source=git)** | New York | On Site | Aug 06 |
+| **[Ramp](https://ramp.com)** | **[Software Engineer Internship / Android](https://jobright.ai/jobs/info/6895327f73b3a600fe885b03?utm_campaign=1079&utm_source=git)** | New York | On Site | Aug 06 |
+| ↳ | **[Software Engineer Internship - iOS](https://jobright.ai/jobs/info/6894e6234ed2ea559ca5188f?utm_campaign=1079&utm_source=git)** | New York | On Site | Aug 06 |
+| **[Notion](https://www.notion.so)** | **[Software Engineer, New Grad](https://jobright.ai/jobs/info/68952cf14ed2ea559ca53e29?utm_campaign=1079&utm_source=git)** | San Francisco, California | On Site | Aug 06 |
 | **[Auctor](https://www.getauctor.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6894b9824ed2ea559ca4fcba?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Aug 06 |
 | **[Nestlé Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[IT Management Development Associate](https://jobright.ai/jobs/info/6893e588f47efe2113967b24?utm_campaign=1079&utm_source=git)** | Davenport, IA | On Site | Aug 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Recommendation Infrastructure) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/6893bc4af47efe21139667c8?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 06 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Figure](https://www.figure.ai)** | **[Firmware Engineer Intern (Fall 2025)](https://jobright.ai/jobs/info/6892ade24c7e851b90ad782e?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 05 |
 | **[HD Supply](http://hdsupply.com)** | **[Summer 2026 Intern - Information Technology](https://jobright.ai/jobs/info/68929c724c7e851b90ad70ba?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Aug 05 |
 | **[Root Access](https://rootaccess.ai/)** | **[Internship -- Firmware Engineer Intern](https://jobright.ai/jobs/info/6893db1e4c7e851b90ae0cec?utm_campaign=1079&utm_source=git)** | New York City | On Site | Aug 05 |
-| **[Primer](https://www.primer.com/)** | **[Fall 2025 Engineering Intern](https://jobright.ai/jobs/info/68931e3d4c7e851b90adc4f7?utm_campaign=1079&utm_source=git)** | San Francisco | On Site | Aug 05 |
-| **[Chicago Trading Company](http://www.chicagotrading.com/)** | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/6892d56b4c7e851b90ad921a?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Aug 05 |
-| **[Renesas Electronics](https://www.renesas.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6892787af5ee707a15dc5ee6?utm_campaign=1079&utm_source=git)** | Columbia, MD | On Site | Aug 05 |
-| **[Flatiron School](http://flatironschool.com)** | **[Apprentice, Software Engineer](https://jobright.ai/jobs/info/6892738f4c7e851b90ad5ea1?utm_campaign=1079&utm_source=git)** | Columbia, SC | Hybrid | Aug 05 |
-| **[HD Supply](http://hdsupply.com)** | **[Summer 2026 Intern - Information Technology](https://jobright.ai/jobs/info/68925f40f47efe211395bcea?utm_campaign=1079&utm_source=git)** | Atlanta-GA-US | On Site | Aug 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
