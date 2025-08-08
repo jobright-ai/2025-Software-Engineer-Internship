@@ -124,8 +124,8 @@ For a complete list, click the following sortable link below:
 | **[Palantir Technologies](http://www.palantir.com)** | **[Software Engineer, Internship](https://jobright.ai/jobs/info/686416f5a74dbdc4b5bb195b?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Aug 06 |
 | **[ByteDance](http://bytedance.com)** | **[Frontend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce Seller Business) - 2025 Start Fall (BS/MS)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8d0b?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 06 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Software Engineer Intern](https://jobright.ai/jobs/info/6893b298a9199876488df685?utm_campaign=1079&utm_source=git)** | San Mateo, CA | Hybrid | Aug 06 |
-| **[Ramp](https://ramp.com)** | **[Software Engineer Internship / Android](https://jobright.ai/jobs/info/6895327f73b3a600fe885b03?utm_campaign=1079&utm_source=git)** | New York | On Site | Aug 06 |
-| ↳ | **[Software Engineer Internship - iOS](https://jobright.ai/jobs/info/6894e6234ed2ea559ca5188f?utm_campaign=1079&utm_source=git)** | New York | On Site | Aug 06 |
+| **[Ramp](https://ramp.com)** | **[Software Engineer Internship - iOS](https://jobright.ai/jobs/info/6894e6234ed2ea559ca5188f?utm_campaign=1079&utm_source=git)** | New York | On Site | Aug 06 |
+| ↳ | **[Software Engineer Internship / Android](https://jobright.ai/jobs/info/6895327f73b3a600fe885b03?utm_campaign=1079&utm_source=git)** | New York | On Site | Aug 06 |
 | **[Auctor](https://www.getauctor.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6894b9824ed2ea559ca4fcba?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Aug 06 |
 | **[Nestlé Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[IT Managment Development Associate](https://jobright.ai/jobs/info/6893e588f47efe2113967b24?utm_campaign=1079&utm_source=git)** | Davenport, IA | On Site | Aug 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Recommendation Infrastructure) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/6893bc4af47efe21139667c8?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 06 |
@@ -155,6 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Honeywell](http://www.honeywell.com)** | **[Co-Op - Masters Software Eng](https://jobright.ai/jobs/info/6880cacc16ea5743a3733244?utm_campaign=1079&utm_source=git)** | Mason, OH | Hybrid | Aug 06 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Revenue Accounting Technical](https://jobright.ai/jobs/info/68769852299cbc74b875e7ae?utm_campaign=1079&utm_source=git)** | Newtown Square, PA | Hybrid | Aug 06 |
 | **[Honeywell](http://www.honeywell.com)** | **[Co-Op Bachelors App Eng](https://jobright.ai/jobs/info/6876f4a1ae2f413e4a5b5469?utm_campaign=1079&utm_source=git)** | Mason, OH | Hybrid | Aug 06 |
+| **[ABB](https://global.abb/group/en)** | **[Application Software Internship](https://jobright.ai/jobs/info/688dca406a4aac5783cd76f2?utm_campaign=1079&utm_source=git)** | Location, WV | On Site | Aug 06 |
 | **[Primer](https://www.primer.com/)** | **[Fall 2025 Engineering Intern](https://jobright.ai/jobs/info/68934a014c7e851b90adcdbf?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Aug 06 |
-| **[ABB](https://global.abb/group/en)** | **[Application Software Internship](https://jobright.ai/jobs/info/688dc7b0e5cead4afd45ab2f?utm_campaign=1079&utm_source=git)** | Location, WV | On Site | Aug 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
