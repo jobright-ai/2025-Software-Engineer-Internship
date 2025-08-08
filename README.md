@@ -57,21 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kennesaw State University](http://www.kennesaw.edu)** | **[Information Technology Apprenticeship, Software Engineering](https://jobright.ai/jobs/info/68955aa64ed2ea559ca55373?utm_campaign=1079&utm_source=git)** | Kennesaw, GA | On Site | Aug 07 |
+| **[Westgate Resorts](https://www.westgateresorts.com/)** | **[IT Quality Assurance Intern](https://jobright.ai/jobs/info/689559648c6d6b442677920d?utm_campaign=1079&utm_source=git)** | Ocoee, FL | On Site | Aug 07 |
 | **[Signify](https://www.signify.com)** | **[Cloud Development Engineer Intern - Fall 2025](https://jobright.ai/jobs/info/689556e373b3a600fe886beb?utm_campaign=1079&utm_source=git)** | Menlo Park, CA | On Site | Aug 07 |
 | **[RTX](http://www.raytheon.com)** | **[2026 Return Intern - Raytheon Software Engineer Intern (On-site)](https://jobright.ai/jobs/info/6895558673b3a600fe886b07?utm_campaign=1079&utm_source=git)** | VA541: 22110 Pacific Blvd, Dulles 22110 Pacific Boulevard Building CC3, Sterling, VA, 20166-6913 USA | On Site | Aug 07 |
 | **[Accenture](https://www.accenture.com)** | **[Bronx PeopleShore - Technology Packaged Application Development Associate – New York – NAELFY26](https://jobright.ai/jobs/info/689554404ed2ea559ca55048?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Aug 07 |
 | **[Signify](https://www.signify.com)** | **[Software Quality Engineer Intern - Fall 2025](https://jobright.ai/jobs/info/689554154ed2ea559ca5502b?utm_campaign=1079&utm_source=git)** | Menlo Park, CA | On Site | Aug 07 |
-| **[Genies](https://genies.com)** | **[Backend Engineer Intern (LLM) - 2025 Fall](https://jobright.ai/jobs/info/689553594ed2ea559ca54f7b?utm_campaign=1079&utm_source=git)** | San Mateo, CA | On Site | Aug 07 |
 | **[Nicolet National Bank](http://nicoletbank.com)** | **[Software Developer Intern - Summer 2026](https://jobright.ai/jobs/info/68954d8073b3a600fe88686d?utm_campaign=1079&utm_source=git)** | Green Bay, WI | On Site | Aug 07 |
 | **[Spacebourne](https://www.spacebourne.com)** | **[Hybrid Remote Software Engineer Intern for Aerospace Company](https://jobright.ai/jobs/info/68954d608c6d6b4426778cea?utm_campaign=1079&utm_source=git)** | Fremont, CA | Hybrid | Aug 07 |
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[Dell ISG Software Engineering Intern](https://jobright.ai/jobs/info/68954cab73b3a600fe8867fb?utm_campaign=1079&utm_source=git)** | Round Rock, Texas, United States | On Site | Aug 07 |
-| **[Blue Cross Blue Shield of Arizona](https://www.azblue.com)** | **[Intern - IT Application Development (Hybrid)](https://jobright.ai/jobs/info/68954c604ed2ea559ca54d39?utm_campaign=1079&utm_source=git)** | Phoenix, AZ | Hybrid | Aug 07 |
-| **[Dell Technologies](https://www.delltechnologies.com)** | **[Dell ISG Software Engineering Intern](https://jobright.ai/jobs/info/68954aaa4ed2ea559ca54b32?utm_campaign=1079&utm_source=git)** | Hopkinton, Massachusetts, United States | On Site | Aug 07 |
+| ↳ | **[Dell ISG Software Engineering Intern](https://jobright.ai/jobs/info/68954aaa4ed2ea559ca54b32?utm_campaign=1079&utm_source=git)** | Hopkinton, Massachusetts, United States | On Site | Aug 07 |
 | **[OSC Edge](https://oscedge.com)** | **[Intern](https://jobright.ai/jobs/info/68954a5e8c6d6b44267789dd?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Remote | Aug 07 |
 | **[General Mills](http://www.generalmills.com)** | **[Internship - Digital & Technology Associate](https://jobright.ai/jobs/info/68954a288c6d6b4426778989?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 07 |
 | **[Dune Security](https://try.dunesecurity.solutions/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6895470a73b3a600fe886310?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 07 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Technology & Engineer Fellow, IT Transportation Products](https://jobright.ai/jobs/info/6895446e8c6d6b4426778745?utm_campaign=1079&utm_source=git)** | Jamaica, NY | On Site | Aug 07 |
-| ↳ | **[Technology & Engineer Fellow, Agile & App Development](https://jobright.ai/jobs/info/689543b173b3a600fe8861e5?utm_campaign=1079&utm_source=git)** | Jamaica, NY | On Site | Aug 07 |
+| ↳ | **[Technology & Engineer Fellow, Agile & App Development](https://jobright.ai/jobs/info/6895435e8c6d6b44267786c1?utm_campaign=1079&utm_source=git)** | Jamaica, NY | On Site | Aug 07 |
+| **[Blue Cross Blue Shield of Arizona](https://www.azblue.com)** | **[Intern - IT Application Development (Hybrid)](https://jobright.ai/jobs/info/68956f094ed2ea559ca55d81?utm_campaign=1079&utm_source=git)** | Phoenix, AZ | Hybrid | Aug 07 |
 | **[Ramp](https://ramp.com)** | **[Software Engineer Internship / Android](https://jobright.ai/jobs/info/689538a58c6d6b4426778286?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Aug 07 |
 | **[ByteDance](http://bytedance.com)** | **[Software Engineer Intern (AI-Native Databases) - 2026 Summer (PhD)](https://jobright.ai/jobs/info/6895355d8c6d6b4426778100?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 07 |
 | **[Ramp](https://ramp.com)** | **[Software Engineer Internship / Android](https://jobright.ai/jobs/info/689530c873b3a600fe885a72?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Aug 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Talos](https://talos.com)** | **[Software Engineer Intern, Backend, Dealer](https://jobright.ai/jobs/info/689096d24c7e851b90ac79ea?utm_campaign=1079&utm_source=git)** | New York | On Site | Aug 06 |
 | **[Business Web Solutions (USA)](https://businesswebsolutions.us/)** | **[Full Stack Developer Intern](https://jobright.ai/jobs/info/6892fd28f5ee707a15dcb416?utm_campaign=1079&utm_source=git)** | Seattle, Washington, United States | Remote | Aug 05 |
 | ↳ | **[Full Stack Developer Intern](https://jobright.ai/jobs/info/6892fd17f5ee707a15dcb3dd?utm_campaign=1079&utm_source=git)** | San Diego, California, United States | Remote | Aug 05 |
-| **[Freelancerprox](https://www.freelancerprox.com/)** | **[Software Developer - Intern](https://jobright.ai/jobs/info/6892fc90f5ee707a15dcb1ff?utm_campaign=1079&utm_source=git)** | Union City, California, United States | On Site | Aug 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
