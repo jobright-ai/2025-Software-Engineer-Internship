@@ -122,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[Dune Security](https://try.dunesecurity.solutions/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6895470a73b3a600fe886310?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 07 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Technology & Engineer Fellow, IT Transportation Products](https://jobright.ai/jobs/info/6895446e8c6d6b4426778745?utm_campaign=1079&utm_source=git)** | Jamaica, NY | On Site | Aug 07 |
 | ↳ | **[Technology & Engineer Fellow, Agile & App Development](https://jobright.ai/jobs/info/68953ecf73b3a600fe885fb0?utm_campaign=1079&utm_source=git)** | Jamaica, NY | On Site | Aug 07 |
-| **[Notion](https://www.notion.so)** | **[Software Engineer, Mobile Intern (Winter 2026)](https://jobright.ai/jobs/info/689661e773b3a600fe88f066?utm_campaign=1079&utm_source=git)** | San Francisco, California | On Site | Aug 07 |
-| ↳ | **[Software Engineer, Mobile Intern (Summer 2026)](https://jobright.ai/jobs/info/689668f173b3a600fe88f410?utm_campaign=1079&utm_source=git)** | San Francisco, California | On Site | Aug 07 |
+| **[Notion](https://www.notion.so)** | **[Software Engineer, Mobile Intern (Summer 2026)](https://jobright.ai/jobs/info/689668f173b3a600fe88f410?utm_campaign=1079&utm_source=git)** | San Francisco, California | On Site | Aug 07 |
+| ↳ | **[Software Engineer, Mobile Intern (Winter 2026)](https://jobright.ai/jobs/info/689661e773b3a600fe88f066?utm_campaign=1079&utm_source=git)** | San Francisco, California | On Site | Aug 07 |
 | ↳ | **[Software Engineer Intern (Winter 2026)](https://jobright.ai/jobs/info/68966b0f8c6d6b44267819e2?utm_campaign=1079&utm_source=git)** | San Francisco, California | On Site | Aug 07 |
 | ↳ | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/689667131b9e81727f190997?utm_campaign=1079&utm_source=git)** | San Francisco, California | On Site | Aug 07 |
 | **[Ramp](https://ramp.com)** | **[Software Engineer Internship / Android](https://jobright.ai/jobs/info/689538a58c6d6b4426778286?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Aug 07 |
