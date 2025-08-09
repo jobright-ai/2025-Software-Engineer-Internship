@@ -58,5 +58,13 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Notion](https://www.notion.so)** | **[Software Engineer, Mobile Intern (Summer 2026)](https://jobright.ai/jobs/info/6896a4bb8c6d6b44267840d1?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Aug 08 |
+| **[Amazon](https://amazon.com)** | **[Jr. Software Development Engineer- San Luis Obispo](https://jobright.ai/jobs/info/67423c72b23418b7466b49de?utm_campaign=1079&utm_source=git)** | San Luis Obispo, CA | On Site | Aug 05 |
+| **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Software Development Engineer Apprentice, AWS Opportunity for Veterans](https://jobright.ai/jobs/info/6747b769e16edda5b4b154e3?utm_campaign=1079&utm_source=git)** | New York, United States | On Site | Jul 30 |
+| **[Sandhills Global](https://www.sandhills.com/)** | **[Software Development Intern](https://jobright.ai/jobs/info/66c67e6289d6136c4923e966?utm_campaign=1079&utm_source=git)** | Scottsdale, AZ | On Site | Jul 29 |
+| **[Sandhills Global](https://www.sandhills.com/)** | **[Software Development Intern](https://jobright.ai/jobs/info/66ca0a763673251f8b24f33d?utm_campaign=1079&utm_source=git)** | Lincoln, NE | On Site | Jul 27 |
 | **[Radix Trading LLC](https://radix.trade)** | **[Quantitative Technologist (C++ Intern - Summer 2026)](https://jobright.ai/jobs/info/6896a3fe1b9e81727f192e28?utm_campaign=1079&utm_source=git)** | Chicago | On Site | Jul 25 |
+| **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Software Development Engineer Apprentice, AWS Opportunity for Veterans](https://jobright.ai/jobs/info/6746f5b32470b36d5a693f24?utm_campaign=1079&utm_source=git)** | Cupertino, CA | On Site | Jul 19 |
+| **[Databricks](https://www.databricks.com)** | **[Senior Software Engineer - Database Engine Internals](https://jobright.ai/jobs/info/668a7835dfbe564b9b904c6a?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Jul 19 |
+| **[Neuralink](https://www.neuralink.com)** | **[Software Engineer Intern, Infrastructure](https://jobright.ai/jobs/info/67064ff4951d5bd907271090?utm_campaign=1079&utm_source=git)** | Fremont, California, United States | On Site | Jul 18 |
+| **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Software Development Engineer Apprentice, AWS Opportunity for Veterans](https://jobright.ai/jobs/info/6746f5b32470b36d5a693f19?utm_campaign=1079&utm_source=git)** | Bellevue, WA | On Site | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
