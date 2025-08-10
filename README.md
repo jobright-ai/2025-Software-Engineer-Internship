@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[AmericanIIR](americaniir.org)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68989e54faa4e875e82504ad?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 10 |
 | **[Harmonic](https://www.harmonic.ai)** | **[Software Engineer Intern (Summer '26)](https://jobright.ai/jobs/info/68891f9209808a6103e4528d?utm_campaign=1079&utm_source=git)** | New York City | On Site | Aug 10 |
 | **[Hermeus](http://www.hermeus.com)** | **[Software Engineer Intern (HMI) - Fall 2025](https://jobright.ai/jobs/info/6880cc7729ad6b2744adc315?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Aug 10 |
 | **[Orrick, Herrington & Sutcliffe LLP](https://www.orrick.com)** | **[IT Intern - Web Team](https://jobright.ai/jobs/info/685ef60369775480953a0c13?utm_campaign=1079&utm_source=git)** | Wheeling, WV | Hybrid | Aug 10 |
+| **[ABB](https://global.abb/group/en)** | **[Duales Studium Informatik - Informationstechnik (m/w/d) 2026](https://jobright.ai/jobs/info/688dc6b16a4aac5783cd7583?utm_campaign=1079&utm_source=git)** | Location, WV | On Site | Aug 09 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, IT - Transformation and International Tech - ATL (Summer 2026)](https://jobright.ai/jobs/info/6897efa01b9e81727f1a33d0?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Hybrid | Aug 09 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Software Engineer Intern (Talent Pool) at SPS Commerce](https://jobright.ai/jobs/info/6897ef691b9e81727f1a33bd?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 09 |
 | **[Kodiak Area Native Association](https://kodiakhealthcare.org)** | **[Fall 2025 Onboard Infrastructure Engineer](https://jobright.ai/jobs/info/6897e8ea73b3a600fe8a144e?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Aug 09 |
@@ -89,7 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Western Governors University](http://www.wgu.edu/)** | **[Associate Software Engineer Intern](https://jobright.ai/jobs/info/68984a49faa4e875e824d28e?utm_campaign=1079&utm_source=git)** | SLC Metro Area | On Site | Aug 08 |
 | **[Notion](https://www.notion.so)** | **[Software Engineer, Mobile Intern (Summer 2026)](https://jobright.ai/jobs/info/6896a4bb8c6d6b44267840d1?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Aug 08 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Information Technology (Summer 2026)](https://jobright.ai/jobs/info/689857e6faa4e875e824ea78?utm_campaign=1079&utm_source=git)** | Findlay, OH | On Site | Aug 08 |
-| **[GlobalFoundries](https://gf.com/)** | **[3D Advanced Heterogeneous Integration Development Intern (Summer 2026)](https://jobright.ai/jobs/info/68985a6583d13d1f5b68efaa?utm_campaign=1079&utm_source=git)** | Malta, NY | On Site | Aug 08 |
+| **[GlobalFoundries](https://gf.com/)** | **[3D Advanced Heterogeneous Integration Development Intern (Summer 2026)](https://jobright.ai/jobs/info/689840a583d13d1f5b68cdd7?utm_campaign=1079&utm_source=git)** | Malta, NY | On Site | Aug 08 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Information Technology (Summer 2026)](https://jobright.ai/jobs/info/6897523173b3a600fe896db0?utm_campaign=1079&utm_source=git)** | San Antonio, TX | On Site | Aug 08 |
 | **[Westgate Resorts](https://www.westgateresorts.com/)** | **[IT Quality Assurance Intern](https://jobright.ai/jobs/info/68982f7c83d13d1f5b68b34a?utm_campaign=1079&utm_source=git)** | Ocoee, FL | On Site | Aug 08 |
 | **[ServiceTitan](http://www.servicetitan.com)** | **[Intern](https://jobright.ai/jobs/info/68982ce9faa4e875e824af40?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 08 |
@@ -111,7 +111,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Research Intern (Infrastructure System Lab)- 2026 Start (PHD)](https://jobright.ai/jobs/info/68982f6afaa4e875e824b334?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Aug 08 |
 | **[Cintas](https://www.cintas.com)** | **[Intern - Fire](https://jobright.ai/jobs/info/689850d85574fd6bc0c78039?utm_campaign=1079&utm_source=git)** | Lombard, IL | On Site | Aug 08 |
 | **[Belvedere Trading, LLC](http://belvederetrading.com)** | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/6897b1458c6d6b4426790a05?utm_campaign=1079&utm_source=git)** | Chicago, Illinois | On Site | Aug 08 |
-| **[SANMINA-SCI TECHNOLOGY INDIA PRIVATE LIMITED](http://www.sanmina.com)** | **[Test Engineering CoOp (Summer 2025)](https://jobright.ai/jobs/info/68983cce83d13d1f5b68c835?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Aug 08 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Charging Distributed Systems Software Engineer, Energy Engineering (Winter/Spring 2026)](https://jobright.ai/jobs/info/689849ad83d13d1f5b68d10c?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Aug 08 |
 | **[Systems, LLC - Poweramp | DLM](https://loadingdocksystems.com)** | **[Software Engineer 1, Middleware (Intern Conversion)](https://jobright.ai/jobs/info/6897b0e973b3a600fe89e131?utm_campaign=1079&utm_source=git)** | Oak Brook, IL | On Site | Aug 08 |
 | **[Databricks](https://www.databricks.com)** | **[Software Engineering Intern (2026)](https://jobright.ai/jobs/info/689738aa8c6d6b44267876a3?utm_campaign=1079&utm_source=git)** | Bellevue, Washington | On Site | Aug 08 |
@@ -128,9 +127,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Analytics & Behavior Change – Engineering FT Position (Undergraduate - Current Interns Only)](https://jobright.ai/jobs/info/6897a9891b9e81727f19ef56?utm_campaign=1079&utm_source=git)** | NY - New York | Hybrid | Aug 08 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, IT - Software Engineering - ATL (Spring 2026)](https://jobright.ai/jobs/info/68984afffaa4e875e824d3b8?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Hybrid | Aug 08 |
 | **[Chamberlain Group](http://www.chamberlaingroup.com)** | **[Implementation Specialist (Intern Conversion)](https://jobright.ai/jobs/info/68985a4f5574fd6bc0c78c14?utm_campaign=1079&utm_source=git)** | Oak Brook, IL | On Site | Aug 08 |
-| **[Delta Air Lines](https://www.delta.com/)** | **[Intern, IT Enterprise Technology (RAISE) - ATL (Summer 2026)](https://jobright.ai/jobs/info/68975f1a8c6d6b442678a61e?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Hybrid | Aug 08 |
+| **[Delta Air Lines](https://www.delta.com/)** | **[Intern, IT - Software Engineering - ATL (Summer 2026)](https://jobright.ai/jobs/info/68985d6efaa4e875e824f494?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Hybrid | Aug 08 |
+| ↳ | **[Intern, IT Enterprise Technology (RAISE) - ATL (Summer 2026)](https://jobright.ai/jobs/info/68975f1a8c6d6b442678a61e?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Hybrid | Aug 08 |
 | ↳ | **[Intern, IT - Software Engineering - MSP (Summer 2026)](https://jobright.ai/jobs/info/68986332faa4e875e824fa3d?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | Hybrid | Aug 08 |
-| ↳ | **[Intern, IT - Software Engineering - ATL (Summer 2026)](https://jobright.ai/jobs/info/68985d6efaa4e875e824f494?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Hybrid | Aug 08 |
 | ↳ | **[Intern, IT Enterprise Technology (RAISE) - MSP (Summer 2026)](https://jobright.ai/jobs/info/68973e2173b3a600fe895649?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | Hybrid | Aug 08 |
 | ↳ | **[Co-op, IT - Software Engineering - MSP (Spring 2026)](https://jobright.ai/jobs/info/689859e35574fd6bc0c78b56?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | Hybrid | Aug 08 |
 | **[WineFetch](http://retailer.winefetch.com)** | **[QA & Documentation Intern](https://jobright.ai/jobs/info/6897adff8c6d6b44267903c6?utm_campaign=1079&utm_source=git)** | Remote - CAN | Remote | Aug 08 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[General Mills](http://www.generalmills.com)** | **[Internship - Digital & Technology Associate](https://jobright.ai/jobs/info/68954a288c6d6b4426778989?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 07 |
 | **[Dune Security](https://try.dunesecurity.solutions/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6895470a73b3a600fe886310?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 07 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Technology & Engineer Fellow, IT Transportation Products](https://jobright.ai/jobs/info/6895446e8c6d6b4426778745?utm_campaign=1079&utm_source=git)** | Jamaica, NY | On Site | Aug 07 |
+| **[Booth & Associates](https://www.booth-assoc.com/)** | **[IT Internship – Workflow Automation & Digital Solutions (Power Platform)](https://jobright.ai/jobs/info/6877e8325cebcd1dd51d5fca?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
