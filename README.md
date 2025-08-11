@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Todd](toddagriscience.com)** | **[Winter Backend Software Developer Intern](https://jobright.ai/jobs/info/689a1263faa4e875e8255a32?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Aug 11 |
+| **[Medrock Pharmacy](http://www.medrockpharmacy.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6899fdd5faa4e875e8255014?utm_campaign=1079&utm_source=git)** | Chattanooga, TN | On Site | Aug 11 |
 | **[Capital One](http://www.capitalone.com)** | **[Former Discover Intern, Technology Development Program Associate - February 2026](https://jobright.ai/jobs/info/6899f2e583d13d1f5b69520c?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Technology Development Program Associate - February 2026](https://jobright.ai/jobs/info/6899f2c883d13d1f5b6951cc?utm_campaign=1079&utm_source=git)** | Richmond, VA | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Technology Development Program Associate - August 2026](https://jobright.ai/jobs/info/6899f2c283d13d1f5b6951bf?utm_campaign=1079&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
@@ -65,6 +67,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Former Discover Intern, Technology Development Program Associate - August 2026](https://jobright.ai/jobs/info/6899f0bcfaa4e875e8254e31?utm_campaign=1079&utm_source=git)** | Plano, TX | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Technology Development Program Associate - February 2026](https://jobright.ai/jobs/info/6899f0465574fd6bc0c7eaff?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Technology Development Program Associate - August 2026](https://jobright.ai/jobs/info/6899f02d5574fd6bc0c7eaeb?utm_campaign=1079&utm_source=git)** | Richmond, VA | Hybrid | Aug 11 |
+| **[BetterHelp](https://www.betterhelp.com)** | **[Full Stack Software Engineer, Internal Tools](https://jobright.ai/jobs/info/6826743d35e01abbfe174b05?utm_campaign=1079&utm_source=git)** | Mountain View, CA | Hybrid | Aug 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Monetization Technology - Ads Creative AI) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68999f48faa4e875e8253c53?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 11 |
 | **[RRS Group & Co](www.myrrsinc.org)** | **[REF159V - 2026 RRS Code Catalyst Program - SWE](https://jobright.ai/jobs/info/68999e4783d13d1f5b694056?utm_campaign=1079&utm_source=git)** | Houston, TX | Remote | Aug 11 |
 | **[Conexant](http://www.conexant.com/)** | **[Part Time Student - Supply Chain/Software Development - Des Moines, IA or Waterloo, IA](https://jobright.ai/jobs/info/689994825574fd6bc0c7d441?utm_campaign=1079&utm_source=git)** | Grimes, IA | Hybrid | Aug 10 |
@@ -99,7 +102,7 @@ For a complete list, click the following sortable link below:
 | **[Frontgrade Technologies](https://frontgrade.com)** | **[Embedded Software Engineering Co-Op Student](https://jobright.ai/jobs/info/688bc8f11808534a89cb61cd?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Aug 09 |
 | **[PENTAX Medical](https://www.pentaxmedical.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68908bf14c7e851b90ac70f6?utm_campaign=1079&utm_source=git)** | Montvale, NJ | On Site | Aug 09 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Software Development Engineer Apprentice, AWS Opportunity for Veterans](https://jobright.ai/jobs/info/67dbccf2b274065a06ae820b?utm_campaign=1079&utm_source=git)** | Arlington, VA | On Site | Aug 09 |
-| **[ABB](https://global.abb/group/en)** | **[Application Software Internship](https://jobright.ai/jobs/info/688dca406a4aac5783cd76f2?utm_campaign=1079&utm_source=git)** | Location, WV | On Site | Aug 09 |
+| **[ABB](https://global.abb/group/en)** | **[Application Software Internship](https://jobright.ai/jobs/info/688dc7b0e5cead4afd45ab2f?utm_campaign=1079&utm_source=git)** | Location, WV | On Site | Aug 09 |
 | **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[QA Engineering Intern](https://jobright.ai/jobs/info/687afd8eed63844c944a63f9?utm_campaign=1079&utm_source=git)** | Alberta, AL | On Site | Aug 09 |
 | **[Brex](https://brex.com)** | **[Software Engineer, Intern](https://jobright.ai/jobs/info/68253c7360c3bcb6ba73e084?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Aug 09 |
 | **[Penn State University](http://psu.edu)** | **[Student Programmer – Web Development & Open Source Projects (HAX)](https://jobright.ai/jobs/info/6897e3881b9e81727f1a2813?utm_campaign=1079&utm_source=git)** | University Park, PA | On Site | Aug 09 |
@@ -121,7 +124,7 @@ For a complete list, click the following sortable link below:
 | **[Western Governors University](http://www.wgu.edu/)** | **[Associate Software Engineer Intern](https://jobright.ai/jobs/info/68984a49faa4e875e824d28e?utm_campaign=1079&utm_source=git)** | SLC Metro Area | On Site | Aug 08 |
 | **[Notion](https://www.notion.so)** | **[Software Engineer, Mobile Intern (Summer 2026)](https://jobright.ai/jobs/info/6896a4bb8c6d6b44267840d1?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Aug 08 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Information Technology (Summer 2026)](https://jobright.ai/jobs/info/689857e6faa4e875e824ea78?utm_campaign=1079&utm_source=git)** | Findlay, OH | On Site | Aug 08 |
-| **[GlobalFoundries](https://gf.com/)** | **[3D Advanced Heterogeneous Integration Development Intern (Summer 2026)](https://jobright.ai/jobs/info/689840a583d13d1f5b68cdd7?utm_campaign=1079&utm_source=git)** | Malta, NY | On Site | Aug 08 |
+| **[GlobalFoundries](https://gf.com/)** | **[3D Advanced Heterogeneous Integration Development Intern (Summer 2026)](https://jobright.ai/jobs/info/68985a6583d13d1f5b68efaa?utm_campaign=1079&utm_source=git)** | Malta, NY | On Site | Aug 08 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Information Technology (Summer 2026)](https://jobright.ai/jobs/info/6897523173b3a600fe896db0?utm_campaign=1079&utm_source=git)** | San Antonio, TX | On Site | Aug 08 |
 | **[Westgate Resorts](https://www.westgateresorts.com/)** | **[IT Quality Assurance Intern](https://jobright.ai/jobs/info/68982f7c83d13d1f5b68b34a?utm_campaign=1079&utm_source=git)** | Ocoee, FL | On Site | Aug 08 |
 | **[ServiceTitan](http://www.servicetitan.com)** | **[Intern](https://jobright.ai/jobs/info/68982ce9faa4e875e824af40?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Penn State University](http://psu.edu)** | **[Student Programmer – Web Development & Open Source Projects (HAX)](https://jobright.ai/jobs/info/68984bbbfaa4e875e824d501?utm_campaign=1079&utm_source=git)** | University Park, PA | On Site | Aug 08 |
 | **[Resource Innovations ](https://www.resource-innovations.com/)** | **[Application Software Engineer - Intern](https://jobright.ai/jobs/info/68796816ed63844c9449b623?utm_campaign=1079&utm_source=git)** | Chandler, AZ | Hybrid | Aug 08 |
 | **[Penn State Department of Materials Science and Engineering](https://www.matse.psu.edu/)** | **[Student Programmer – Web Development & Open Source Projects (HAX)](https://jobright.ai/jobs/info/6897b0ec8c6d6b4426790971?utm_campaign=1079&utm_source=git)** | Penn State University Park | On Site | Aug 08 |
-| **[Harris Computer](http://www.harriscomputer.com)** | **[Software Developer, Co-op/Intern](https://jobright.ai/jobs/info/6897a9628c6d6b442678fc6c?utm_campaign=1079&utm_source=git)** | Remote - New Brunswick - 37.5 | Remote | Aug 08 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Analytics & Behavior Change – Engineering FT Position (Graduate - Current Interns Only)](https://jobright.ai/jobs/info/6897a8028c6d6b442678faa8?utm_campaign=1079&utm_source=git)** | NY - New York | Hybrid | Aug 08 |
-| ↳ | **[Analytics & Behavior Change – Engineering FT Position (Undergraduate - Current Interns Only)](https://jobright.ai/jobs/info/6897a9891b9e81727f19ef56?utm_campaign=1079&utm_source=git)** | NY - New York | Hybrid | Aug 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
