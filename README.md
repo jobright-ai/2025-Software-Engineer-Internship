@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Todd](toddagriscience.com)** | **[Winter Backend Software Developer Intern](https://jobright.ai/jobs/info/689a48e85574fd6bc0c81686?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Aug 11 |
+| **[King](https://www.king.com/)** | **[Graphics Engineering Intern](https://jobright.ai/jobs/info/689a47c25574fd6bc0c81468?utm_campaign=1079&utm_source=git)** | Irvine - Blizzard - Blizzard Way | On Site | Aug 11 |
+| **[Waymo](https://waymo.com)** | **[Software Engineer, Planner Vehicle Dynamics](https://jobright.ai/jobs/info/689a4248faa4e875e8257226?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Aug 11 |
+| **[Nokia](http://www.nokia.com)** | **[Database Software Developer Co-op](https://jobright.ai/jobs/info/689a42095574fd6bc0c810ac?utm_campaign=1079&utm_source=git)** | 520 Almanor Avenue, Sunnyvale, California, 94085, US | Remote | Aug 11 |
+| **[KBR Careers](https://careers.kbr.com/)** | **[Software/Firmware Development Intern](https://jobright.ai/jobs/info/689a413883d13d1f5b697479?utm_campaign=1079&utm_source=git)** | Moffett Field, California | Hybrid | Aug 11 |
+| **[Anduril Industries](https://www.anduril.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/689a3fb083d13d1f5b69729c?utm_campaign=1079&utm_source=git)** | Atlanta, Georgia, United States | On Site | Aug 11 |
+| **[Royal Caribbean Group](https://www.royalcaribbeangroup.com)** | **[2026 Summer Internship / Information Technology](https://jobright.ai/jobs/info/689a3cdc5574fd6bc0c80c0c?utm_campaign=1079&utm_source=git)** | Miami, FL | Hybrid | Aug 11 |
 | **[Textron](http://textron.com)** | **[Fall Co-Op - Quality Assurance Engineer (Data Analytics)](https://jobright.ai/jobs/info/689a2197faa4e875e82560ed?utm_campaign=1079&utm_source=git)** | US-Kansas-Wichita | On Site | Aug 11 |
 | **[Waymo](https://waymo.com)** | **[Software Engineer, Planner Vehicle Dynamics](https://jobright.ai/jobs/info/689a1f9483d13d1f5b6963f0?utm_campaign=1079&utm_source=git)** | Mountain View, California | On Site | Aug 11 |
 | **[Oracle](https://www.oracle.com/)** | **[Advanced Degree Software Engineer - Full-time Intern Conversion](https://jobright.ai/jobs/info/689a1f5d5574fd6bc0c7fdbc?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 11 |
@@ -111,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[PENTAX Medical](https://www.pentaxmedical.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68908bf14c7e851b90ac70f6?utm_campaign=1079&utm_source=git)** | Montvale, NJ | On Site | Aug 09 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Software Development Engineer Apprentice, AWS Opportunity for Veterans](https://jobright.ai/jobs/info/67dbccf2b274065a06ae820b?utm_campaign=1079&utm_source=git)** | Arlington, VA | On Site | Aug 09 |
 | **[ABB](https://global.abb/group/en)** | **[Application Software Internship](https://jobright.ai/jobs/info/688dc7b0e5cead4afd45ab2f?utm_campaign=1079&utm_source=git)** | Location, WV | On Site | Aug 09 |
-| **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[QA Engineering Intern](https://jobright.ai/jobs/info/687afd8eed63844c944a63f9?utm_campaign=1079&utm_source=git)** | Alberta, AL | On Site | Aug 09 |
 | **[Brex](https://brex.com)** | **[Software Engineer, Intern](https://jobright.ai/jobs/info/68253c7360c3bcb6ba73e084?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Aug 09 |
 | **[Penn State University](http://psu.edu)** | **[Student Programmer – Web Development & Open Source Projects (HAX)](https://jobright.ai/jobs/info/6897e3881b9e81727f1a2813?utm_campaign=1079&utm_source=git)** | University Park, PA | On Site | Aug 09 |
 | **[MathWorks](http://www.mathworks.com)** | **[Multiple Openings-Engineering Development Group Internship](https://jobright.ai/jobs/info/671a69ea75c42966c795fe8d?utm_campaign=1079&utm_source=git)** | Natick, MA | Hybrid | Aug 09 |
@@ -143,18 +149,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer Intern (Winter 2026)](https://jobright.ai/jobs/info/689760bc8c6d6b442678a886?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Aug 08 |
 | ↳ | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/689845f2faa4e875e824caeb?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Aug 08 |
 | ↳ | **[Software Engineer, Mobile Intern (Winter 2026)](https://jobright.ai/jobs/info/6898309f5574fd6bc0c75135?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Aug 08 |
-| **[Databricks](https://www.databricks.com)** | **[Software Engineering Intern (2026)](https://jobright.ai/jobs/info/68985b2383d13d1f5b68f108?utm_campaign=1079&utm_source=git)** | Bellevue, WA | On Site | Aug 08 |
-| ↳ | **[Software Engineering Intern (2026)](https://jobright.ai/jobs/info/68984556faa4e875e824c9f0?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Aug 08 |
+| **[Databricks](https://www.databricks.com)** | **[Software Engineering Intern (2026)](https://jobright.ai/jobs/info/68984556faa4e875e824c9f0?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Aug 08 |
+| ↳ | **[Software Engineering Intern (2026)](https://jobright.ai/jobs/info/68985b2383d13d1f5b68f108?utm_campaign=1079&utm_source=git)** | Bellevue, WA | On Site | Aug 08 |
 | ↳ | **[Software Engineering Intern (2026)](https://jobright.ai/jobs/info/68983789faa4e875e824bfe2?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Aug 08 |
 | **[1X](https://www.1x.tech)** | **[IT, Cybersecurity & Infrastructure Intern / Junior Software Engineer](https://jobright.ai/jobs/info/6897b0ae73b3a600fe89e085?utm_campaign=1079&utm_source=git)** | Palo Alto, California, United States | On Site | Aug 08 |
 | **[Belvedere Trading, LLC](http://belvederetrading.com)** | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/689753101b9e81727f1985b0?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Aug 08 |
 | **[Chamberlain Group](http://www.chamberlaingroup.com)** | **[Software Engineer 1, Front End (Intern Conversion)](https://jobright.ai/jobs/info/68984af883d13d1f5b68d332?utm_campaign=1079&utm_source=git)** | Oak Brook, IL | On Site | Aug 08 |
-| ↳ | **[Software Engineer 1, Middleware (Intern Conversion)](https://jobright.ai/jobs/info/68974ef673b3a600fe896a0a?utm_campaign=1079&utm_source=git)** | Oak Brook, IL | On Site | Aug 08 |
 | **[ByteDance](http://bytedance.com)** | **[Research Intern (Infrastructure System Lab)- 2026 Start (PHD)](https://jobright.ai/jobs/info/68984c5583d13d1f5b68d633?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 08 |
 | ↳ | **[Research Intern (Infrastructure System Lab)- 2026 Start (PHD)](https://jobright.ai/jobs/info/68982f6afaa4e875e824b334?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Aug 08 |
-| **[Cintas](https://www.cintas.com)** | **[Intern - Fire](https://jobright.ai/jobs/info/689850d85574fd6bc0c78039?utm_campaign=1079&utm_source=git)** | Lombard, IL | On Site | Aug 08 |
-| **[Belvedere Trading, LLC](http://belvederetrading.com)** | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/6897b1458c6d6b4426790a05?utm_campaign=1079&utm_source=git)** | Chicago, Illinois | On Site | Aug 08 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Charging Distributed Systems Software Engineer, Energy Engineering (Winter/Spring 2026)](https://jobright.ai/jobs/info/689849ad83d13d1f5b68d10c?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Aug 08 |
-| **[Systems, LLC - Poweramp | DLM](https://loadingdocksystems.com)** | **[Software Engineer 1, Middleware (Intern Conversion)](https://jobright.ai/jobs/info/6897b0e973b3a600fe89e131?utm_campaign=1079&utm_source=git)** | Oak Brook, IL | On Site | Aug 08 |
-| **[Databricks](https://www.databricks.com)** | **[Software Engineering Intern (2026)](https://jobright.ai/jobs/info/689738aa8c6d6b44267876a3?utm_campaign=1079&utm_source=git)** | Bellevue, Washington | On Site | Aug 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
