@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Todd](toddagriscience.com)** | **[Winter Backend Developer Intern](https://jobright.ai/jobs/info/689910325574fd6bc0c7afc2?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Aug 10 |
+| **[Legendary Supply Chain, Inc.](https://legendarysupplychain.com/)** | **[Software Developer Intern - PAID](https://jobright.ai/jobs/info/68991aaf83d13d1f5b6914a5?utm_campaign=1079&utm_source=git)** | Hendersonville, TN | On Site | Aug 10 |
 | **[Harris Computer](http://www.harriscomputer.com)** | **[Software Developer, Co-op/Intern](https://jobright.ai/jobs/info/6898eb31faa4e875e8250e1e?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 10 |
 | **[Harmonic](https://www.harmonic.ai)** | **[Software Engineer Intern (Summer '26)](https://jobright.ai/jobs/info/68891f9209808a6103e4528d?utm_campaign=1079&utm_source=git)** | New York City | On Site | Aug 10 |
 | **[Hermeus](http://www.hermeus.com)** | **[Software Engineer Intern (HMI) - Fall 2025](https://jobright.ai/jobs/info/6880cc7729ad6b2744adc315?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Aug 10 |
@@ -133,13 +133,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Analytics & Behavior Change – Engineering FT Position (Undergraduate - Current Interns Only)](https://jobright.ai/jobs/info/6897a9891b9e81727f19ef56?utm_campaign=1079&utm_source=git)** | NY - New York | Hybrid | Aug 08 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, IT - Software Engineering - ATL (Spring 2026)](https://jobright.ai/jobs/info/68984afffaa4e875e824d3b8?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Hybrid | Aug 08 |
 | **[Chamberlain Group](http://www.chamberlaingroup.com)** | **[Implementation Specialist (Intern Conversion)](https://jobright.ai/jobs/info/68985a4f5574fd6bc0c78c14?utm_campaign=1079&utm_source=git)** | Oak Brook, IL | On Site | Aug 08 |
-| **[Delta Air Lines](https://www.delta.com/)** | **[Intern, IT Enterprise Technology (RAISE) - ATL (Summer 2026)](https://jobright.ai/jobs/info/68975f1a8c6d6b442678a61e?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Hybrid | Aug 08 |
-| ↳ | **[Intern, IT - Software Engineering - ATL (Summer 2026)](https://jobright.ai/jobs/info/68985d6efaa4e875e824f494?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Hybrid | Aug 08 |
+| **[Delta Air Lines](https://www.delta.com/)** | **[Intern, IT - Software Engineering - ATL (Summer 2026)](https://jobright.ai/jobs/info/68985d6efaa4e875e824f494?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Hybrid | Aug 08 |
 | ↳ | **[Intern, IT - Software Engineering - MSP (Summer 2026)](https://jobright.ai/jobs/info/68986332faa4e875e824fa3d?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | Hybrid | Aug 08 |
+| ↳ | **[Intern, IT Enterprise Technology (RAISE) - ATL (Summer 2026)](https://jobright.ai/jobs/info/68975f1a8c6d6b442678a61e?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Hybrid | Aug 08 |
 | ↳ | **[Intern, IT Enterprise Technology (RAISE) - MSP (Summer 2026)](https://jobright.ai/jobs/info/68973e2173b3a600fe895649?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | Hybrid | Aug 08 |
 | ↳ | **[Co-op, IT - Software Engineering - MSP (Spring 2026)](https://jobright.ai/jobs/info/689859e35574fd6bc0c78b56?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | Hybrid | Aug 08 |
-| **[WineFetch](http://retailer.winefetch.com)** | **[Front End Intern](https://jobright.ai/jobs/info/6897a51473b3a600fe89cdfc?utm_campaign=1079&utm_source=git)** | Remote - CAN | Remote | Aug 08 |
-| ↳ | **[QA & Documentation Intern](https://jobright.ai/jobs/info/6897adff8c6d6b44267903c6?utm_campaign=1079&utm_source=git)** | Remote - CAN | Remote | Aug 08 |
+| **[WineFetch](http://retailer.winefetch.com)** | **[QA & Documentation Intern](https://jobright.ai/jobs/info/6897adff8c6d6b44267903c6?utm_campaign=1079&utm_source=git)** | Remote - CAN | Remote | Aug 08 |
+| ↳ | **[Front End Intern](https://jobright.ai/jobs/info/6897a51473b3a600fe89cdfc?utm_campaign=1079&utm_source=git)** | Remote - CAN | Remote | Aug 08 |
 | **[Systems, LLC - Poweramp | DLM](https://loadingdocksystems.com)** | **[Implementation Specialist (Intern Conversion)](https://jobright.ai/jobs/info/6897b27a8c6d6b4426790bdc?utm_campaign=1079&utm_source=git)** | Oak Brook, IL | On Site | Aug 08 |
 | **[Amazon](https://amazon.com)** | **[Jr. Software Development Engineer - Seattle/Bellevue](https://jobright.ai/jobs/info/689837a383d13d1f5b68c037?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Aug 08 |
 | **[Omniskope, Inc](http://www.omniskope.com/)** | **[Salesforce Agentforce Solutions Analyst Intern](https://jobright.ai/jobs/info/689747ac73b3a600fe896140?utm_campaign=1079&utm_source=git)** | St Louis, MO | On Site | Aug 08 |
