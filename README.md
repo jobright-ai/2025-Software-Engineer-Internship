@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Trade Desk](http://thetradedesk.com)** | **[2026 North America Software Engineering Internship](https://jobright.ai/jobs/info/687ef3822097a271a899922b?utm_campaign=1079&utm_source=git)** | Boulder, CO | On Site | Aug 12 |
+| ↳ | **[2026 North America Software Engineering Internship](https://jobright.ai/jobs/info/687f28122097a271a899b3ea?utm_campaign=1079&utm_source=git)** | Denver, CO | On Site | Aug 12 |
+| ↳ | **[2026 North America Software Engineering Internship](https://jobright.ai/jobs/info/687ee9fedb19f31cf0d6e16e?utm_campaign=1079&utm_source=git)** | Bellevue, WA | On Site | Aug 12 |
+| ↳ | **[2026 North America Software Engineering Internship](https://jobright.ai/jobs/info/687f3481764c3d7411c4a2af?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Aug 12 |
+| ↳ | **[2026 North America Software Engineering Internship](https://jobright.ai/jobs/info/687f22ca2097a271a899b1d8?utm_campaign=1079&utm_source=git)** | New York, United States | On Site | Aug 12 |
+| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Ads Infra) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6899868583d13d1f5b6934f2?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 12 |
 | **[Radiant](https://radiantnuclear.com)** | **[Internship - Software Engineering](https://jobright.ai/jobs/info/689ae10a83d13d1f5b69d6b5?utm_campaign=1079&utm_source=git)** | El Segundo, CA | On Site | Aug 11 |
 | **[ByteDance](http://bytedance.com)** | **[Researcher Intern (Vision and Graphics)- 2026 Start (PhD)](https://jobright.ai/jobs/info/689acef783d13d1f5b69c826?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 11 |
 | **[LightGuide](http://lightguidesys.com/)** | **[Software Development Co-op](https://jobright.ai/jobs/info/689ac42bfaa4e875e825bfa8?utm_campaign=1079&utm_source=git)** | Wixom, MI | On Site | Aug 11 |
@@ -108,8 +114,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Former Discover Intern, Technology Development Program Associate - February 2026](https://jobright.ai/jobs/info/6899f2c883d13d1f5b6951cc?utm_campaign=1079&utm_source=git)** | Richmond, VA | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Technology Development Program Associate - August 2026](https://jobright.ai/jobs/info/6899f2c283d13d1f5b6951bf?utm_campaign=1079&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Technology Development Program Associate - February 2026](https://jobright.ai/jobs/info/6899f0c1faa4e875e8254e3a?utm_campaign=1079&utm_source=git)** | Plano, TX | Hybrid | Aug 11 |
-| ↳ | **[Former Discover Intern, Technology Development Program Associate - August 2026](https://jobright.ai/jobs/info/6899f0bcfaa4e875e8254e31?utm_campaign=1079&utm_source=git)** | Plano, TX | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Technology Development Program Associate - February 2026](https://jobright.ai/jobs/info/6899f0bcfaa4e875e8254e30?utm_campaign=1079&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
+| ↳ | **[Former Discover Intern, Technology Development Program Associate - August 2026](https://jobright.ai/jobs/info/6899f0bcfaa4e875e8254e31?utm_campaign=1079&utm_source=git)** | Plano, TX | Hybrid | Aug 11 |
 | **[Copart](http://www.copart.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/687c86392097a271a898aa5a?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Aug 11 |
 | **[Capital One](http://www.capitalone.com)** | **[Former Discover Intern, Technology Development Program Associate - February 2026](https://jobright.ai/jobs/info/6899f0465574fd6bc0c7eaff?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Technology Development Program Associate - August 2026](https://jobright.ai/jobs/info/6899f02d5574fd6bc0c7eaeb?utm_campaign=1079&utm_source=git)** | Richmond, VA | Hybrid | Aug 11 |
@@ -149,12 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Frontgrade Technologies](https://frontgrade.com)** | **[Embedded Software Engineering Co-Op Student](https://jobright.ai/jobs/info/688bc8f11808534a89cb61cd?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Aug 09 |
 | **[PENTAX Medical](https://www.pentaxmedical.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68908bf14c7e851b90ac70f6?utm_campaign=1079&utm_source=git)** | Montvale, NJ | On Site | Aug 09 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Software Development Engineer Apprentice, AWS Opportunity for Veterans](https://jobright.ai/jobs/info/67dbccf2b274065a06ae820b?utm_campaign=1079&utm_source=git)** | Arlington, VA | On Site | Aug 09 |
-| **[ABB](https://global.abb/group/en)** | **[Application Software Internship](https://jobright.ai/jobs/info/688dc7b0e5cead4afd45ab2f?utm_campaign=1079&utm_source=git)** | Location, WV | On Site | Aug 09 |
+| **[ABB](https://global.abb/group/en)** | **[Application Software Internship](https://jobright.ai/jobs/info/688dca406a4aac5783cd76f2?utm_campaign=1079&utm_source=git)** | Location, WV | On Site | Aug 09 |
 | **[Brex](https://brex.com)** | **[Software Engineer, Intern](https://jobright.ai/jobs/info/68253c7360c3bcb6ba73e084?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Aug 09 |
-| **[Penn State University](http://psu.edu)** | **[Student Programmer – Web Development & Open Source Projects (HAX)](https://jobright.ai/jobs/info/6897e3881b9e81727f1a2813?utm_campaign=1079&utm_source=git)** | University Park, PA | On Site | Aug 09 |
-| **[MathWorks](http://www.mathworks.com)** | **[Multiple Openings-Engineering Development Group Internship](https://jobright.ai/jobs/info/671a69ea75c42966c795fe8d?utm_campaign=1079&utm_source=git)** | Natick, MA | Hybrid | Aug 09 |
-| **[Neuralink](https://www.neuralink.com)** | **[Firmware Engineer Intern](https://jobright.ai/jobs/info/6876ba2fae2f413e4a5b2f22?utm_campaign=1079&utm_source=git)** | Fremont, California, United States | On Site | Aug 09 |
-| **[Capital One](http://www.capitalone.com)** | **[Current TEIP, Technology Internship Program](https://jobright.ai/jobs/info/689af222faa4e875e825e6c9?utm_campaign=1079&utm_source=git)** | McLean, VA | Hybrid | Aug 09 |
-| **[Figure](https://www.figure.ai)** | **[Firmware Engineer Intern (Fall 2025) New](https://jobright.ai/jobs/info/6898408d5574fd6bc0c7695e?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 08 |
-| **[ABB](https://global.abb/group/en)** | **[Duales Studium Informatik - Informationstechnik (m/w/d) 2025](https://jobright.ai/jobs/info/688dc77ee5cead4afd45ab0b?utm_campaign=1079&utm_source=git)** | Location, WV | On Site | Aug 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
