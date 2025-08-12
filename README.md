@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sistas In Sales](https://www.sistasinsales.com/)** | **[SAP iXp Intern – Digital Solution Advisory](https://jobright.ai/jobs/info/689b969279a9f96662531ad7?utm_campaign=1079&utm_source=git)** | Alpharetta, GA | Hybrid | Aug 12 |
+| **[Sonic Healthcare USA](http://www.sonichealthcareusa.com)** | **[Cache Software Development Intern](https://jobright.ai/jobs/info/689b9588faa4e875e82615fb?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Aug 12 |
+| **[Nelnet](https://nelnetinc.com)** | **[Intern - Software Engineer](https://jobright.ai/jobs/info/689b936e79a9f966625317af?utm_campaign=1079&utm_source=git)** | Lincoln, NE | On Site | Aug 12 |
+| **[X-Bow Systems](https://www.xbowsystems.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/689b82dd83d13d1f5b6a09ee?utm_campaign=1079&utm_source=git)** | Texas, United States | Remote | Aug 12 |
 | **[Clinical Pathology Laboratories](http://www.cpllabs.com)** | **[Cache Software Development](https://jobright.ai/jobs/info/689b7e6d83d13d1f5b6a0905?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Aug 12 |
-| **[LinkedIn](https://www.linkedin.com/)** | **[Apprentice Engineer - Backend](https://jobright.ai/jobs/info/689b79cf79a9f96662530ad8?utm_campaign=1079&utm_source=git)** | Mountain View, CA | Hybrid | Aug 12 |
 | **[Syval](https://syvalapp.com/)** | **[Student App Beta Tester(One Time Remote Spot Work)](https://jobright.ai/jobs/info/689b777bfaa4e875e82605f6?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | Remote | Aug 12 |
 | **[Domo](http://www.domo.com)** | **[Intern - Software Engineer](https://jobright.ai/jobs/info/689b70c1faa4e875e82604e9?utm_campaign=1079&utm_source=git)** | American Fork, Utah | On Site | Aug 12 |
 | **[Altera Digital Health](http://www.alterahealth.com)** | **[Intern, Operational Innovation & Digital Solutions](https://jobright.ai/jobs/info/689b6f35faa4e875e82603fb?utm_campaign=1079&utm_source=git)** | Chicago, Illinois, United States | On Site | Aug 12 |
-| **[Nelnet](https://nelnetinc.com)** | **[Intern - Software Engineer](https://jobright.ai/jobs/info/689b6deafaa4e875e8260339?utm_campaign=1079&utm_source=git)** | Lincoln, NE | On Site | Aug 12 |
 | **[Elastic](https://www.elastic.co)** | **[Skillbridge Intern -Solution Architect](https://jobright.ai/jobs/info/689b6de283d13d1f5b6a02e9?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 12 |
 | **[Nordson Industrial Coating Systems](http://www.nordson.com/ics)** | **[Intern (Enterprise Architecture Analyst Intern)](https://jobright.ai/jobs/info/689b6326faa4e875e825fe53?utm_campaign=1079&utm_source=git)** | USA - Ohio - Amherst | On Site | Aug 12 |
 | **[Altom Transport](http://altomtransport.com)** | **[Fall Software Development Intern](https://jobright.ai/jobs/info/689b5fcd79a9f9666252fec5?utm_campaign=1079&utm_source=git)** | Hammond, IN | On Site | Aug 12 |
@@ -79,7 +81,8 @@ For a complete list, click the following sortable link below:
 | **[The Trade Desk](http://thetradedesk.com)** | **[2026 North America Software Engineering Internship](https://jobright.ai/jobs/info/687f22ca2097a271a899b1d8?utm_campaign=1079&utm_source=git)** | New York, United States | On Site | Aug 12 |
 | **[Entergy](https://www.entergy.com)** | **[(Spring 2026) - Compliance & Systems Support (Power Delivery)](https://jobright.ai/jobs/info/687eb223764c3d7411c45821?utm_campaign=1079&utm_source=git)** | Tyler-Jacksonville Area | Hybrid | Aug 12 |
 | **[Waystar](http://www.waystar.com)** | **[Application Engineer: Co-Op](https://jobright.ai/jobs/info/6892ebacf5ee707a15dca2dc?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Aug 12 |
-| **[Medpace](http://www.medpace.com)** | **[Software Development Co-Op - Fall 2025](https://jobright.ai/jobs/info/67f061dc452962cb4173d952?utm_campaign=1079&utm_source=git)** | Cincinnati, OH | Hybrid | Aug 12 |
+| **[Medpace](http://www.medpace.com)** | **[Software QA Test Engineer Intern - Fall 2025](https://jobright.ai/jobs/info/67f053f19bc6ac468daac70e?utm_campaign=1079&utm_source=git)** | Cincinnati, OH | Hybrid | Aug 12 |
+| ↳ | **[Software Development Co-Op - Fall 2025](https://jobright.ai/jobs/info/67f061dc452962cb4173d952?utm_campaign=1079&utm_source=git)** | Cincinnati, OH | Hybrid | Aug 12 |
 | **[Radiant](https://radiantnuclear.com)** | **[Internship - Software Engineering](https://jobright.ai/jobs/info/689ae10a83d13d1f5b69d6b5?utm_campaign=1079&utm_source=git)** | El Segundo, CA | On Site | Aug 11 |
 | **[ByteDance](http://bytedance.com)** | **[Researcher Intern (Vision and Graphics)- 2026 Start (PhD)](https://jobright.ai/jobs/info/689acef783d13d1f5b69c826?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 11 |
 | **[LightGuide](http://lightguidesys.com/)** | **[Software Development Co-op](https://jobright.ai/jobs/info/689ac42bfaa4e875e825bfa8?utm_campaign=1079&utm_source=git)** | Wixom, MI | On Site | Aug 11 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Engineering Engines Co-op – Computer or Software Engineering – US – Fall 2026](https://jobright.ai/jobs/info/6899717bfaa4e875e825268c?utm_campaign=1079&utm_source=git)** | Lynn | On Site | Aug 10 |
 | **[Aechelon Technology Inc.](http://www.aechelon.com)** | **[Junior Software Engineer - Internship](https://jobright.ai/jobs/info/6899710bfaa4e875e8252627?utm_campaign=1079&utm_source=git)** | Overland Park, KS | On Site | Aug 10 |
 | **[Syft Inc.](https://syft.style/)** | **[Browser Extension Developer (Unpaid Internship)](https://jobright.ai/jobs/info/6899505a83d13d1f5b6918da?utm_campaign=1079&utm_source=git)** | Dallas, TX | Remote | Aug 10 |
-| **[Legendary Supply Chain](https://legendarysupplychain.com/)** | **[Software Developer Intern - PAID](https://jobright.ai/jobs/info/68991aaf83d13d1f5b6914a5?utm_campaign=1079&utm_source=git)** | Hendersonville, TN | On Site | Aug 10 |
-| **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Software Development Engineer Apprentice, AWS Opportunity for Veterans](https://jobright.ai/jobs/info/6746f5b32470b36d5a693f24?utm_campaign=1079&utm_source=git)** | Cupertino, CA | On Site | Aug 10 |
-| **[Omniskope, Inc](http://www.omniskope.com/)** | **[Salesforce Agentforce Solutions Analyst Intern](https://jobright.ai/jobs/info/689747ac73b3a600fe896140?utm_campaign=1079&utm_source=git)** | St Louis, MO | On Site | Aug 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
