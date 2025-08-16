@@ -67,8 +67,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer Intern (Cloud Native Infrastructure) - 2025 Summer (MS)](https://jobright.ai/jobs/info/68a055d583d13d1f5b6d0272?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 16 |
 | ↳ | **[GPU/AI Application Platform Engineer Intern (Server Platform) - 2025 Summer/Fall (PhD)](https://jobright.ai/jobs/info/68a055d583d13d1f5b6d0273?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 16 |
 | ↳ | **[Software Development Engineer Intern(Foundation Software)- 2026 Summer (MS/BS)](https://jobright.ai/jobs/info/68a05346cc9ee94dc911f026?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 16 |
-| ↳ | **[Research Intern (Infrastructure System Lab)- 2026 Start (PHD)](https://jobright.ai/jobs/info/68a05345cc9ee94dc911f021?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Aug 16 |
 | ↳ | **[Researcher Intern (Vision and Graphics)- 2026 Start (PhD)](https://jobright.ai/jobs/info/68a05345cc9ee94dc911f018?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 16 |
+| ↳ | **[Research Intern (Infrastructure System Lab)- 2026 Start (PHD)](https://jobright.ai/jobs/info/68a05345cc9ee94dc911f021?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Aug 16 |
 | ↳ | **[Frontend Software Engineer Intern (Global E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68a05345cc9ee94dc911f022?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Aug 16 |
 | ↳ | **[Software Engineer Intern (Payment Risk) - Global Payment - 2026 Summer(BS/MS)](https://jobright.ai/jobs/info/68a05344cc9ee94dc911f013?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 16 |
 | ↳ | **[Infrastructure Engineer Intern (Compute Infrastructure - Cloud-Native )- 2026 Summer (MS/BS)](https://jobright.ai/jobs/info/68a05343cc9ee94dc911f00c?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 16 |
@@ -77,8 +77,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer Intern (NoSQL Databases) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68a05324cc9ee94dc911efc9?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Aug 16 |
 | ↳ | **[Software Engineer Intern (AI-Native Databases) - 2026 Summer (PhD)](https://jobright.ai/jobs/info/68a0531cfaa4e875e82901d1?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 16 |
 | ↳ | **[GPU/AI Application System Software Engineer Intern (System Technologies and Engineering) - 2025 Summer/Fall (BS/MS)](https://jobright.ai/jobs/info/68a0531bcc9ee94dc911efb7?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 16 |
-| ↳ | **[Software Engineer Intern (Payment Architecture) - Global Payment - 2026 Summer(BS/MS)](https://jobright.ai/jobs/info/68a0530dfaa4e875e82901ad?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 16 |
 | ↳ | **[Infrastructure Engineer Intern (Compute Infrastructure - Cloud-Native )- 2026 Summer (MS/BS)](https://jobright.ai/jobs/info/68a0530dfaa4e875e82901b1?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Aug 16 |
+| ↳ | **[Software Engineer Intern (Payment Architecture) - Global Payment - 2026 Summer(BS/MS)](https://jobright.ai/jobs/info/68a0530dfaa4e875e82901ad?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 16 |
 | ↳ | **[Software Engineer Intern (User Product) - Global Payment - 2025 Summer(BS/MS)](https://jobright.ai/jobs/info/68a0530cfaa4e875e82901ac?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 16 |
 | ↳ | **[Software Development Engineer Intern (Network Automation)- 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/68a0530783d13d1f5b6d0229?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 16 |
 | ↳ | **[Software Development Engineer in Test Intern (Global E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68a0530683d13d1f5b6d0225?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 16 |
@@ -136,25 +136,25 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (JavaScript Developer)](https://jobright.ai/jobs/info/689fc690cc9ee94dc9119b25?utm_campaign=1079&utm_source=git)** | Vienna, VA | Hybrid | Aug 15 |
 | ↳ | **[Intern - Year Round (JavaScript Developer)](https://jobright.ai/jobs/info/689fc4ec83d13d1f5b6caea3?utm_campaign=1079&utm_source=git)** | Pensacola, FL | Hybrid | Aug 15 |
 | **[Ameren](http://ameren.com)** | **[Application Development Co-Op](https://jobright.ai/jobs/info/689fc4ec83d13d1f5b6caea5?utm_campaign=1079&utm_source=git)** | St Louis, MO | Hybrid | Aug 15 |
-| ↳ | **[Application Development Co-Op](https://jobright.ai/jobs/info/689fc39dcc9ee94dc9119a5a?utm_campaign=1079&utm_source=git)** | St. Louis, MO | Hybrid | Aug 15 |
 | ↳ | **[Application Development Co-Op](https://jobright.ai/jobs/info/689fc39dcc9ee94dc9119a5c?utm_campaign=1079&utm_source=git)** | St. Louis, MO | Hybrid | Aug 15 |
+| ↳ | **[Application Development Co-Op](https://jobright.ai/jobs/info/689fc39dcc9ee94dc9119a5a?utm_campaign=1079&utm_source=git)** | St. Louis, MO | Hybrid | Aug 15 |
 | **[University Center for Academic Excellence at UNC Charlotte](https://ucae.uncc.edu/)** | **[Postdoctoral Fellow - Computer Science](https://jobright.ai/jobs/info/689f95b4faa4e875e8289e6f?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Aug 15 |
-| **[Uline](http://www.uline.com)** | **[Software Developer Internship - Summer 2026](https://jobright.ai/jobs/info/689f9278faa4e875e8289d0e?utm_campaign=1079&utm_source=git)** | Kenosha, WI | On Site | Aug 15 |
 | **[Treevah](https://filterfolder.com/)** | **[Software Engineer Intern- (Remote & Unpaid)](https://jobright.ai/jobs/info/689fee96faa4e875e828c0f3?utm_campaign=1079&utm_source=git)** | Chicago, IL | Remote | Aug 15 |
-| **[L3Harris Technologies](https://www.l3harris.com)** | **[Software Engineering Intern (Rochester, NY)](https://jobright.ai/jobs/info/689f907e83d13d1f5b6c9ae9?utm_campaign=1079&utm_source=git)** | Rochester, NY | On Site | Aug 15 |
+| **[L3Harris Technologies](https://www.l3harris.com)** | **[Software Engineering Intern (Rochester, NY)](https://jobright.ai/jobs/info/689f90b483d13d1f5b6c9b78?utm_campaign=1079&utm_source=git)** | Rochester, NY | On Site | Aug 15 |
+| ↳ | **[Software Engineering Intern (Rochester, NY)](https://jobright.ai/jobs/info/689f907e83d13d1f5b6c9ae9?utm_campaign=1079&utm_source=git)** | Rochester, NY | On Site | Aug 15 |
 | ↳ | **[Software Engineering Intern (Sunrise, FL)](https://jobright.ai/jobs/info/689f8f73faa4e875e8289c27?utm_campaign=1079&utm_source=git)** | Sunrise, FL | On Site | Aug 15 |
 | ↳ | **[Software Engineering Intern (Rochester, NY)](https://jobright.ai/jobs/info/689f8f42faa4e875e8289b72?utm_campaign=1079&utm_source=git)** | Rochester, NY | On Site | Aug 15 |
-| ↳ | **[Software Engineering Intern (Rochester, NY)](https://jobright.ai/jobs/info/689f8e19b3e889632cf08a0c?utm_campaign=1079&utm_source=git)** | Rochester, NY | On Site | Aug 15 |
 | **[Herc Rentals](http://www.HercRentals.com)** | **[Information Technology Intern - Digital Engineering](https://jobright.ai/jobs/info/689f8c05faa4e875e8289a20?utm_campaign=1079&utm_source=git)** | Bonita Springs, FL | On Site | Aug 15 |
 | **[Continental](https://www.continental.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/689f8b59faa4e875e8289817?utm_campaign=1079&utm_source=git)** | 4021 N 56th St, Lincoln, NE 68504, USA | Hybrid | Aug 15 |
+| **[Uline](http://www.uline.com)** | **[Software Developer Internship - Summer 2026](https://jobright.ai/jobs/info/689f8ae2b3e889632cf08722?utm_campaign=1079&utm_source=git)** | Glenview, IL | On Site | Aug 15 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Software Engineer](https://jobright.ai/jobs/info/689f874fb3e889632cf08508?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 15 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (JavaScript Developer)](https://jobright.ai/jobs/info/689f8247faa4e875e8288d55?utm_campaign=1079&utm_source=git)** | 5510 Heritage Oaks Drive, Pensacola, FL, 32526, US | On Site | Aug 15 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Software Engineer](https://jobright.ai/jobs/info/689f6e5383d13d1f5b6c6ae6?utm_campaign=1079&utm_source=git)** | Seattle | Hybrid | Aug 15 |
 | ↳ | **[2026 Intern - Software Engineer](https://jobright.ai/jobs/info/689f6e3efaa4e875e8286bbf?utm_campaign=1079&utm_source=git)** | New York | Hybrid | Aug 15 |
 | **[Uline](http://www.uline.com)** | **[Software Developer Internship - Summer 2026](https://jobright.ai/jobs/info/689f6e3b83d13d1f5b6c6a05?utm_campaign=1079&utm_source=git)** | Milwaukee, WI | On Site | Aug 15 |
-| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Software Engineer](https://jobright.ai/jobs/info/689f6e2ffaa4e875e8286b7f?utm_campaign=1079&utm_source=git)** | Austin | Hybrid | Aug 15 |
-| ↳ | **[2026 Intern - Software Engineer](https://jobright.ai/jobs/info/689f6e2f83d13d1f5b6c69b3?utm_campaign=1079&utm_source=git)** | San Jose | Hybrid | Aug 15 |
+| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Software Engineer](https://jobright.ai/jobs/info/689f6e2f83d13d1f5b6c69b3?utm_campaign=1079&utm_source=git)** | San Jose | Hybrid | Aug 15 |
+| ↳ | **[2026 Intern - Software Engineer](https://jobright.ai/jobs/info/689f6e2ffaa4e875e8286b7f?utm_campaign=1079&utm_source=git)** | Austin | Hybrid | Aug 15 |
 | **[Uline](http://www.uline.com)** | **[Software Developer Internship - Summer 2026](https://jobright.ai/jobs/info/689f6e2e83d13d1f5b6c699d?utm_campaign=1079&utm_source=git)** | Pleasant Prairie, WI | On Site | Aug 15 |
 | ↳ | **[Software Developer Internship - Summer 2026](https://jobright.ai/jobs/info/689f6e1e79a9f96662556d83?utm_campaign=1079&utm_source=git)** | Waukegan, IL | On Site | Aug 15 |
-| ↳ | **[Software Developer Internship - Summer 2026](https://jobright.ai/jobs/info/689f6e1afaa4e875e8286b20?utm_campaign=1079&utm_source=git)** | Glenview, IL | On Site | Aug 15 |
+| ↳ | **[Software Developer Internship - Summer 2026](https://jobright.ai/jobs/info/689f6e1779a9f96662556d67?utm_campaign=1079&utm_source=git)** | Kenosha, WI | On Site | Aug 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
