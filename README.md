@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[XIRCLS](https://www.xircls.com/)** | **[Python & FastAPI Intern](https://jobright.ai/jobs/info/68a8349ad627244576e31e86?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 22 |
 | **[Swift Text Communications](http://swifttextcommunications.online/)** | **[WebApp Quality Verifier Undergraduates/fresh graduates only](https://jobright.ai/jobs/info/68a80729d627244576e30459?utm_campaign=1079&utm_source=git)** | NYC Metro Area | Remote | Aug 21 |
 | **[Altom Transport](http://altomtransport.com)** | **[Fall Software Development Intern](https://jobright.ai/jobs/info/68a801b233dd7158bbcaaf30?utm_campaign=1079&utm_source=git)** | Hammond, IN | On Site | Aug 21 |
 | **[Legrand, North America](http://www.legrand.us)** | **[Firmware Intern](https://jobright.ai/jobs/info/68a7d831d627244576e2f0f7?utm_campaign=1079&utm_source=git)** | Carlsbad, CA | On Site | Aug 21 |
@@ -114,10 +115,12 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[GPU/AI Application Platform Engineer Intern (Server Platform) - 2025 Summer/Fall (PhD)](https://jobright.ai/jobs/info/68a055d583d13d1f5b6d0273?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/689edf4cfaa4e875e8282f36?utm_campaign=1079&utm_source=git)** | Spring, TX | Hybrid | Aug 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Backend Software Engineer Intern (TikTok-Privacy and Security-Data Lifecycle Management) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689c0a13faa4e875e826504a?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Aug 21 |
+| ↳ | **[Software Engineer Intern (Ads Infra) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/68a8268533dd7158bbcac935?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
 | ↳ | **[Software Engineer Intern (TikTok-Intelligent Creation) - 2026 Summer (BS/MS](https://jobright.ai/jobs/info/688ae28709808a6103e51f02?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
 | ↳ | **[Software Engineer Intern (MSP) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/68a7ffbe758f2e4ac3fefbf7?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
 | **[ByteDance](http://bytedance.com)** | **[Backend Software Engineer Intern (Global E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68a052fc83d13d1f5b6d0205?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Aug 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Backend Software Engineer Intern (TikTok-PGC-Monetization) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689c34d6faa4e875e826790a?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Aug 21 |
+| ↳ | **[Software Engineer Intern (TikTok Intelligent Creation Effects ) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6890d2f34c7e851b90ac9e42?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
 | **[ByteDance](http://bytedance.com)** | **[Video Experience Software Engineer Intern (Global StreamingMedia) - 2025 Summer/Fall (PhD)](https://jobright.ai/jobs/info/68a052edfaa4e875e8290144?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern(Live Service) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689e8f3183d13d1f5b6bdb12?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
 | ↳ | **[Software Engineer Intern (MSP) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/68a7f28b33dd7158bbcaa796?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
@@ -152,9 +155,6 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[Infrastructure Engineer Intern (Compute Infrastructure - Cloud-Native ) - 2026 Start (PHD)](https://jobright.ai/jobs/info/68a2d47cff570d7ffd65e3df?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Aug 21 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Cloud Engineer Intern](https://jobright.ai/jobs/info/689ee19779a9f966625532a2?utm_campaign=1079&utm_source=git)** | Spring, TX | Hybrid | Aug 21 |
 | **[ByteDance](http://bytedance.com)** | **[Research Intern (Infrastructure System Lab)- 2026 Start (PHD)](https://jobright.ai/jobs/info/68a05345cc9ee94dc911f021?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Aug 21 |
-| ↳ | **[Software Development Engineer Intern (Network Automation)- 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/68a0530783d13d1f5b6d0229?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
-| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (TikTok-Privacy and Security-Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6891869af47efe2113956300?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Aug 21 |
-| **[Nominal](https://www.nominal.io)** | **[Software Engineer - Internship (Summer 2026)](https://jobright.ai/jobs/info/68a6c9b1b6a3617d7fa7aa7a?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Aug 21 |
-| **[TikTok](https://www.tiktok.com)** | **[Backend Software Engineer Intern (TikTok-Product Infrastructure-Customer Service Platform) - 2026 Summer(BS/MS)](https://jobright.ai/jobs/info/688c40901808534a89cb9f43?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
-| ↳ | **[Software Engineer Intern(Media Engine) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689e8f51faa4e875e827dc63?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
+| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Recommendation Infrastructure) - 2025 Summer/Fall (BS/ MS)](https://jobright.ai/jobs/info/68a82788758f2e4ac3ff178c?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
+| **[ByteDance](http://bytedance.com)** | **[Software Development Engineer Intern (Network Automation)- 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/68a0530783d13d1f5b6d0229?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
