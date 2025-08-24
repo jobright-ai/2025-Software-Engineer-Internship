@@ -104,6 +104,8 @@ For a complete list, click the following sortable link below:
 | **[Ramp](https://ramp.com)** | **[Software Engineer Internship / Backend](https://jobright.ai/jobs/info/688d4df11808534a89cc27e5?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Aug 23 |
 | **[Sentry](https://www.sentry.io)** | **[Software Engineer, Intern (Summer 2026)](https://jobright.ai/jobs/info/688d2d9227f9022553c09c86?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Aug 23 |
 | **[Illinois State University-Mennonite College of Nursing](http://nursing.illinoisstate.edu)** | **[Student Programmer](https://jobright.ai/jobs/info/68a99248758f2e4ac3ffadc6?utm_campaign=1079&utm_source=git)** | Normal, IL | On Site | Aug 23 |
+| **[March](https://www.linkedin.com/company/108340874)** | **[Software Engineering Intern/Co-Op](https://jobright.ai/jobs/info/68ab0d46d627244576e3f211?utm_campaign=1079&utm_source=git)** | DC-Baltimore Area | On Site | Aug 23 |
+| ↳ | **[Software Engineer](https://jobright.ai/jobs/info/68ab0d19d627244576e3f204?utm_campaign=1079&utm_source=git)** | DC-Baltimore Area | On Site | Aug 23 |
 | **[Direct Supply](http://www.directsupply.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68a948ead627244576e38d45?utm_campaign=1079&utm_source=git)** | Milwaukee, WI | On Site | Aug 22 |
 | **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Platform Engineering Summer Intern](https://jobright.ai/jobs/info/68a910f06acf96396f7248ee?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Aug 22 |
 | **[Garage (YC W24)](https://www.withgarage.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68a93cc5d627244576e38694?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Aug 22 |
@@ -131,10 +133,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Developer Intern: 2025](https://jobright.ai/jobs/info/68a8fa2e758f2e4ac3ff66d8?utm_campaign=1079&utm_source=git)** | Sandy Springs, GA | Hybrid | Aug 22 |
 | **[Nokia](http://www.nokia.com)** | **[Software Quality Assurance Coop](https://jobright.ai/jobs/info/68a8fa26758f2e4ac3ff66d1?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Aug 22 |
 | **[Copart](http://www.copart.com)** | **[Mobile Developer Intern (AI / ML)](https://jobright.ai/jobs/info/688bdb123a30793eb963e437?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Aug 22 |
-| **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Year-Round Intern - Software Engineering Risk Analytics](https://jobright.ai/jobs/info/68a8e4be758f2e4ac3ff6161?utm_campaign=1079&utm_source=git)** | Dallas, TX | Hybrid | Aug 22 |
-| ↳ | **[Enterprise Quality Management Summer Intern](https://jobright.ai/jobs/info/68a8e4496acf96396f723998?utm_campaign=1079&utm_source=git)** | Chicago - 125 S Franklin | Hybrid | Aug 22 |
+| **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Enterprise Quality Management Summer Intern](https://jobright.ai/jobs/info/68a8e4496acf96396f723998?utm_campaign=1079&utm_source=git)** | Chicago - 125 S Franklin | Hybrid | Aug 22 |
 | ↳ | **[Platform Engineering Summer Intern](https://jobright.ai/jobs/info/68a8e4056acf96396f72397d?utm_campaign=1079&utm_source=git)** | Chicago - 125 S Franklin | Hybrid | Aug 22 |
 | ↳ | **[UI Dev Summer Intern](https://jobright.ai/jobs/info/68a8e3bdd627244576e36521?utm_campaign=1079&utm_source=git)** | Chicago - 125 S Franklin | Hybrid | Aug 22 |
+| ↳ | **[Year-Round Intern - Software Engineering Risk Analytics](https://jobright.ai/jobs/info/68a8e39a6acf96396f723920?utm_campaign=1079&utm_source=git)** | Dallas, TX | Hybrid | Aug 22 |
 | **[Metronome](https://metronome.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68a8e366758f2e4ac3ff6126?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Aug 22 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Embedded Software Engineer, Audio Systems (Winter/Spring 2026)](https://jobright.ai/jobs/info/68a8e01ad627244576e363c2?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Aug 22 |
 | **[PayPal](https://www.paypal.com/home)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68a8bed8758f2e4ac3ff4de0?utm_campaign=1079&utm_source=git)** | San Jose, California, United States of America | Hybrid | Aug 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dynamic Catholic](https://dynamiccatholic.com/)** | **[Internship - Software Developer - Commerce Cloud](https://jobright.ai/jobs/info/68a8bfd26acf96396f722762?utm_campaign=1079&utm_source=git)** | Erlanger, Kentucky | On Site | Aug 22 |
 | **[Nokia](http://www.nokia.com)** | **[Software Development Coop](https://jobright.ai/jobs/info/68a8bedc758f2e4ac3ff4de6?utm_campaign=1079&utm_source=git)** | 520 Almanor Avenue, Sunnyvale, California, 94085, US | On Site | Aug 22 |
 | **[PayPal](https://www.paypal.com/home)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68a8bed96acf96396f722654?utm_campaign=1079&utm_source=git)** | Chicago, Illinois, United States of America | Hybrid | Aug 22 |
-| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/68a8bdf96acf96396f722445?utm_campaign=1079&utm_source=git)** | Austin, Texas, United States of America | Hybrid | Aug 22 |
-| **[Nokia](http://www.nokia.com)** | **[Software Quality Assurance Coop](https://jobright.ai/jobs/info/68a8bdf06acf96396f722433?utm_campaign=1079&utm_source=git)** | 520 Almanor Avenue, Sunnyvale, California, 94085, US | On Site | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
