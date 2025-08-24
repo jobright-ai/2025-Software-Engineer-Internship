@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PHOENIX Pharmahandel GmbH & Co KG](https://www.phoenix-online.de/)** | **[Internship Software Development](https://jobright.ai/jobs/info/68ab4e9fdaf1431824c8ebdd?utm_campaign=1079&utm_source=git)** | Phoenix, AZ | Hybrid | Aug 24 |
+| **[Year Up United](http://yearup.org)** | **[Software Development Career Training Program](https://jobright.ai/jobs/info/68ab4b89758f2e4ac3fff446?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Aug 24 |
+| ↳ | **[Entry Level Application Development Opportunity](https://jobright.ai/jobs/info/68ab48a6daf1431824c8eb84?utm_campaign=1079&utm_source=git)** | Pittsburgh, PA | On Site | Aug 24 |
 | **[The Digital BA](https://thedigitalba.com.au)** | **[AI - Internship Program](https://jobright.ai/jobs/info/68ab09c5daf1431824c8e620?utm_campaign=1079&utm_source=git)** | New York, United States | Remote | Aug 24 |
-| **[MarketEQ](https://www.linkedin.com/company/77759425)** | **[Backend Engineering Internship - Nest.js/Typescript, Postgres, AI/ML](https://jobright.ai/jobs/info/68aafa13758f2e4ac3ffec7a?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 24 |
 | **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[SW Dev and Test Co-op - Fall 2025 - ASL](https://jobright.ai/jobs/info/681cfa19f6c65e3672548bf5?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Aug 24 |
+| **[Nuro](https://nuro.ai)** | **[Software Engineer, Performance - Intern](https://jobright.ai/jobs/info/681b9ee7bfd68f4168190cee?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Aug 24 |
 | **[Business Web Solutions (USA)](https://businesswebsolutions.us/)** | **[Full Stack Web Developer Intern (Remote)](https://jobright.ai/jobs/info/68aab4c9d627244576e3e5b7?utm_campaign=1079&utm_source=git)** | Chicago, Illinois, United States | Remote | Aug 23 |
 | ↳ | **[Full Stack Web Developer Intern (Remote)](https://jobright.ai/jobs/info/68aab4c5d627244576e3e5b5?utm_campaign=1079&utm_source=git)** | Minneapolis, Minnesota, United States | Remote | Aug 23 |
 | ↳ | **[Full Stack Web Developer Intern (Remote)](https://jobright.ai/jobs/info/68aab49ad627244576e3e582?utm_campaign=1079&utm_source=git)** | Little Rock, Arkansas, United States | Remote | Aug 23 |
@@ -128,10 +131,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Development Coop](https://jobright.ai/jobs/info/68a8feb96acf96396f724078?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Aug 22 |
 | **[IBM](http://www.ibm.com)** | **[Software Developer Intern: 2025](https://jobright.ai/jobs/info/68a921bd758f2e4ac3ff785d?utm_campaign=1079&utm_source=git)** | Durham, NC | Hybrid | Aug 22 |
 | ↳ | **[Software Developer Intern: 2025](https://jobright.ai/jobs/info/68a9226d6acf96396f725028?utm_campaign=1079&utm_source=git)** | Rochester, MN | Hybrid | Aug 22 |
-| ↳ | **[Software Developer Intern: 2025](https://jobright.ai/jobs/info/68a8fe1ed627244576e36c8a?utm_campaign=1079&utm_source=git)** | Tucson, AZ | Hybrid | Aug 22 |
+| **[Nokia](http://www.nokia.com)** | **[Software Quality Assurance Coop](https://jobright.ai/jobs/info/68a8fe2f758f2e4ac3ff6844?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Aug 22 |
+| **[IBM](http://www.ibm.com)** | **[Software Developer Intern: 2025](https://jobright.ai/jobs/info/68a8fe1ed627244576e36c8a?utm_campaign=1079&utm_source=git)** | Tucson, AZ | Hybrid | Aug 22 |
 | ↳ | **[Software Developer Intern: 2025](https://jobright.ai/jobs/info/68a8fe0b6acf96396f723ff6?utm_campaign=1079&utm_source=git)** | Poughkeepsie, NY | Hybrid | Aug 22 |
 | ↳ | **[Software Developer Intern: 2025](https://jobright.ai/jobs/info/68a8fa2e758f2e4ac3ff66d8?utm_campaign=1079&utm_source=git)** | Sandy Springs, GA | Hybrid | Aug 22 |
-| **[Nokia](http://www.nokia.com)** | **[Software Quality Assurance Coop](https://jobright.ai/jobs/info/68a8fa26758f2e4ac3ff66d1?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Aug 22 |
 | **[Copart](http://www.copart.com)** | **[Mobile Developer Intern (AI / ML)](https://jobright.ai/jobs/info/688bdb123a30793eb963e437?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Aug 22 |
 | **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Enterprise Quality Management Summer Intern](https://jobright.ai/jobs/info/68a8e4496acf96396f723998?utm_campaign=1079&utm_source=git)** | Chicago - 125 S Franklin | Hybrid | Aug 22 |
 | ↳ | **[Platform Engineering Summer Intern](https://jobright.ai/jobs/info/68a8e4056acf96396f72397d?utm_campaign=1079&utm_source=git)** | Chicago - 125 S Franklin | Hybrid | Aug 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MITRE](http://www.mitre.org)** | **[Internships in Computer Science or Software Engineering](https://jobright.ai/jobs/info/68a8ca98758f2e4ac3ff55d9?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Aug 22 |
 | **[Covestro](https://www.covestro.com)** | **[IT&D Intern](https://jobright.ai/jobs/info/68a8c79fd627244576e357aa?utm_campaign=1079&utm_source=git)** | Pittsburgh, PA | On Site | Aug 22 |
 | **[Digital Factory, Inc.](https://dgtl-factory.com/)** | **[ANDROID DEVELOPER INTERNSHIP (UNPAID)](https://jobright.ai/jobs/info/68a8c4c06acf96396f72295e?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Aug 22 |
-| **[Dynamic Catholic](https://dynamiccatholic.com/)** | **[Internship - Software Developer - Commerce Cloud](https://jobright.ai/jobs/info/68a8bfd26acf96396f722762?utm_campaign=1079&utm_source=git)** | Erlanger, Kentucky | On Site | Aug 22 |
-| **[Nokia](http://www.nokia.com)** | **[Software Development Coop](https://jobright.ai/jobs/info/68a8bedc758f2e4ac3ff4de6?utm_campaign=1079&utm_source=git)** | 520 Almanor Avenue, Sunnyvale, California, 94085, US | On Site | Aug 22 |
-| **[PayPal](https://www.paypal.com/home)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68a8bed96acf96396f722654?utm_campaign=1079&utm_source=git)** | Chicago, Illinois, United States of America | Hybrid | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
