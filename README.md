@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Digital BA](https://thedigitalba.com.au)** | **[AI - Internship Program](https://jobright.ai/jobs/info/68ab09c5daf1431824c8e620?utm_campaign=1079&utm_source=git)** | New York, United States | Remote | Aug 24 |
 | **[MarketEQ](https://www.linkedin.com/company/77759425)** | **[Backend Engineering Internship - Nest.js/Typescript, Postgres, AI/ML](https://jobright.ai/jobs/info/68aafa13758f2e4ac3ffec7a?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 24 |
 | **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[SW Dev and Test Co-op - Fall 2025 - ASL](https://jobright.ai/jobs/info/681cfa19f6c65e3672548bf5?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Aug 24 |
 | **[Business Web Solutions (USA)](https://businesswebsolutions.us/)** | **[Full Stack Web Developer Intern (Remote)](https://jobright.ai/jobs/info/68aab4c9d627244576e3e5b7?utm_campaign=1079&utm_source=git)** | Chicago, Illinois, United States | Remote | Aug 23 |
@@ -79,8 +80,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Full Stack Web Developer Intern (Remote)](https://jobright.ai/jobs/info/68aab41adaf1431824c8d953?utm_campaign=1079&utm_source=git)** | New Orleans, Louisiana, United States | Remote | Aug 23 |
 | ↳ | **[Full Stack Web Developer Intern (Remote)](https://jobright.ai/jobs/info/68aab24e758f2e4ac3ffe214?utm_campaign=1079&utm_source=git)** | Birmingham, Alabama, United States | Remote | Aug 23 |
 | ↳ | **[Full Stack Web Developer Intern (Remote)](https://jobright.ai/jobs/info/68aab20c758f2e4ac3ffe1af?utm_campaign=1079&utm_source=git)** | Manchester, New Hampshire, United States | Remote | Aug 23 |
-| ↳ | **[Full Stack Web Developer Intern (Remote)](https://jobright.ai/jobs/info/68aab1ff758f2e4ac3ffe1a2?utm_campaign=1079&utm_source=git)** | Jackson, Mississippi, United States | Remote | Aug 23 |
 | ↳ | **[Full Stack Web Developer Intern (Remote)](https://jobright.ai/jobs/info/68aab1ff758f2e4ac3ffe1a3?utm_campaign=1079&utm_source=git)** | Indianapolis, Indiana, United States | Remote | Aug 23 |
+| ↳ | **[Full Stack Web Developer Intern (Remote)](https://jobright.ai/jobs/info/68aab1ff758f2e4ac3ffe1a2?utm_campaign=1079&utm_source=git)** | Jackson, Mississippi, United States | Remote | Aug 23 |
 | ↳ | **[Full Stack Web Developer Intern (Remote)](https://jobright.ai/jobs/info/68aab1fa758f2e4ac3ffe19b?utm_campaign=1079&utm_source=git)** | Baltimore, Maryland, United States | Remote | Aug 23 |
 | ↳ | **[Full Stack Web Developer Intern (Remote)](https://jobright.ai/jobs/info/68aab1e7758f2e4ac3ffe18f?utm_campaign=1079&utm_source=git)** | Portland, Maine, United States | Remote | Aug 23 |
 | ↳ | **[Full Stack Web Developer Intern (Remote)](https://jobright.ai/jobs/info/68aab1da758f2e4ac3ffe17e?utm_campaign=1079&utm_source=git)** | Detroit, Michigan, United States | Remote | Aug 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PayPal](https://www.paypal.com/home)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68a8bed96acf96396f722654?utm_campaign=1079&utm_source=git)** | Chicago, Illinois, United States of America | Hybrid | Aug 22 |
 | ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/68a8bdf96acf96396f722445?utm_campaign=1079&utm_source=git)** | Austin, Texas, United States of America | Hybrid | Aug 22 |
 | **[Nokia](http://www.nokia.com)** | **[Software Quality Assurance Coop](https://jobright.ai/jobs/info/68a8bdf06acf96396f722433?utm_campaign=1079&utm_source=git)** | 520 Almanor Avenue, Sunnyvale, California, 94085, US | On Site | Aug 22 |
-| **[PayPal](https://www.paypal.com/home)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68a8bdcd758f2e4ac3ff4b33?utm_campaign=1079&utm_source=git)** | Omaha, Nebraska, United States of America | Hybrid | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
