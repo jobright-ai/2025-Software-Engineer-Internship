@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Joinrs](http://www.tutored.me)** | **[[Full Remote] Junior Web Developer](https://jobright.ai/jobs/info/68ac29a8daf1431824c93e89?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 25 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[2026 QA/Soft Dev in Test paid intern (Jan and May hires)](https://jobright.ai/jobs/info/68ac2183d627244576e449b4?utm_campaign=1079&utm_source=git)** | Riverton, UT, United States | Hybrid | Aug 25 |
+| ↳ | **[2026 Software Engineer paid intern (Jan and May hires)](https://jobright.ai/jobs/info/68ac2140daf1431824c93da2?utm_campaign=1079&utm_source=git)** | Riverton, UT, United States | Hybrid | Aug 25 |
+| ↳ | **[2026 Web Developer paid intern (Jan and May hires)](https://jobright.ai/jobs/info/68ac20fddaf1431824c93d7d?utm_campaign=1079&utm_source=git)** | Riverton, UT, United States | On Site | Aug 25 |
 | **[PwC](http://pwc.com)** | **[Cloud Engineering, Data & Analytics  - Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68abf7d2daf1431824c929c6?utm_campaign=1079&utm_source=git)** | IL-Chicago | On Site | Aug 25 |
 | ↳ | **[Cloud Engineering, Data & Analytics  - Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68abf79cdaf1431824c92991?utm_campaign=1079&utm_source=git)** | NY-New York | On Site | Aug 25 |
 | ↳ | **[Cloud Engineering, Data & Analytics  - Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68abf7cddaf1431824c929c1?utm_campaign=1079&utm_source=git)** | IL-Rosemont | On Site | Aug 25 |
 | ↳ | **[Cloud Engineering, Data & Analytics  - Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68abf7d2daf1431824c929c7?utm_campaign=1079&utm_source=git)** | WA-Seattle | On Site | Aug 25 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68ac1348758f2e4ac300434e?utm_campaign=1079&utm_source=git)** | Roseville, CA | On Site | Aug 25 |
-| **[Cygentic AI](https://cygentic.infy.uk)** | **[web developers internships](https://jobright.ai/jobs/info/68ac1178d627244576e444f9?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 25 |
 | **[PwC](http://pwc.com)** | **[Cloud Engineering, Data & Analytics  - Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68abf60dd627244576e43582?utm_campaign=1079&utm_source=git)** | TX-Dallas | On Site | Aug 24 |
 | ↳ | **[Cloud Engineering, Data & Analytics  - Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68abf608d627244576e43579?utm_campaign=1079&utm_source=git)** | DC-Washington | On Site | Aug 24 |
 | ↳ | **[Cloud Engineering, Data & Analytics  - Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68abf5f2758f2e4ac3003200?utm_campaign=1079&utm_source=git)** | MN-Minneapolis | On Site | Aug 24 |
@@ -82,9 +85,8 @@ For a complete list, click the following sortable link below:
 | **[Johnson & Johnson (JNJ)](https://www.linkedin.com/company/105928786)** | **[Technology 2026 Summer Internship](https://jobright.ai/jobs/info/68abefd7d627244576e42652?utm_campaign=1079&utm_source=git)** | Palm Beach Gardens, Florida, United States of America | Hybrid | Aug 24 |
 | ↳ | **[Technology 2026 Summer Internship](https://jobright.ai/jobs/info/68abef80758f2e4ac30021f6?utm_campaign=1079&utm_source=git)** | Santa Clara, California, United States of America | Hybrid | Aug 24 |
 | ↳ | **[Technology 2026 Summer Internship](https://jobright.ai/jobs/info/68abed7dd627244576e41cb6?utm_campaign=1079&utm_source=git)** | Irvine, California, United States of America | Hybrid | Aug 24 |
+| **[Sigma](http://sigmacomputing.com)** | **[Software Engineer (New Grad Program)](https://jobright.ai/jobs/info/6868cba735584b654279a717?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Aug 24 |
 | **[Readily](https://readily.co)** | **[🚀 Full-Stack Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68abce40758f2e4ac3000b33?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Aug 24 |
-| **[Year Up United](http://yearup.org)** | **[Software Development Career Training Program](https://jobright.ai/jobs/info/68ab4b89758f2e4ac3fff446?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Aug 24 |
-| ↳ | **[Entry Level Application Development Opportunity](https://jobright.ai/jobs/info/68ab48a6daf1431824c8eb84?utm_campaign=1079&utm_source=git)** | Pittsburgh, PA | On Site | Aug 24 |
 | **[The Digital BA](https://thedigitalba.com.au)** | **[AI - Internship Program](https://jobright.ai/jobs/info/68ab09c5daf1431824c8e620?utm_campaign=1079&utm_source=git)** | New York, United States | Remote | Aug 24 |
 | **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[SW Dev and Test Co-op - Fall 2025 - ASL](https://jobright.ai/jobs/info/681cfa19f6c65e3672548bf5?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Aug 24 |
 | **[Nuro](https://nuro.ai)** | **[Software Engineer, Performance - Intern](https://jobright.ai/jobs/info/681b9ee7bfd68f4168190cee?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Aug 24 |
@@ -110,8 +112,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Full Stack Web Developer Intern (Remote)](https://jobright.ai/jobs/info/68aab41adaf1431824c8d953?utm_campaign=1079&utm_source=git)** | New Orleans, Louisiana, United States | Remote | Aug 23 |
 | ↳ | **[Full Stack Web Developer Intern (Remote)](https://jobright.ai/jobs/info/68aab24e758f2e4ac3ffe214?utm_campaign=1079&utm_source=git)** | Birmingham, Alabama, United States | Remote | Aug 23 |
 | ↳ | **[Full Stack Web Developer Intern (Remote)](https://jobright.ai/jobs/info/68aab20c758f2e4ac3ffe1af?utm_campaign=1079&utm_source=git)** | Manchester, New Hampshire, United States | Remote | Aug 23 |
-| ↳ | **[Full Stack Web Developer Intern (Remote)](https://jobright.ai/jobs/info/68aab1ff758f2e4ac3ffe1a2?utm_campaign=1079&utm_source=git)** | Jackson, Mississippi, United States | Remote | Aug 23 |
 | ↳ | **[Full Stack Web Developer Intern (Remote)](https://jobright.ai/jobs/info/68aab1ff758f2e4ac3ffe1a3?utm_campaign=1079&utm_source=git)** | Indianapolis, Indiana, United States | Remote | Aug 23 |
+| ↳ | **[Full Stack Web Developer Intern (Remote)](https://jobright.ai/jobs/info/68aab1ff758f2e4ac3ffe1a2?utm_campaign=1079&utm_source=git)** | Jackson, Mississippi, United States | Remote | Aug 23 |
 | ↳ | **[Full Stack Web Developer Intern (Remote)](https://jobright.ai/jobs/info/68aab1fa758f2e4ac3ffe19b?utm_campaign=1079&utm_source=git)** | Baltimore, Maryland, United States | Remote | Aug 23 |
 | ↳ | **[Full Stack Web Developer Intern (Remote)](https://jobright.ai/jobs/info/68aab1e7758f2e4ac3ffe18f?utm_campaign=1079&utm_source=git)** | Portland, Maine, United States | Remote | Aug 23 |
 | ↳ | **[Full Stack Web Developer Intern (Remote)](https://jobright.ai/jobs/info/68aab1da758f2e4ac3ffe17e?utm_campaign=1079&utm_source=git)** | Detroit, Michigan, United States | Remote | Aug 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[JR Capital, LLC](https://www.jrwcap.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68a905f0758f2e4ac3ff6c06?utm_campaign=1079&utm_source=git)** | Scottsdale, AZ | On Site | Aug 22 |
 | **[IBM](http://www.ibm.com)** | **[Software Developer Intern: 2025](https://jobright.ai/jobs/info/68a8ff186acf96396f7240c2?utm_campaign=1079&utm_source=git)** | Lowell, MA | Hybrid | Aug 22 |
 | **[Nokia](http://www.nokia.com)** | **[Deepfield Software Engineer Co-op](https://jobright.ai/jobs/info/68a8fece758f2e4ac3ff68c5?utm_campaign=1079&utm_source=git)** | Ann Arbor, MI | Hybrid | Aug 22 |
-| ↳ | **[Software Development Coop](https://jobright.ai/jobs/info/68a8feb96acf96396f724078?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Aug 22 |
-| **[IBM](http://www.ibm.com)** | **[Software Developer Intern: 2025](https://jobright.ai/jobs/info/68a9226d6acf96396f725028?utm_campaign=1079&utm_source=git)** | Rochester, MN | Hybrid | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
