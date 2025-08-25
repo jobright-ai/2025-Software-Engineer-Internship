@@ -57,6 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Generac](https://www.generac.com/)** | **[Firmware Engineering Intern](https://jobright.ai/jobs/info/68aca0f8daf1431824c96a93?utm_campaign=1079&utm_source=git)** | Waukesha, WI | On Site | Aug 25 |
+| **[CGI](https://www.cgi.com)** | **[Software Developer Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68ac9d93daf1431824c96865?utm_campaign=1079&utm_source=git)** | Fairfax, VA | Hybrid | Aug 25 |
+| ↳ | **[Software Developer Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68ac9c78daf1431824c9673d?utm_campaign=1079&utm_source=git)** | Mobile, AL | Hybrid | Aug 25 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Design Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac9c72758f2e4ac3006fa0?utm_campaign=1079&utm_source=git)** | Delaware, OH | On Site | Aug 25 |
+| **[CGI](https://www.cgi.com)** | **[Software Developer Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68ac9c31758f2e4ac3006f46?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Hybrid | Aug 25 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Software Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac9c2ddaf1431824c966cb?utm_campaign=1079&utm_source=git)** | Delaware, OH | On Site | Aug 25 |
+| **[CGI](https://www.cgi.com)** | **[Software Developer Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68ac9c06daf1431824c966a1?utm_campaign=1079&utm_source=git)** | Birmingham, AL | Hybrid | Aug 25 |
+| **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - AVS Mobile Software Engineer](https://jobright.ai/jobs/info/68ac9b90758f2e4ac3006e9f?utm_campaign=1079&utm_source=git)** | Lincolnshire, IL | On Site | Aug 25 |
+| **[CGI](https://www.cgi.com)** | **[Software Developer Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68ac9af0daf1431824c9655b?utm_campaign=1079&utm_source=git)** | Nashville, TN | Hybrid | Aug 25 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Design Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac9ae1daf1431824c96542?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Aug 25 |
+| **[CGI](https://www.cgi.com)** | **[Software Developer Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68ac9a3ad627244576e472eb?utm_campaign=1079&utm_source=git)** | Chattanooga, TN | Hybrid | Aug 25 |
+| **[Bessemer Trust](http://www.bessemertrust.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68ac9a18758f2e4ac3006d1b?utm_campaign=1079&utm_source=git)** | Woodbridge, NJ | On Site | Aug 25 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Computer Engineering Internship (Summer 2025)](https://jobright.ai/jobs/info/68ac989ed627244576e470ea?utm_campaign=1079&utm_source=git)** | Westerville, OH | On Site | Aug 25 |
+| ↳ | **[Software Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac94a4758f2e4ac3006b5e?utm_campaign=1079&utm_source=git)** | Delaware, OH, United States | On Site | Aug 25 |
+| ↳ | **[Computer Engineering Internship (Summer 2025)](https://jobright.ai/jobs/info/68ac9479758f2e4ac3006b2c?utm_campaign=1079&utm_source=git)** | Westerville, OH, United States | On Site | Aug 25 |
+| ↳ | **[Firmware Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac945f758f2e4ac3006b09?utm_campaign=1079&utm_source=git)** | Delaware, OH, United States | On Site | Aug 25 |
 | **[Docking Robotics](https://www.linkedin.com/company/101489811)** | **[Software Engineer Intern (UNPAID)](https://jobright.ai/jobs/info/68ac8e3fd627244576e46b5c?utm_campaign=1079&utm_source=git)** | Daytona Beach, FL | On Site | Aug 25 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[2026 Software Engineer paid intern (Jan and May hires)](https://jobright.ai/jobs/info/68ac8a4b758f2e4ac300665e?utm_campaign=1079&utm_source=git)** | Riverton, UT | Hybrid | Aug 25 |
 | ↳ | **[2026 Web Developer paid intern (Jan and May hires)](https://jobright.ai/jobs/info/68ac89a3d627244576e469c1?utm_campaign=1079&utm_source=git)** | Riverton, UT | Hybrid | Aug 25 |
@@ -68,15 +84,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineering Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68ac7a33758f2e4ac3005e2d?utm_campaign=1079&utm_source=git)** | Cambridge, MA, USA | On Site | Aug 25 |
 | ↳ | **[Software Engineering Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68ac7a0f758f2e4ac3005e26?utm_campaign=1079&utm_source=git)** | Portland, OR, USA | On Site | Aug 25 |
 | ↳ | **[Software Engineering Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68ac7a03daf1431824c955ae?utm_campaign=1079&utm_source=git)** | Washington D.C., DC, USA | On Site | Aug 25 |
-| ↳ | **[Software Engineering Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68ac79fb758f2e4ac3005e22?utm_campaign=1079&utm_source=git)** | San Bruno, CA, USA | On Site | Aug 25 |
 | ↳ | **[Software Engineering Intern, BS, Summer 2026](https://jobright.ai/jobs/info/68ac79fb758f2e4ac3005e23?utm_campaign=1079&utm_source=git)** | San Bruno, CA, USA | On Site | Aug 25 |
+| ↳ | **[Software Engineering Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68ac79fb758f2e4ac3005e22?utm_campaign=1079&utm_source=git)** | San Bruno, CA, USA | On Site | Aug 25 |
 | ↳ | **[Software Engineering Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68ac79f4758f2e4ac3005e1d?utm_campaign=1079&utm_source=git)** | Atlanta, GA, USA | On Site | Aug 25 |
 | ↳ | **[Software Engineering Intern, BS, Summer 2026](https://jobright.ai/jobs/info/68ac79e7daf1431824c95596?utm_campaign=1079&utm_source=git)** | Austin, TX, USA | On Site | Aug 25 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Design Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac79d2daf1431824c95584?utm_campaign=1079&utm_source=git)** | Delaware, OH, United States | On Site | Aug 25 |
 | **[Google](https://www.google.com)** | **[Software Engineering Intern, BS, Summer 2026](https://jobright.ai/jobs/info/68ac79c8daf1431824c9557e?utm_campaign=1079&utm_source=git)** | Santa Cruz, CA, USA | On Site | Aug 25 |
 | ↳ | **[Software Engineering Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68ac79c1daf1431824c9557c?utm_campaign=1079&utm_source=git)** | Santa Cruz, CA, USA | On Site | Aug 25 |
-| ↳ | **[Software Engineering Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68ac79c0daf1431824c9557b?utm_campaign=1079&utm_source=git)** | Reston, VA, USA | On Site | Aug 25 |
 | ↳ | **[Software Engineering Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68ac79c0daf1431824c95579?utm_campaign=1079&utm_source=git)** | Kirkland, WA, USA | On Site | Aug 25 |
+| ↳ | **[Software Engineering Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68ac79c0daf1431824c9557b?utm_campaign=1079&utm_source=git)** | Reston, VA, USA | On Site | Aug 25 |
 | ↳ | **[Software Engineering Intern, BS, Summer 2026](https://jobright.ai/jobs/info/68ac79c0daf1431824c9557a?utm_campaign=1079&utm_source=git)** | San Diego, CA, USA | On Site | Aug 25 |
 | ↳ | **[Software Engineering Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68ac79bf758f2e4ac3005e18?utm_campaign=1079&utm_source=git)** | Irvine, CA, USA | On Site | Aug 25 |
 | ↳ | **[Software Engineering Intern, BS, Summer 2026](https://jobright.ai/jobs/info/68ac79b8daf1431824c95575?utm_campaign=1079&utm_source=git)** | New York, NY, USA | On Site | Aug 25 |
@@ -128,6 +144,7 @@ For a complete list, click the following sortable link below:
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[2026 Software Engineer paid intern (Jan and May hires)](https://jobright.ai/jobs/info/68ac6faa758f2e4ac30058fc?utm_campaign=1079&utm_source=git)** | Riverton, UT | Hybrid | Aug 25 |
 | ↳ | **[2026 Web Developer paid intern (Jan and May hires)](https://jobright.ai/jobs/info/68ac6f93daf1431824c95109?utm_campaign=1079&utm_source=git)** | Riverton, UT | Hybrid | Aug 25 |
 | **[Almac Group](https://www.almacgroup.com)** | **[Quality Assurance Co-op](https://jobright.ai/jobs/info/68ac6cbf758f2e4ac30058c5?utm_campaign=1079&utm_source=git)** | Audubon, PA | On Site | Aug 25 |
+| **[Palantir Technologies](http://www.palantir.com)** | **[Software Engineer, Internship - Infrastructure](https://jobright.ai/jobs/info/68a4839b541cc3479840be89?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Aug 25 |
 | **[The Digital BA](https://thedigitalba.com.au)** | **[AI - Internship Program - Remote](https://jobright.ai/jobs/info/68ac5ce7758f2e4ac3005259?utm_campaign=1079&utm_source=git)** | New York, United States | Remote | Aug 25 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Embedded Software Engineer Intern](https://jobright.ai/jobs/info/68ac4ed2daf1431824c9462d?utm_campaign=1079&utm_source=git)** | Bridgeton, MO | Hybrid | Aug 25 |
 | **[Joinrs](http://www.tutored.me)** | **[[Full Remote] Junior Web Developer](https://jobright.ai/jobs/info/68ac29a8daf1431824c93e89?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 25 |
@@ -140,21 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PwC](http://pwc.com)** | **[Cloud Engineering, Data & Analytics  - Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68abf608d627244576e43579?utm_campaign=1079&utm_source=git)** | DC-Washington | On Site | Aug 24 |
 | ↳ | **[Cloud Engineering, Data & Analytics  - Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68abf5f2758f2e4ac3003200?utm_campaign=1079&utm_source=git)** | MN-Minneapolis | On Site | Aug 24 |
 | ↳ | **[Cloud Engineering, Data & Analytics  - Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68abf5bcd627244576e4353c?utm_campaign=1079&utm_source=git)** | GA-Atlanta | On Site | Aug 24 |
-| ↳ | **[Cloud Engineering, Data & Analytics  - Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68abf5b0758f2e4ac30031c9?utm_campaign=1079&utm_source=git)** | PA-Philadelphia | On Site | Aug 24 |
-| ↳ | **[Cloud Engineering, Data & Analytics  - Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68abf593d627244576e43523?utm_campaign=1079&utm_source=git)** | TX-Houston | On Site | Aug 24 |
-| **[Johnson & Johnson (JNJ)](https://www.linkedin.com/company/105928786)** | **[Technology 2026 Summer Internship](https://jobright.ai/jobs/info/68abf459daf1431824c9270d?utm_campaign=1079&utm_source=git)** | Fort Washington, Pennsylvania, United States of America | Hybrid | Aug 24 |
-| ↳ | **[Technology 2026 Summer Internship](https://jobright.ai/jobs/info/68abf3d0daf1431824c92461?utm_campaign=1079&utm_source=git)** | Spring House, Pennsylvania, United States of America | Hybrid | Aug 24 |
-| ↳ | **[Technology 2026 Summer Internship](https://jobright.ai/jobs/info/68abf2e6daf1431824c91ff8?utm_campaign=1079&utm_source=git)** | New Brunswick, New Jersey, United States of America | Hybrid | Aug 24 |
-| ↳ | **[Technology 2026 Summer Internship](https://jobright.ai/jobs/info/68abf288758f2e4ac3002e4a?utm_campaign=1079&utm_source=git)** | Titusville, New Jersey, United States of America | Hybrid | Aug 24 |
-| ↳ | **[Technology 2026 Summer Internship](https://jobright.ai/jobs/info/68abf226758f2e4ac3002d1f?utm_campaign=1079&utm_source=git)** | Horsham, Pennsylvania, United States of America | Hybrid | Aug 24 |
-| ↳ | **[Technology 2026 Summer Internship](https://jobright.ai/jobs/info/68abf123daf1431824c91892?utm_campaign=1079&utm_source=git)** | West Chester, Pennsylvania, United States of America | Hybrid | Aug 24 |
-| ↳ | **[Technology 2026 Summer Internship](https://jobright.ai/jobs/info/68abf0e6d627244576e42a1c?utm_campaign=1079&utm_source=git)** | Raritan, New Jersey, United States of America | Hybrid | Aug 24 |
-| ↳ | **[Technology 2026 Summer Internship](https://jobright.ai/jobs/info/68abf0d4d627244576e429ac?utm_campaign=1079&utm_source=git)** | Jacksonville, Florida, United States of America | Hybrid | Aug 24 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WDW Computer Engineering Intern Spring 2026](https://jobright.ai/jobs/info/68abf043d627244576e427f7?utm_campaign=1079&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Aug 24 |
-| **[Johnson & Johnson (JNJ)](https://www.linkedin.com/company/105928786)** | **[Technology 2026 Summer Internship](https://jobright.ai/jobs/info/68abefd7d627244576e42652?utm_campaign=1079&utm_source=git)** | Palm Beach Gardens, Florida, United States of America | Hybrid | Aug 24 |
-| ↳ | **[Technology 2026 Summer Internship](https://jobright.ai/jobs/info/68abef80758f2e4ac30021f6?utm_campaign=1079&utm_source=git)** | Santa Clara, California, United States of America | Hybrid | Aug 24 |
-| ↳ | **[Technology 2026 Summer Internship](https://jobright.ai/jobs/info/68abed7dd627244576e41cb6?utm_campaign=1079&utm_source=git)** | Irvine, California, United States of America | Hybrid | Aug 24 |
-| **[Sigma](http://sigmacomputing.com)** | **[Software Engineer (New Grad Program)](https://jobright.ai/jobs/info/6868cba735584b654279a717?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Aug 24 |
-| **[Readily](https://readily.co)** | **[🚀 Full-Stack Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68abce40758f2e4ac3000b33?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Aug 24 |
-| **[The Digital BA](https://thedigitalba.com.au)** | **[AI - Internship Program](https://jobright.ai/jobs/info/68ab09c5daf1431824c8e620?utm_campaign=1079&utm_source=git)** | New York, United States | Remote | Aug 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
