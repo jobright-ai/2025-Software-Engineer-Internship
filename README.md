@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Readily](https://readily.co)** | **[🚀 Full-Stack Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68abce40758f2e4ac3000b33?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Aug 24 |
 | **[PHOENIX Pharmahandel GmbH & Co KG](https://www.phoenix-online.de/)** | **[Internship Software Development](https://jobright.ai/jobs/info/68ab4e9fdaf1431824c8ebdd?utm_campaign=1079&utm_source=git)** | Phoenix, AZ | Hybrid | Aug 24 |
 | **[Year Up United](http://yearup.org)** | **[Software Development Career Training Program](https://jobright.ai/jobs/info/68ab4b89758f2e4ac3fff446?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Aug 24 |
 | ↳ | **[Entry Level Application Development Opportunity](https://jobright.ai/jobs/info/68ab48a6daf1431824c8eb84?utm_campaign=1079&utm_source=git)** | Pittsburgh, PA | On Site | Aug 24 |
@@ -84,8 +85,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Full Stack Web Developer Intern (Remote)](https://jobright.ai/jobs/info/68aab41adaf1431824c8d953?utm_campaign=1079&utm_source=git)** | New Orleans, Louisiana, United States | Remote | Aug 23 |
 | ↳ | **[Full Stack Web Developer Intern (Remote)](https://jobright.ai/jobs/info/68aab24e758f2e4ac3ffe214?utm_campaign=1079&utm_source=git)** | Birmingham, Alabama, United States | Remote | Aug 23 |
 | ↳ | **[Full Stack Web Developer Intern (Remote)](https://jobright.ai/jobs/info/68aab20c758f2e4ac3ffe1af?utm_campaign=1079&utm_source=git)** | Manchester, New Hampshire, United States | Remote | Aug 23 |
-| ↳ | **[Full Stack Web Developer Intern (Remote)](https://jobright.ai/jobs/info/68aab1ff758f2e4ac3ffe1a2?utm_campaign=1079&utm_source=git)** | Jackson, Mississippi, United States | Remote | Aug 23 |
 | ↳ | **[Full Stack Web Developer Intern (Remote)](https://jobright.ai/jobs/info/68aab1ff758f2e4ac3ffe1a3?utm_campaign=1079&utm_source=git)** | Indianapolis, Indiana, United States | Remote | Aug 23 |
+| ↳ | **[Full Stack Web Developer Intern (Remote)](https://jobright.ai/jobs/info/68aab1ff758f2e4ac3ffe1a2?utm_campaign=1079&utm_source=git)** | Jackson, Mississippi, United States | Remote | Aug 23 |
 | ↳ | **[Full Stack Web Developer Intern (Remote)](https://jobright.ai/jobs/info/68aab1fa758f2e4ac3ffe19b?utm_campaign=1079&utm_source=git)** | Baltimore, Maryland, United States | Remote | Aug 23 |
 | ↳ | **[Full Stack Web Developer Intern (Remote)](https://jobright.ai/jobs/info/68aab1e7758f2e4ac3ffe18f?utm_campaign=1079&utm_source=git)** | Portland, Maine, United States | Remote | Aug 23 |
 | ↳ | **[Full Stack Web Developer Intern (Remote)](https://jobright.ai/jobs/info/68aab1da758f2e4ac3ffe17e?utm_campaign=1079&utm_source=git)** | Detroit, Michigan, United States | Remote | Aug 23 |
@@ -114,7 +115,9 @@ For a complete list, click the following sortable link below:
 | **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Platform Engineering Summer Intern](https://jobright.ai/jobs/info/68a910f06acf96396f7248ee?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Aug 22 |
 | **[Garage (YC W24)](https://www.withgarage.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68a93cc5d627244576e38694?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Aug 22 |
 | **[Waypoint Transit](waypointtransit.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68a938fed627244576e38559?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Aug 22 |
+| **[PayPal](https://www.paypal.com/home)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68abdf00d627244576e4168d?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Aug 22 |
 | **[NVIDIA](http://www.nvidia.com)** | **[Embedded Systems Software Intern, Linux and Jetson - Winter 2026](https://jobright.ai/jobs/info/68a9333ed627244576e382db?utm_campaign=1079&utm_source=git)** | US, CA, Santa Clara | On Site | Aug 22 |
+| **[PayPal](https://www.paypal.com/home)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68abdb05daf1431824c9084d?utm_campaign=1079&utm_source=git)** | Omaha, NE | Hybrid | Aug 22 |
 | **[CreativeMode (YC S24)](https://creativemode.net)** | **[SWE Intern (Summer 2026)](https://jobright.ai/jobs/info/68a9268b6acf96396f7250e9?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Aug 22 |
 | **[Corgi Insurance (YC S24)](https://www.corgi.insure/)** | **[Technical Builder - Summer '26](https://jobright.ai/jobs/info/68a92438d627244576e37cf1?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Aug 22 |
 | **[Mermaid Mind](https://yttomermaid.xyz/)** | **[Beta Tester For Mermaid Mind(volunteer role)](https://jobright.ai/jobs/info/68a916f8758f2e4ac3ff745a?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 22 |
@@ -122,25 +125,25 @@ For a complete list, click the following sortable link below:
 | **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Enterprise Quality Management Summer Intern](https://jobright.ai/jobs/info/68a90fe4758f2e4ac3ff7058?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Aug 22 |
 | **[Skydio](https://www.skydio.com)** | **[Middleware Software Intern - Jan-April 2026](https://jobright.ai/jobs/info/68a90f1f6acf96396f72469b?utm_campaign=1079&utm_source=git)** | San Mateo, CA | On Site | Aug 22 |
 | **[Hunter Engineering Company](http://www.hunter.com)** | **[Software Engineering Co-Op](https://jobright.ai/jobs/info/68a90e8b6acf96396f7245ab?utm_campaign=1079&utm_source=git)** | Bridgeton, MO | On Site | Aug 22 |
-| **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Year-Round Intern - Software Engineering Risk Analytics](https://jobright.ai/jobs/info/68a90d17d627244576e370cb?utm_campaign=1079&utm_source=git)** | Dallas, TX | Hybrid | Aug 22 |
 | **[WeVote](https://www.WeVote.US)** | **[About UsSenior Software Engineer - Volunteer](https://jobright.ai/jobs/info/68a90d03758f2e4ac3ff6d24?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 22 |
-| **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[UI Dev Summer Intern](https://jobright.ai/jobs/info/68a90baed627244576e36fd5?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Aug 22 |
+| **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Year-Round Intern - Software Engineering Risk Analytics](https://jobright.ai/jobs/info/68a90bded627244576e37001?utm_campaign=1079&utm_source=git)** | Dallas, TX | Hybrid | Aug 22 |
+| ↳ | **[UI Dev Summer Intern](https://jobright.ai/jobs/info/68a90baed627244576e36fd5?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Aug 22 |
 | **[Holcomb Behavioral Health Systems - A Chimes Company](http://www.holcombbhs.org)** | **[IBHS Intern/Extern](https://jobright.ai/jobs/info/68a9081dd627244576e36faa?utm_campaign=1079&utm_source=git)** | Exton, PA | On Site | Aug 22 |
 | **[JR Capital, LLC](https://www.jrwcap.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68a905f0758f2e4ac3ff6c06?utm_campaign=1079&utm_source=git)** | Scottsdale, AZ | On Site | Aug 22 |
 | **[IBM](http://www.ibm.com)** | **[Software Developer Intern: 2025](https://jobright.ai/jobs/info/68a8ff186acf96396f7240c2?utm_campaign=1079&utm_source=git)** | Lowell, MA | Hybrid | Aug 22 |
 | **[Nokia](http://www.nokia.com)** | **[Deepfield Software Engineer Co-op](https://jobright.ai/jobs/info/68a8fece758f2e4ac3ff68c5?utm_campaign=1079&utm_source=git)** | Ann Arbor, MI | Hybrid | Aug 22 |
 | ↳ | **[Software Development Coop](https://jobright.ai/jobs/info/68a8feb96acf96396f724078?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Aug 22 |
-| **[IBM](http://www.ibm.com)** | **[Software Developer Intern: 2025](https://jobright.ai/jobs/info/68a9226d6acf96396f725028?utm_campaign=1079&utm_source=git)** | Rochester, MN | Hybrid | Aug 22 |
-| ↳ | **[Software Developer Intern: 2025](https://jobright.ai/jobs/info/68a921bd758f2e4ac3ff785d?utm_campaign=1079&utm_source=git)** | Durham, NC | Hybrid | Aug 22 |
-| ↳ | **[Software Developer Intern: 2025](https://jobright.ai/jobs/info/68a8fe1ed627244576e36c8a?utm_campaign=1079&utm_source=git)** | Tucson, AZ | Hybrid | Aug 22 |
+| **[IBM](http://www.ibm.com)** | **[Software Developer Intern: 2025](https://jobright.ai/jobs/info/68a921bd758f2e4ac3ff785d?utm_campaign=1079&utm_source=git)** | Durham, NC | Hybrid | Aug 22 |
+| ↳ | **[Software Developer Intern: 2025](https://jobright.ai/jobs/info/68a9226d6acf96396f725028?utm_campaign=1079&utm_source=git)** | Rochester, MN | Hybrid | Aug 22 |
+| **[Nokia](http://www.nokia.com)** | **[Software Quality Assurance Coop](https://jobright.ai/jobs/info/68a8fe2f758f2e4ac3ff6844?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Aug 22 |
+| **[IBM](http://www.ibm.com)** | **[Software Developer Intern: 2025](https://jobright.ai/jobs/info/68a8fe1ed627244576e36c8a?utm_campaign=1079&utm_source=git)** | Tucson, AZ | Hybrid | Aug 22 |
 | ↳ | **[Software Developer Intern: 2025](https://jobright.ai/jobs/info/68a8fe0b6acf96396f723ff6?utm_campaign=1079&utm_source=git)** | Poughkeepsie, NY | Hybrid | Aug 22 |
 | ↳ | **[Software Developer Intern: 2025](https://jobright.ai/jobs/info/68a8fa2e758f2e4ac3ff66d8?utm_campaign=1079&utm_source=git)** | Sandy Springs, GA | Hybrid | Aug 22 |
-| **[Nokia](http://www.nokia.com)** | **[Software Quality Assurance Coop](https://jobright.ai/jobs/info/68a8fa26758f2e4ac3ff66d1?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Aug 22 |
 | **[Copart](http://www.copart.com)** | **[Mobile Developer Intern (AI / ML)](https://jobright.ai/jobs/info/688bdb123a30793eb963e437?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Aug 22 |
-| **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Year-Round Intern - Software Engineering Risk Analytics](https://jobright.ai/jobs/info/68a8e4be758f2e4ac3ff6161?utm_campaign=1079&utm_source=git)** | Dallas, TX | Hybrid | Aug 22 |
-| ↳ | **[Enterprise Quality Management Summer Intern](https://jobright.ai/jobs/info/68a8e4496acf96396f723998?utm_campaign=1079&utm_source=git)** | Chicago - 125 S Franklin | Hybrid | Aug 22 |
+| **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Enterprise Quality Management Summer Intern](https://jobright.ai/jobs/info/68a8e4496acf96396f723998?utm_campaign=1079&utm_source=git)** | Chicago - 125 S Franklin | Hybrid | Aug 22 |
 | ↳ | **[Platform Engineering Summer Intern](https://jobright.ai/jobs/info/68a8e4056acf96396f72397d?utm_campaign=1079&utm_source=git)** | Chicago - 125 S Franklin | Hybrid | Aug 22 |
 | ↳ | **[UI Dev Summer Intern](https://jobright.ai/jobs/info/68a8e3bdd627244576e36521?utm_campaign=1079&utm_source=git)** | Chicago - 125 S Franklin | Hybrid | Aug 22 |
+| ↳ | **[Year-Round Intern - Software Engineering Risk Analytics](https://jobright.ai/jobs/info/68a8e39a6acf96396f723920?utm_campaign=1079&utm_source=git)** | Dallas, TX | Hybrid | Aug 22 |
 | **[Metronome](https://metronome.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68a8e366758f2e4ac3ff6126?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Aug 22 |
 | **[PayPal](https://www.paypal.com/home)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68a8bed8758f2e4ac3ff4de0?utm_campaign=1079&utm_source=git)** | San Jose, California, United States of America | Hybrid | Aug 22 |
 | **[Hunter Engineering Company](http://www.hunter.com)** | **[Software Engineering Co-Op](https://jobright.ai/jobs/info/68a910726acf96396f724867?utm_campaign=1079&utm_source=git)** | Bridgeton, MO | On Site | Aug 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sigma](http://sigmacomputing.com)** | **[Software Engineer (New Grad Program)](https://jobright.ai/jobs/info/6868cba735584b654279a717?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Aug 22 |
 | **[RGTN® Enables - Two-way Voice/SMS DID services](https://www.rgtn.com)** | **[Software Developer (Internship)](https://jobright.ai/jobs/info/68a8cb896acf96396f722dd2?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Aug 22 |
 | **[MITRE](http://www.mitre.org)** | **[Internships in Computer Science or Software Engineering](https://jobright.ai/jobs/info/68a8cb6f6acf96396f722db7?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Aug 22 |
-| **[Hunter Engineering Company](http://www.hunter.com)** | **[Computer Science Co-Op](https://jobright.ai/jobs/info/68a8cb216acf96396f722d7d?utm_campaign=1079&utm_source=git)** | Bridgeton, MO | On Site | Aug 22 |
-| **[MITRE](http://www.mitre.org)** | **[Internships in Computer Science or Software Engineering](https://jobright.ai/jobs/info/68a8ca98758f2e4ac3ff55d9?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Aug 22 |
-| **[Covestro](https://www.covestro.com)** | **[IT&D Intern](https://jobright.ai/jobs/info/68a8c79fd627244576e357aa?utm_campaign=1079&utm_source=git)** | Pittsburgh, PA | On Site | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
