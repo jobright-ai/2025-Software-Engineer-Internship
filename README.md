@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Branvia Growth Partners](https://www.linkedin.com/company/108576505)** | **[Reviewers of Webapps](https://jobright.ai/jobs/info/68ab611ad627244576e3f93e?utm_campaign=1079&utm_source=git)** | San Diego, CA | Remote | Aug 24 |
 | **[PHOENIX Pharmahandel GmbH & Co KG](https://www.phoenix-online.de/)** | **[Internship Software Development](https://jobright.ai/jobs/info/68ab4e9fdaf1431824c8ebdd?utm_campaign=1079&utm_source=git)** | Phoenix, AZ | Hybrid | Aug 24 |
 | **[Year Up United](http://yearup.org)** | **[Software Development Career Training Program](https://jobright.ai/jobs/info/68ab4b89758f2e4ac3fff446?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Aug 24 |
 | ↳ | **[Entry Level Application Development Opportunity](https://jobright.ai/jobs/info/68ab48a6daf1431824c8eb84?utm_campaign=1079&utm_source=git)** | Pittsburgh, PA | On Site | Aug 24 |
@@ -131,21 +130,22 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Software Developer Intern: 2025](https://jobright.ai/jobs/info/68a8ff186acf96396f7240c2?utm_campaign=1079&utm_source=git)** | Lowell, MA | Hybrid | Aug 22 |
 | **[Nokia](http://www.nokia.com)** | **[Deepfield Software Engineer Co-op](https://jobright.ai/jobs/info/68a8fece758f2e4ac3ff68c5?utm_campaign=1079&utm_source=git)** | Ann Arbor, MI | Hybrid | Aug 22 |
 | ↳ | **[Software Development Coop](https://jobright.ai/jobs/info/68a8feb96acf96396f724078?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Aug 22 |
-| **[IBM](http://www.ibm.com)** | **[Software Developer Intern: 2025](https://jobright.ai/jobs/info/68a9226d6acf96396f725028?utm_campaign=1079&utm_source=git)** | Rochester, MN | Hybrid | Aug 22 |
-| ↳ | **[Software Developer Intern: 2025](https://jobright.ai/jobs/info/68a921bd758f2e4ac3ff785d?utm_campaign=1079&utm_source=git)** | Durham, NC | Hybrid | Aug 22 |
-| ↳ | **[Software Developer Intern: 2025](https://jobright.ai/jobs/info/68a8fe1ed627244576e36c8a?utm_campaign=1079&utm_source=git)** | Tucson, AZ | Hybrid | Aug 22 |
+| **[IBM](http://www.ibm.com)** | **[Software Developer Intern: 2025](https://jobright.ai/jobs/info/68a921bd758f2e4ac3ff785d?utm_campaign=1079&utm_source=git)** | Durham, NC | Hybrid | Aug 22 |
+| ↳ | **[Software Developer Intern: 2025](https://jobright.ai/jobs/info/68a9226d6acf96396f725028?utm_campaign=1079&utm_source=git)** | Rochester, MN | Hybrid | Aug 22 |
+| **[Nokia](http://www.nokia.com)** | **[Software Quality Assurance Coop](https://jobright.ai/jobs/info/68a8fe2f758f2e4ac3ff6844?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Aug 22 |
+| **[IBM](http://www.ibm.com)** | **[Software Developer Intern: 2025](https://jobright.ai/jobs/info/68a8fe1ed627244576e36c8a?utm_campaign=1079&utm_source=git)** | Tucson, AZ | Hybrid | Aug 22 |
 | ↳ | **[Software Developer Intern: 2025](https://jobright.ai/jobs/info/68a8fe0b6acf96396f723ff6?utm_campaign=1079&utm_source=git)** | Poughkeepsie, NY | Hybrid | Aug 22 |
 | ↳ | **[Software Developer Intern: 2025](https://jobright.ai/jobs/info/68a8fa2e758f2e4ac3ff66d8?utm_campaign=1079&utm_source=git)** | Sandy Springs, GA | Hybrid | Aug 22 |
-| **[Nokia](http://www.nokia.com)** | **[Software Quality Assurance Coop](https://jobright.ai/jobs/info/68a8fa26758f2e4ac3ff66d1?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Aug 22 |
 | **[Copart](http://www.copart.com)** | **[Mobile Developer Intern (AI / ML)](https://jobright.ai/jobs/info/688bdb123a30793eb963e437?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Aug 22 |
-| **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Year-Round Intern - Software Engineering Risk Analytics](https://jobright.ai/jobs/info/68a8e4be758f2e4ac3ff6161?utm_campaign=1079&utm_source=git)** | Dallas, TX | Hybrid | Aug 22 |
-| ↳ | **[Enterprise Quality Management Summer Intern](https://jobright.ai/jobs/info/68a8e4496acf96396f723998?utm_campaign=1079&utm_source=git)** | Chicago - 125 S Franklin | Hybrid | Aug 22 |
+| **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Enterprise Quality Management Summer Intern](https://jobright.ai/jobs/info/68a8e4496acf96396f723998?utm_campaign=1079&utm_source=git)** | Chicago - 125 S Franklin | Hybrid | Aug 22 |
 | ↳ | **[Platform Engineering Summer Intern](https://jobright.ai/jobs/info/68a8e4056acf96396f72397d?utm_campaign=1079&utm_source=git)** | Chicago - 125 S Franklin | Hybrid | Aug 22 |
 | ↳ | **[UI Dev Summer Intern](https://jobright.ai/jobs/info/68a8e3bdd627244576e36521?utm_campaign=1079&utm_source=git)** | Chicago - 125 S Franklin | Hybrid | Aug 22 |
+| ↳ | **[Year-Round Intern - Software Engineering Risk Analytics](https://jobright.ai/jobs/info/68a8e39a6acf96396f723920?utm_campaign=1079&utm_source=git)** | Dallas, TX | Hybrid | Aug 22 |
 | **[Metronome](https://metronome.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68a8e366758f2e4ac3ff6126?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Aug 22 |
 | **[PayPal](https://www.paypal.com/home)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68a8bed8758f2e4ac3ff4de0?utm_campaign=1079&utm_source=git)** | San Jose, California, United States of America | Hybrid | Aug 22 |
 | **[Hunter Engineering Company](http://www.hunter.com)** | **[Software Engineering Co-Op](https://jobright.ai/jobs/info/68a910726acf96396f724867?utm_campaign=1079&utm_source=git)** | Bridgeton, MO | On Site | Aug 22 |
 | **[Skydio](https://www.skydio.com)** | **[Middleware Software Intern - Jan-April 2026](https://jobright.ai/jobs/info/68a8d6af758f2e4ac3ff5be9?utm_campaign=1079&utm_source=git)** | San Mateo, California, United States | On Site | Aug 22 |
+| **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Software Engineer (SkillBridge Intern) - 23875](https://jobright.ai/jobs/info/6870878d06ad7073463be6f7?utm_campaign=1079&utm_source=git)** | Greater Roanoke Area | On Site | Aug 22 |
 | **[MITRE](http://www.mitre.org)** | **[Internships in Computer Science or Software Engineering](https://jobright.ai/jobs/info/68a8d1196acf96396f72307a?utm_campaign=1079&utm_source=git)** | McLean, VA | On Site | Aug 22 |
 | ↳ | **[Internships in Computer Science or Software Engineering](https://jobright.ai/jobs/info/68a8d0c96acf96396f72303e?utm_campaign=1079&utm_source=git)** | Tampa, FL | On Site | Aug 22 |
 | ↳ | **[Internships in Computer Science or Software Engineering](https://jobright.ai/jobs/info/68a8cea7d627244576e35b7a?utm_campaign=1079&utm_source=git)** | Quantico, VA | On Site | Aug 22 |
