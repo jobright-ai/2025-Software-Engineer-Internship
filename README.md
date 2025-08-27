@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Information Systems Assurance - Summer 2026 (Dallas)](https://jobright.ai/jobs/info/68918c444c7e851b90acfda7?utm_campaign=1079&utm_source=git)** | Dallas, TX | Hybrid | Aug 26 |
 | **[Dropbox](https://www.dropbox.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/68ad35f4758f2e4ac300bc4f?utm_campaign=1079&utm_source=git)** | Remote - US: All locations | Remote | Aug 26 |
 | **[CrowdVolt](https://www.crowdvolt.com)** | **[Full-Stack Engineer Intern](https://jobright.ai/jobs/info/68ad64d8758f2e4ac300d50b?utm_campaign=1079&utm_source=git)** | New York, NY, US | On Site | Aug 26 |
-| **[ByteDance](http://bytedance.com)** | **[Frontend Software Engineer Intern (Web and Client) - Global Payment - 2026 Summer(BS/MS)](https://jobright.ai/jobs/info/68ad812e758f2e4ac300da2f?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 25 |
+| **[CGI](https://www.cgi.com)** | **[Software Developer Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68aecfef2daaba398441a6d5?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Hybrid | Aug 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
