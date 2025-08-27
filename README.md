@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Software Engineering Co-op (January through June)](https://jobright.ai/jobs/info/68ae99a52daaba3984418dd9?utm_campaign=1079&utm_source=git)** | Madison Hall, TN | On Site | Aug 26 |
+| **[Analog Devices](http://www.analog.com)** | **[Embedded Software Intern](https://jobright.ai/jobs/info/68aea9882daaba39844196d2?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Aug 26 |
+| **[Ember](https://www.embercopilot.ai)** | **[Full Stack Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68aea9572daaba398441968b?utm_campaign=1079&utm_source=git)** | San Francisco, CA, US | On Site | Aug 26 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: System Quality Assurance Co-op, Robots (January through June)](https://jobright.ai/jobs/info/68ae9f757bcb7608b3d28790?utm_campaign=1079&utm_source=git)** | Needham, MA | On Site | Aug 26 |
+| ↳ | **[Spring 2026: Mobile App Developer Co-op (January through June)](https://jobright.ai/jobs/info/68ae9f2f03c5f15c2fd8a795?utm_campaign=1079&utm_source=git)** | Needham, MA | Hybrid | Aug 26 |
+| ↳ | **[Spring 2026: Software Engineering Co-op (January through June)](https://jobright.ai/jobs/info/68ae99a52daaba3984418dd9?utm_campaign=1079&utm_source=git)** | Madison Hall, TN | On Site | Aug 26 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - Information Technology](https://jobright.ai/jobs/info/68ae9572a782bf3e930545f0?utm_campaign=1079&utm_source=git)** | Lincolnshire, IL | On Site | Aug 26 |
 | ↳ | **[2026 Summer Internship (US) - Software Engineer Mobile Computing](https://jobright.ai/jobs/info/68ae9519ad2cb63e8b29ed45?utm_campaign=1079&utm_source=git)** | Holtsville, NY | On Site | Aug 26 |
 | **[Analog Devices](http://www.analog.com)** | **[Embedded Software Intern](https://jobright.ai/jobs/info/68ae890cd627244576e54bef?utm_campaign=1079&utm_source=git)** | US, MA, Boston | On Site | Aug 26 |
@@ -113,11 +117,11 @@ For a complete list, click the following sortable link below:
 | **[Eastman Kodak Company](http://kodak.com)** | **[Web Development Intern](https://jobright.ai/jobs/info/68ae12e4daf1431824ca098f?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 26 |
 | **[Prox Shopping](www.joinprox.com)** | **[Software Engineer Intern (Unpaid)](https://jobright.ai/jobs/info/68ae1247d627244576e5163b?utm_campaign=1079&utm_source=git)** | West Hollywood, CA | Hybrid | Aug 26 |
 | **[Herc Rentals](http://www.HercRentals.com)** | **[Information Technology Intern - Digital Engineering](https://jobright.ai/jobs/info/68a32df5403ad4363b1befde?utm_campaign=1079&utm_source=git)** | Bonita Springs, FL | On Site | Aug 26 |
-| **[Tenon](https://www.tenonhq.com)** | **[Software Engineer Xtern](https://jobright.ai/jobs/info/68ae0e2d758f2e4ac3010e2c?utm_campaign=1079&utm_source=git)** | Indianapolis, IN | On Site | Aug 26 |
 | **[Ameritas](http://www.ameritas.com)** | **[IT Intern - TechTrek Program](https://jobright.ai/jobs/info/68ae0a5c758f2e4ac3010c66?utm_campaign=1079&utm_source=git)** | Lincoln, NE | Hybrid | Aug 26 |
 | **[RTX](http://www.raytheon.com)** | **[Software Engineer Intern (Summer 2026)(Onsite)](https://jobright.ai/jobs/info/68ae0640758f2e4ac3010712?utm_campaign=1079&utm_source=git)** | HNC32: US096-Winston-Salem (Oak Plaza 190 Oak Plaza Boulevard  , Winston-Salem, NC, 27105 USA | On Site | Aug 26 |
 | **[FleetWorks](http://www.fleetworks.ai)** | **[Summer 2026: Software Engineering Intern](https://jobright.ai/jobs/info/68ae04e0d627244576e50cf0?utm_campaign=1079&utm_source=git)** | San Francisco, CA, US | On Site | Aug 26 |
 | **[Hilltop Securities Inc.](https://www.hilltopsecurities.com)** | **[Intern - Risk](https://jobright.ai/jobs/info/68ae0407758f2e4ac3010445?utm_campaign=1079&utm_source=git)** | Dallas, TX, United States | On Site | Aug 26 |
+| **[Tenon](https://www.tenonhq.com)** | **[Software Engineer Xtern](https://jobright.ai/jobs/info/68ae01ac758f2e4ac30101de?utm_campaign=1079&utm_source=git)** | Indianapolis, IN | On Site | Aug 26 |
 | **[Caesar Creek Software, Inc.](http://www.cc-sw.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68adff09daf1431824c9f95b?utm_campaign=1079&utm_source=git)** | Miamisburg, OH | Hybrid | Aug 26 |
 | **[PACSUN](http://www.pacsun.com/)** | **[eCommerce QA Temp](https://jobright.ai/jobs/info/68adfc56daf1431824c9f6f2?utm_campaign=1079&utm_source=git)** | Anaheim, CA | On Site | Aug 26 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Software Engineer Intern (Engineering Intern 3) - 25216](https://jobright.ai/jobs/info/68adf775d627244576e503d5?utm_campaign=1079&utm_source=git)** | Hanover, MD | On Site | Aug 26 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dropbox](https://www.dropbox.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/68ad35f4758f2e4ac300bc4f?utm_campaign=1079&utm_source=git)** | Remote - US: All locations | Remote | Aug 26 |
 | **[CrowdVolt](https://www.crowdvolt.com)** | **[Full-Stack Engineer Intern](https://jobright.ai/jobs/info/68ad64d8758f2e4ac300d50b?utm_campaign=1079&utm_source=git)** | New York, NY, US | On Site | Aug 26 |
 | **[ByteDance](http://bytedance.com)** | **[Frontend Software Engineer Intern (Web and Client) - Global Payment - 2026 Summer(BS/MS)](https://jobright.ai/jobs/info/68ad812e758f2e4ac300da2f?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 25 |
-| **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - Software Engineering, Handheld Mobile Computer](https://jobright.ai/jobs/info/68ad535ad627244576e4ced6?utm_campaign=1079&utm_source=git)** | Holtsville, NY | On Site | Aug 25 |
-| **[Dropbox](https://www.dropbox.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/68ad4479758f2e4ac300c79a?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 25 |
-| **[PNC](http://www.pnc.com)** | **[Technology Summer Intern](https://jobright.ai/jobs/info/68ad5c52daf1431824c9c4dc?utm_campaign=1079&utm_source=git)** | Pittsburgh, PA | On Site | Aug 25 |
-| **[TransPerfect](http://www.transperfect.com)** | **[Internship QA Analyst](https://jobright.ai/jobs/info/68ad3ace758f2e4ac300be41?utm_campaign=1079&utm_source=git)** | NYC Metro Area | On Site | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
