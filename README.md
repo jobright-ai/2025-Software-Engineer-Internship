@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BILL](http://www.bill.com)** | **[2026 Campus Recruiting: Software Engineer Intern](https://jobright.ai/jobs/info/6875cfecae2f413e4a5a9ea4?utm_campaign=1079&utm_source=git)** | Draper, UT | On Site | Aug 27 |
 | **[Analog Devices](http://www.analog.com)** | **[Embedded Software Intern](https://jobright.ai/jobs/info/68aea9882daaba39844196d2?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Aug 26 |
 | **[Ember](https://www.embercopilot.ai)** | **[Full Stack Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68aea9572daaba398441968b?utm_campaign=1079&utm_source=git)** | San Francisco, CA, US | On Site | Aug 26 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: System Quality Assurance Co-op, Robots (January through June)](https://jobright.ai/jobs/info/68ae9f757bcb7608b3d28790?utm_campaign=1079&utm_source=git)** | Needham, MA | On Site | Aug 26 |
@@ -117,11 +118,11 @@ For a complete list, click the following sortable link below:
 | **[Eastman Kodak Company](http://kodak.com)** | **[Web Development Intern](https://jobright.ai/jobs/info/68ae12e4daf1431824ca098f?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 26 |
 | **[Prox Shopping](www.joinprox.com)** | **[Software Engineer Intern (Unpaid)](https://jobright.ai/jobs/info/68ae1247d627244576e5163b?utm_campaign=1079&utm_source=git)** | West Hollywood, CA | Hybrid | Aug 26 |
 | **[Herc Rentals](http://www.HercRentals.com)** | **[Information Technology Intern - Digital Engineering](https://jobright.ai/jobs/info/68a32df5403ad4363b1befde?utm_campaign=1079&utm_source=git)** | Bonita Springs, FL | On Site | Aug 26 |
+| **[Tenon](https://www.tenonhq.com)** | **[Software Engineer Xtern](https://jobright.ai/jobs/info/68ae0e2d758f2e4ac3010e2c?utm_campaign=1079&utm_source=git)** | Indianapolis, IN | On Site | Aug 26 |
 | **[Ameritas](http://www.ameritas.com)** | **[IT Intern - TechTrek Program](https://jobright.ai/jobs/info/68ae0a5c758f2e4ac3010c66?utm_campaign=1079&utm_source=git)** | Lincoln, NE | Hybrid | Aug 26 |
 | **[RTX](http://www.raytheon.com)** | **[Software Engineer Intern (Summer 2026)(Onsite)](https://jobright.ai/jobs/info/68ae0640758f2e4ac3010712?utm_campaign=1079&utm_source=git)** | HNC32: US096-Winston-Salem (Oak Plaza 190 Oak Plaza Boulevard  , Winston-Salem, NC, 27105 USA | On Site | Aug 26 |
 | **[FleetWorks](http://www.fleetworks.ai)** | **[Summer 2026: Software Engineering Intern](https://jobright.ai/jobs/info/68ae04e0d627244576e50cf0?utm_campaign=1079&utm_source=git)** | San Francisco, CA, US | On Site | Aug 26 |
 | **[Hilltop Securities Inc.](https://www.hilltopsecurities.com)** | **[Intern - Risk](https://jobright.ai/jobs/info/68ae0407758f2e4ac3010445?utm_campaign=1079&utm_source=git)** | Dallas, TX, United States | On Site | Aug 26 |
-| **[Tenon](https://www.tenonhq.com)** | **[Software Engineer Xtern](https://jobright.ai/jobs/info/68ae01ac758f2e4ac30101de?utm_campaign=1079&utm_source=git)** | Indianapolis, IN | On Site | Aug 26 |
 | **[Caesar Creek Software, Inc.](http://www.cc-sw.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68adff09daf1431824c9f95b?utm_campaign=1079&utm_source=git)** | Miamisburg, OH | Hybrid | Aug 26 |
 | **[PACSUN](http://www.pacsun.com/)** | **[eCommerce QA Temp](https://jobright.ai/jobs/info/68adfc56daf1431824c9f6f2?utm_campaign=1079&utm_source=git)** | Anaheim, CA | On Site | Aug 26 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Software Engineer Intern (Engineering Intern 3) - 25216](https://jobright.ai/jobs/info/68adf775d627244576e503d5?utm_campaign=1079&utm_source=git)** | Hanover, MD | On Site | Aug 26 |
@@ -135,12 +136,12 @@ For a complete list, click the following sortable link below:
 | **[Arcade](https://www.arcade.ai)** | **[Software Engineer Intern, Backend](https://jobright.ai/jobs/info/68828b81b54cac0f1e730a8f?utm_campaign=1079&utm_source=git)** | Presidio, CA | On Site | Aug 26 |
 | **[Hormel Foods](http://www.hormelfoods.com/)** | **[Hormel Foods - IT Infrastructure Intern - Summer 2026 (Austin, MN)](https://jobright.ai/jobs/info/68ade2b4d627244576e4f981?utm_campaign=1079&utm_source=git)** | Austin, MN, United States | On Site | Aug 26 |
 | **[Hunter Engineering Company](http://www.hunter.com)** | **[Computer Engineering Co-Op](https://jobright.ai/jobs/info/68add5d2d627244576e4f35e?utm_campaign=1079&utm_source=git)** | Raymond, MS | On Site | Aug 26 |
-| **[DMA - DuCharme, McMillen & Associates, Inc.](https://www.dmainc.com/)** | **[Software Development Intern - Spring 2026](https://jobright.ai/jobs/info/68add023d627244576e4f13a?utm_campaign=1079&utm_source=git)** | Fort Wayne, IN | On Site | Aug 26 |
-| ↳ | **[Software Development Intern - Summer 2026](https://jobright.ai/jobs/info/68adcf78daf1431824c9e2b4?utm_campaign=1079&utm_source=git)** | Fort Wayne, IN | On Site | Aug 26 |
+| **[DMA - DuCharme, McMillen & Associates, Inc.](https://www.dmainc.com/)** | **[Software Development Intern - Summer 2026](https://jobright.ai/jobs/info/68adcf78daf1431824c9e2b4?utm_campaign=1079&utm_source=git)** | Fort Wayne, IN | On Site | Aug 26 |
 | **[Walt Disney World](https://disneyworld.disney.go.com)** | **[WDW Computer Science / Computer Engineering Interns, Spring 2026](https://jobright.ai/jobs/info/68adcf23daf1431824c9e272?utm_campaign=1079&utm_source=git)** | Lake Buena Vista, FL | On Site | Aug 26 |
 | **[Altom Transport](http://altomtransport.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/68adcb97d627244576e4f04e?utm_campaign=1079&utm_source=git)** | Hammond, IN | On Site | Aug 26 |
 | ↳ | **[Fall Software Development Intern](https://jobright.ai/jobs/info/68adcaf9daf1431824c9e1e5?utm_campaign=1079&utm_source=git)** | Hammond, IN | On Site | Aug 26 |
 | **[IPConfigure Inc.](http://www.ipconfigure.com/)** | **[Quality Assurance Intern - ON SITE](https://jobright.ai/jobs/info/68adc9ef758f2e4ac300ea97?utm_campaign=1079&utm_source=git)** | Norfolk, VA | Hybrid | Aug 26 |
+| **[DMA - DuCharme, McMillen & Associates, Inc.](https://www.dmainc.com/)** | **[Software Development Intern - Spring 2026](https://jobright.ai/jobs/info/68adc804758f2e4ac300e8a2?utm_campaign=1079&utm_source=git)** | Fort Wayne, IN | On Site | Aug 26 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: System Quality Assurance Co-op, Robots (January through June)](https://jobright.ai/jobs/info/68adc512d627244576e4ed9a?utm_campaign=1079&utm_source=git)** | Needham, MA, United States | On Site | Aug 26 |
 | ↳ | **[Spring 2026: Software Engineering Co-op (January through June)](https://jobright.ai/jobs/info/68adc396d627244576e4ebee?utm_campaign=1079&utm_source=git)** | Madison, Tennessee, United States | On Site | Aug 26 |
 | **[Copart](http://www.copart.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68adc2b0daf1431824c9dddd?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Aug 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Information Systems Assurance - Summer 2026 (Dallas)](https://jobright.ai/jobs/info/68918c444c7e851b90acfda7?utm_campaign=1079&utm_source=git)** | Dallas, TX | Hybrid | Aug 26 |
 | **[Dropbox](https://www.dropbox.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/68ad35f4758f2e4ac300bc4f?utm_campaign=1079&utm_source=git)** | Remote - US: All locations | Remote | Aug 26 |
 | **[CrowdVolt](https://www.crowdvolt.com)** | **[Full-Stack Engineer Intern](https://jobright.ai/jobs/info/68ad64d8758f2e4ac300d50b?utm_campaign=1079&utm_source=git)** | New York, NY, US | On Site | Aug 26 |
-| **[CGI](https://www.cgi.com)** | **[Software Developer Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68aecfef2daaba398441a6d5?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Hybrid | Aug 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
