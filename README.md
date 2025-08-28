@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aluminum Dynamics, LLC](aluminumdynamicsllc.com)** | **[Software Development Internship](https://jobright.ai/jobs/info/68b00e9e13563e782a9f34d2?utm_campaign=1079&utm_source=git)** | US-MS-Columbus | On Site | Aug 28 |
 | **[Business Web Solutions (USA)](https://businesswebsolutions.us/)** | **[Web Developer Intern (Remote)](https://jobright.ai/jobs/info/68affe44e723db6c9b7b540b?utm_campaign=1079&utm_source=git)** | Lexington, Kentucky, United States | Remote | Aug 27 |
 | ↳ | **[Web Developer Intern (Remote)](https://jobright.ai/jobs/info/68affe2f13563e782a9f2db6?utm_campaign=1079&utm_source=git)** | Albuquerque, New Mexico, United States | Remote | Aug 27 |
 | ↳ | **[Web Developer Intern (Remote)](https://jobright.ai/jobs/info/68affe1be723db6c9b7b53cd?utm_campaign=1079&utm_source=git)** | Cambridge, Massachusetts, United States | Remote | Aug 27 |
@@ -99,6 +100,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Web Developer Intern (Remote)](https://jobright.ai/jobs/info/68aff972b47fb001d688ec22?utm_campaign=1079&utm_source=git)** | Aurora, Illinois, United States | Remote | Aug 27 |
 | ↳ | **[Web Developer Intern (Remote)](https://jobright.ai/jobs/info/68aff969b47fb001d688ec14?utm_campaign=1079&utm_source=git)** | Orlando, Florida, United States | Remote | Aug 27 |
 | **[Core4ce](https://www.core4ce.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68acf57cd627244576e4a295?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 27 |
+| **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Software Development Internship](https://jobright.ai/jobs/info/68b009ee13563e782a9f33f6?utm_campaign=1079&utm_source=git)** | Columbus, MS | On Site | Aug 27 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Billing Solutions Analyst](https://jobright.ai/jobs/info/68afe548b47fb001d688e55c?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Aug 27 |
 | **[Oracle](https://www.oracle.com/)** | **[Advanced Degree Software Engineer - Oracle Health and Analytics](https://jobright.ai/jobs/info/68afd62013563e782a9f1bf2?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Aug 27 |
 | ↳ | **[Advanced Degree Software Engineer - Oracle Health and Analytics](https://jobright.ai/jobs/info/68afd608b47fb001d688ddb2?utm_campaign=1079&utm_source=git)** | Redwood City, CA | On Site | Aug 27 |
@@ -134,7 +136,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68afa7dd1f0a2a568a063154?utm_campaign=1079&utm_source=git)** | Mountain View, CA, US | On Site | Aug 27 |
 | **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Software Developer Intern](https://jobright.ai/jobs/info/68afcc88e723db6c9b7b3822?utm_campaign=1079&utm_source=git)** | Greensboro, NC | On Site | Aug 27 |
 | **[Honeywell](http://www.honeywell.com)** | **[Future IT Leaders - Summer 2026 Intern](https://jobright.ai/jobs/info/68af99e32daaba398441f653?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 27 |
-| ↳ | **[Future IT Leaders - Summer 2026 Intern (US Person Required)](https://jobright.ai/jobs/info/68af98661f0a2a568a062c37?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 27 |
+| **[Commure](https://commure.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68af98ee1f0a2a568a062c6e?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Aug 27 |
+| **[Honeywell](http://www.honeywell.com)** | **[Future IT Leaders - Summer 2026 Intern (US Person Required)](https://jobright.ai/jobs/info/68af98661f0a2a568a062c37?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 27 |
 | **[Nokia](http://www.nokia.com)** | **[Software Development Coop](https://jobright.ai/jobs/info/68af95822daaba398441f4bb?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Aug 27 |
 | **[Mesa Natural Gas Solutions](https://www.247mesa.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68af93182daaba398441f363?utm_campaign=1079&utm_source=git)** | Loveland, CO | On Site | Aug 27 |
 | **[Athelas](https://athelas.com/)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68afd345e723db6c9b7b3eb1?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Aug 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Citrus Oncology](https://citrusoncology.com)** | **[Full Stack Developer Fall Intern](https://jobright.ai/jobs/info/68af82ca1f0a2a568a0623fd?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 27 |
 | **[Infowave Systems, Inc](http://www.infowavesystems.com/)** | **[Software Intern](https://jobright.ai/jobs/info/68af81d5962903596357d440?utm_campaign=1079&utm_source=git)** | Rocky Hill, CT | On Site | Aug 27 |
 | **[Citrus Oncology](https://citrusoncology.com)** | **[QA Engineer Fall Intern](https://jobright.ai/jobs/info/68af7d4a962903596357d306?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 27 |
-| **[Magna International](http://www.magna.com/)** | **[Student - Engineering Object Fusion](https://jobright.ai/jobs/info/68af6a5c2daaba398441e018?utm_campaign=1079&utm_source=git)** | Auburn Hills, MI | On Site | Aug 27 |
-| **[L3Harris Technologies](https://www.l3harris.com)** | **[Software Engineering Intern Level D (Sunrise, FL)](https://jobright.ai/jobs/info/68af6a1b2daaba398441dfe6?utm_campaign=1079&utm_source=git)** | Sunrise, FL | On Site | Aug 27 |
-| **[Verisk](https://www.verisk.com)** | **[Tech - 2026 Summer Internship Program](https://jobright.ai/jobs/info/68af5eaf1f0a2a568a061034?utm_campaign=1079&utm_source=git)** | Lehi, UT | Hybrid | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
