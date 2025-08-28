@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Eli Lilly and Company](https://www.lilly.com)** | **[Study Build Programmer Intern](https://jobright.ai/jobs/info/68b078bf2d46f6396cae5b0f?utm_campaign=1079&utm_source=git)** | US, Indianapolis IN | On Site | Aug 28 |
+| **[Southern Farm Bureau Life Insurance Company](http://www.sfbli.com)** | **[Applications Development Cooperative Education](https://jobright.ai/jobs/info/68b075ca2d46f6396cae59a8?utm_campaign=1079&utm_source=git)** | Jackson, MS | On Site | Aug 28 |
+| **[Ivalua](http://ivalua.com/)** | **[Customer Application Engineer Intern](https://jobright.ai/jobs/info/68b06e0a2d46f6396cae55db?utm_campaign=1079&utm_source=git)** | Fremont, California - US | Hybrid | Aug 28 |
 | **[LyondellBasell](http://lyondellbasell.com)** | **[2026 Digital Technology Summer Intern](https://jobright.ai/jobs/info/68b0428013563e782a9f4490?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | Aug 28 |
 | **[DriveTime](https://www.drivetime.com)** | **[Software Engineer Intern (Summer 2024)](https://jobright.ai/jobs/info/68b057fab47fb001d6891589?utm_campaign=1079&utm_source=git)** | Tempe, AZ | On Site | Aug 28 |
 | ↳ | **[Full Stack Software Engineering Intern (Summer 2025)](https://jobright.ai/jobs/info/68b0573413563e782a9f5387?utm_campaign=1079&utm_source=git)** | Tempe, AZ | On Site | Aug 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Honeywell](http://www.honeywell.com)** | **[Future IT Leaders - Summer 2026 Intern  (US Person Required)](https://jobright.ai/jobs/info/68af87cf2daaba398441eeb9?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 27 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Undergrad Software Engineer Intern - Oracle Cloud Infrastructure (OCI) - Nashville, TN](https://jobright.ai/jobs/info/68af87681f0a2a568a0625be?utm_campaign=1079&utm_source=git)** | Nashville, TN, United States | On Site | Aug 27 |
 | ↳ | **[Undergrad Software Engineer - Oracle Cloud Infrastructure (OCI) - Seattle, WA](https://jobright.ai/jobs/info/68af872c962903596357d676?utm_campaign=1079&utm_source=git)** | Seattle, WA, United States | On Site | Aug 27 |
-| ↳ | **[Undergrad Software Engineer Intern - Oracle Health and Analytics](https://jobright.ai/jobs/info/68af8721962903596357d66e?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 27 |
-| **[Honeywell](http://www.honeywell.com)** | **[Future IT Leaders - Summer 2026 Intern](https://jobright.ai/jobs/info/68af87061f0a2a568a062589?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 27 |
-| **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Undergrad Software Engineer Intern - Oracle Cloud Infrastructure (OCI) - Seattle, WA](https://jobright.ai/jobs/info/68af861d1f0a2a568a06251c?utm_campaign=1079&utm_source=git)** | Seattle, WA, United States | On Site | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
