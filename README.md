@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LyondellBasell](http://lyondellbasell.com)** | **[2026 Digital Technology Summer Intern](https://jobright.ai/jobs/info/68b0428013563e782a9f4490?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | Aug 28 |
 | **[Aluminum Dynamics, LLC](aluminumdynamicsllc.com)** | **[Software Development Internship](https://jobright.ai/jobs/info/68b00e9e13563e782a9f34d2?utm_campaign=1079&utm_source=git)** | US-MS-Columbus | On Site | Aug 28 |
 | **[Business Web Solutions (USA)](https://businesswebsolutions.us/)** | **[Web Developer Intern (Remote)](https://jobright.ai/jobs/info/68affe44e723db6c9b7b540b?utm_campaign=1079&utm_source=git)** | Lexington, Kentucky, United States | Remote | Aug 27 |
 | ↳ | **[Web Developer Intern (Remote)](https://jobright.ai/jobs/info/68affe2f13563e782a9f2db6?utm_campaign=1079&utm_source=git)** | Albuquerque, New Mexico, United States | Remote | Aug 27 |
@@ -136,8 +137,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68afa7dd1f0a2a568a063154?utm_campaign=1079&utm_source=git)** | Mountain View, CA, US | On Site | Aug 27 |
 | **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Software Developer Intern](https://jobright.ai/jobs/info/68afcc88e723db6c9b7b3822?utm_campaign=1079&utm_source=git)** | Greensboro, NC | On Site | Aug 27 |
 | **[Honeywell](http://www.honeywell.com)** | **[Future IT Leaders - Summer 2026 Intern](https://jobright.ai/jobs/info/68af99e32daaba398441f653?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 27 |
-| **[Commure](https://commure.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68af98ee1f0a2a568a062c6e?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Aug 27 |
-| **[Honeywell](http://www.honeywell.com)** | **[Future IT Leaders - Summer 2026 Intern (US Person Required)](https://jobright.ai/jobs/info/68af98661f0a2a568a062c37?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 27 |
+| ↳ | **[Future IT Leaders - Summer 2026 Intern (US Person Required)](https://jobright.ai/jobs/info/68af98661f0a2a568a062c37?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 27 |
 | **[Nokia](http://www.nokia.com)** | **[Software Development Coop](https://jobright.ai/jobs/info/68af95822daaba398441f4bb?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Aug 27 |
 | **[Mesa Natural Gas Solutions](https://www.247mesa.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68af93182daaba398441f363?utm_campaign=1079&utm_source=git)** | Loveland, CO | On Site | Aug 27 |
 | **[Athelas](https://athelas.com/)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68afd345e723db6c9b7b3eb1?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Aug 27 |
