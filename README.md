@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SolarVue AI™](https://solarvue.ai)** | **[Digital Marketplace Architect Intern: B2B E-commerce Build](https://jobright.ai/jobs/info/68b11dbd04557a6c207ba0fb?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | Hybrid | Aug 28 |
+| **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Cloud Engineer](https://jobright.ai/jobs/info/68b11a90e815524ae11fb20e?utm_campaign=1079&utm_source=git)** | Worcester, MA | Hybrid | Aug 28 |
+| **[OffDeal](https://offdeal.io)** | **[Full Stack Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68b11a276fab621da7b09ea3?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Aug 28 |
+| **[Yorba Linda Water District](http://www.ylwd.com)** | **[Intern (Information Technology) - Part-Time](https://jobright.ai/jobs/info/68b119ec6fab621da7b09e73?utm_campaign=1079&utm_source=git)** | Placentia, CA | On Site | Aug 28 |
+| **[Ramp](https://ramp.com)** | **[Software Engineer Internship / iOS](https://jobright.ai/jobs/info/68b110b0e815524ae11faf15?utm_campaign=1079&utm_source=git)** | Queens County, NY | Hybrid | Aug 28 |
 | **[ARA](https://www.ara.com)** | **[Technical Intern 1](https://jobright.ai/jobs/info/68b1062304557a6c207b972f?utm_campaign=1079&utm_source=git)** | Baton Rouge, LA | On Site | Aug 28 |
 | **[Oracle](https://www.oracle.com/)** | **[Undergrad Software Engineer Intern - Global Industries](https://jobright.ai/jobs/info/68b1047ce815524ae11fa9b8?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 28 |
 | **[Harford Mutual Insurance Group](http://harfordmutual.com)** | **[IT Intern, Development](https://jobright.ai/jobs/info/68b0fd9f6fab621da7b094e6?utm_campaign=1079&utm_source=git)** | Bel Air, MD, USA | Remote | Aug 28 |
@@ -67,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Tesla](https://www.tesla.com)** | **[Internship, Integration Platforms Software Developer, Vehicle Firmware (Winter/Spring 2026)](https://jobright.ai/jobs/info/68b0de2713563e782a9f9e98?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Aug 28 |
 | **[Mastercard](http://www.mastercard.com)** | **[Biz Ops Engineer, Launch Program 2026 - United States](https://jobright.ai/jobs/info/68b0dbbe2d46f6396cae9167?utm_campaign=1079&utm_source=git)** | O'Fallon, Missouri | On Site | Aug 28 |
 | **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Co-op, Embedded Software Engineer](https://jobright.ai/jobs/info/68b0d91613563e782a9f9bf1?utm_campaign=1079&utm_source=git)** | Mayfield Heights, Ohio, United States | Hybrid | Aug 28 |
-| **[BAE Systems](http://www.baesystems.com)** | **[Software Engineering CO-OP, Summer-Fall 2026](https://jobright.ai/jobs/info/68b0fdc904557a6c207b9467?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Aug 28 |
 | **[Mastercard](http://www.mastercard.com)** | **[BizOps Engineer Intern, Summer 2026 - United States](https://jobright.ai/jobs/info/68b0cfd213563e782a9f9923?utm_campaign=1079&utm_source=git)** | O'Fallon, Missouri | On Site | Aug 28 |
 | **[Assurity](https://www.assurity.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/68b0cec12d46f6396cae8ab8?utm_campaign=1079&utm_source=git)** | Lincoln, Nebraska Metropolitan Area | On Site | Aug 28 |
 | **[Follio](https://www.follio.net/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68b0c7f7b47fb001d68955eb?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 28 |
@@ -86,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[Cytiva](https://www.cytivalifesciences.com/en/se)** | **[Software Engineering Intern - Marlborough, MA](https://jobright.ai/jobs/info/68b09704b47fb001d6893a4f?utm_campaign=1079&utm_source=git)** | Marlborough, MA | On Site | Aug 28 |
 | **[Heartland Business Systems](https://www.hbs.net/welcomeavastone)** | **[Dynamics 365 CRM Engineering Associate - Summer 2026 Internship Program](https://jobright.ai/jobs/info/68b09666b47fb001d68939d3?utm_campaign=1079&utm_source=git)** | Little Chute, WI | On Site | Aug 28 |
 | **[Air Products](http://www.airproducts.com/)** | **[Summer Intern- IT/Digital Technology (2026)](https://jobright.ai/jobs/info/68b096332d46f6396cae6c2d?utm_campaign=1079&utm_source=git)** | Allentown, Pennsylvania | On Site | Aug 28 |
-| **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Quality Assurance Intern, Orrville, OH, Summer 2026](https://jobright.ai/jobs/info/68b0962b2d46f6396cae6c26?utm_campaign=1079&utm_source=git)** | Orrville, OH | On Site | Aug 28 |
 | **[Heartland Business Systems](https://www.hbs.net/welcomeavastone)** | **[Cloud Infrastructure Engineering Associate - Summer 2026 Internship Program](https://jobright.ai/jobs/info/68b095252d46f6396cae6b5a?utm_campaign=1079&utm_source=git)** | Little Chute, WI | On Site | Aug 28 |
 | **[Nokia](http://www.nokia.com)** | **[Deepfield Software Engineer Co-op](https://jobright.ai/jobs/info/68b0950b13563e782a9f78c9?utm_campaign=1079&utm_source=git)** | Michigan, United States | Hybrid | Aug 28 |
 | ↳ | **[Deepfield Software Engineer Co-op](https://jobright.ai/jobs/info/68b094632d46f6396cae6acf?utm_campaign=1079&utm_source=git)** | Ann Arbor, MI | Hybrid | Aug 28 |
@@ -94,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Montgomery Investment Technology, Inc.](http://www.fintools.com/)** | **[Computer Programming Internship 2025 Fall](https://jobright.ai/jobs/info/68b08b21b47fb001d689335b?utm_campaign=1079&utm_source=git)** | Cinnaminson, NJ | On Site | Aug 28 |
 | **[Y-12 National Security Complex](http://www.y12.doe.gov/)** | **[Software Engineer](https://jobright.ai/jobs/info/68b08a39b47fb001d68932f4?utm_campaign=1079&utm_source=git)** | Oak Ridge, TN | On Site | Aug 28 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Undergrad Software Engineer Intern - Global Industries](https://jobright.ai/jobs/info/68b087e313563e782a9f70d0?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 28 |
+| **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Quality Assurance Intern, Orrville, OH, Summer 2026](https://jobright.ai/jobs/info/68b086a413563e782a9f6f83?utm_campaign=1079&utm_source=git)** | Orrville, OH | On Site | Aug 28 |
 | **[LyondellBasell](http://lyondellbasell.com)** | **[2026 Digital Technology Summer Intern](https://jobright.ai/jobs/info/68b0428013563e782a9f4490?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | Aug 28 |
 | **[Southern Farm Bureau Life Insurance Company](http://www.sfbli.com)** | **[Applications Development Cooperative Education](https://jobright.ai/jobs/info/68b075ca2d46f6396cae59a8?utm_campaign=1079&utm_source=git)** | Jackson, MS | On Site | Aug 28 |
 | **[Nokia](http://www.nokia.com)** | **[Deepfield Software Engineer Co-op](https://jobright.ai/jobs/info/68b08c24b47fb001d6893428?utm_campaign=1079&utm_source=git)** | USA | Remote | Aug 28 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Advanced Degree Software Engineer Intern - Oracle Health & Analytics](https://jobright.ai/jobs/info/68afd3fd13563e782a9f1922?utm_campaign=1079&utm_source=git)** | Pleasanton, CA | On Site | Aug 27 |
 | **[GMI Cloud](https://www.gmicloud.ai)** | **[AI Cloud Solution Architect (Intern)](https://jobright.ai/jobs/info/68afcd5eb47fb001d688d49f?utm_campaign=1079&utm_source=git)** | Mountain View, CA | Hybrid | Aug 27 |
 | **[Oracle](https://www.oracle.com/)** | **[Advanced Degree Software Engineer Intern - Oracle Health & Analytics](https://jobright.ai/jobs/info/68afc9b7b47fb001d688d36a?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Aug 27 |
-| ↳ | **[Undergrad Software Engineer Intern - Oracle Health and Analytics](https://jobright.ai/jobs/info/68afc95fb47fb001d688d308?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Aug 27 |
-| ↳ | **[Undergrad Software Engineer - Oracle Health and Analytics](https://jobright.ai/jobs/info/68afc93f13563e782a9f10fd?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Aug 27 |
-| ↳ | **[Undergrad Software Engineer - Oracle Health and Analytics](https://jobright.ai/jobs/info/68afc900b47fb001d688d298?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Aug 27 |
-| ↳ | **[Undergrad Software Engineer Intern - Oracle Cloud Infrastructure (OCI) - Seattle, WA](https://jobright.ai/jobs/info/68afc86ab47fb001d688d1fa?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
