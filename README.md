@@ -57,7 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Red Hat](http://www.redhat.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68b1af341ade4306aa6312e8?utm_campaign=1079&utm_source=git)** | Lowell | On Site | Aug 29 |
+| ↳ | **[Software Engineer Co-op](https://jobright.ai/jobs/info/68b1af23f4e41a61efd7f010?utm_campaign=1079&utm_source=git)** | Lowell | On Site | Aug 29 |
+| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/68b1ae7af4e41a61efd7efbf?utm_campaign=1079&utm_source=git)** | Raleigh | On Site | Aug 29 |
+| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/68b1ae79bc187f64e1bd60db?utm_campaign=1079&utm_source=git)** | Boston | On Site | Aug 29 |
+| **[Ramp](https://ramp.com)** | **[Software Engineer Internship / iOS](https://jobright.ai/jobs/info/6894e6e14ed2ea559ca518e3?utm_campaign=1079&utm_source=git)** | New York, United States | On Site | Aug 29 |
+| ↳ | **[Software Engineer Internship / Android](https://jobright.ai/jobs/info/689530c873b3a600fe885a72?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Aug 29 |
+| ↳ | **[Software Engineer Internship / Android](https://jobright.ai/jobs/info/689538a58c6d6b4426778286?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Aug 29 |
+| ↳ | **[Software Engineer Internship / iOS](https://jobright.ai/jobs/info/6894e7c08c6d6b4426775859?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Aug 29 |
+| **[Kennesaw State University](http://www.kennesaw.edu)** | **[Information Technology Apprenticeship, Software Engineering](https://jobright.ai/jobs/info/68955aa64ed2ea559ca55373?utm_campaign=1079&utm_source=git)** | Kennesaw, GA | On Site | Aug 29 |
 | **[Ivalua](http://ivalua.com/)** | **[Customer Application Engineer Intern](https://jobright.ai/jobs/info/68b182febc187f64e1bd5346?utm_campaign=1079&utm_source=git)** | Fremont, CA | Hybrid | Aug 29 |
+| **[Defense Unicorns](https://www.defenseunicorns.com)** | **[SkillBridge Intern - Platform Engineer](https://jobright.ai/jobs/info/688cfdd53a30793eb9647b8a?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 29 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[IT Software Developer Intern](https://jobright.ai/jobs/info/68950a7673b3a600fe884951?utm_campaign=1079&utm_source=git)** | Strongsville, OH | On Site | Aug 29 |
 | **[Business Web Solutions (USA)](https://businesswebsolutions.us/)** | **[Full Stack Web Developer Intern (Remote)](https://jobright.ai/jobs/info/68b15bb804557a6c207bd1ae?utm_campaign=1079&utm_source=git)** | Denver, Colorado, United States | Remote | Aug 29 |
 | ↳ | **[Full Stack Web Developer Intern (Remote)](https://jobright.ai/jobs/info/68b15b206fab621da7b0d1aa?utm_campaign=1079&utm_source=git)** | Phoenix, Arizona, United States | Remote | Aug 29 |
@@ -89,7 +99,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[BizOps Engineer Intern, Summer 2026 - United States](https://jobright.ai/jobs/info/68b0cfd213563e782a9f9923?utm_campaign=1079&utm_source=git)** | O'Fallon, Missouri | On Site | Aug 28 |
 | **[Assurity](https://www.assurity.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/68b0cec12d46f6396cae8ab8?utm_campaign=1079&utm_source=git)** | Lincoln, Nebraska Metropolitan Area | On Site | Aug 28 |
 | **[Oigetit.ai - Fake News Filter](https://oigetit.ai/)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/68b146696fab621da7b0bf31?utm_campaign=1079&utm_source=git)** | New York, United States | On Site | Aug 28 |
-| **[Follio](https://www.follio.net/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68b0c7f7b47fb001d68955eb?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 28 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com/)** | **[Water Infrastructure Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68b0c3032d46f6396cae84db?utm_campaign=1079&utm_source=git)** | US.CA.Los Angeles.801 S. Grand Avenue | On Site | Aug 28 |
 | **[Reinsurance Group of America, Incorporated](http://www.rgare.com)** | **[Summer Intern - Global Technology](https://jobright.ai/jobs/info/68b0c2b313563e782a9f90fa?utm_campaign=1079&utm_source=git)** | United States, Chesterfield, MO, RGA HQ | Hybrid | Aug 28 |
 | **[GROWMARK, Inc.](http://www.growmark.com)** | **[GROWMARK IT Innovation Intern - GROWMARK, Inc. - Bloomington, IL](https://jobright.ai/jobs/info/68b0af56b47fb001d6894a2a?utm_campaign=1079&utm_source=git)** | Bloomington, IL | On Site | Aug 28 |
@@ -119,11 +128,9 @@ For a complete list, click the following sortable link below:
 | **[Ansys](http://www.ansys.com)** | **[Spring 2026 Co-op, Software Development (Bachelors)](https://jobright.ai/jobs/info/685b06cad8fe2cf3865dc4f0?utm_campaign=1079&utm_source=git)** | Canonsburg, PA | On Site | Aug 28 |
 | **[Armada](https://www.armada.ai)** | **[UI Intern (Unpaid)](https://jobright.ai/jobs/info/683fb028c9cdacca92bb86fe?utm_campaign=1079&utm_source=git)** | Bellevue, WA | On Site | Aug 28 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Software Engineer Intern](https://jobright.ai/jobs/info/6893b298a9199876488df685?utm_campaign=1079&utm_source=git)** | San Mateo, CA | Hybrid | Aug 28 |
-| **[GE Appliances, a Haier company](http://geappliancesco.com/)** | **[DT Summer 2026 Intern](https://jobright.ai/jobs/info/68b054e42d46f6396cae4163?utm_campaign=1079&utm_source=git)** | Louisville, KY | Hybrid | Aug 28 |
 | **[State of Washington](http://access.wa.gov/)** | **[L&I DOSH Web Developer & Digital Experience Assistant (IT AD Entry) – L&I Internal only](https://jobright.ai/jobs/info/68b18fe91ade4306aa6307c1?utm_campaign=1079&utm_source=git)** | Walla Walla, WA | On Site | Aug 28 |
 | **[Aluminum Dynamics, LLC](aluminumdynamicsllc.com)** | **[Software Development Internship](https://jobright.ai/jobs/info/68b00e9e13563e782a9f34d2?utm_campaign=1079&utm_source=git)** | US-MS-Columbus | On Site | Aug 28 |
 | **[Microsoft](https://www.microsoft.com)** | **[Software Engineer: Northeastern University Co-Op Internship Opportunities](https://jobright.ai/jobs/info/68afc87f13563e782a9f1023?utm_campaign=1079&utm_source=git)** | Redmond, WA | On Site | Aug 27 |
-| **[John Deere](https://www.deere.com)** | **[Part Time Student - Software Engineering - Champaign, IL](https://jobright.ai/jobs/info/68b14efc04557a6c207bc554?utm_campaign=1079&utm_source=git)** | Champaign, IL | Hybrid | Aug 27 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern -Software Development and Testing](https://jobright.ai/jobs/info/68b13edbe815524ae11fcc49?utm_campaign=1079&utm_source=git)** | Newtown Square, PA | Hybrid | Aug 27 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Software Development Internship](https://jobright.ai/jobs/info/68b009ee13563e782a9f33f6?utm_campaign=1079&utm_source=git)** | Columbus, MS | On Site | Aug 27 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Billing Solutions Analyst](https://jobright.ai/jobs/info/68afe548b47fb001d688e55c?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Aug 27 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Undergrad Software Engineer - Oracle Health and Analytics](https://jobright.ai/jobs/info/68afd57913563e782a9f1b1c?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 27 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Software Engineer Intern - Embedded](https://jobright.ai/jobs/info/68afb17cf20641371441f97d?utm_campaign=1079&utm_source=git)** | Olathe, Kansas | On Site | Aug 27 |
 | **[Oracle](https://www.oracle.com/)** | **[Undergrad Software Engineer Intern - Oracle Health and Analytics](https://jobright.ai/jobs/info/68afd563b47fb001d688dcc9?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Aug 27 |
-| ↳ | **[Advanced Degree Software Engineer Intern - Oracle Health & Analytics](https://jobright.ai/jobs/info/68afd474e723db6c9b7b4019?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 27 |
-| ↳ | **[Advanced Degree Software Engineer - Oracle Health and Analytics](https://jobright.ai/jobs/info/68afd4c6b47fb001d688dc22?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Aug 27 |
-| ↳ | **[Undergrad Software Engineer Intern - Oracle Health and Analytics](https://jobright.ai/jobs/info/68afd432b47fb001d688db81?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 27 |
-| ↳ | **[Advanced Degree Software Engineer Intern - Oracle Health & Analytics](https://jobright.ai/jobs/info/68afcecbe723db6c9b7b3c28?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Aug 27 |
-| ↳ | **[Undergrad Software Engineer - Oracle Health and Analytics](https://jobright.ai/jobs/info/68afd2f8e723db6c9b7b3e55?utm_campaign=1079&utm_source=git)** | Pleasanton, CA | On Site | Aug 27 |
-| **[Aflac](http://www.aflac.com)** | **[2026 Digital Services Intern](https://jobright.ai/jobs/info/68afe576e723db6c9b7b4a36?utm_campaign=1079&utm_source=git)** | Columbus, GA | Hybrid | Aug 27 |
-| **[Aicadium](https://aicadium.ai/)** | **[Software Development Intern (Testing & QA)](https://jobright.ai/jobs/info/68afad1da15ec449cbb1c241?utm_campaign=1079&utm_source=git)** | San Diego, California, United States | On Site | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
