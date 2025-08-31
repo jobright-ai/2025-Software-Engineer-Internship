@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Sentari AI](https://withsentari.com/)** | **[Software Engineer Intern - AI Startup](https://jobright.ai/jobs/info/68b46f1c1ade4306aa63e6d6?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 31 |
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Technology Risk Management Intern](https://jobright.ai/jobs/info/68b43d31bc187f64e1be3159?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Aug 31 |
 | **[Databricks](https://www.databricks.com)** | **[Senior Software Engineer - Database Engine Internals](https://jobright.ai/jobs/info/668a7835dfbe564b9b904c6a?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Aug 31 |
 | **[Side Quest](https://www.linkedin.com/company/106831212)** | **[Flutter Developer — Unpaid Internship](https://jobright.ai/jobs/info/68b3c7b21ade4306aa63c614?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 30 |
@@ -90,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Databricks](https://www.databricks.com)** | **[Software Engineering Intern (2026)](https://jobright.ai/jobs/info/68983789faa4e875e824bfe2?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Aug 30 |
 | **[Advanced Microdevices Pvt. Ltd. (India)](https://mdimembrane.com)** | **[2026 PhD Software Engineering Co-Op](https://jobright.ai/jobs/info/68b2de2bf4e41a61efd88246?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Aug 30 |
 | ↳ | **[2026 Undergrad Software Engineering Co-Op](https://jobright.ai/jobs/info/68b2d2d5f4e41a61efd88134?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Aug 30 |
-| ↳ | **[2026 Masters Software Engineering Co-Op](https://jobright.ai/jobs/info/68b2ce451ade4306aa63a252?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Aug 30 |
 | ↳ | **[2026 Masters Software Engineering Co-Op](https://jobright.ai/jobs/info/68b2d2e8f4e41a61efd88138?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Aug 30 |
+| ↳ | **[2026 Masters Software Engineering Co-Op](https://jobright.ai/jobs/info/68b2ce451ade4306aa63a252?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Aug 30 |
 | **[The Digital BA](https://thedigitalba.com.au)** | **[AI - Internship Program](https://jobright.ai/jobs/info/68b2b68df4e41a61efd87c1e?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 30 |
 | **[ABB](https://global.abb/group/en)** | **[IS intern](https://jobright.ai/jobs/info/68b2ae041ade4306aa639c84?utm_campaign=1079&utm_source=git)** | Location, WV | On Site | Aug 30 |
 | **[AMD](http://www.amd.com)** | **[2026 Undergrad Software Engineering Intern](https://jobright.ai/jobs/info/68b29decbc187f64e1bde08b?utm_campaign=1079&utm_source=git)** | Longmont, CO | On Site | Aug 29 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Santander México](http://www.santander.com.mx/)** | **[Application Development Intern (Auto)](https://jobright.ai/jobs/info/68b205291ade4306aa633e42?utm_campaign=1079&utm_source=git)** | Dallas | On Site | Aug 29 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Information Technology (Summer 2026)](https://jobright.ai/jobs/info/68b204b6bc187f64e1bd8bd9?utm_campaign=1079&utm_source=git)** | Findlay, Ohio | On Site | Aug 29 |
 | ↳ | **[Intern/Co-op - Information Technology (Summer 2026)](https://jobright.ai/jobs/info/68b204b31ade4306aa633db5?utm_campaign=1079&utm_source=git)** | San Antonio, Texas | On Site | Aug 29 |
+| **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[IT Software Development Intern (E-Commerce) - Summer 2026](https://jobright.ai/jobs/info/68b201fe1ade4306aa633ba6?utm_campaign=1079&utm_source=git)** | Northfield, IL | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
