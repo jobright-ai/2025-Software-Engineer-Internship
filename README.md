@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NetJets](https://www.netjets.com/)** | **[Software Engineer Intern (NJUS)](https://jobright.ai/jobs/info/68b4c3691ade4306aa63eb95?utm_campaign=1079&utm_source=git)** | Columbus, OH | On Site | Aug 31 |
 | **[Ship](https://www.linkedin.com/company/107405407)** | **[UGC Creator Internship](https://jobright.ai/jobs/info/68b4a3d4f4e41a61efd8c8d4?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 31 |
+| **[PENTAX Medical](https://www.pentaxmedical.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68908bf14c7e851b90ac70f6?utm_campaign=1079&utm_source=git)** | Montvale, NJ | On Site | Aug 31 |
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Technology Risk Management Intern](https://jobright.ai/jobs/info/68b43d31bc187f64e1be3159?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Aug 31 |
 | **[Harmonic](https://www.harmonic.ai)** | **[Software Engineer Intern (Summer '26)](https://jobright.ai/jobs/info/68891f9209808a6103e4528d?utm_campaign=1079&utm_source=git)** | New York City | On Site | Aug 31 |
+| **[Rippling](https://www.rippling.com)** | **[Software Engineer Intern - Winter 2026](https://jobright.ai/jobs/info/68435a3442a8434e136847bb?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Aug 31 |
 | **[Databricks](https://www.databricks.com)** | **[Senior Software Engineer - Database Engine Internals](https://jobright.ai/jobs/info/668a7835dfbe564b9b904c6a?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Aug 31 |
 | **[Side Quest](https://www.linkedin.com/company/106831212)** | **[Flutter Developer — Unpaid Internship](https://jobright.ai/jobs/info/68b3c7b21ade4306aa63c614?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 30 |
 | **[Santander](https://www.santander.com/)** | **[Technology Risk Management Intern](https://jobright.ai/jobs/info/68b3a8dd1ade4306aa63b7a7?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Aug 30 |
@@ -68,6 +71,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Technology Risk Management Intern](https://jobright.ai/jobs/info/68b350cc1ade4306aa63b12a?utm_campaign=1079&utm_source=git)** | Dallas | On Site | Aug 30 |
 | ↳ | **[Technology Risk Management Intern](https://jobright.ai/jobs/info/68b3508cf4e41a61efd88f7b?utm_campaign=1079&utm_source=git)** | New York | On Site | Aug 30 |
 | ↳ | **[Technology Risk Management Intern](https://jobright.ai/jobs/info/68b35086bc187f64e1be00e2?utm_campaign=1079&utm_source=git)** | Miami Coconut Grove Corp | On Site | Aug 30 |
+| **[Notion](https://www.notion.so)** | **[Software Engineer, Mobile Intern (Summer 2026)](https://jobright.ai/jobs/info/6896a4bb8c6d6b44267840d1?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Aug 30 |
 | **[Charles Schwab](https://www.schwab.com/)** | **[2026 Charles Schwab Technology Intern - Software Engineering](https://jobright.ai/jobs/info/68b330de1ade4306aa63ae56?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Aug 30 |
 | ↳ | **[2026 Charles Schwab Technology Intern - Software Engineering](https://jobright.ai/jobs/info/68b330741ade4306aa63ae2c?utm_campaign=1079&utm_source=git)** | Indianapolis, IN | On Site | Aug 30 |
 | **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Test Engineering Intern](https://jobright.ai/jobs/info/68b33f11f4e41a61efd88d71?utm_campaign=1079&utm_source=git)** | Chelmsford, MA | On Site | Aug 30 |
@@ -148,13 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Honeywell](http://www.honeywell.com)** | **[Software Engineer & Computer Science - Summer 2026 Intern (US Person Required)](https://jobright.ai/jobs/info/68b22ae9bc187f64e1bd9a5e?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 29 |
 | **[BOOZ ALLEN HAMILTON INTERNATIONAL (U.K.) LTD](https://www.boozallen.com/)** | **[University, 2026 Summer Games Software Developer Intern](https://jobright.ai/jobs/info/68b22231f4e41a61efd8267e?utm_campaign=1079&utm_source=git)** | McLean, VA | Hybrid | Aug 29 |
 | **[Humana](http://www.humana.com)** | **[Information Technology (IT) Internship - Summer 2026](https://jobright.ai/jobs/info/68b21fddf4e41a61efd82600?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Aug 29 |
-| ↳ | **[Information Technology (IT) Internship - Summer 2026](https://jobright.ai/jobs/info/68b21f89f4e41a61efd825d5?utm_campaign=1079&utm_source=git)** | Louisville, KY | On Site | Aug 29 |
+| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[TSS Software Tester Associate (Intern)](https://jobright.ai/jobs/info/68b21f9af4e41a61efd825de?utm_campaign=1079&utm_source=git)** | USA LA Bossier City | Hybrid | Aug 29 |
+| **[Humana](http://www.humana.com)** | **[Information Technology (IT) Internship - Summer 2026](https://jobright.ai/jobs/info/68b21f89f4e41a61efd825d5?utm_campaign=1079&utm_source=git)** | Louisville, KY | On Site | Aug 29 |
 | ↳ | **[Information Technology (IT) Internship - Summer 2026](https://jobright.ai/jobs/info/68b21e8b1ade4306aa63490a?utm_campaign=1079&utm_source=git)** | Fort Lauderdale, FL | On Site | Aug 29 |
 | ↳ | **[Information Technology (IT) Internship - Summer 2026](https://jobright.ai/jobs/info/68b21e05bc187f64e1bd96e1?utm_campaign=1079&utm_source=git)** | Arlington, VA | On Site | Aug 29 |
 | ↳ | **[Information Technology (IT) Internship - Summer 2026](https://jobright.ai/jobs/info/68b21dabbc187f64e1bd96b0?utm_campaign=1079&utm_source=git)** | Frisco, TX | On Site | Aug 29 |
-| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[TSS Software Tester Associate (Intern)](https://jobright.ai/jobs/info/68b21d321ade4306aa6347cc?utm_campaign=1079&utm_source=git)** | USA LA Bossier City | Hybrid | Aug 29 |
-| **[Market Leader Technologies](https://marketleadertechnologies.com)** | **[Senior Software Engineer Intern](https://jobright.ai/jobs/info/68b2f4841ade4306aa63a7cd?utm_campaign=1079&utm_source=git)** | West Virginia, United States | On Site | Aug 29 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Information Technology (Summer 2026)](https://jobright.ai/jobs/info/68b20bf01ade4306aa634160?utm_campaign=1079&utm_source=git)** | Findlay, OH | On Site | Aug 29 |
-| ↳ | **[Intern/Co-op - Information Technology (Summer 2026)](https://jobright.ai/jobs/info/68b20573f4e41a61efd81b58?utm_campaign=1079&utm_source=git)** | San Antonio, TX | On Site | Aug 29 |
-| **[Santander México](http://www.santander.com.mx/)** | **[Application Development Intern (Auto)](https://jobright.ai/jobs/info/68b205291ade4306aa633e42?utm_campaign=1079&utm_source=git)** | Dallas | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
