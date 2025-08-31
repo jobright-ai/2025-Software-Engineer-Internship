@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Side Quest](https://www.linkedin.com/company/106831212)** | **[Flutter Developer — Unpaid Internship](https://jobright.ai/jobs/info/68b3c7b21ade4306aa63c614?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 30 |
 | **[Santander](https://www.santander.com/)** | **[Technology Risk Management Intern](https://jobright.ai/jobs/info/68b3a8dd1ade4306aa63b7a7?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Aug 30 |
 | **[Freeform](https://freeformfuture.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68b3724cbc187f64e1be03d0?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 30 |
 | **[Santander México](http://www.santander.com.mx/)** | **[Technology Risk Management Intern](https://jobright.ai/jobs/info/68b351101ade4306aa63b13a?utm_campaign=1079&utm_source=git)** | Boston | On Site | Aug 30 |
@@ -66,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Charles Schwab](https://www.schwab.com/)** | **[2026 Charles Schwab Technology Intern - Software Engineering](https://jobright.ai/jobs/info/68b330de1ade4306aa63ae56?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Aug 30 |
 | ↳ | **[2026 Charles Schwab Technology Intern - Software Engineering](https://jobright.ai/jobs/info/68b330741ade4306aa63ae2c?utm_campaign=1079&utm_source=git)** | Indianapolis, IN | On Site | Aug 30 |
 | **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Test Engineering Intern](https://jobright.ai/jobs/info/68b33f11f4e41a61efd88d71?utm_campaign=1079&utm_source=git)** | Chelmsford, MA | On Site | Aug 30 |
-| **[Oigetit.ai - Fake News Filter](https://oigetit.ai/)** | **[Quality Assurance Analyst Intern](https://jobright.ai/jobs/info/68b33494bc187f64e1bdfe6e?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 30 |
 | **[Charles Schwab](https://www.schwab.com/)** | **[2026 Charles Schwab Technology Intern - Software Engineering](https://jobright.ai/jobs/info/68b3348dbc187f64e1bdfe6a?utm_campaign=1079&utm_source=git)** | Westlake, TX | On Site | Aug 30 |
 | **[Oigetit.ai - Fake News Filter](https://oigetit.ai/)** | **[Web Quality Assurance Intern](https://jobright.ai/jobs/info/68b32104bc187f64e1bdfc54?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 30 |
 | **[Flatiron School](http://flatironschool.com)** | **[Apprentice, Software Engineer](https://jobright.ai/jobs/info/68b2f9b81ade4306aa63a8db?utm_campaign=1079&utm_source=git)** | Columbia, SC | On Site | Aug 30 |
@@ -83,10 +83,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, IT - Software Engineering - ATL (Summer 2026)](https://jobright.ai/jobs/info/68985d6efaa4e875e824f494?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Hybrid | Aug 30 |
 | **[Belvedere Trading, LLC](http://belvederetrading.com)** | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/689753101b9e81727f1985b0?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Aug 30 |
 | **[Databricks](https://www.databricks.com)** | **[Software Engineering Intern (2026)](https://jobright.ai/jobs/info/68983789faa4e875e824bfe2?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Aug 30 |
-| **[Advanced Microdevices Pvt. Ltd. (India)](https://mdimembrane.com)** | **[2026 PhD Software Engineering Co-Op](https://jobright.ai/jobs/info/68b2de2bf4e41a61efd88246?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Aug 30 |
-| ↳ | **[2026 Undergrad Software Engineering Co-Op](https://jobright.ai/jobs/info/68b2d2d5f4e41a61efd88134?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Aug 30 |
-| ↳ | **[2026 Masters Software Engineering Co-Op](https://jobright.ai/jobs/info/68b2d2e8f4e41a61efd88138?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Aug 30 |
+| **[Advanced Microdevices Pvt. Ltd. (India)](https://mdimembrane.com)** | **[2026 Undergrad Software Engineering Co-Op](https://jobright.ai/jobs/info/68b2d2d5f4e41a61efd88134?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Aug 30 |
+| ↳ | **[2026 PhD Software Engineering Co-Op](https://jobright.ai/jobs/info/68b2de2bf4e41a61efd88246?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Aug 30 |
 | ↳ | **[2026 Masters Software Engineering Co-Op](https://jobright.ai/jobs/info/68b2ce451ade4306aa63a252?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Aug 30 |
+| ↳ | **[2026 Masters Software Engineering Co-Op](https://jobright.ai/jobs/info/68b2d2e8f4e41a61efd88138?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Aug 30 |
 | **[The Digital BA](https://thedigitalba.com.au)** | **[AI - Internship Program](https://jobright.ai/jobs/info/68b2b68df4e41a61efd87c1e?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 30 |
 | **[ABB](https://global.abb/group/en)** | **[IS intern](https://jobright.ai/jobs/info/68b2ae041ade4306aa639c84?utm_campaign=1079&utm_source=git)** | Location, WV | On Site | Aug 30 |
 | **[AMD](http://www.amd.com)** | **[2026 Undergrad Software Engineering Intern](https://jobright.ai/jobs/info/68b29decbc187f64e1bde08b?utm_campaign=1079&utm_source=git)** | Longmont, CO | On Site | Aug 29 |
@@ -109,6 +109,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 PhD Software Engineering Co-Op](https://jobright.ai/jobs/info/68b2b7fcbc187f64e1bdedb1?utm_campaign=1079&utm_source=git)** | Boxborough, MA | On Site | Aug 29 |
 | ↳ | **[2026 Masters Software Engineering Intern](https://jobright.ai/jobs/info/68b2ada91ade4306aa639c4e?utm_campaign=1079&utm_source=git)** | Fort Collins, CO | On Site | Aug 29 |
 | ↳ | **[2026 PhD Software Engineering Intern](https://jobright.ai/jobs/info/68b2a39ebc187f64e1bde446?utm_campaign=1079&utm_source=git)** | Longmont, CO | On Site | Aug 29 |
+| **[Vivacity Tech PBC](https://vivacitytech.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/68b3c6811ade4306aa63c2b7?utm_campaign=1079&utm_source=git)** | Greenville, SC | On Site | Aug 29 |
 | **[Andon Labs](https://vectorview.ai)** | **[Summer 2026: Member of Technical Staff](https://jobright.ai/jobs/info/68b262101ade4306aa635e8c?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Aug 29 |
 | **[Silimate (YC S23)](https://www.silimate.com/)** | **[Chip/EDA Software Intern](https://jobright.ai/jobs/info/68b25d03f4e41a61efd83a23?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Aug 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Business Integrity) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68b259abbc187f64e1bdab37?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Aug 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Volvo Group](http://www.volvogroup.com)** | **[Co-op: Lean Business Developer (Spring 2026)](https://jobright.ai/jobs/info/68b1fbd6bc187f64e1bd86c7?utm_campaign=1079&utm_source=git)** | Joliet, IL | On Site | Aug 29 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, R&D Graduate Summer - Computer Science Research Institute (CSRI), NM, Onsite](https://jobright.ai/jobs/info/68b1fbcf1ade4306aa633923?utm_campaign=1079&utm_source=git)** | Albuquerque, NM | Hybrid | Aug 29 |
 | **[BBI Logistics](https://www.bbilogistics.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68b1fbbbbc187f64e1bd8690?utm_campaign=1079&utm_source=git)** | Columbus, OH | On Site | Aug 29 |
-| **[Transcard](http://www.transcard.com)** | **[2026 - IT Quality Assurance Tester / Business Analyst Intern](https://jobright.ai/jobs/info/68b1fa6abc187f64e1bd853a?utm_campaign=1079&utm_source=git)** | Chattanooga, TN | Hybrid | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
