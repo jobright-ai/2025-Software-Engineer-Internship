@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BTI360](https://www.bti360.com/)** | **[College Hire Program Opportunity](https://jobright.ai/jobs/info/68b1dad61ade4306aa632549?utm_campaign=1079&utm_source=git)** | Herndon,VA | On Site | Aug 31 |
+| **[LomaAI](https://www.linkedin.com/company/108027964)** | **[Co-Founding Geospatial Software Engineer (Full Stack) - CTO](https://jobright.ai/jobs/info/68b4e3051ade4306aa63ecea?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 31 |
 | **[UBS](https://www.ubs.com)** | **[2026 Summer Internship - Technology - Weehawken](https://jobright.ai/jobs/info/68b4dcf61ade4306aa63ec74?utm_campaign=1079&utm_source=git)** | Weehawken, NJ | On Site | Aug 31 |
-| **[OAISIS](https://www.linkedin.com/company/106383497)** | **[Join OAISIS — We’re Hiring Tech Interns!](https://jobright.ai/jobs/info/68b4cac1bc187f64e1be3bac?utm_campaign=1079&utm_source=git)** | Dallas, TX | Remote | Aug 31 |
 | **[NetJets](https://www.netjets.com/)** | **[Software Engineer Intern (NJUS)](https://jobright.ai/jobs/info/68b4c3691ade4306aa63eb95?utm_campaign=1079&utm_source=git)** | Columbus, OH | On Site | Aug 31 |
 | **[Ship](https://www.linkedin.com/company/107405407)** | **[UGC Creator Internship](https://jobright.ai/jobs/info/68b4a3d4f4e41a61efd8c8d4?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 31 |
 | **[PENTAX Medical](https://www.pentaxmedical.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68908bf14c7e851b90ac70f6?utm_campaign=1079&utm_source=git)** | Montvale, NJ | On Site | Aug 31 |
@@ -67,8 +68,8 @@ For a complete list, click the following sortable link below:
 | **[Rippling](https://www.rippling.com)** | **[Software Engineer Intern - Winter 2026](https://jobright.ai/jobs/info/68435a3442a8434e13684b87?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Aug 31 |
 | ↳ | **[Software Engineer Intern - Winter 2026](https://jobright.ai/jobs/info/68435a3442a8434e136847bb?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Aug 31 |
 | **[Databricks](https://www.databricks.com)** | **[Senior Software Engineer - Database Engine Internals](https://jobright.ai/jobs/info/668a7835dfbe564b9b904c6a?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Aug 31 |
-| **[Side Quest](https://www.linkedin.com/company/106831212)** | **[Flutter Developer — Unpaid Internship](https://jobright.ai/jobs/info/68b3c7b21ade4306aa63c614?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 30 |
 | **[Santander](https://www.santander.com/)** | **[Technology Risk Management Intern](https://jobright.ai/jobs/info/68b3a8dd1ade4306aa63b7a7?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Aug 30 |
+| **[Notion](https://www.notion.so)** | **[Software Engineer, Mobile Intern (Winter 2026)](https://jobright.ai/jobs/info/6898309f5574fd6bc0c75135?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Aug 30 |
 | **[Freeform](https://freeformfuture.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68b3724cbc187f64e1be03d0?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 30 |
 | **[Santander México](http://www.santander.com.mx/)** | **[Technology Risk Management Intern](https://jobright.ai/jobs/info/68b351101ade4306aa63b13a?utm_campaign=1079&utm_source=git)** | Boston | On Site | Aug 30 |
 | ↳ | **[Technology Risk Management Intern](https://jobright.ai/jobs/info/68b350cc1ade4306aa63b12a?utm_campaign=1079&utm_source=git)** | Dallas | On Site | Aug 30 |
@@ -96,10 +97,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Co-op, IT - Software Engineering - ATL (Spring 2026)](https://jobright.ai/jobs/info/68984afffaa4e875e824d3b8?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Hybrid | Aug 30 |
 | **[Belvedere Trading, LLC](http://belvederetrading.com)** | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/689753101b9e81727f1985b0?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Aug 30 |
 | **[Databricks](https://www.databricks.com)** | **[Software Engineering Intern (2026)](https://jobright.ai/jobs/info/68983789faa4e875e824bfe2?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Aug 30 |
-| **[Advanced Microdevices Pvt. Ltd. (India)](https://mdimembrane.com)** | **[2026 Undergrad Software Engineering Co-Op](https://jobright.ai/jobs/info/68b2d2d5f4e41a61efd88134?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Aug 30 |
-| ↳ | **[2026 PhD Software Engineering Co-Op](https://jobright.ai/jobs/info/68b2de2bf4e41a61efd88246?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Aug 30 |
-| ↳ | **[2026 Masters Software Engineering Co-Op](https://jobright.ai/jobs/info/68b2d2e8f4e41a61efd88138?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Aug 30 |
+| **[Advanced Microdevices Pvt. Ltd. (India)](https://mdimembrane.com)** | **[2026 PhD Software Engineering Co-Op](https://jobright.ai/jobs/info/68b2de2bf4e41a61efd88246?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Aug 30 |
+| ↳ | **[2026 Undergrad Software Engineering Co-Op](https://jobright.ai/jobs/info/68b2d2d5f4e41a61efd88134?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Aug 30 |
 | ↳ | **[2026 Masters Software Engineering Co-Op](https://jobright.ai/jobs/info/68b2ce451ade4306aa63a252?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Aug 30 |
+| ↳ | **[2026 Masters Software Engineering Co-Op](https://jobright.ai/jobs/info/68b2d2e8f4e41a61efd88138?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Aug 30 |
 | **[The Digital BA](https://thedigitalba.com.au)** | **[AI - Internship Program](https://jobright.ai/jobs/info/68b2b68df4e41a61efd87c1e?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 30 |
 | **[ABB](https://global.abb/group/en)** | **[IS intern](https://jobright.ai/jobs/info/68b2ae041ade4306aa639c84?utm_campaign=1079&utm_source=git)** | Location, WV | On Site | Aug 30 |
 | **[AMD](http://www.amd.com)** | **[2026 Undergrad Software Engineering Intern](https://jobright.ai/jobs/info/68b29decbc187f64e1bde08b?utm_campaign=1079&utm_source=git)** | Longmont, CO | On Site | Aug 29 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Honeywell](http://www.honeywell.com)** | **[Software Engineer & Computer Science - Summer 2026 Intern (US Person Required)](https://jobright.ai/jobs/info/68b22ae9bc187f64e1bd9a5e?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 29 |
 | **[BOOZ ALLEN HAMILTON INTERNATIONAL (U.K.) LTD](https://www.boozallen.com/)** | **[University, 2026 Summer Games Software Developer Intern](https://jobright.ai/jobs/info/68b22231f4e41a61efd8267e?utm_campaign=1079&utm_source=git)** | McLean, VA | Hybrid | Aug 29 |
 | **[Humana](http://www.humana.com)** | **[Information Technology (IT) Internship - Summer 2026](https://jobright.ai/jobs/info/68b21fddf4e41a61efd82600?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Aug 29 |
-| ↳ | **[Information Technology (IT) Internship - Summer 2026](https://jobright.ai/jobs/info/68b21f89f4e41a61efd825d5?utm_campaign=1079&utm_source=git)** | Louisville, KY | On Site | Aug 29 |
-| ↳ | **[Information Technology (IT) Internship - Summer 2026](https://jobright.ai/jobs/info/68b21e8b1ade4306aa63490a?utm_campaign=1079&utm_source=git)** | Fort Lauderdale, FL | On Site | Aug 29 |
-| ↳ | **[Information Technology (IT) Internship - Summer 2026](https://jobright.ai/jobs/info/68b21e05bc187f64e1bd96e1?utm_campaign=1079&utm_source=git)** | Arlington, VA | On Site | Aug 29 |
+| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[TSS Software Tester Associate (Intern)](https://jobright.ai/jobs/info/68b21f9af4e41a61efd825de?utm_campaign=1079&utm_source=git)** | USA LA Bossier City | Hybrid | Aug 29 |
+| **[Humana](http://www.humana.com)** | **[Information Technology (IT) Internship - Summer 2026](https://jobright.ai/jobs/info/68b21f89f4e41a61efd825d5?utm_campaign=1079&utm_source=git)** | Louisville, KY | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
