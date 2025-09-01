@@ -57,6 +57,27 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Caterpillar Inc.](https://www.linkedin.com/company/44121827)** | **[2026 Summer Corporate Intern - Information Technology](https://jobright.ai/jobs/info/68b530a9bc187f64e1be5ae0?utm_campaign=1079&utm_source=git)** | Tucson, Arizona | On Site | Aug 31 |
+| **[Airbus](https://us.airbus.com)** | **[Summer Internship - Engineering 2026](https://jobright.ai/jobs/info/68b5301cf4e41a61efd8ea46?utm_campaign=1079&utm_source=git)** | Mobile Area, AL | On Site | Aug 31 |
+| **[Caterpillar Inc.](https://www.linkedin.com/company/44121827)** | **[2026 Summer Corporate Intern - Information Technology](https://jobright.ai/jobs/info/68b530101ade4306aa640abe?utm_campaign=1079&utm_source=git)** | Morton, Illinois | On Site | Aug 31 |
+| ↳ | **[2026 Summer Corporate Intern - Information Technology](https://jobright.ai/jobs/info/68b53007bc187f64e1be5a9f?utm_campaign=1079&utm_source=git)** | Cary, North Carolina | On Site | Aug 31 |
+| **[Sysco](http://sysco.com)** | **[Functional Analyst Intern](https://jobright.ai/jobs/info/68b52fdc1ade4306aa640aa7?utm_campaign=1079&utm_source=git)** | Sysco Corporate | On Site | Aug 31 |
+| **[Caterpillar Inc.](https://www.linkedin.com/company/44121827)** | **[2026 Summer Corporate Intern - Information Technology](https://jobright.ai/jobs/info/68b52fd8f4e41a61efd8ea35?utm_campaign=1079&utm_source=git)** | East Peoria, Illinois | On Site | Aug 31 |
+| ↳ | **[2026 Summer Corporate Intern - Information Technology](https://jobright.ai/jobs/info/68b52fc21ade4306aa640a96?utm_campaign=1079&utm_source=git)** | PA-Kennett Square-Tangent Energy Solutions | On Site | Aug 31 |
+| ↳ | **[2026 Summer Corporate Intern - Information Technology](https://jobright.ai/jobs/info/68b52fb5f4e41a61efd8ea29?utm_campaign=1079&utm_source=git)** | Peoria, Illinois | On Site | Aug 31 |
+| ↳ | **[2026 Summer Corporate Intern - Information Technology](https://jobright.ai/jobs/info/68b52faff4e41a61efd8ea26?utm_campaign=1079&utm_source=git)** | Irving, Texas | On Site | Aug 31 |
+| **[Bayer](https://www.bayer.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/68b52ddbbc187f64e1be5a63?utm_campaign=1079&utm_source=git)** | Indianola, PA | On Site | Aug 31 |
+| ↳ | **[Software Development Engineer Co-Op](https://jobright.ai/jobs/info/68b52d3ebc187f64e1be59e3?utm_campaign=1079&utm_source=git)** | Indianola, PA | On Site | Aug 31 |
+| ↳ | **[Software Development Co-Op](https://jobright.ai/jobs/info/68b52af31ade4306aa640a08?utm_campaign=1079&utm_source=git)** | Indianola, PA | On Site | Aug 31 |
+| **[Textron](http://textron.com)** | **[2026 IT Infrastructure Intern](https://jobright.ai/jobs/info/68b52a15bc187f64e1be59a9?utm_campaign=1079&utm_source=git)** | US-Georgia-Augusta | On Site | Aug 31 |
+| ↳ | **[2026 Pace Software Engineer Intern](https://jobright.ai/jobs/info/68b526e91ade4306aa6406a4?utm_campaign=1079&utm_source=git)** | US-Georgia-Augusta | On Site | Aug 31 |
+| ↳ | **[2026 IT SAP Intern](https://jobright.ai/jobs/info/68b526b5bc187f64e1be55ce?utm_campaign=1079&utm_source=git)** | US-Georgia-Augusta | On Site | Aug 31 |
+| **[Textron GSE](https://textrongse.txtsv.com/)** | **[2026 IT Infrastructure Intern](https://jobright.ai/jobs/info/68b5251ff4e41a61efd8e53e?utm_campaign=1079&utm_source=git)** | US-Georgia-Augusta | On Site | Aug 31 |
+| ↳ | **[2026 Pace Software Engineer Intern](https://jobright.ai/jobs/info/68b524f3f4e41a61efd8e52f?utm_campaign=1079&utm_source=git)** | US-Georgia-Augusta | On Site | Aug 31 |
+| ↳ | **[2026 IT SAP Intern](https://jobright.ai/jobs/info/68b524bbf4e41a61efd8e51d?utm_campaign=1079&utm_source=git)** | US-Georgia-Augusta | On Site | Aug 31 |
+| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - Software Engineering - Indiana](https://jobright.ai/jobs/info/68b523731ade4306aa640558?utm_campaign=1079&utm_source=git)** | Fort Wayne, Indiana | On Site | Aug 31 |
+| ↳ | **[2026 Summer Intern - Software Engineering - Florida](https://jobright.ai/jobs/info/68b52184f4e41a61efd8e4b0?utm_campaign=1079&utm_source=git)** | Fort Lauderdale, Florida | On Site | Aug 31 |
+| ↳ | **[2026 Summer Intern - Information Technology - Michigan](https://jobright.ai/jobs/info/68b52090bc187f64e1be551d?utm_campaign=1079&utm_source=git)** | Kalamazoo, Michigan | On Site | Aug 31 |
 | **[BTI360](https://www.bti360.com/)** | **[College Hire Program Opportunity](https://jobright.ai/jobs/info/68b1dad61ade4306aa632549?utm_campaign=1079&utm_source=git)** | Herndon,VA | On Site | Aug 31 |
 | **[LomaAI](https://www.linkedin.com/company/108027964)** | **[Co-Founding Geospatial Software Engineer (Full Stack) - CTO](https://jobright.ai/jobs/info/68b4e3051ade4306aa63ecea?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 31 |
 | **[UBS](https://www.ubs.com)** | **[2026 Summer Internship - Technology - Weehawken](https://jobright.ai/jobs/info/68b4dcf61ade4306aa63ec74?utm_campaign=1079&utm_source=git)** | Weehawken, NJ | On Site | Aug 31 |
@@ -136,25 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fullbay](https://www.fullbay.com)** | **[Software Developer in Test Intern](https://jobright.ai/jobs/info/68b24d43bc187f64e1bda6b1?utm_campaign=1079&utm_source=git)** | Phoenix, Arizona, United States | On Site | Aug 29 |
 | **[Colortech Inc.](http://colortech.com)** | **[Quality Assurance Intern/Coop](https://jobright.ai/jobs/info/68b24d16bc187f64e1bda674?utm_campaign=1079&utm_source=git)** | Morristown, TN, USA | On Site | Aug 29 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship – Enterprise Application Intern](https://jobright.ai/jobs/info/68b24b9f1ade4306aa6355c0?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Aug 29 |
-| ↳ | **[Summer 2026 Internship – SAP Intern](https://jobright.ai/jobs/info/68b24b271ade4306aa63557e?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Aug 29 |
-| ↳ | **[Summer 2026 Internship – Software Engineering Intern](https://jobright.ai/jobs/info/68b24a1a1ade4306aa6354ce?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Aug 29 |
-| **[Epic Games](https://epicgames.com)** | **[User Identity Services Engineering Intern](https://jobright.ai/jobs/info/68b24a051ade4306aa6354c5?utm_campaign=1079&utm_source=git)** | Cary,North Carolina,United States | On Site | Aug 29 |
-| ↳ | **[User Identity Services Engineering Intern](https://jobright.ai/jobs/info/68b248c5bc187f64e1bda4d1?utm_campaign=1079&utm_source=git)** | Cary, NC | On Site | Aug 29 |
-| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship – OPIS Software Development Intern](https://jobright.ai/jobs/info/68b2468cbc187f64e1bda304?utm_campaign=1079&utm_source=git)** | Gaithersburg, MD | Hybrid | Aug 29 |
-| **[Appian](http://www.appian.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68b244f9f4e41a61efd8317a?utm_campaign=1079&utm_source=git)** | McLean, VA | On Site | Aug 29 |
-| **[PIMCO](http://www.pimco.com)** | **[2026 Summer Intern - Technology Analyst, Software Engineering](https://jobright.ai/jobs/info/68b244181ade4306aa63537e?utm_campaign=1079&utm_source=git)** | Newport Beach, CA | On Site | Aug 29 |
-| **[Transcard](http://www.transcard.com)** | **[2026 - IT Quality Assurance Tester / Business Analyst Intern](https://jobright.ai/jobs/info/68b23ffbf4e41a61efd82fba?utm_campaign=1079&utm_source=git)** | Chattanooga, TN | Remote | Aug 29 |
-| ↳ | **[2026 - IT Infrastructure Intern](https://jobright.ai/jobs/info/68b23f6ff4e41a61efd82f7b?utm_campaign=1079&utm_source=git)** | Chattanooga, TN | Hybrid | Aug 29 |
-| **[PIMCO](http://www.pimco.com)** | **[2026 Summer Intern - Technology Analyst, Software Engineering](https://jobright.ai/jobs/info/68b23d8bf4e41a61efd82f21?utm_campaign=1079&utm_source=git)** | Newport Beach, CA USA | On Site | Aug 29 |
-| **[Cloudflare](http://www.cloudflare.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/68b259e7bc187f64e1bdab55?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Aug 29 |
-| **[Schweitzer Engineering Laboratories (SEL)](http://www.selinc.com/)** | **[Application Engineering Intern](https://jobright.ai/jobs/info/68b2385a1ade4306aa634f97?utm_campaign=1079&utm_source=git)** | Washington - Pullman | On Site | Aug 29 |
-| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Cloud Developer Associate (Intern)](https://jobright.ai/jobs/info/68b2378ebc187f64e1bd9d9a?utm_campaign=1079&utm_source=git)** | USA LA Bossier City | Hybrid | Aug 29 |
-| **[Honeywell](http://www.honeywell.com)** | **[Software Engineer & Computer Science - Summer 2026 Intern (US Person Required)](https://jobright.ai/jobs/info/68b26262f4e41a61efd83c14?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 29 |
-| **[Susquehanna International Group](http://sig.com)** | **[Trading System Engineering Internship: Summer 2026](https://jobright.ai/jobs/info/68b2361df4e41a61efd82bc4?utm_campaign=1079&utm_source=git)** | Greater Philadelphia | On Site | Aug 29 |
-| **[BBI Logistics](https://www.bbilogistics.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68b268fd1ade4306aa6362af?utm_campaign=1079&utm_source=git)** | Columbus, OH | On Site | Aug 29 |
-| **[Appian](http://www.appian.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68b22f971ade4306aa634c76?utm_campaign=1079&utm_source=git)** | McLean, Virginia | On Site | Aug 29 |
-| **[Transcard](http://www.transcard.com)** | **[2026 - Software Engineer Intern](https://jobright.ai/jobs/info/68b24b0d1ade4306aa63556a?utm_campaign=1079&utm_source=git)** | Chattanooga, TN | Remote | Aug 29 |
-| **[Honeywell](http://www.honeywell.com)** | **[Software Engineer & Computer Science - Summer 2026 Intern (US Person Required)](https://jobright.ai/jobs/info/68b22ae9bc187f64e1bd9a5e?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 29 |
-| **[BOOZ ALLEN HAMILTON INTERNATIONAL (U.K.) LTD](https://www.boozallen.com/)** | **[University, 2026 Summer Games Software Developer Intern](https://jobright.ai/jobs/info/68b22231f4e41a61efd8267e?utm_campaign=1079&utm_source=git)** | McLean, VA | Hybrid | Aug 29 |
-| **[Humana](http://www.humana.com)** | **[Information Technology (IT) Internship - Summer 2026](https://jobright.ai/jobs/info/68b21fddf4e41a61efd82600?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
