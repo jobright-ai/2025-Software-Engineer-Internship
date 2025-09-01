@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Joinrs](http://www.tutored.me)** | **[[Full Remote] Junior Web Developer](https://jobright.ai/jobs/info/68b57e25bc187f64e1be6e60?utm_campaign=1079&utm_source=git)** | United States | Remote | Sep 01 |
 | **[Textron](http://textron.com)** | **[2026 Intern - IT  Application Development - Hunt Valley, MD](https://jobright.ai/jobs/info/68b56312f4e41a61efd8f8ec?utm_campaign=1079&utm_source=git)** | US-Maryland-Hunt Valley | Hybrid | Sep 01 |
 | ↳ | **[2026 Internship - Information Systems (Developer)](https://jobright.ai/jobs/info/68b562d9bc187f64e1be68ec?utm_campaign=1079&utm_source=git)** | US-Kansas-Wichita | On Site | Sep 01 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68b5629b1ade4306aa6419c0?utm_campaign=1079&utm_source=git)** | Greater Sioux Falls Area | Hybrid | Sep 01 |
@@ -94,9 +95,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Development Engineer Co-Op](https://jobright.ai/jobs/info/68b52d3ebc187f64e1be59e3?utm_campaign=1079&utm_source=git)** | Indianola, PA | On Site | Aug 31 |
 | ↳ | **[Software Development Co-Op](https://jobright.ai/jobs/info/68b52af31ade4306aa640a08?utm_campaign=1079&utm_source=git)** | Indianola, PA | On Site | Aug 31 |
 | **[Textron](http://textron.com)** | **[2026 IT Infrastructure Intern](https://jobright.ai/jobs/info/68b52a15bc187f64e1be59a9?utm_campaign=1079&utm_source=git)** | US-Georgia-Augusta | On Site | Aug 31 |
+| ↳ | **[2026 Pace Software Engineer Intern](https://jobright.ai/jobs/info/68b52a07bc187f64e1be59a7?utm_campaign=1079&utm_source=git)** | US-Georgia-Augusta | On Site | Aug 31 |
 | ↳ | **[2026 IT SAP Intern](https://jobright.ai/jobs/info/68b529f41ade4306aa64097c?utm_campaign=1079&utm_source=git)** | US-Georgia-Augusta | On Site | Aug 31 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - Software Engineering - Texas](https://jobright.ai/jobs/info/68b554a0bc187f64e1be6689?utm_campaign=1079&utm_source=git)** | Flower Mound, Texas | On Site | Aug 31 |
-| **[Textron](http://textron.com)** | **[2026 Pace Software Engineer Intern](https://jobright.ai/jobs/info/68b526e91ade4306aa6406a4?utm_campaign=1079&utm_source=git)** | US-Georgia-Augusta | On Site | Aug 31 |
 | **[Textron GSE](https://textrongse.txtsv.com/)** | **[2026 IT Infrastructure Intern](https://jobright.ai/jobs/info/68b5251ff4e41a61efd8e53e?utm_campaign=1079&utm_source=git)** | US-Georgia-Augusta | On Site | Aug 31 |
 | ↳ | **[2026 Pace Software Engineer Intern](https://jobright.ai/jobs/info/68b524f3f4e41a61efd8e52f?utm_campaign=1079&utm_source=git)** | US-Georgia-Augusta | On Site | Aug 31 |
 | ↳ | **[2026 IT SAP Intern](https://jobright.ai/jobs/info/68b524bbf4e41a61efd8e51d?utm_campaign=1079&utm_source=git)** | US-Georgia-Augusta | On Site | Aug 31 |
@@ -106,7 +107,7 @@ For a complete list, click the following sortable link below:
 | **[BTI360](https://www.bti360.com/)** | **[College Hire Program Opportunity](https://jobright.ai/jobs/info/68b1dad61ade4306aa632549?utm_campaign=1079&utm_source=git)** | Herndon,VA | On Site | Aug 31 |
 | **[LomaAI](https://www.linkedin.com/company/108027964)** | **[Co-Founding Geospatial Software Engineer (Full Stack) - CTO](https://jobright.ai/jobs/info/68b4e3051ade4306aa63ecea?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 31 |
 | **[UBS](https://www.ubs.com)** | **[2026 Summer Internship - Technology - Weehawken](https://jobright.ai/jobs/info/68b4dcf61ade4306aa63ec74?utm_campaign=1079&utm_source=git)** | Weehawken, NJ | On Site | Aug 31 |
-| **[NetJets](https://www.netjets.com/)** | **[Software Engineer Intern (NJUS)](https://jobright.ai/jobs/info/68b4c3691ade4306aa63eb95?utm_campaign=1079&utm_source=git)** | Columbus, OH | On Site | Aug 31 |
+| **[NetJets](https://www.netjets.com/)** | **[Software Engineer Intern (NJUS)](https://jobright.ai/jobs/info/68b4c075f4e41a61efd8ca46?utm_campaign=1079&utm_source=git)** | Columbus, OH | On Site | Aug 31 |
 | **[Ship](https://www.linkedin.com/company/107405407)** | **[UGC Creator Internship](https://jobright.ai/jobs/info/68b4a3d4f4e41a61efd8c8d4?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 31 |
 | **[CliquePrize -Local Giveaway Marketing for Small Businesses](https://www.cliqueprize.com)** | **[Data Management & Swift Mobile Developer Internship](https://jobright.ai/jobs/info/68b51418f4e41a61efd8d70c?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 31 |
 | **[PENTAX Medical](https://www.pentaxmedical.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68908bf14c7e851b90ac70f6?utm_campaign=1079&utm_source=git)** | Montvale, NJ | On Site | Aug 31 |
@@ -145,10 +146,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Co-op, IT - Software Engineering - ATL (Spring 2026)](https://jobright.ai/jobs/info/68984afffaa4e875e824d3b8?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Hybrid | Aug 30 |
 | **[Belvedere Trading, LLC](http://belvederetrading.com)** | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/689753101b9e81727f1985b0?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Aug 30 |
 | **[Databricks](https://www.databricks.com)** | **[Software Engineering Intern (2026)](https://jobright.ai/jobs/info/68983789faa4e875e824bfe2?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Aug 30 |
-| **[Advanced Microdevices Pvt. Ltd. (India)](https://mdimembrane.com)** | **[2026 Undergrad Software Engineering Co-Op](https://jobright.ai/jobs/info/68b2d2d5f4e41a61efd88134?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Aug 30 |
-| ↳ | **[2026 PhD Software Engineering Co-Op](https://jobright.ai/jobs/info/68b2de2bf4e41a61efd88246?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Aug 30 |
-| ↳ | **[2026 Masters Software Engineering Co-Op](https://jobright.ai/jobs/info/68b2d2e8f4e41a61efd88138?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Aug 30 |
+| **[Advanced Microdevices Pvt. Ltd. (India)](https://mdimembrane.com)** | **[2026 PhD Software Engineering Co-Op](https://jobright.ai/jobs/info/68b2de2bf4e41a61efd88246?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Aug 30 |
+| ↳ | **[2026 Undergrad Software Engineering Co-Op](https://jobright.ai/jobs/info/68b2d2d5f4e41a61efd88134?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Aug 30 |
 | ↳ | **[2026 Masters Software Engineering Co-Op](https://jobright.ai/jobs/info/68b2ce451ade4306aa63a252?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Aug 30 |
+| ↳ | **[2026 Masters Software Engineering Co-Op](https://jobright.ai/jobs/info/68b2d2e8f4e41a61efd88138?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Aug 30 |
 | **[The Digital BA](https://thedigitalba.com.au)** | **[AI - Internship Program](https://jobright.ai/jobs/info/68b2b68df4e41a61efd87c1e?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 30 |
 | **[ABB](https://global.abb/group/en)** | **[IS intern](https://jobright.ai/jobs/info/68b2ae041ade4306aa639c84?utm_campaign=1079&utm_source=git)** | Location, WV | On Site | Aug 30 |
 | **[AMD](http://www.amd.com)** | **[2026 Undergrad Software Engineering Intern](https://jobright.ai/jobs/info/68b29decbc187f64e1bde08b?utm_campaign=1079&utm_source=git)** | Longmont, CO | On Site | Aug 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Undergrad Software Engineering Intern](https://jobright.ai/jobs/info/68b29cd2bc187f64e1bddf1e?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Aug 29 |
 | ↳ | **[2026 Masters Software Engineering Intern](https://jobright.ai/jobs/info/68b297801ade4306aa638b41?utm_campaign=1079&utm_source=git)** | Boxborough, MA | On Site | Aug 29 |
 | ↳ | **[2026 PhD Software Engineering Co-Op](https://jobright.ai/jobs/info/68b29629f4e41a61efd86cba?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Aug 29 |
-| ↳ | **[2026 Masters Software Engineering Intern](https://jobright.ai/jobs/info/68b29543f4e41a61efd86bb7?utm_campaign=1079&utm_source=git)** | Longmont, CO | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
