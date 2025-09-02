@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ Pilot Company](http://www.pilotflyingj.com)** | **[Applications Development Intern](https://jobright.ai/jobs/info/68b64027bc187f64e1be915d?utm_campaign=1079&utm_source=git)** | 5508 Lonas Drive, Knoxville, TN | On Site | Sep 01 |
+| **[Sysco](http://sysco.com)** | **[Functional Analyst Intern](https://jobright.ai/jobs/info/68b63b6abc187f64e1be904f?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | Sep 01 |
+| **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Applications Development Intern](https://jobright.ai/jobs/info/68b635d8f4e41a61efd91fe7?utm_campaign=1079&utm_source=git)** | Knoxville, TN | On Site | Sep 01 |
 | **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[Spring 2026 Enterprise Sourcing Intern](https://jobright.ai/jobs/info/68b6277a1ade4306aa643ef0?utm_campaign=1079&utm_source=git)** | Cincinnati, OH | On Site | Sep 01 |
 | **[GLS IT Services GmbH](https://gls-group.eu/DE/de/home)** | **[Ausbildung Fachinformatiker für Anwendungsentwicklung (w/m/d) 2026](https://jobright.ai/jobs/info/68b5ed001ade4306aa643913?utm_campaign=1079&utm_source=git)** | Elkhart County, IN | On Site | Sep 01 |
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Summer 2025 - IT College Intern](https://jobright.ai/jobs/info/68b5d26c1ade4306aa64356c?utm_campaign=1079&utm_source=git)** | Savannah, GA | On Site | Sep 01 |
@@ -74,6 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - Software Engineering - California](https://jobright.ai/jobs/info/68b5c042bc187f64e1be8308?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Sep 01 |
 | ↳ | **[2026 Summer Intern - Software Engineering - California](https://jobright.ai/jobs/info/68b5beebf4e41a61efd91283?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Sep 01 |
 | **[SPS Commerce](http://spscommerce.com)** | **[Software Engineer Intern (Talent Pool)](https://jobright.ai/jobs/info/68b58fc0f4e41a61efd902bf?utm_campaign=1079&utm_source=git)** | Rogers, AR | Hybrid | Sep 01 |
+| **[Orrick, Herrington & Sutcliffe LLP](https://www.orrick.com)** | **[IT Intern - Web Team](https://jobright.ai/jobs/info/685ef60369775480953a0c13?utm_campaign=1079&utm_source=git)** | Wheeling, WV | Hybrid | Sep 01 |
 | **[Joinrs](http://www.tutored.me)** | **[[Full Remote] Junior Web Developer](https://jobright.ai/jobs/info/68b57e25bc187f64e1be6e60?utm_campaign=1079&utm_source=git)** | United States | Remote | Sep 01 |
 | **[WebFX](https://www.webfx.com)** | **[Web Developer Internship](https://jobright.ai/jobs/info/6880c9ca16ea5743a373314a?utm_campaign=1079&utm_source=git)** | Harrisburg, PA | On Site | Sep 01 |
 | **[Textron](http://textron.com)** | **[2026 Intern - IT  Application Development - Hunt Valley, MD](https://jobright.ai/jobs/info/68b56312f4e41a61efd8f8ec?utm_campaign=1079&utm_source=git)** | US-Maryland-Hunt Valley | Hybrid | Sep 01 |
@@ -128,7 +132,7 @@ For a complete list, click the following sortable link below:
 | **[BTI360](https://www.bti360.com/)** | **[College Hire Program Opportunity](https://jobright.ai/jobs/info/68b1dad61ade4306aa632549?utm_campaign=1079&utm_source=git)** | Herndon,VA | On Site | Aug 31 |
 | **[LomaAI](https://www.linkedin.com/company/108027964)** | **[Co-Founding Geospatial Software Engineer (Full Stack) - CTO](https://jobright.ai/jobs/info/68b4e3051ade4306aa63ecea?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 31 |
 | **[UBS](https://www.ubs.com)** | **[2026 Summer Internship - Technology - Weehawken](https://jobright.ai/jobs/info/68b4dcf61ade4306aa63ec74?utm_campaign=1079&utm_source=git)** | Weehawken, NJ | On Site | Aug 31 |
-| **[NetJets](https://www.netjets.com/)** | **[Software Engineer Intern (NJUS)](https://jobright.ai/jobs/info/68b4c3691ade4306aa63eb95?utm_campaign=1079&utm_source=git)** | Columbus, OH | On Site | Aug 31 |
+| **[NetJets](https://www.netjets.com/)** | **[Software Engineer Intern (NJUS)](https://jobright.ai/jobs/info/68b4c075f4e41a61efd8ca46?utm_campaign=1079&utm_source=git)** | Columbus, OH | On Site | Aug 31 |
 | **[Ship](https://www.linkedin.com/company/107405407)** | **[UGC Creator Internship](https://jobright.ai/jobs/info/68b4a3d4f4e41a61efd8c8d4?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 31 |
 | **[PENTAX Medical](https://www.pentaxmedical.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68908bf14c7e851b90ac70f6?utm_campaign=1079&utm_source=git)** | Montvale, NJ | On Site | Aug 31 |
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Technology Risk Management Intern](https://jobright.ai/jobs/info/68b43d31bc187f64e1be3159?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Aug 31 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer Intern (Winter 2026)](https://jobright.ai/jobs/info/6898366183d13d1f5b68be60?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Aug 30 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Software Systems Hardware Integration Engineer Intern (Fall 2025)](https://jobright.ai/jobs/info/687c9e2ced63844c944b01e4?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Aug 30 |
 | **[Notion](https://www.notion.so)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/689845f2faa4e875e824caeb?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Aug 30 |
-| ↳ | **[Software Engineer Intern (Winter 2026)](https://jobright.ai/jobs/info/689760bc8c6d6b442678a886?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Aug 30 |
-| **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[IT Application Development Intern](https://jobright.ai/jobs/info/68b3207cbc187f64e1bdfc47?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Aug 30 |
-| **[Databricks](https://www.databricks.com)** | **[Software Engineering Intern (2026)](https://jobright.ai/jobs/info/68984556faa4e875e824c9f0?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Aug 30 |
-| **[Delta Air Lines](https://www.delta.com/)** | **[Intern, IT Enterprise Technology (RAISE) - MSP (Summer 2026)](https://jobright.ai/jobs/info/68973e2173b3a600fe895649?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | Hybrid | Aug 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
