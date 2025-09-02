@@ -57,8 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trimble Inc.](http://www.trimble.com)** | **[Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68b686661ade4306aa645921?utm_campaign=1079&utm_source=git)** | Dayton, OH | On Site | Sep 01 |
+| ↳ | **[Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68b685f41ade4306aa6458d8?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Sep 01 |
+| ↳ | **[12-Month Geospatial Internship](https://jobright.ai/jobs/info/68b6850c1ade4306aa645871?utm_campaign=1079&utm_source=git)** | Westminster, CO | On Site | Sep 01 |
+| **[Northern Trust](http://www.northerntrust.com)** | **[Technology Intern – Infrastructure and IT Management](https://jobright.ai/jobs/info/68b684201ade4306aa645820?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Sep 01 |
+| **[Trimble Inc.](http://www.trimble.com)** | **[Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68b68408bc187f64e1bea8e6?utm_campaign=1079&utm_source=git)** | Portsmouth, NH | On Site | Sep 01 |
+| **[RTX](http://www.raytheon.com)** | **[Software Engineering Co-Op (Summer/Fall 2026) (Onsite)](https://jobright.ai/jobs/info/68b67fcfbc187f64e1bea7ac?utm_campaign=1079&utm_source=git)** | HIA32: Cedar Rapids, IA 400 Collins Rd NE  , Cedar Rapids, IA, 52498-0505 USA | On Site | Sep 01 |
+| ↳ | **[Software Engineering Co-op (Summer/Fall 2026) (Onsite)](https://jobright.ai/jobs/info/68b67e7ef4e41a61efd935eb?utm_campaign=1079&utm_source=git)** | HIA32: Cedar Rapids, IA 400 Collins Rd NE  , Cedar Rapids, IA, 52498-0505 USA | On Site | Sep 01 |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[Edison Engineering Development Program Intern – Software](https://jobright.ai/jobs/info/68b677d31ade4306aa645356?utm_campaign=1079&utm_source=git)** | Waukesha, WI | On Site | Sep 01 |
+| **[Guardian Life](http://www.guardianlife.com/)** | **[2026 Guardian Summer Intern, Digital & Technology – Application Development](https://jobright.ai/jobs/info/68b677c81ade4306aa645346?utm_campaign=1079&utm_source=git)** | New York | On Site | Sep 01 |
+| **[Chase](https://www.chase.com/)** | **[2026 Software Engineer Program – (New York Jobs CEO Council Tech Apprenticeship)](https://jobright.ai/jobs/info/68b677bd1ade4306aa645344?utm_campaign=1079&utm_source=git)** | New York, NY, United States | On Site | Sep 01 |
+| **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Software Engineer Program – (New York Jobs CEO Council Tech Apprenticeship)](https://jobright.ai/jobs/info/68b6765ebc187f64e1bea347?utm_campaign=1079&utm_source=git)** | New York, NY, United States | On Site | Sep 01 |
 | **[MORSE Corp](https://www.morsecorp.com)** | **[Python Software Engineer Co-op](https://jobright.ai/jobs/info/68b657c1f4e41a61efd923e2?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Sep 01 |
-| ↳ | **[Cloud Software Engineer Co-op](https://jobright.ai/jobs/info/68b657b0f4e41a61efd923db?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Sep 01 |
+| **[Guardian Life](http://www.guardianlife.com/)** | **[2026 Guardian Summer Intern, Digital & Technology – Application Development](https://jobright.ai/jobs/info/68b6755df4e41a61efd9331c?utm_campaign=1079&utm_source=git)** | Holmdel | On Site | Sep 01 |
+| **[MORSE Corp](https://www.morsecorp.com)** | **[Cloud Software Engineer Co-op](https://jobright.ai/jobs/info/68b657b0f4e41a61efd923db?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Sep 01 |
 | ↳ | **[Full Stack Software Engineer Co-op](https://jobright.ai/jobs/info/68b654731ade4306aa64439c?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Sep 01 |
 | **[Plexus Corp.](http://www.plexus.com/)** | **[Intern - Design Assurance Engineer (Summer 2026)](https://jobright.ai/jobs/info/68b65ea2bc187f64e1be9689?utm_campaign=1079&utm_source=git)** | Neenah, WI | On Site | Sep 01 |
 | ↳ | **[Intern - Design Assurance Engineer (Fall 2026)](https://jobright.ai/jobs/info/68b65c551ade4306aa6445a2?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Sep 01 |
@@ -82,6 +94,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2025 - IT College Intern](https://jobright.ai/jobs/info/68b5d12df4e41a61efd91494?utm_campaign=1079&utm_source=git)** | Savannah, GA | On Site | Sep 01 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Spring 2026 Enterprise Sourcing Intern](https://jobright.ai/jobs/info/68b5d023bc187f64e1be84b1?utm_campaign=1079&utm_source=git)** | 221 East Fourth Street, Cincinnati, OH, 45202, US | On Site | Sep 01 |
 | **[Textron](http://textron.com)** | **[2026 Intern - IT  Engineer Business Systems - Hunt Valley, MD](https://jobright.ai/jobs/info/68b5ce5bbc187f64e1be846b?utm_campaign=1079&utm_source=git)** | Hunt Valley, MD | Hybrid | Sep 01 |
+| **[Gale (YC W25)](https://galevisa.com/)** | **[Software Engineer Intern (Jan-Apr 2026)](https://jobright.ai/jobs/info/68b67246f4e41a61efd92ebe?utm_campaign=1079&utm_source=git)** | United States | Remote | Sep 01 |
 | **[Mutual of Omaha](http://www.mutualofomaha.com)** | **[Summer 2026 Information Technology Intern – Remote](https://jobright.ai/jobs/info/68b5ace41ade4306aa642bd9?utm_campaign=1079&utm_source=git)** | Omaha, NE | Hybrid | Sep 01 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - Software Engineering - Florida](https://jobright.ai/jobs/info/68b5a679f4e41a61efd90aee?utm_campaign=1079&utm_source=git)** | Fort Lauderdale, FL | On Site | Sep 01 |
 | ↳ | **[2026 Summer Intern - Software Engineering - Texas](https://jobright.ai/jobs/info/68b5a0c7f4e41a61efd9084e?utm_campaign=1079&utm_source=git)** | Flower Mound, TX | On Site | Sep 01 |
@@ -102,6 +115,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Embedded Software Engineer Intern](https://jobright.ai/jobs/info/68b56204f4e41a61efd8f883?utm_campaign=1079&utm_source=git)** | Cook County, IL | Hybrid | Sep 01 |
 | **[Textron](http://textron.com)** | **[2026 Intern - IT  Engineer Business Systems - Hunt Valley, MD](https://jobright.ai/jobs/info/68b56012f4e41a61efd8f882?utm_campaign=1079&utm_source=git)** | US-Maryland-Hunt Valley | Hybrid | Sep 01 |
 | **[Textron GSE](https://textrongse.txtsv.com/)** | **[2026 IT SAP Intern](https://jobright.ai/jobs/info/68b558a11ade4306aa641813?utm_campaign=1079&utm_source=git)** | Augusta, GA | On Site | Sep 01 |
+| ↳ | **[2026 Pace Software Engineer Intern](https://jobright.ai/jobs/info/68b6783af4e41a61efd9354c?utm_campaign=1079&utm_source=git)** | Augusta, GA | On Site | Sep 01 |
+| ↳ | **[2026 IT Infrastructure Intern](https://jobright.ai/jobs/info/68b679681ade4306aa64560c?utm_campaign=1079&utm_source=git)** | Augusta, GA | On Site | Sep 01 |
 | **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2026 Pace Software Engineer Intern](https://jobright.ai/jobs/info/68b54fbbf4e41a61efd8f5a1?utm_campaign=1079&utm_source=git)** | Augusta, GA | On Site | Sep 01 |
 | ↳ | **[2026 IT Infrastructure Intern](https://jobright.ai/jobs/info/68b54b52f4e41a61efd8f1f4?utm_campaign=1079&utm_source=git)** | Augusta, GA | On Site | Sep 01 |
 | ↳ | **[2026 IT SAP Intern](https://jobright.ai/jobs/info/68b549db1ade4306aa640f84?utm_campaign=1079&utm_source=git)** | Augusta, GA | On Site | Sep 01 |
@@ -134,27 +149,12 @@ For a complete list, click the following sortable link below:
 | **[Bayer](https://www.bayer.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/68b52ddbbc187f64e1be5a63?utm_campaign=1079&utm_source=git)** | Indianola, PA | On Site | Aug 31 |
 | ↳ | **[Software Development Engineer Co-Op](https://jobright.ai/jobs/info/68b52d3ebc187f64e1be59e3?utm_campaign=1079&utm_source=git)** | Indianola, PA | On Site | Aug 31 |
 | ↳ | **[Software Development Co-Op](https://jobright.ai/jobs/info/68b52af31ade4306aa640a08?utm_campaign=1079&utm_source=git)** | Indianola, PA | On Site | Aug 31 |
-| **[Textron](http://textron.com)** | **[2026 IT Infrastructure Intern](https://jobright.ai/jobs/info/68b52a15bc187f64e1be59a9?utm_campaign=1079&utm_source=git)** | US-Georgia-Augusta | On Site | Aug 31 |
+| **[Textron](http://textron.com)** | **[2026 Pace Software Engineer Intern](https://jobright.ai/jobs/info/68b52a07bc187f64e1be59a7?utm_campaign=1079&utm_source=git)** | US-Georgia-Augusta | On Site | Aug 31 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - Software Engineering - Texas](https://jobright.ai/jobs/info/68b554a0bc187f64e1be6689?utm_campaign=1079&utm_source=git)** | Flower Mound, Texas | On Site | Aug 31 |
-| **[Textron](http://textron.com)** | **[2026 Pace Software Engineer Intern](https://jobright.ai/jobs/info/68b526e91ade4306aa6406a4?utm_campaign=1079&utm_source=git)** | US-Georgia-Augusta | On Site | Aug 31 |
+| **[Textron](http://textron.com)** | **[2026 IT Infrastructure Intern](https://jobright.ai/jobs/info/68b5271b1ade4306aa64073e?utm_campaign=1079&utm_source=git)** | US-Georgia-Augusta | On Site | Aug 31 |
 | ↳ | **[2026 IT SAP Intern](https://jobright.ai/jobs/info/68b526b5bc187f64e1be55ce?utm_campaign=1079&utm_source=git)** | US-Georgia-Augusta | On Site | Aug 31 |
 | **[Textron GSE](https://textrongse.txtsv.com/)** | **[2026 IT Infrastructure Intern](https://jobright.ai/jobs/info/68b5251ff4e41a61efd8e53e?utm_campaign=1079&utm_source=git)** | US-Georgia-Augusta | On Site | Aug 31 |
 | ↳ | **[2026 Pace Software Engineer Intern](https://jobright.ai/jobs/info/68b524f3f4e41a61efd8e52f?utm_campaign=1079&utm_source=git)** | US-Georgia-Augusta | On Site | Aug 31 |
 | ↳ | **[2026 IT SAP Intern](https://jobright.ai/jobs/info/68b524bbf4e41a61efd8e51d?utm_campaign=1079&utm_source=git)** | US-Georgia-Augusta | On Site | Aug 31 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - Software Engineering - Indiana](https://jobright.ai/jobs/info/68b523731ade4306aa640558?utm_campaign=1079&utm_source=git)** | Fort Wayne, Indiana | On Site | Aug 31 |
-| ↳ | **[2026 Summer Intern - Software Engineering - Florida](https://jobright.ai/jobs/info/68b52184f4e41a61efd8e4b0?utm_campaign=1079&utm_source=git)** | Fort Lauderdale, Florida | On Site | Aug 31 |
-| ↳ | **[2026 Summer Intern - Information Technology - Michigan](https://jobright.ai/jobs/info/68b52090bc187f64e1be551d?utm_campaign=1079&utm_source=git)** | Kalamazoo, Michigan | On Site | Aug 31 |
-| ↳ | **[2026 Summer Intern - Software Engineering - Michigan](https://jobright.ai/jobs/info/68b58d47f4e41a61efd90206?utm_campaign=1079&utm_source=git)** | Portage, Michigan | On Site | Aug 31 |
-| **[BTI360](https://www.bti360.com/)** | **[College Hire Program Opportunity](https://jobright.ai/jobs/info/68b1dad61ade4306aa632549?utm_campaign=1079&utm_source=git)** | Herndon,VA | On Site | Aug 31 |
-| **[UBS](https://www.ubs.com)** | **[2026 Summer Internship - Technology - Weehawken](https://jobright.ai/jobs/info/68b4dcf61ade4306aa63ec74?utm_campaign=1079&utm_source=git)** | Weehawken, NJ | On Site | Aug 31 |
-| **[NetJets](https://www.netjets.com/)** | **[Software Engineer Intern (NJUS)](https://jobright.ai/jobs/info/68b4c3691ade4306aa63eb95?utm_campaign=1079&utm_source=git)** | Columbus, OH | On Site | Aug 31 |
-| **[Ship](https://www.linkedin.com/company/107405407)** | **[UGC Creator Internship](https://jobright.ai/jobs/info/68b4a3d4f4e41a61efd8c8d4?utm_campaign=1079&utm_source=git)** | United States | Remote | Aug 31 |
-| **[PENTAX Medical](https://www.pentaxmedical.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68908bf14c7e851b90ac70f6?utm_campaign=1079&utm_source=git)** | Montvale, NJ | On Site | Aug 31 |
-| **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Technology Risk Management Intern](https://jobright.ai/jobs/info/68b43d31bc187f64e1be3159?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Aug 31 |
-| **[Harmonic](https://www.harmonic.ai)** | **[Software Engineer Intern (Summer '26)](https://jobright.ai/jobs/info/68891f9209808a6103e4528d?utm_campaign=1079&utm_source=git)** | New York City | On Site | Aug 31 |
-| **[Rippling](https://www.rippling.com)** | **[Software Engineer Intern - Winter 2026](https://jobright.ai/jobs/info/68435a3442a8434e13684b87?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Aug 31 |
-| ↳ | **[Software Engineer Intern - Winter 2026](https://jobright.ai/jobs/info/68435a3442a8434e136847bb?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Aug 31 |
-| **[Delta Air Lines](https://www.delta.com/)** | **[Intern, IT - Transformation and International Tech - ATL (Summer 2026)](https://jobright.ai/jobs/info/6897efa01b9e81727f1a33d0?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Hybrid | Aug 31 |
-| **[Databricks](https://www.databricks.com)** | **[Senior Software Engineer - Database Engine Internals](https://jobright.ai/jobs/info/668a7835dfbe564b9b904c6a?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Aug 31 |
-| **[Santander](https://www.santander.com/)** | **[Technology Risk Management Intern](https://jobright.ai/jobs/info/68b3a8dd1ade4306aa63b7a7?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Aug 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
