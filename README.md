@@ -57,13 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Grainger](https://www.grainger.com)** | **[GTG Intern - Software Engineer](https://jobright.ai/jobs/info/689a82035574fd6bc0c831ca?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Sep 02 |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[Information Technology Development Program - Internship](https://jobright.ai/jobs/info/68b6d9db2124650c1401e118?utm_campaign=1079&utm_source=git)** | Wisconsin, United States | Remote | Sep 02 |
+| **[STMicroelectronics](https://www.st.com)** | **[Software Algorithm/Embedded Intern](https://jobright.ai/jobs/info/689a75085574fd6bc0c82aae?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | Hybrid | Sep 02 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Software Engineer](https://jobright.ai/jobs/info/68b6b2532124650c1401ddd6?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Sep 02 |
 | **[NVIDIA](https://www.nvidia.com)** | **[NVIDIA 2026 Internships: Software Engineering ](https://jobright.ai/jobs/info/68b6a10a1ade4306aa645fff?utm_campaign=1079&utm_source=git)** | US, CA, Santa Clara | On Site | Sep 02 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Software Engineer](https://jobright.ai/jobs/info/68b6acb71ade4306aa6460d1?utm_campaign=1079&utm_source=git)** | Bellevue, WA | Hybrid | Sep 02 |
 | ↳ | **[Summer 2026 Intern - Software Engineer](https://jobright.ai/jobs/info/68b6a6cf1ade4306aa646079?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Sep 02 |
-| ↳ | **[Summer 2026 Intern - Software Engineer](https://jobright.ai/jobs/info/68b6a459f4e41a61efd9405e?utm_campaign=1079&utm_source=git)** | Washington - Seattle | Hybrid | Sep 02 |
+| ↳ | **[Summer 2026 Intern - Software Engineer](https://jobright.ai/jobs/info/68b6a5c0bc187f64e1beb063?utm_campaign=1079&utm_source=git)** | Washington - Bellevue | Hybrid | Sep 02 |
+| ↳ | **[Summer 2026 Intern - Software Engineer](https://jobright.ai/jobs/info/68b6a567bc187f64e1beb057?utm_campaign=1079&utm_source=git)** | Washington - Seattle | Hybrid | Sep 02 |
 | ↳ | **[Summer 2026 Intern - Software Engineer](https://jobright.ai/jobs/info/68b6a44ff4e41a61efd9405a?utm_campaign=1079&utm_source=git)** | California - San Francisco | Hybrid | Sep 02 |
-| ↳ | **[Summer 2026 Intern - Software Engineer](https://jobright.ai/jobs/info/68b6a3d71ade4306aa64606a?utm_campaign=1079&utm_source=git)** | Washington - Bellevue | Hybrid | Sep 02 |
 | **[NVIDIA](https://www.nvidia.com)** | **[NVIDIA 2026 Internships: PhD Computer Architecture and Systems Research](https://jobright.ai/jobs/info/68b6a0a11ade4306aa645fa1?utm_campaign=1079&utm_source=git)** | US, CA, Santa Clara | On Site | Sep 02 |
 | ↳ | **[NVIDIA 2026 Internships: Computer Architecture](https://jobright.ai/jobs/info/68b69fdebc187f64e1bead54?utm_campaign=1079&utm_source=git)** | US, CA, Santa Clara | On Site | Sep 02 |
 | ↳ | **[NVIDIA 2026 Internships: Systems Software Engineering](https://jobright.ai/jobs/info/68b69eee1ade4306aa645d74?utm_campaign=1079&utm_source=git)** | US, CA, Santa Clara | On Site | Sep 02 |
@@ -71,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Lattice Semiconductor](http://www.latticesemi.com)** | **[System Solution Eng Intern -- Algorithm Design](https://jobright.ai/jobs/info/68b68ea8bc187f64e1beaa0c?utm_campaign=1079&utm_source=git)** | Shanghai, VA | On Site | Sep 01 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68b68e17bc187f64e1bea9e0?utm_campaign=1079&utm_source=git)** | Knoxville, TN | On Site | Sep 01 |
 | ↳ | **[Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68b689e4f4e41a61efd93906?utm_campaign=1079&utm_source=git)** | Lake Oswego, OR | On Site | Sep 01 |
+| ↳ | **[12-Month Geospatial Internship](https://jobright.ai/jobs/info/68b6c490f4e41a61efd942d8?utm_campaign=1079&utm_source=git)** | US - CO, Westminster | On Site | Sep 01 |
 | ↳ | **[Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68b686661ade4306aa645921?utm_campaign=1079&utm_source=git)** | Dayton, OH | On Site | Sep 01 |
 | ↳ | **[Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68b685f41ade4306aa6458d8?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Sep 01 |
 | **[Guardian Life](http://www.guardianlife.com/)** | **[2026 Guardian Summer Intern, Digital & Technology – Application Development](https://jobright.ai/jobs/info/68b6a2571ade4306aa646051?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Sep 01 |
@@ -83,9 +87,9 @@ For a complete list, click the following sortable link below:
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Software Engineer Program – (New York Jobs CEO Council Tech Apprenticeship)](https://jobright.ai/jobs/info/68b6765ebc187f64e1bea347?utm_campaign=1079&utm_source=git)** | New York, NY, United States | On Site | Sep 01 |
 | **[MORSE Corp](https://www.morsecorp.com)** | **[Python Software Engineer Co-op](https://jobright.ai/jobs/info/68b657c1f4e41a61efd923e2?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Sep 01 |
 | **[Guardian Life](http://www.guardianlife.com/)** | **[2026 Guardian Summer Intern, Digital & Technology – Application Development](https://jobright.ai/jobs/info/68b6755df4e41a61efd9331c?utm_campaign=1079&utm_source=git)** | Holmdel | On Site | Sep 01 |
-| **[Nationwide](http://nationwide.com)** | **[Summer 2026 Technology Internship](https://jobright.ai/jobs/info/68b68f66bc187f64e1beaa6b?utm_campaign=1079&utm_source=git)** | Ohio - Columbus Metro | On Site | Sep 01 |
-| ↳ | **[Summer 2026 Technology Internship](https://jobright.ai/jobs/info/68b68eb6f4e41a61efd939fb?utm_campaign=1079&utm_source=git)** | Arizona - Scottsdale | On Site | Sep 01 |
+| **[Nationwide](http://nationwide.com)** | **[Summer 2026 Technology Internship](https://jobright.ai/jobs/info/68b68eb6f4e41a61efd939fb?utm_campaign=1079&utm_source=git)** | Arizona - Scottsdale | On Site | Sep 01 |
 | ↳ | **[Summer 2026 Technology Internship](https://jobright.ai/jobs/info/68b68e8c1ade4306aa645a03?utm_campaign=1079&utm_source=git)** | Iowa - Des Moines | On Site | Sep 01 |
+| ↳ | **[Summer 2026 Technology Internship](https://jobright.ai/jobs/info/68b68f66bc187f64e1beaa6b?utm_campaign=1079&utm_source=git)** | Ohio - Columbus Metro | On Site | Sep 01 |
 | **[MORSE Corp](https://www.morsecorp.com)** | **[Cloud Software Engineer Co-op](https://jobright.ai/jobs/info/68b657b0f4e41a61efd923db?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Sep 01 |
 | ↳ | **[Full Stack Software Engineer Co-op](https://jobright.ai/jobs/info/68b654731ade4306aa64439c?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Sep 01 |
 | **[Sigma](http://sigmacomputing.com)** | **[Software Engineer (New Grad Program)](https://jobright.ai/jobs/info/6868cba735584b654279a717?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Sep 01 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Ohio State University](http://www.osu.edu/)** | **[Student Cloud Developer](https://jobright.ai/jobs/info/68b540e41ade4306aa640d89?utm_campaign=1079&utm_source=git)** | Columbus, OH | On Site | Aug 31 |
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[2026 Summer Corporate Intern - Information Technology](https://jobright.ai/jobs/info/68b54042f4e41a61efd8ecf2?utm_campaign=1079&utm_source=git)** | East Peoria, IL | On Site | Aug 31 |
 | **[Textron](http://textron.com)** | **[2026 Internship - Information Systems (Developer)](https://jobright.ai/jobs/info/68b58be4bc187f64e1be71d2?utm_campaign=1079&utm_source=git)** | Wichita, KS | On Site | Aug 31 |
-| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Information Technology Internship Summer 2026](https://jobright.ai/jobs/info/68b53a9ef4e41a61efd8eb53?utm_campaign=1079&utm_source=git)** | Charlotte, NC | Hybrid | Aug 31 |
-| **[84.51˚](http://8451.com/)** | **[Software Engineer - Internship Program 2026](https://jobright.ai/jobs/info/68b56ccaf4e41a61efd8fad9?utm_campaign=1079&utm_source=git)** | Cincinnati, OH | On Site | Aug 31 |
-| **[Caterpillar Inc.](https://www.linkedin.com/company/44121827)** | **[2026 Summer Corporate Intern - Information Technology](https://jobright.ai/jobs/info/68b530a9bc187f64e1be5ae0?utm_campaign=1079&utm_source=git)** | Tucson, Arizona | On Site | Aug 31 |
-| **[Airbus](https://us.airbus.com)** | **[Summer Internship - Engineering 2026](https://jobright.ai/jobs/info/68b5301cf4e41a61efd8ea46?utm_campaign=1079&utm_source=git)** | Mobile Area, AL | On Site | Aug 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
