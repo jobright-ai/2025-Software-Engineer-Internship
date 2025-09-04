@@ -57,19 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SANMINA-SCI TECHNOLOGY INDIA PRIVATE LIMITED](http://www.sanmina.com)** | **[Engineering Intern (Fall 2025)](https://jobright.ai/jobs/info/68b976888043103d4f217943?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Sep 04 |
 | **[Urbn Leaf](https://urbnleaf.com/)** | **[URBN Retail Technology Intern](https://jobright.ai/jobs/info/68b95f028043103d4f216fbb?utm_campaign=1079&utm_source=git)** | Philadelphia, PA | On Site | Sep 04 |
 | **[Lillup](https://www.lillup.com/)** | **[Software Engineering Intern - Voice to Voice (Remote, Unpaid)](https://jobright.ai/jobs/info/68b95db98043103d4f216f2f?utm_campaign=1079&utm_source=git)** | United States | Remote | Sep 04 |
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program: Software Engineering](https://jobright.ai/jobs/info/68b94a8e07090163b6ba9d8e?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Sep 04 |
+| ↳ | **[Future Builders Internship Program: Software Engineering](https://jobright.ai/jobs/info/68b94a595b42bc456282ca9b?utm_campaign=1079&utm_source=git)** | Miami, FL | On Site | Sep 04 |
 | ↳ | **[Future Builders Internship Program: Software Engineering](https://jobright.ai/jobs/info/68b94a0007090163b6ba9d34?utm_campaign=1079&utm_source=git)** | Bentonville, AR | On Site | Sep 04 |
-| **[Tradeweb](http://www.tradeweb.com/)** | **[Summer 2026 Full Stack Java Developer Internship](https://jobright.ai/jobs/info/68b93f7107090163b6ba94a4?utm_campaign=1079&utm_source=git)** | Jersey City, NJ | On Site | Sep 04 |
-| ↳ | **[Summer 2026 Distributed Systems Developer Internship](https://jobright.ai/jobs/info/68b93f3207090163b6ba9482?utm_campaign=1079&utm_source=git)** | Jersey City, NJ | On Site | Sep 04 |
+| **[Tradeweb](http://www.tradeweb.com/)** | **[Summer 2026 Distributed Systems Developer Internship](https://jobright.ai/jobs/info/68b93f3207090163b6ba9482?utm_campaign=1079&utm_source=git)** | Jersey City, NJ | On Site | Sep 04 |
 | **[Institutional Cash Distributors (ICD)](http://icdportal.com)** | **[Summer 2026 Software Engineering Internship - ICD](https://jobright.ai/jobs/info/68b939d15b42bc456282bef8?utm_campaign=1079&utm_source=git)** | Jersey City, NJ | On Site | Sep 04 |
 | **[Kulicke & Soffa](http://www.liteq.nl)** | **[Intern, Software Engineering](https://jobright.ai/jobs/info/68b9386a5b42bc456282bd02?utm_campaign=1079&utm_source=git)** | 1005 Virginia Drive, Fort Washington, PA, 19034, US | On Site | Sep 03 |
 | **[Tradeweb](http://www.tradeweb.com/)** | **[Summer 2026 Java Developer Internship](https://jobright.ai/jobs/info/68b93715ea901c0d269fd80c?utm_campaign=1079&utm_source=git)** | Jersey City, NJ | On Site | Sep 03 |
 | ↳ | **[Summer 2026 Node.JS Developer Internship](https://jobright.ai/jobs/info/68b9303dea901c0d269fd38b?utm_campaign=1079&utm_source=git)** | Jersey City, NJ | On Site | Sep 03 |
-| **[Lennar](http://lennar.com)** | **[Future Builders Internship Program: Software Engineering](https://jobright.ai/jobs/info/68b950b15b42bc456282cbb3?utm_campaign=1079&utm_source=git)** | Miami, FL | On Site | Sep 03 |
+| ↳ | **[Summer 2026 Java Developer Internship](https://jobright.ai/jobs/info/68b92e63ea901c0d269fd172?utm_campaign=1079&utm_source=git)** | Jersey City, NJ | On Site | Sep 03 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Fall 2026 Co-op - Front End Engineering](https://jobright.ai/jobs/info/68b92b2207090163b6ba8764?utm_campaign=1079&utm_source=git)** | Burlington, MA | Hybrid | Sep 03 |
 | **[Tradeweb](http://www.tradeweb.com/)** | **[Summer 2026 Software Engineering Internship - R8fin](https://jobright.ai/jobs/info/68b94a84ea901c0d269fe69f?utm_campaign=1079&utm_source=git)** | Jersey City, NJ | On Site | Sep 03 |
+| ↳ | **[Summer 2026 Full Stack Java Developer Internship](https://jobright.ai/jobs/info/68b942c907090163b6ba986c?utm_campaign=1079&utm_source=git)** | Jersey City, NJ | On Site | Sep 03 |
 | **[Institutional Cash Distributors (ICD)](http://icdportal.com)** | **[Summer 2026 Software Engineering Internship - R8fin](https://jobright.ai/jobs/info/68b924425b42bc456282af4b?utm_campaign=1079&utm_source=git)** | Jersey City, NJ, United States | On Site | Sep 03 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Winter 2026 Co-op - Front End Engineering](https://jobright.ai/jobs/info/68b9235c07090163b6ba816d?utm_campaign=1079&utm_source=git)** | Burlington, MA | On Site | Sep 03 |
 | **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Applications Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68b91b745b42bc456282a81a?utm_campaign=1079&utm_source=git)** | Detroit, MI | Hybrid | Sep 03 |
@@ -142,19 +144,17 @@ For a complete list, click the following sortable link below:
 | **[Inmar Intelligence](http://www.inmar.com)** | **[Software Engineering Internships, Summer 2026](https://jobright.ai/jobs/info/68b888cd5b42bc45628254d9?utm_campaign=1079&utm_source=git)** | Winston-Salem, NC | On Site | Sep 03 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Co-op: Embedded Software Engineering (Spring 2026)](https://jobright.ai/jobs/info/68b8963d5b42bc4562825f94?utm_campaign=1079&utm_source=git)** | Greensboro, NC | On Site | Sep 03 |
 | **[NCR Atleos](https://www.ncratleos.com)** | **[Technology Intern](https://jobright.ai/jobs/info/68b895f6ea901c0d269f7bd3?utm_campaign=1079&utm_source=git)** | Frisco, TX, USA | On Site | Sep 03 |
-| **[Volvo Group](http://www.volvogroup.com)** | **[Co-op: Software Engineer (Spring 2026)](https://jobright.ai/jobs/info/68b895d65b42bc4562825f2c?utm_campaign=1079&utm_source=git)** | Greensboro, NC | On Site | Sep 03 |
-| **[GP Enterprise Solutions](https://www.gpes.com)** | **[Computer Science Intern - Summer 2026](https://jobright.ai/jobs/info/68b895ad07090163b6ba3113?utm_campaign=1079&utm_source=git)** | Latham, NY | On Site | Sep 03 |
 | **[LexisNexis](http://www.lexisnexis.com)** | **[Software Engineer Internship](https://jobright.ai/jobs/info/68b8949d5b42bc4562825dd2?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Sep 03 |
 | **[Daikin Comfort](http://www.daikincomfort.com)** | **[Programmer Analyst Intern, Summer 2026](https://jobright.ai/jobs/info/68b893c0ea901c0d269f78eb?utm_campaign=1079&utm_source=git)** | Waller, TX | On Site | Sep 03 |
 | **[Cisco](http://www.cisco.com)** | **[Software Engineer PhD (Intern) United States](https://jobright.ai/jobs/info/68b891cb07090163b6ba2eff?utm_campaign=1079&utm_source=git)** | Santa Monica California, Remote US | Remote | Sep 03 |
 | ↳ | **[Software Engineer PhD (Intern) United States](https://jobright.ai/jobs/info/68b891955b42bc4562825beb?utm_campaign=1079&utm_source=git)** | San Jose, California, US | Hybrid | Sep 03 |
 | ↳ | **[Software Engineer PhD (Intern) United States](https://jobright.ai/jobs/info/68b890bc07090163b6ba2cdc?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Sep 03 |
 | ↳ | **[Software Engineer PhD (Intern) United States](https://jobright.ai/jobs/info/68b8900d5b42bc45628259af?utm_campaign=1079&utm_source=git)** | Santa Monica, CA | On Site | Sep 03 |
+| **[GP Enterprise Solutions](https://www.gpes.com)** | **[Computer Science Intern - Summer 2026](https://jobright.ai/jobs/info/68b8b195ea901c0d269f8d06?utm_campaign=1079&utm_source=git)** | Latham, NY | On Site | Sep 03 |
 | **[Textron](http://textron.com)** | **[Fall Co-Op - Quality Assurance Engineer (Supplier Quality)](https://jobright.ai/jobs/info/68b88dba07090163b6ba285f?utm_campaign=1079&utm_source=git)** | Wichita, KS | On Site | Sep 03 |
 | **[The Friedkin Group](http://apply2jobs.com)** | **[Summer Intern- Information Technology](https://jobright.ai/jobs/info/68b887d607090163b6ba267b?utm_campaign=1079&utm_source=git)** | Greater Houston | On Site | Sep 03 |
 | **[IMEG](http://www.imegcorp.com/)** | **[Technology Design Intern - St. Louis, MO](https://jobright.ai/jobs/info/68b8807807090163b6ba2353?utm_campaign=1079&utm_source=git)** | St Louis, MO | On Site | Sep 03 |
 | **[Ameriprise Financial Services, LLC](https://www.ameriprise.com/)** | **[Technology Intern](https://jobright.ai/jobs/info/68b8a2cdea901c0d269f84a5?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 03 |
 | **[Daikin Applied Americas](https://www.daikinapplied.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68b87f77ea901c0d269f6b73?utm_campaign=1079&utm_source=git)** | Plymouth, MN | On Site | Sep 03 |
 | **[The Applied Research Laboratory at Penn State University](https://www.arl.psu.edu)** | **[Research Engineering Interns](https://jobright.ai/jobs/info/68b87f6dea901c0d269f6b6b?utm_campaign=1079&utm_source=git)** | University Park, PA | On Site | Sep 03 |
-| **[PACSUN](http://www.pacsun.com/)** | **[ERP Analyst Intern](https://jobright.ai/jobs/info/68b87e2dea901c0d269f6a9b?utm_campaign=1079&utm_source=git)** | Anaheim, CA | On Site | Sep 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
