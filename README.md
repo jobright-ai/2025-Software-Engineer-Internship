@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tradeweb](http://www.tradeweb.com/)** | **[Summer 2026 Full Stack Java Developer Internship](https://jobright.ai/jobs/info/68b93f7107090163b6ba94a4?utm_campaign=1079&utm_source=git)** | Jersey City, NJ | On Site | Sep 04 |
+| ↳ | **[Summer 2026 Distributed Systems Developer Internship](https://jobright.ai/jobs/info/68b93f3207090163b6ba9482?utm_campaign=1079&utm_source=git)** | Jersey City, NJ | On Site | Sep 04 |
+| **[Institutional Cash Distributors (ICD)](http://icdportal.com)** | **[Summer 2026 Software Engineering Internship - ICD](https://jobright.ai/jobs/info/68b939d15b42bc456282bef8?utm_campaign=1079&utm_source=git)** | Jersey City, NJ | On Site | Sep 04 |
+| **[Kulicke & Soffa](http://www.liteq.nl)** | **[Intern, Software Engineering](https://jobright.ai/jobs/info/68b9386a5b42bc456282bd02?utm_campaign=1079&utm_source=git)** | 1005 Virginia Drive, Fort Washington, PA, 19034, US | On Site | Sep 03 |
+| **[Tradeweb](http://www.tradeweb.com/)** | **[Summer 2026 Java Developer Internship](https://jobright.ai/jobs/info/68b93715ea901c0d269fd80c?utm_campaign=1079&utm_source=git)** | Jersey City, NJ | On Site | Sep 03 |
+| ↳ | **[Summer 2026 Node.JS Developer Internship](https://jobright.ai/jobs/info/68b9303dea901c0d269fd38b?utm_campaign=1079&utm_source=git)** | Jersey City, NJ | On Site | Sep 03 |
+| **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Fall 2026 Co-op - Front End Engineering](https://jobright.ai/jobs/info/68b92b2207090163b6ba8764?utm_campaign=1079&utm_source=git)** | Burlington, MA | Hybrid | Sep 03 |
 | **[Institutional Cash Distributors (ICD)](http://icdportal.com)** | **[Summer 2026 Software Engineering Internship - R8fin](https://jobright.ai/jobs/info/68b924425b42bc456282af4b?utm_campaign=1079&utm_source=git)** | Jersey City, NJ, United States | On Site | Sep 03 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Winter 2026 Co-op - Front End Engineering](https://jobright.ai/jobs/info/68b9235c07090163b6ba816d?utm_campaign=1079&utm_source=git)** | Burlington, MA | On Site | Sep 03 |
 | **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Applications Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68b91b745b42bc456282a81a?utm_campaign=1079&utm_source=git)** | Detroit, MI | Hybrid | Sep 03 |
@@ -65,8 +72,8 @@ For a complete list, click the following sortable link below:
 | **[Epsilon](https://www.epsilon.com/us)** | **[Intern Program - Software Engineer Intern](https://jobright.ai/jobs/info/68b8d4e1ea901c0d269f9d10?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Sep 03 |
 | **[Nike](http://www.nike.com)** | **[Software Engineering Undergraduate Internship](https://jobright.ai/jobs/info/68b89ef7ea901c0d269f82ba?utm_campaign=1079&utm_source=git)** | Beaverton, Oregon | On Site | Sep 03 |
 | **[Institutional Cash Distributors (ICD)](http://icdportal.com)** | **[Summer 2026 Software Engineering Internship - ICD](https://jobright.ai/jobs/info/68b919e85b42bc456282a6bc?utm_campaign=1079&utm_source=git)** | Jersey City, NJ, United States | On Site | Sep 03 |
+| ↳ | **[Summer 2026 Full Stack Java Developer Internship](https://jobright.ai/jobs/info/68b919b5ea901c0d269fc29b?utm_campaign=1079&utm_source=git)** | Jersey City, NJ, United States | On Site | Sep 03 |
 | ↳ | **[Summer 2026 Platform Engineering Internship](https://jobright.ai/jobs/info/68b9198aea901c0d269fc280?utm_campaign=1079&utm_source=git)** | Jersey City, NJ, United States | On Site | Sep 03 |
-| ↳ | **[Summer 2026 Full Stack Java Developer Internship](https://jobright.ai/jobs/info/68b91943ea901c0d269fc255?utm_campaign=1079&utm_source=git)** | Jersey City, NJ, United States | On Site | Sep 03 |
 | ↳ | **[Summer 2026 Java Developer Internship](https://jobright.ai/jobs/info/68b9172c07090163b6ba798c?utm_campaign=1079&utm_source=git)** | Jersey City, NJ, United States | On Site | Sep 03 |
 | ↳ | **[Summer 2026 Distributed Systems Developer Internship](https://jobright.ai/jobs/info/68b9171607090163b6ba797e?utm_campaign=1079&utm_source=git)** | Jersey City, NJ, United States | On Site | Sep 03 |
 | **[Kratos Defense and Security Solutions](http://www.kratosdefense.com)** | **[Intern Software Developer](https://jobright.ai/jobs/info/68b90ac907090163b6ba7180?utm_campaign=1079&utm_source=git)** | Londonderry, NH | On Site | Sep 03 |
@@ -120,6 +127,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Co-op - Front End Engineering](https://jobright.ai/jobs/info/68b8bc9bea901c0d269f91b4?utm_campaign=1079&utm_source=git)** | Burlington, MA | On Site | Sep 03 |
 | **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Applications Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68b89f365b42bc45628266e9?utm_campaign=1079&utm_source=git)** | Detroit, 12701  Southfield Road, Detroit, Michigan, United States of America | Hybrid | Sep 03 |
 | **[USAA](https://www.usaa.com)** | **[Software Engineer III Intern](https://jobright.ai/jobs/info/68b8c87d07090163b6ba4df5?utm_campaign=1079&utm_source=git)** | Plano Legacy | On Site | Sep 03 |
+| **[Philips](https://www.usa.philips.com)** | **[Co-op -Embedded Test Engineer - Murrysville, PA-January-June 2026](https://jobright.ai/jobs/info/68b929f25b42bc456282b2af?utm_campaign=1079&utm_source=git)** | Pittsburgh, PA | On Site | Sep 03 |
 | **[NCR Atleos](https://www.ncratleos.com)** | **[Technology Intern](https://jobright.ai/jobs/info/68b89ac407090163b6ba37b3?utm_campaign=1079&utm_source=git)** | ATLANTA, GA, USA | On Site | Sep 03 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68b89930ea901c0d269f7d3e?utm_campaign=1079&utm_source=git)** | Cary, North Carolina | On Site | Sep 03 |
 | ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/68b898be07090163b6ba3532?utm_campaign=1079&utm_source=git)** | Chandler, Arizona | On Site | Sep 03 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NimbleRx](https://www.nimblerx.com/)** | **[Software Engineer Intern - Winter / Spring Session (January - April 2026)](https://jobright.ai/jobs/info/68b872ef5b42bc45628248cc?utm_campaign=1079&utm_source=git)** | Redwood City, CA | Hybrid | Sep 03 |
 | **[Impulse Space](https://www.impulsespace.com)** | **[Flight/Embedded Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68b8c4165b42bc4562827911?utm_campaign=1079&utm_source=git)** | Redondo Beach, CA | On Site | Sep 03 |
 | ↳ | **[Ground Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68b8c1d3ea901c0d269f92b6?utm_campaign=1079&utm_source=git)** | Redondo Beach, CA | On Site | Sep 03 |
-| **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Software Engineer Program – (New York Jobs CEO Council Tech Apprenticeship)](https://jobright.ai/jobs/info/68b896a45b42bc4562826001?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Sep 03 |
-| **[Kodiak](http://www.kodiak.ai)** | **[Winter 2026 Onboard Infrastructure Engineer](https://jobright.ai/jobs/info/68b871245b42bc45628247ac?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Sep 03 |
-| **[Philips](https://www.usa.philips.com)** | **[Co-op -Embedded Test Engineer - Pittsburgh, PA 2024](https://jobright.ai/jobs/info/68b851ae5b42bc45628239f7?utm_campaign=1079&utm_source=git)** | Pittsburgh | On Site | Sep 03 |
-| **[Ameriprise Financial Services, LLC](https://www.ameriprise.com/)** | **[Technology Intern](https://jobright.ai/jobs/info/68b864eeea901c0d269f5e04?utm_campaign=1079&utm_source=git)** | Minneapolis, Minnesota | Hybrid | Sep 03 |
-| **[Inmar Intelligence](http://www.inmar.com)** | **[Software Engineering Internships, Summer 2026](https://jobright.ai/jobs/info/68b862ac07090163b6ba14d7?utm_campaign=1079&utm_source=git)** | Headquarters, Winston Salem, NC | On Site | Sep 03 |
-| **[Geneva Trading](https://geneva-trading.com)** | **[Intern - Python Developer](https://jobright.ai/jobs/info/68b8586fea901c0d269f57bc?utm_campaign=1079&utm_source=git)** | Chicago Office | On Site | Sep 03 |
-| **[Al Warren Oil Company, Inc.](https://www.alwarrenoil.com)** | **[Software Developer - Fall Internship 2025](https://jobright.ai/jobs/info/68b858225b42bc4562823c51?utm_campaign=1079&utm_source=git)** | Bensenville, IL | On Site | Sep 03 |
-| **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship – Information Systems/Information Technology](https://jobright.ai/jobs/info/6880c21c29ad6b2744adb843?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | Sep 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
