@@ -57,19 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Terex Corporation](http://www.terex.com)** | **[2026 Software Engineer Co-op](https://jobright.ai/jobs/info/68ba95825f38327491868ac8?utm_campaign=1079&utm_source=git)** | USA, WA, Redmond | On Site | Sep 05 |
+| ↳ | **[2026 Software Engineer Co-op](https://jobright.ai/jobs/info/68ba94de8043103d4f2221a0?utm_campaign=1079&utm_source=git)** | USA, WA, Bothell | On Site | Sep 05 |
+| **[Vast](https://www.vast.space)** | **[2026 Summer Internship - Software Engineering](https://jobright.ai/jobs/info/68ba8c055f3832749186812f?utm_campaign=1079&utm_source=git)** | Long Beach, California, United States | On Site | Sep 05 |
+| **[S&P Global](https://www.spglobal.com)** | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68ba83d15f38327491867c1a?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Sep 04 |
+| **[Ahold Delhaize USA](https://www.adusa.com)** | **[Cloud Engineer Co-op - Spring 2026](https://jobright.ai/jobs/info/68ba7eef5f38327491867a7a?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Sep 04 |
 | **[Ellipsis Labs](https://ellipsislabs.xyz/)** | **[Software Engineer - Campus (Intern & New Grad)](https://jobright.ai/jobs/info/68ba7b748043103d4f220dfc?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Sep 04 |
 | **[S&P Global](https://www.spglobal.com)** | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68ba75728043103d4f220b57?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Sep 04 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate QA Analyst](https://jobright.ai/jobs/info/68ba71a95f383274918673f1?utm_campaign=1079&utm_source=git)** | Maryland Heights, MO | On Site | Sep 04 |
 | **[Activision](https://www.activision.com/)** | **[2026 US Summer Internships - Game Engineering](https://jobright.ai/jobs/info/68ba708d5f383274918672b7?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Sep 04 |
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Software Engineering Co-Op (Summer/Fall 2026) (Onsite)](https://jobright.ai/jobs/info/68ba6f938043103d4f2208bf?utm_campaign=1079&utm_source=git)** | Cedar Rapids, IA | On Site | Sep 04 |
+| **[Leidos](https://www.leidos.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68ba95a76105227d1189f888?utm_campaign=1079&utm_source=git)** | 6314 Remote/Teleworker US | Remote | Sep 04 |
 | **[CliquePrize -Local Giveaway Marketing for Small Businesses](https://www.cliqueprize.com)** | **[Data Management & Swift iPhone Mobile Developer Internship](https://jobright.ai/jobs/info/68ba60736105227d1189d69c?utm_campaign=1079&utm_source=git)** | United States | Remote | Sep 04 |
 | **[Mainflow](https://www.linkedin.com/company/36713167)** | **[Intern](https://jobright.ai/jobs/info/68ba585c6105227d1189cf10?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | Hybrid | Sep 04 |
+| **[Plexus Corp.](http://www.plexus.com/)** | **[Intern - Software Engineer (Fall 2026)](https://jobright.ai/jobs/info/68b65b6d1ade4306aa644501?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Sep 04 |
 | **[Kensho Technologies](https://kensho.com)** | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68ba4e346105227d1189cafe?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Sep 04 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Hardware and Software Engineering Internship - Ditch Witch](https://jobright.ai/jobs/info/68ba4e278043103d4f21f5e9?utm_campaign=1079&utm_source=git)** | Perry, OK | On Site | Sep 04 |
 | **[Kensho Technologies](https://kensho.com)** | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68ba4d066105227d1189ca1d?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Sep 04 |
 | **[Blue Origin](http://www.blueorigin.com)** | **[Summer 2026 Aerospace Software Developer Intern - Undergraduate](https://jobright.ai/jobs/info/68ba4c088043103d4f21f4b9?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Sep 04 |
-| ↳ | **[Summer 2026 Aerospace Software Developer Intern - Undergraduate](https://jobright.ai/jobs/info/68ba48996105227d1189c97e?utm_campaign=1079&utm_source=git)** | Denver, CO | On Site | Sep 04 |
-| ↳ | **[Summer 2026 Aerospace Software Developer Intern - Undergraduate](https://jobright.ai/jobs/info/68ba462b5f383274918659ac?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Sep 04 |
 | ↳ | **[Summer 2026 Avionics Software Internship - Graduate Student](https://jobright.ai/jobs/info/68ba45e65f38327491865977?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Sep 04 |
 | **[Allstate](http://www.allstate.com)** | **[2026 ATS Technology Internship Program](https://jobright.ai/jobs/info/68ba41bb6105227d1189c709?utm_campaign=1079&utm_source=git)** | USA - TX (Remote) | Remote | Sep 04 |
 | ↳ | **[2026 ATS Technology Internship Program](https://jobright.ai/jobs/info/68ba41358043103d4f21f123?utm_campaign=1079&utm_source=git)** | USA - IL (Remote) | Remote | Sep 04 |
@@ -99,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[2026 TechStart Summer Internship Program](https://jobright.ai/jobs/info/68ba294d8043103d4f21df06?utm_campaign=1079&utm_source=git)** | Portsmouth, NH | On Site | Sep 04 |
 | **[Amway](http://www.amway.com)** | **[Software Engineer Intern, Summer 2026 (42267)](https://jobright.ai/jobs/info/68ba28f78043103d4f21dec1?utm_campaign=1079&utm_source=git)** | Ada, MI | Hybrid | Sep 04 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[2026 TechStart Summer Internship Program](https://jobright.ai/jobs/info/68ba25745f383274918645b5?utm_campaign=1079&utm_source=git)** | Indianapolis, IN | On Site | Sep 04 |
-| ↳ | **[2026 TechStart Summer Internship Program](https://jobright.ai/jobs/info/68ba25718043103d4f21de28?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Sep 04 |
 | ↳ | **[2026 TechStart Summer Internship Program](https://jobright.ai/jobs/info/68ba250e6105227d1189b379?utm_campaign=1079&utm_source=git)** | Plano, TX | On Site | Sep 04 |
 | **[Amway](http://www.amway.com)** | **[Software Engineering Intern, Summer 2026 (42275)](https://jobright.ai/jobs/info/68ba24b36105227d1189b333?utm_campaign=1079&utm_source=git)** | Ada, MI | Hybrid | Sep 04 |
 | **[MasterControl](http://www.mastercontrol.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68ba24af5f38327491864529?utm_campaign=1079&utm_source=git)** | Salt Lake City, UT | On Site | Sep 04 |
@@ -113,10 +117,8 @@ For a complete list, click the following sortable link below:
 | **[Nokia](http://www.nokia.com)** | **[Software/QA Development Coop](https://jobright.ai/jobs/info/68ba203c5f38327491864306?utm_campaign=1079&utm_source=git)** | Westford, MA | On Site | Sep 04 |
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Software Engineering Intern (Summer 2026) (Onsite)](https://jobright.ai/jobs/info/68ba1f8e5f38327491864245?utm_campaign=1079&utm_source=git)** | Burnsville, MN | On Site | Sep 04 |
 | ↳ | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68ba1e205f38327491864137?utm_campaign=1079&utm_source=git)** | Cedar Rapids, IA | Hybrid | Sep 04 |
-| **[Leidos](https://www.leidos.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68ba526c8043103d4f21f7b8?utm_campaign=1079&utm_source=git)** | United States | Remote | Sep 04 |
 | **[Target](https://www.target.com)** | **[Software Engineering Summer Internship-Minneapolis, MN (Starting June 2026)](https://jobright.ai/jobs/info/68ba1db05f383274918640df?utm_campaign=1079&utm_source=git)** | Brooklyn Park, MN | On Site | Sep 04 |
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Software Engineering Co-Op (Summer/Fall 2026) (Onsite)](https://jobright.ai/jobs/info/68ba1d535f38327491864091?utm_campaign=1079&utm_source=git)** | Cedar Rapids, IA | On Site | Sep 04 |
-| ↳ | **[Software Engineering Intern (Summer 2026) (Onsite)](https://jobright.ai/jobs/info/68ba1d0c8043103d4f21d8e5?utm_campaign=1079&utm_source=git)** | Cedar Rapids, IA | On Site | Sep 04 |
 | ↳ | **[Software Engineering Intern (Summer 2026) (Onsite)](https://jobright.ai/jobs/info/68ba1d055f38327491864045?utm_campaign=1079&utm_source=git)** | Cedar Rapids, IA | On Site | Sep 04 |
 | ↳ | **[Software Engineering Co-Op (Spring/Summer 2026) (Onsite)](https://jobright.ai/jobs/info/68ba1cc15f38327491864011?utm_campaign=1079&utm_source=git)** | Cedar Rapids, IA | On Site | Sep 04 |
 | ↳ | **[Software Engineering Intern (Summer 2026) (Onsite)](https://jobright.ai/jobs/info/68ba1bb28043103d4f21d7b5?utm_campaign=1079&utm_source=git)** | Burnsville, MN | On Site | Sep 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Mercury Marine - Systems/Software Engineering Co-op](https://jobright.ai/jobs/info/68b9f14d8043103d4f21c085?utm_campaign=1079&utm_source=git)** | Fond du Lac, WI | On Site | Sep 04 |
 | **[RTX](http://www.raytheon.com)** | **[Software Engineering Co-Op (Summer/Fall 2026) (Onsite)](https://jobright.ai/jobs/info/68ba79355f383274918677ad?utm_campaign=1079&utm_source=git)** | HIA32: Cedar Rapids, IA 400 Collins Rd NE  , Cedar Rapids, IA, 52498-0505 USA | On Site | Sep 04 |
 | **[Verizon](https://www.verizon.com)** | **[Verizon Global Solutions Technology Summer 2026 Internship](https://jobright.ai/jobs/info/68ba0d0b6105227d1189a84a?utm_campaign=1079&utm_source=git)** | Temple Terrace, Florida | Hybrid | Sep 04 |
-| ↳ | **[Verizon Global Solutions Technology Summer 2026 Internship](https://jobright.ai/jobs/info/68ba0e128043103d4f21d320?utm_campaign=1079&utm_source=git)** | Ashburn, Virginia | Hybrid | Sep 04 |
-| **[Brunswick Corporation](http://www.brunswick.com)** | **[Mercury Marine - Systems/Software Engineering Co-op](https://jobright.ai/jobs/info/68b9eebc6105227d11899723?utm_campaign=1079&utm_source=git)** | Fond du Lac, WI | On Site | Sep 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
