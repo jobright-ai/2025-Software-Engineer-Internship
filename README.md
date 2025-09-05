@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UltraSoC](https://www.tessentembeddedanalytics.com)** | **[Strategic Student Program: R&D Software Engineering Co-Op (Spring 2026, T&I)](https://jobright.ai/jobs/info/68bab71e8043103d4f2228ec?utm_campaign=1079&utm_source=git)** | Milford, OH | On Site | Sep 05 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68b7eed3a10b650604b622ae?utm_campaign=1079&utm_source=git)** | Durham, NC | Hybrid | Sep 05 |
 | **[Terex Corporation](http://www.terex.com)** | **[2026 Software Engineer Co-op](https://jobright.ai/jobs/info/68ba95825f38327491868ac8?utm_campaign=1079&utm_source=git)** | USA, WA, Redmond | On Site | Sep 05 |
 | ↳ | **[2026 Software Engineer Co-op](https://jobright.ai/jobs/info/68ba94de8043103d4f2221a0?utm_campaign=1079&utm_source=git)** | USA, WA, Bothell | On Site | Sep 05 |
 | **[Vast](https://www.vast.space)** | **[2026 Summer Internship - Software Engineering](https://jobright.ai/jobs/info/68ba8c055f3832749186812f?utm_campaign=1079&utm_source=git)** | Long Beach, California, United States | On Site | Sep 05 |
@@ -75,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Kensho Technologies](https://kensho.com)** | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68ba4e346105227d1189cafe?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Sep 04 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Hardware and Software Engineering Internship - Ditch Witch](https://jobright.ai/jobs/info/68ba4e278043103d4f21f5e9?utm_campaign=1079&utm_source=git)** | Perry, OK | On Site | Sep 04 |
 | **[Kensho Technologies](https://kensho.com)** | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68ba4d066105227d1189ca1d?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Sep 04 |
-| **[Blue Origin](http://www.blueorigin.com)** | **[Summer 2026 Avionics Software Internship - Graduate Student](https://jobright.ai/jobs/info/68ba45e65f38327491865977?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Sep 04 |
 | **[Allstate](http://www.allstate.com)** | **[2026 ATS Technology Internship Program](https://jobright.ai/jobs/info/68ba41bb6105227d1189c709?utm_campaign=1079&utm_source=git)** | USA - TX (Remote) | Remote | Sep 04 |
 | ↳ | **[2026 ATS Technology Internship Program](https://jobright.ai/jobs/info/68ba41358043103d4f21f123?utm_campaign=1079&utm_source=git)** | USA - IL (Remote) | Remote | Sep 04 |
 | **[AV](https://www.avinc.com/)** | **[Summer 2026 Embedded Software Engineering Intern](https://jobright.ai/jobs/info/68ba41105f3832749186589b?utm_campaign=1079&utm_source=git)** | Albuquerque, NM | On Site | Sep 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ulteig](http://ulteig.com)** | **[Summer 2026 Software Engineering Intern](https://jobright.ai/jobs/info/68b9f3cb6105227d11899935?utm_campaign=1079&utm_source=git)** | Fargo, ND | On Site | Sep 04 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Information Systems Assurance - Summer 2026 (Chicago)](https://jobright.ai/jobs/info/68b9f24a8043103d4f21c1bc?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Sep 04 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Mercury Marine - Systems/Software Engineering Intern](https://jobright.ai/jobs/info/68b9f1968043103d4f21c0cc?utm_campaign=1079&utm_source=git)** | Fond du Lac, WI | On Site | Sep 04 |
-| ↳ | **[Mercury Marine - Systems/Software Engineering Co-op](https://jobright.ai/jobs/info/68b9f14d8043103d4f21c085?utm_campaign=1079&utm_source=git)** | Fond du Lac, WI | On Site | Sep 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
