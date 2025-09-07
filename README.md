@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Best Job Tool](https://www.bestjobtool.com)** | **[IT Developer](https://jobright.ai/jobs/info/68bdff94df5eec448f63d981?utm_campaign=1079&utm_source=git)** | United States | Hybrid | Sep 07 |
+| **[Quilly](https://www.linkedin.com/company/99477222)** | **[AI App Full Stack Dev Startup Fall Internship (Unpaid)](https://jobright.ai/jobs/info/68bdec98e57feb02eb0ac78d?utm_campaign=1079&utm_source=git)** | Berkeley, CA | Remote | Sep 07 |
 | **[OneHubPOS](https://www.onehubpos.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68bdbc64df5eec448f63d404?utm_campaign=1079&utm_source=git)** | Folsom, CA | On Site | Sep 07 |
 | **[Midmark Corporation](http://www.midmark.com/)** | **[Firmware Engineering Co-op - Spring 2026](https://jobright.ai/jobs/info/67a11e93459a531c82e6b738?utm_campaign=1079&utm_source=git)** | Versailles, OH | On Site | Sep 07 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Software Development Intern](https://jobright.ai/jobs/info/66ca0a763673251f8b24f33d?utm_campaign=1079&utm_source=git)** | Lincoln, NE | On Site | Sep 07 |
@@ -136,14 +138,14 @@ For a complete list, click the following sortable link below:
 | **[Matrix Design Group LLC](http://matrixteam.com)** | **[Software Engineering – Computer Vision Intern](https://jobright.ai/jobs/info/68bbe53a8043103d4f22d931?utm_campaign=1079&utm_source=git)** | Newburgh, IN | On Site | Sep 06 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[IT Engineer Internship Summer 2026](https://jobright.ai/jobs/info/68bbdf156105227d118aa802?utm_campaign=1079&utm_source=git)** | Marlborough, MA | Hybrid | Sep 06 |
 | **[Matrix Design Group LLC](http://matrixteam.com)** | **[Software Engineering - Embedded Systems Intern](https://jobright.ai/jobs/info/68bbf0615f38327491874619?utm_campaign=1079&utm_source=git)** | Newburgh, IN | On Site | Sep 05 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Advanced Technology](https://jobright.ai/jobs/info/68bbcc246105227d118a9e1c?utm_campaign=1079&utm_source=git)** | St Louis, MO | On Site | Sep 05 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Software Engineer](https://jobright.ai/jobs/info/68bbd24f6105227d118aa236?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Sep 05 |
+| ↳ | **[2026 Summer Intern: Advanced Technology](https://jobright.ai/jobs/info/68bbcc246105227d118a9e1c?utm_campaign=1079&utm_source=git)** | St Louis, MO | On Site | Sep 05 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Application Software Engineering Intern](https://jobright.ai/jobs/info/68bd213a3bf9eb44f8326c9a?utm_campaign=1079&utm_source=git)** | Niles, IL | Hybrid | Sep 05 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Software Engineer](https://jobright.ai/jobs/info/68bbc7ea8043103d4f22c700?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO | On Site | Sep 05 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Software Engineer](https://jobright.ai/jobs/info/68bbc82a8043103d4f22c730?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO | On Site | Sep 05 |
+| ↳ | **[2026 Summer Intern: Software Engineer](https://jobright.ai/jobs/info/68bbc7ea8043103d4f22c700?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO | On Site | Sep 05 |
 | ↳ | **[2026 Summer Intern: Data Infrastructure Engineer 1](https://jobright.ai/jobs/info/68bbc75d6105227d118a9bb8?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Sep 05 |
 | ↳ | **[2026 Summer Intern: Advanced Technology](https://jobright.ai/jobs/info/68bbc6e45f38327491872f42?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO | On Site | Sep 05 |
-| ↳ | **[2026 Summer Intern: Software Engineer](https://jobright.ai/jobs/info/68bbc6be6105227d118a9afb?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO | On Site | Sep 05 |
 | ↳ | **[2026 Summer Intern: Mobile Device Engineer](https://jobright.ai/jobs/info/68bbc5505f38327491872d15?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO | On Site | Sep 05 |
-| ↳ | **[2026 Summer Intern: Software Engineer](https://jobright.ai/jobs/info/68bbc0fa8043103d4f22c1eb?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Sep 05 |
 | ↳ | **[2026 Summer Intern: Software Engineer](https://jobright.ai/jobs/info/68bbc0fa8043103d4f22c1ea?utm_campaign=1079&utm_source=git)** | St Louis, MO | On Site | Sep 05 |
 | **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Software Engineer Intern - Summer 2026 (For SNC Summer 2025 Interns Only)](https://jobright.ai/jobs/info/68bc23598043103d4f22e6c5?utm_campaign=1079&utm_source=git)** | Lone Tree, CO | On Site | Sep 05 |
 | **[Core4ce](https://www.core4ce.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68bd0ded68300c452ca17de5?utm_campaign=1079&utm_source=git)** | United States | Remote | Sep 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NISC](http://www.nisc.coop/)** | **[Intern - Software Development](https://jobright.ai/jobs/info/68bba0735f38327491870df9?utm_campaign=1079&utm_source=git)** | St Louis, MO | Hybrid | Sep 05 |
 | ↳ | **[Intern - Software Development](https://jobright.ai/jobs/info/68bb9fb98043103d4f22a245?utm_campaign=1079&utm_source=git)** | Bismarck, ND | On Site | Sep 05 |
 | ↳ | **[Intern - Software Development](https://jobright.ai/jobs/info/68bb9fb76105227d118a7a7a?utm_campaign=1079&utm_source=git)** | Lake St Louis, MO | On Site | Sep 05 |
-| **[Shure Incorporated](http://www.shure.com)** | **[Proof of Concept Software Development Intern](https://jobright.ai/jobs/info/68bcf38f68300c452ca16a49?utm_campaign=1079&utm_source=git)** | Niles, IL | Hybrid | Sep 05 |
-| ↳ | **[Mobile Applications (Android) Intern](https://jobright.ai/jobs/info/68bcf32968300c452ca16981?utm_campaign=1079&utm_source=git)** | Niles, IL | Hybrid | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
