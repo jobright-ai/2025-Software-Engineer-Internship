@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CBRE](https://www.cbre.com)** | **[Software Engineer Intern, BIDS](https://jobright.ai/jobs/info/68be433a3d31ec76b7e88c62?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Sep 07 |
-| ↳ | **[Software Engineer Intern, Web](https://jobright.ai/jobs/info/68be434d3d31ec76b7e88c8a?utm_campaign=1079&utm_source=git)** | Kansas City, MO | Hybrid | Sep 07 |
-| **[SC Johnson](http://www.scjohnson.com)** | **[Information Technology (IT) Intern - Summer 2026](https://jobright.ai/jobs/info/68be691cc4c5904ff60063ce?utm_campaign=1079&utm_source=git)** | USA - WI - Racine | On Site | Sep 07 |
+| **[CBRE](https://www.cbre.com)** | **[Software Engineer Intern, BIDS](https://jobright.ai/jobs/info/68be433a3d31ec76b7e88c62?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Sep 08 |
+| ↳ | **[Software Engineer Intern, Web](https://jobright.ai/jobs/info/68be434d3d31ec76b7e88c8a?utm_campaign=1079&utm_source=git)** | Kansas City, MO | Hybrid | Sep 08 |
+| **[SC Johnson](http://www.scjohnson.com)** | **[Information Technology (IT) Intern - Summer 2026](https://jobright.ai/jobs/info/68be6c78c4c5904ff600649a?utm_campaign=1079&utm_source=git)** | USA - WI - Racine | On Site | Sep 07 |
 | **[Cboe Global Markets](http://www.cboe.com)** | **[Software Engineer Intern - Real-Time](https://jobright.ai/jobs/info/68be65b43d31ec76b7e8a1cc?utm_campaign=1079&utm_source=git)** | Kansas City, MO | Hybrid | Sep 07 |
 | ↳ | **[Full-Stack Software Engineer Intern - ASE](https://jobright.ai/jobs/info/68be6539e57feb02eb0ae3d3?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Sep 07 |
 | ↳ | **[Software Engineer Intern, BIDS](https://jobright.ai/jobs/info/68be6526e57feb02eb0ae3cc?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Sep 07 |
@@ -154,7 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Ameren](http://ameren.com)** | **[Application Development Co-Op](https://jobright.ai/jobs/info/689fc4ec83d13d1f5b6caea5?utm_campaign=1079&utm_source=git)** | St Louis, MO | Hybrid | Sep 06 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Software Engineer](https://jobright.ai/jobs/info/689f874fb3e889632cf08508?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Sep 06 |
 | **[Arm](http://www.arm.com)** | **[Intern Software Engineer](https://jobright.ai/jobs/info/68bbfb555f383274918747f7?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Sep 06 |
-| **[Leidos](https://www.leidos.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68bbf6678043103d4f22dcb7?utm_campaign=1079&utm_source=git)** | United States | Remote | Sep 06 |
-| **[Arm](http://www.arm.com)** | **[Intern Software Engineer](https://jobright.ai/jobs/info/68bbf5cf5f38327491874717?utm_campaign=1079&utm_source=git)** | Boston, MA | Hybrid | Sep 06 |
+| ↳ | **[Intern Software Engineer](https://jobright.ai/jobs/info/68bbf5cf5f38327491874717?utm_campaign=1079&utm_source=git)** | Boston, MA | Hybrid | Sep 06 |
 | ↳ | **[Intern Software Engineer](https://jobright.ai/jobs/info/68bbf1718043103d4f22dbae?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | Sep 06 |
+| ↳ | **[Intern Software Engineer](https://jobright.ai/jobs/info/68bbef2b5f38327491874597?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Sep 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
