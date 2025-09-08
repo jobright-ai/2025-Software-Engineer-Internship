@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Delta Dental of Iowa](https://www.deltadentalia.com/)** | **[Software Development Intern](https://jobright.ai/jobs/info/68be26c0e57feb02eb0acb68?utm_campaign=1079&utm_source=git)** | Delta Dental of Iowa | Hybrid | Sep 07 |
+| **[Peraton](https://www.peraton.com/)** | **[Summer 2026 Software Engineer Intern](https://jobright.ai/jobs/info/68be242ac4c5904ff600487d?utm_campaign=1079&utm_source=git)** | Herndon, VA | Hybrid | Sep 07 |
+| ↳ | **[Fall 2026 Co-Op Engineer- Blacksburg, VA or Herndon, VA](https://jobright.ai/jobs/info/68be1cd3c4c5904ff600481d?utm_campaign=1079&utm_source=git)** | Blacksburg, VA | Hybrid | Sep 07 |
 | **[Oxy](https://www.oxy.com)** | **[IT Intern](https://jobright.ai/jobs/info/68be15b3c4c5904ff60047bc?utm_campaign=1079&utm_source=git)** | The Woodlands, Texas | Hybrid | Sep 07 |
 | **[UBS](https://www.ubs.com)** | **[2026 Summer Internship - Technology - NC](https://jobright.ai/jobs/info/68be159cc4c5904ff60047b7?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Sep 07 |
 | **[Oxy](https://www.oxy.com)** | **[IT Intern](https://jobright.ai/jobs/info/68be14b6df5eec448f63da6a?utm_campaign=1079&utm_source=git)** | Houston, Texas | Hybrid | Sep 07 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Core4ce](https://www.core4ce.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68bd0ded68300c452ca17de5?utm_campaign=1079&utm_source=git)** | United States | Remote | Sep 05 |
 | **[Massachusetts Medical Society](http://www.massmed.org/)** | **[Quality Assurance Tester and Analyst Co-op (NU Students only)](https://jobright.ai/jobs/info/68bd02893bf9eb44f8325d88?utm_campaign=1079&utm_source=git)** | Waltham, MA | On Site | Sep 05 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Embedded Software Engineer Intern](https://jobright.ai/jobs/info/68b56204f4e41a61efd8f883?utm_campaign=1079&utm_source=git)** | Cook County, IL | Hybrid | Sep 05 |
-| **[Eventual](https://www.eventual.ai/)** | **[Software Engineering Intern – Eventual (San Francisco, CA)](https://jobright.ai/jobs/info/68bba0c46105227d118a7bca?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Sep 05 |
-| **[NISC](http://www.nisc.coop/)** | **[Intern - Software Development](https://jobright.ai/jobs/info/68bba0995f38327491870e31?utm_campaign=1079&utm_source=git)** | Cedar Rapids, IA | On Site | Sep 05 |
-| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Firmware Engineer Intern](https://jobright.ai/jobs/info/68b7ed035e55be5e2604f5fd?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
