@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[H15DEN](https://h15den.com)** | **[No Code Software App Developer (Adalo - Micro-Intern)](https://jobright.ai/jobs/info/68c7e7a495f5211cd2cdfd44?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Sep 15 |
 | **[Sigma](http://sigmacomputing.com)** | **[Software Engineer (New Grad Program)](https://jobright.ai/jobs/info/68c7d951369c3763c743c632?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Sep 15 |
 | **[RTX](http://www.raytheon.com)** | **[2026 Intern - Software Engineer -Test Equipment - Onsite](https://jobright.ai/jobs/info/68c7c4fa369c3763c743bc91?utm_campaign=1079&utm_source=git)** | AZ201: RMS AP Bldg 801 1151 East Hermans Road Building 801, Tucson, AZ, 85756 USA | Hybrid | Sep 15 |
 | **[Castleton Commodities International](http://www.cci.com/)** | **[Front Office Software Engineer Internship (Summer 2026)](https://jobright.ai/jobs/info/68c7bdfd369c3763c743b359?utm_campaign=1079&utm_source=git)** | Stamford, CT | On Site | Sep 15 |
@@ -83,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Snowflake](https://www.snowflake.com)** | **[Software Engineer Intern (Database Engineering) - Spring 2026](https://jobright.ai/jobs/info/68c7b76bc008cf3402c8f748?utm_campaign=1079&utm_source=git)** | Bellevue, WA | On Site | Sep 14 |
 | **[Sentry](https://www.sentry.io)** | **[Software Engineer, Intern (Summer 2026)](https://jobright.ai/jobs/info/68c6b31ddb52c07d28849958?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Sep 14 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Software Engineer Program - Summer Internship – United States](https://jobright.ai/jobs/info/68c632bcc96a22563eceb207?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Sep 14 |
-| **[La-Z-Boy Incorporated](http://www.la-z-boy.com)** | **[Internship - Information Technology (Summer 2026)](https://jobright.ai/jobs/info/68c6b227c96a22563ecefbff?utm_campaign=1079&utm_source=git)** | Monroe, MI | Hybrid | Sep 14 |
 | **[Figure](https://www.figure.ai)** | **[Firmware Engineering Intern [Winter]New](https://jobright.ai/jobs/info/68c746a4c96a22563ecf0a25?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Sep 14 |
 | **[The Digital BA](https://thedigitalba.com.au)** | **[AI - Internship Program - Remote](https://jobright.ai/jobs/info/68c72ab2c96a22563ecf07b3?utm_campaign=1079&utm_source=git)** | New York, United States | Remote | Sep 13 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2026 Full Stack Engineering Intern](https://jobright.ai/jobs/info/68c7a764db52c07d2884dc29?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Sep 13 |
@@ -108,7 +108,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Backend Engineering Intern](https://jobright.ai/jobs/info/68c583c57d0db41142734561?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Sep 13 |
 | ↳ | **[Summer 2026 Mobile(iOS/Android) Intern](https://jobright.ai/jobs/info/68c58369db52c07d28843107?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Sep 13 |
 | ↳ | **[Summer 2026 Front End Engineering Intern](https://jobright.ai/jobs/info/68c679c07d0db4114273aaa1?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Sep 13 |
-| ↳ | **[Summer 2026 Backend Engineering Intern](https://jobright.ai/jobs/info/68c5ccbdc96a22563ece9eff?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Sep 13 |
 | ↳ | **[Summer 2026 Front End Engineering Intern](https://jobright.ai/jobs/info/68c5bd7ac96a22563ece9cdc?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Sep 13 |
 | ↳ | **[Summer 2026 Full Stack Engineering Intern](https://jobright.ai/jobs/info/68c65919db52c07d288477bc?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Sep 13 |
 | ↳ | **[Summer 2026 Mobile(iOS/Android) Intern](https://jobright.ai/jobs/info/68c60d98c96a22563ecea5c7?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Sep 13 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Kyowa Kirin, Inc.- U.S.](https://kkna.kyowakirin.com/)** | **[IT Healthcare Systems and Services Intern (Summer 2026)](https://jobright.ai/jobs/info/68c63c647d0db41142736d89?utm_campaign=1079&utm_source=git)** | Princeton, NJ | Hybrid | Sep 12 |
 | **[Fintech](https://www.fintech.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68c63ded7d0db41142737280?utm_campaign=1079&utm_source=git)** | Tampa, FL | On Site | Sep 12 |
 | **[Revantage, A Blackstone Portfolio Company](https://www.revantage.com/)** | **[Insurance and Alternative Solutions Intern, Summer 2026](https://jobright.ai/jobs/info/68c5fe8b7d0db41142735729?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Sep 12 |
+| **[SANMINA-SCI TECHNOLOGY INDIA PRIVATE LIMITED](http://www.sanmina.com)** | **[Test Development CoOp (Spring 2026)](https://jobright.ai/jobs/info/68c78d45db52c07d2884be20?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Sep 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
