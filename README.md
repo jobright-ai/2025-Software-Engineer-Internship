@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MITRE](http://www.mitre.org)** | **[Internships in Computer Science or Software Engineering](https://jobright.ai/jobs/info/68ca2e56d4187c55157a7305?utm_campaign=1079&utm_source=git)** | El Segundo, CA | On Site | Sep 16 |
+| **[Black & Veatch](http://bv.com/Home)** | **[Jr. Software Engineer Intern- D&IT](https://jobright.ai/jobs/info/68ca2901f61c922772a7384d?utm_campaign=1079&utm_source=git)** | Overland Park, KS | Hybrid | Sep 16 |
+| **[MITRE](http://www.mitre.org)** | **[Internships in Computer Science or Software Engineering](https://jobright.ai/jobs/info/68ca28acf16e3266d28235b4?utm_campaign=1079&utm_source=git)** | Bedford, MA | On Site | Sep 16 |
+| **[Institute for Education, Research, and Scholarships](http://www.ifers.org/)** | **[Back-End Developer](https://jobright.ai/jobs/info/68ca28a7f16e3266d28235aa?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Sep 16 |
+| ↳ | **[Front-End Developer](https://jobright.ai/jobs/info/68ca27faf61c922772a7370f?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Sep 16 |
+| **[North Atlantic Industries](http://naii.com)** | **[Intern-Full Stack Software Engineer](https://jobright.ai/jobs/info/68ca264ad4187c55157a6aed?utm_campaign=1079&utm_source=git)** | Bohemia, NY | On Site | Sep 16 |
+| ↳ | **[Intern-Software Engineer](https://jobright.ai/jobs/info/68ca25c6d4187c55157a69a9?utm_campaign=1079&utm_source=git)** | Bohemia, NY | On Site | Sep 16 |
+| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026  Software Engineer Internship  - Dulles VA - R10207889](https://jobright.ai/jobs/info/68ca23bdf16e3266d2823367?utm_campaign=1079&utm_source=git)** | Dulles, VA | On Site | Sep 16 |
+| **[homehudl](www.homehudl.com)** | **[Software Engineering Intern – Web & App Development](https://jobright.ai/jobs/info/68ca1b20f16e3266d282299e?utm_campaign=1079&utm_source=git)** | United States | Remote | Sep 16 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68ca1063f16e3266d2822384?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Sep 16 |
 | ↳ | **[Software Engineer - Co-Op](https://jobright.ai/jobs/info/68ca1039f16e3266d2822352?utm_campaign=1079&utm_source=git)** | Allen, TX | Hybrid | Sep 16 |
 | ↳ | **[Android Applications Developer Intern - Summer 2026](https://jobright.ai/jobs/info/68ca0f33f61c922772a724dd?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Sep 16 |
@@ -73,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[cbs Corporate Business Solutions](https://www.cbs-consulting.com/)** | **[SAP Trainee Program](https://jobright.ai/jobs/info/68ca06cbd4187c55157a55d6?utm_campaign=1079&utm_source=git)** | Denver, Colorado, United States | Hybrid | Sep 16 |
 | **[Entrust](http://www.entrust.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/68c9ee9307f8525eae041695?utm_campaign=1079&utm_source=git)** | Shakopee, MN | On Site | Sep 16 |
 | **[Leidos](https://www.leidos.com/)** | **[Jr. Software Engineer Intern](https://jobright.ai/jobs/info/68c9ff6df61c922772a71c7d?utm_campaign=1079&utm_source=git)** | Tucson, AZ | On Site | Sep 16 |
+| **[Numeric](https://www.numeric.io/)** | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68ca28b9f61c922772a737ed?utm_campaign=1079&utm_source=git)** | San Francisco | On Site | Sep 16 |
 | **[Arthrex](https://www.arthrex.com/)** | **[UX Developer Intern - Realtime 3D Applications](https://jobright.ai/jobs/info/68c9f9eef16e3266d28218b2?utm_campaign=1079&utm_source=git)** | Naples, FL | On Site | Sep 16 |
 | **[Nokia](http://www.nokia.com)** | **[Software Developer Coop](https://jobright.ai/jobs/info/68c9f9a0d4187c55157a5024?utm_campaign=1079&utm_source=git)** | New Providence, NJ | Hybrid | Sep 16 |
 | **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Co-op, Software Engineering (May 2026 - December 2026)](https://jobright.ai/jobs/info/68c9f943f61c922772a718d8?utm_campaign=1079&utm_source=git)** | Cleveland, OH | Hybrid | Sep 16 |
@@ -108,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[Workshop](https://www.useworkshop.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/68ca0f45d4187c55157a5b65?utm_campaign=1079&utm_source=git)** | Omaha, Nebraska, United States | Hybrid | Sep 16 |
 | **[Neighbor](https://www.neighbor.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68c9db8484fc1901fd41a157?utm_campaign=1079&utm_source=git)** | Lehi, UT | On Site | Sep 16 |
 | **[Grammarly](http://www.grammarly.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68c9dafc84fc1901fd419fdc?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | Hybrid | Sep 16 |
-| **[MITRE](http://www.mitre.org)** | **[Internships in Computer Science or Software Engineering](https://jobright.ai/jobs/info/68c9d9d7f9c6ff7aedf1e9ab?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Sep 16 |
 | **[Immuta](http://www.immuta.com/)** | **[Platform Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68c9d89ff9c6ff7aedf1e7d5?utm_campaign=1079&utm_source=git)** | Columbus, OH | Hybrid | Sep 16 |
 | **[MITRE](http://www.mitre.org)** | **[Internships in Computer Science or Software Engineering](https://jobright.ai/jobs/info/68c9d87df9c6ff7aedf1e7ad?utm_campaign=1079&utm_source=git)** | Shrewsbury, NJ | On Site | Sep 16 |
 | **[Entrust](http://www.entrust.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/68c9d791f9c6ff7aedf1e5aa?utm_campaign=1079&utm_source=git)** | United States - Shakopee, MN (GHQ) | On Site | Sep 16 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Immuta](http://www.immuta.com/)** | **[Product Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68c9b33495f5211cd2cf318a?utm_campaign=1079&utm_source=git)** | College Park, MD | Hybrid | Sep 16 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68c9b21ef9c6ff7aedf1c789?utm_campaign=1079&utm_source=git)** | Possible | On Site | Sep 16 |
 | ↳ | **[Software Engineer-Intern](https://jobright.ai/jobs/info/68c9b215f9c6ff7aedf1c76a?utm_campaign=1079&utm_source=git)** | Possible | On Site | Sep 16 |
-| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/68c9b1b9a0c52d598ea39f7f?utm_campaign=1079&utm_source=git)** | Virginia | On Site | Sep 16 |
-| ↳ | **[Software Engineer-Intern](https://jobright.ai/jobs/info/68c9b19ba0c52d598ea39f46?utm_campaign=1079&utm_source=git)** | Colorado | On Site | Sep 16 |
-| ↳ | **[Software Engineer- Intern](https://jobright.ai/jobs/info/68c9b19495f5211cd2cf2ee8?utm_campaign=1079&utm_source=git)** | Possible | On Site | Sep 16 |
-| **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68c9b17195f5211cd2cf2e85?utm_campaign=1079&utm_source=git)** | New Freedom-Pennsylvania-United States of America | On Site | Sep 16 |
-| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Software Engineer- Intern](https://jobright.ai/jobs/info/68c9b15e95f5211cd2cf2e50?utm_campaign=1079&utm_source=git)** | Colorado | On Site | Sep 16 |
-| ↳ | **[Software Engineer- Intern](https://jobright.ai/jobs/info/68c9b15495f5211cd2cf2e38?utm_campaign=1079&utm_source=git)** | Colorado | On Site | Sep 16 |
-| ↳ | **[Software Engineer- Intern](https://jobright.ai/jobs/info/68c9b12da0c52d598ea39e4b?utm_campaign=1079&utm_source=git)** | Possible | On Site | Sep 16 |
-| ↳ | **[Software Engineer- Intern](https://jobright.ai/jobs/info/68c9b12af9c6ff7aedf1c515?utm_campaign=1079&utm_source=git)** | Colorado | On Site | Sep 16 |
-| ↳ | **[Software Engineer- Intern](https://jobright.ai/jobs/info/68c9b125f9c6ff7aedf1c505?utm_campaign=1079&utm_source=git)** | Possible | On Site | Sep 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
