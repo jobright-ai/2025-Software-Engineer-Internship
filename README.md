@@ -57,6 +57,26 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xcimer Energy Corporation](https://www.xcimer.net/)** | **[Summer 2026 Internship - Computational and Software Engineering](https://jobright.ai/jobs/info/68cdff9b1ad6b16f028a0a95?utm_campaign=1079&utm_source=git)** | Denver, CO | On Site | Sep 19 |
+| **[Garmin](https://www.garmin.com/en-US/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68cdff731ad6b16f028a0a55?utm_campaign=1079&utm_source=git)** | Tulsa, OK | On Site | Sep 19 |
+| **[Keysight Technologies](https://www.keysight.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/68cdfd2a1ad6b16f028a09c0?utm_campaign=1079&utm_source=git)** | Santa Rosa, California | On Site | Sep 19 |
+| ↳ | **[Engineering Intern](https://jobright.ai/jobs/info/68cdfc081ad6b16f028a09a7?utm_campaign=1079&utm_source=git)** | Santa Rosa, CA | On Site | Sep 19 |
+| ↳ | **[Software Developer Intern](https://jobright.ai/jobs/info/68cdfbcf1ad6b16f028a0959?utm_campaign=1079&utm_source=git)** | Santa Rosa, CA | On Site | Sep 19 |
+| **[GlobalFoundries](https://gf.com/)** | **[Application Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68cdfbcf1ad6b16f028a095a?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Sep 19 |
+| **[Keysight Technologies](https://www.keysight.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/68cdfb741ad6b16f028a08d8?utm_campaign=1079&utm_source=git)** | Santa Rosa, CA | On Site | Sep 19 |
+| **[Gusto](https://www.gusto.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68cdfac31ad6b16f028a07e7?utm_campaign=1079&utm_source=git)** | San Francisco, CA - Hybrid | Hybrid | Sep 19 |
+| **[DEKA Research & Development](http://www.dekaresearch.com)** | **[Cloud Quality Assurance Automation Co-Op- Spring 2026](https://jobright.ai/jobs/info/68cdfa9db2a74e1837edde81?utm_campaign=1079&utm_source=git)** | Manchester, NH | On Site | Sep 19 |
+| **[Groq](http://groq.com)** | **[Software Engineering, Growth and Monetization Intern](https://jobright.ai/jobs/info/68cdfa78e23def7af55c0d55?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | Hybrid | Sep 19 |
+| **[Keysight Technologies](https://www.keysight.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/68cdfa3a1ad6b16f028a0646?utm_campaign=1079&utm_source=git)** | Santa Rosa, California | On Site | Sep 19 |
+| ↳ | **[Engineering Intern](https://jobright.ai/jobs/info/68cdfa32e23def7af55c0cc0?utm_campaign=1079&utm_source=git)** | Santa Rosa, California | On Site | Sep 19 |
+| ↳ | **[R&D Software Engineering Intern](https://jobright.ai/jobs/info/68cdfa081ad6b16f028a05ae?utm_campaign=1079&utm_source=git)** | Loveland, CO | On Site | Sep 19 |
+| ↳ | **[R&D Intern](https://jobright.ai/jobs/info/68cdf9f61ad6b16f028a056f?utm_campaign=1079&utm_source=git)** | Calabasas, California | On Site | Sep 19 |
+| ↳ | **[R&D Software Engineer Internship](https://jobright.ai/jobs/info/68cdf9c01ad6b16f028a04ce?utm_campaign=1079&utm_source=git)** | Santa Rosa, CA | On Site | Sep 19 |
+| **[Groq](http://groq.com)** | **[Inference and Distributed System Software Intern](https://jobright.ai/jobs/info/68cdf9c01ad6b16f028a04ca?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | Hybrid | Sep 19 |
+| **[Garmin](https://www.garmin.com/en-US/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68cdf9a31ad6b16f028a047a?utm_campaign=1079&utm_source=git)** | Tulsa, Oklahoma | On Site | Sep 19 |
+| **[Keysight Technologies](https://www.keysight.com)** | **[R&D Software Engineer Internship](https://jobright.ai/jobs/info/68cdf9711ad6b16f028a0425?utm_campaign=1079&utm_source=git)** | Santa Rosa, California | On Site | Sep 19 |
+| **[CharacterStrong](https://characterstrong.com)** | **[Quality Assurance Intern (Tech)](https://jobright.ai/jobs/info/68cdee1ae23def7af55c04d0?utm_campaign=1079&utm_source=git)** | California, United States | On Site | Sep 19 |
+| **[Marvell Technology](https://www.marvell.com/)** | **[Software Engineer Intern - Master's Degree](https://jobright.ai/jobs/info/68cded9fe23def7af55c045f?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Sep 19 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Analytics & AI - Service Delivery Operations](https://jobright.ai/jobs/info/68cdeb32b2a74e1837edd5c3?utm_campaign=1079&utm_source=git)** | Newtown Square, PA | Hybrid | Sep 19 |
 | **[IBM](http://www.ibm.com)** | **[Intern 2026: Quantum Cloud Engineering](https://jobright.ai/jobs/info/68cdeb0eb2a74e1837edd593?utm_campaign=1079&utm_source=git)** | Albany, NY | On Site | Sep 19 |
 | **[Gusto](https://www.gusto.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68cdea2fb2a74e1837edd462?utm_campaign=1079&utm_source=git)** | NYC Metro Area | Hybrid | Sep 19 |
@@ -137,24 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MacLean-Fogg Company](https://macleanfogg.com)** | **[Information Technology (IT) Internship (Summer 2026)](https://jobright.ai/jobs/info/68cdc1471ad6b16f0289e897?utm_campaign=1079&utm_source=git)** | Mundelein, IL | On Site | Sep 19 |
 | ↳ | **[Information Technology (IT) Internship (Summer 2026)](https://jobright.ai/jobs/info/68cd0ad01ad6b16f02893ceb?utm_campaign=1079&utm_source=git)** | Sterling, IL | On Site | Sep 19 |
 | **[Uber](http://www.uber.com)** | **[2026 Winter Software Engineering Internship, US](https://jobright.ai/jobs/info/68cd0a4b1ad6b16f02893ba0?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Sep 19 |
-| **[RapidScale](https://rapidscale.net/)** | **[RapidScale / Cloud Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68cd08fdb2a74e1837ed0e38?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Sep 19 |
-| **[Rippling](https://www.rippling.com)** | **[Full Stack Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68cd24971ad6b16f02895bea?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Sep 19 |
-| **[Meta](https://www.meta.com)** | **[Software Engineer Intern, Systems & Infrastructure (PhD)](https://jobright.ai/jobs/info/68cd04314d568306aabd1923?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Sep 19 |
-| **[Uber](http://www.uber.com)** | **[2026 Winter Software Engineering Internship, US](https://jobright.ai/jobs/info/68ccfff2d11b445e0bee5e6f?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Sep 19 |
-| **[Meta](https://www.meta.com)** | **[Software Engineer Intern, Systems & Infrastructure (PhD)](https://jobright.ai/jobs/info/68ccfe0577add66568abd502?utm_campaign=1079&utm_source=git)** | Menlo Park, CA | On Site | Sep 18 |
-| **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Software Quality Engineering (Summer 2026)](https://jobright.ai/jobs/info/68ccfda95954791a1d7025e1?utm_campaign=1079&utm_source=git)** | Orlando, FL | On Site | Sep 18 |
-| ↳ | **[Internship - Engineering, Global Attractions Programs (Summer 2026)](https://jobright.ai/jobs/info/68ccfd6d77add66568abd3bb?utm_campaign=1079&utm_source=git)** | Orlando, FL | On Site | Sep 18 |
-| **[IBM](http://www.ibm.com)** | **[Intern 2026: Software Engineer - Semiconductor](https://jobright.ai/jobs/info/68ccf72677add66568abcd1a?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Sep 18 |
-| ↳ | **[Intern 2026: Software Engineer - Semiconductor](https://jobright.ai/jobs/info/68ccf6ff5954791a1d701ddf?utm_campaign=1079&utm_source=git)** | Albany, NY | On Site | Sep 18 |
-| **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Software Engineer (Web) (Summer 2026)](https://jobright.ai/jobs/info/68cd306ab2a74e1837ed3a27?utm_campaign=1079&utm_source=git)** | Orlando, FL | On Site | Sep 18 |
-| **[IBM](http://www.ibm.com)** | **[Intern 2026: Software Engineer - Semiconductor](https://jobright.ai/jobs/info/68cd1906e23def7af55b532b?utm_campaign=1079&utm_source=git)** | Yorktown Heights, NY | On Site | Sep 18 |
-| **[Sift](https://www.siftstack.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68ccf05377add66568abc50f?utm_campaign=1079&utm_source=git)** | El Segundo, CA | Hybrid | Sep 18 |
-| **[IBM](http://www.ibm.com)** | **[Intern 2026: Software Developer - Security](https://jobright.ai/jobs/info/68cd23bab2a74e1837ed3292?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Sep 18 |
-| **[K V Group LLC](https://kvgroupllc.org)** | **[Google Cloud Intern](https://jobright.ai/jobs/info/68cd5ff8e23def7af55b92e7?utm_campaign=1079&utm_source=git)** | United States | Remote | Sep 18 |
-| **[IBM](http://www.ibm.com)** | **[Intern 2026: Software Developer - Security](https://jobright.ai/jobs/info/68cced9877add66568abbf18?utm_campaign=1079&utm_source=git)** | Yorktown Heights, NY | On Site | Sep 18 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Software Engineer](https://jobright.ai/jobs/info/68cce7145954791a1d700c60?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO | On Site | Sep 18 |
-| **[Raytheon](http://www.bbn.com)** | **[2026 Intern Raytheon Software Systems Engineer](https://jobright.ai/jobs/info/68cce6dc77add66568abba7e?utm_campaign=1079&utm_source=git)** | Arlington, VA | Hybrid | Sep 18 |
-| **[IBM](http://www.ibm.com)** | **[Intern 2026: Software Developer - Security](https://jobright.ai/jobs/info/68cd0c921ad6b16f02894116?utm_campaign=1079&utm_source=git)** | Albany, NY | On Site | Sep 18 |
-| **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2026 Intern - Information Technology](https://jobright.ai/jobs/info/68cd12ceb2a74e1837ed1d95?utm_campaign=1079&utm_source=git)** | Frisco, TX | Hybrid | Sep 18 |
-| **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Software Engineer (Web) (Summer 2026)](https://jobright.ai/jobs/info/68cddc39b2a74e1837edcf07?utm_campaign=1079&utm_source=git)** | Orlando, FL | On Site | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
