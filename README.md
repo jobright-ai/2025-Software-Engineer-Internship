@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Firmware Engineer Co-Op](https://jobright.ai/jobs/info/68d28788f0d9af73038d94fd?utm_campaign=1079&utm_source=git)** | Moon, PA | Hybrid | Sep 23 |
+| ↳ | **[Co-Op: Firmware Engineer](https://jobright.ai/jobs/info/68d286e4f0d9af73038d943f?utm_campaign=1079&utm_source=git)** | Moon, PA | On Site | Sep 23 |
+| **[State Street](http://www.statestreet.com)** | **[Infrastructure Engineer DMC, CO-OP](https://jobright.ai/jobs/info/68d285d78c62e63bc7fd8104?utm_campaign=1079&utm_source=git)** | Quincy, MA | On Site | Sep 23 |
+| **[Lillup](https://www.lillup.com/)** | **[Embedded Mobile Animation Intern (Remote, Unpaid)](https://jobright.ai/jobs/info/68d27b2bf0d9af73038d8e66?utm_campaign=1079&utm_source=git)** | United States | Remote | Sep 23 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Software Development Engineer Spring Co-op](https://jobright.ai/jobs/info/68d254e517554c2d9eee7181?utm_campaign=1079&utm_source=git)** | Cambridge, MA | Hybrid | Sep 23 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Embedded Software Engineering Intern - Roy UT - R10208513-2](https://jobright.ai/jobs/info/68d254bc17554c2d9eee7165?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Sep 23 |
 | ↳ | **[2026 Test Engineering Intern -  Roy UT - R10208511-2](https://jobright.ai/jobs/info/68d2546f8c62e63bc7fd719b?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Sep 23 |
-| ↳ | **[2026 Test Engineering Intern - Huntsville AL - R10208507](https://jobright.ai/jobs/info/68d253cda54edb3bf3e1d999?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Sep 23 |
 | ↳ | **[2026 Test Engineering Intern - Huntsville AL - R10208597](https://jobright.ai/jobs/info/68d253cda54edb3bf3e1d99a?utm_campaign=1079&utm_source=git)** | Roy, UT | On Site | Sep 23 |
+| ↳ | **[2026 Test Engineering Intern - Huntsville AL - R10208507](https://jobright.ai/jobs/info/68d253cda54edb3bf3e1d999?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Sep 23 |
 | ↳ | **[2026 Test Engineering Intern - Huntsville AL - R10208597-2](https://jobright.ai/jobs/info/68d2530117554c2d9eee6fe3?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Sep 23 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - HR&D - Software Developer](https://jobright.ai/jobs/info/68d252fea54edb3bf3e1d8ff?utm_campaign=1079&utm_source=git)** | Richardson, TX | Hybrid | Sep 23 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Mission Assurance / Quality Assurance Engineering Intern - Roy UT - R10208587](https://jobright.ai/jobs/info/68d25155a54edb3bf3e1d7ab?utm_campaign=1079&utm_source=git)** | Roy, UT | On Site | Sep 23 |
@@ -72,13 +76,13 @@ For a complete list, click the following sortable link below:
 | **[Fort Washington Investment Advisors, Inc.](http://www.fortwashington.com)** | **[Information Technology Intern - Regulatory & Remediation Team (Summer & Fall 2026)](https://jobright.ai/jobs/info/68d2455ba54edb3bf3e1ced6?utm_campaign=1079&utm_source=git)** | US-OH-CINCINNATI | On Site | Sep 22 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Embedded Software Engineering Intern - Roy UT - R10208513](https://jobright.ai/jobs/info/68d261d5a54edb3bf3e1ddf9?utm_campaign=1079&utm_source=git)** | Roy, UT | On Site | Sep 22 |
 | ↳ | **[2026 Test Engineering Intern -  Roy UT - R10208561-2](https://jobright.ai/jobs/info/68d2616517554c2d9eee751f?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Sep 22 |
+| ↳ | **[2026 Mission Assurance / Quality Assurance Engineering Intern - Roy UT - R10208587-2](https://jobright.ai/jobs/info/68d2820117554c2d9eee7f90?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Sep 22 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Software Engineer Co-op - Fall 2026](https://jobright.ai/jobs/info/68d241ed17554c2d9eee6397?utm_campaign=1079&utm_source=git)** | Quincy, MA | Hybrid | Sep 22 |
 | **[Snowflake](https://www.snowflake.com)** | **[Software Engineer Intern (Database Engineering) - Spring 2026](https://jobright.ai/jobs/info/68d23ec017554c2d9eee5f1b?utm_campaign=1079&utm_source=git)** | Menlo Park, CA | On Site | Sep 22 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Mobile Application Engineer Co-op - Fall 2026](https://jobright.ai/jobs/info/68d23e5d8c62e63bc7fd5f02?utm_campaign=1079&utm_source=git)** | Quincy, MA | Hybrid | Sep 22 |
 | **[Snowflake](https://www.snowflake.com)** | **[Software Engineer Intern (Database Engineering) - Spring 2026](https://jobright.ai/jobs/info/68d23beba54edb3bf3e1c4f1?utm_campaign=1079&utm_source=git)** | Bellevue, WA | On Site | Sep 22 |
 | **[Reditus Space | YC W25](https://www.reditus.space)** | **[Flight Software Engineering Summer 2026 Intern](https://jobright.ai/jobs/info/68d20f3517554c2d9eee299c?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Sep 22 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Software Development Engineer Intern](https://jobright.ai/jobs/info/68d20e9e8c62e63bc7fd2c51?utm_campaign=1079&utm_source=git)** | United States |  N/A | Hybrid | Sep 22 |
-| **[Daikin Applied Americas](https://www.daikinapplied.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68d20c508c62e63bc7fd2a0e?utm_campaign=1079&utm_source=git)** | Plymouth, MN | On Site | Sep 22 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[IT Architect Intern](https://jobright.ai/jobs/info/68d20a94a54edb3bf3e18f01?utm_campaign=1079&utm_source=git)** | Denver, CO | On Site | Sep 22 |
 | **[Pacific Life](http://www.pacificlife.com/)** | **[Summer 2026 Software Engineering Internship Program](https://jobright.ai/jobs/info/68d204bd8c62e63bc7fd23ff?utm_campaign=1079&utm_source=git)** | Newport Beach, CA | On Site | Sep 22 |
 | **[Verizon](https://www.verizon.com)** | **[Texas Southern University-Verizon Business Solution Architect Summer 2026 Internship](https://jobright.ai/jobs/info/68d202c617554c2d9eee22b5?utm_campaign=1079&utm_source=git)** | Basking Ridge, NJ | On Site | Sep 22 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Texas Southern University-Verizon Business Solution Architect Summer 2026 Internship](https://jobright.ai/jobs/info/68d1b67aa54edb3bf3e155f3?utm_campaign=1079&utm_source=git)** | New York, New York | Hybrid | Sep 22 |
 | **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Associate (Intern) - Baseball Systems](https://jobright.ai/jobs/info/68d1b678a54edb3bf3e155ef?utm_campaign=1079&utm_source=git)** | US-WI-Milwaukee | On Site | Sep 22 |
 | **[Nextdoor](http://nextdoor.com)** | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68d1aeaca54edb3bf3e150d5?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Sep 22 |
-| **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern-Engineering (Verification)](https://jobright.ai/jobs/info/68d1ada917554c2d9eede8a4?utm_campaign=1079&utm_source=git)** | Chandler, AZ | Hybrid | Sep 22 |
-| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: Software Validation Engineer (Jan - June 2026)](https://jobright.ai/jobs/info/68d1ad93a54edb3bf3e14f2e?utm_campaign=1079&utm_source=git)** | Waltham, MA | Hybrid | Sep 22 |
-| **[Amrit Ocean Resort & Residences](https://www.amritocean.com)** | **[IT Business Applications Internship - Summer 2026](https://jobright.ai/jobs/info/68d1ace0a54edb3bf3e14e1f?utm_campaign=1079&utm_source=git)** | US-TX-Irving | On Site | Sep 22 |
-| **[Boston Scientific](http://www.bostonscientific.com)** | **[Software Test Engineer Intern](https://jobright.ai/jobs/info/68d1a99b17554c2d9eede1f0?utm_campaign=1079&utm_source=git)** | Cambridge, MA | Hybrid | Sep 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
