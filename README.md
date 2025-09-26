@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PrizePicks](https://prizepicks.com)** | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68d6992645853d0e39cc885f?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Sep 26 |
+| **[WG Business Enterprises, LLC](https://www.linkedin.com/company/86755920)** | **[Web Developer Internship](https://jobright.ai/jobs/info/68d69862d3fe025a3015a97d?utm_campaign=1079&utm_source=git)** | United States | Hybrid | Sep 26 |
+| **[Rocket Lab](https://www.rocketlabusa.com)** | **[Flight Software Intern Spring 2026](https://jobright.ai/jobs/info/68d00577dbd9fb154edeccf9?utm_campaign=1079&utm_source=git)** | Littleton, CO | On Site | Sep 26 |
+| **[Blue Origin](http://www.blueorigin.com)** | **[Summer 2026 Aerospace Software Developer Intern - Undergraduate](https://jobright.ai/jobs/info/68ce3eb9b2a74e1837ee0bc9?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Sep 26 |
+| **[Activision](https://www.activision.com/)** | **[2026 US Summer Internships - Production](https://jobright.ai/jobs/info/68ba71d15f3832749186740f?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Sep 26 |
+| **[Amway](http://www.amway.com)** | **[Software Engineering Intern, Summer 2026 (42275)](https://jobright.ai/jobs/info/68cf8df6fb49c96ca6ea975a?utm_campaign=1079&utm_source=git)** | Ada, MI | On Site | Sep 26 |
 | **[Wayfair](https://www.wayfair.com)** | **[Software Engineering Intern - Summer 2026 (Boston)](https://jobright.ai/jobs/info/68d65e8e4736ff202fdd2ff5?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Sep 26 |
 | **[Businessolver](https://www.businessolver.com)** | **[Software Engineer Internship - Java, SQL (Work-from-Home)](https://jobright.ai/jobs/info/68d659b9894705799a2eb20f?utm_campaign=1079&utm_source=git)** | United States | Remote | Sep 26 |
 | **[Wayfair](https://www.wayfair.com)** | **[Software Engineering Co-op - January 2026](https://jobright.ai/jobs/info/68d6559d4736ff202fdd2acd?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Sep 26 |
@@ -114,7 +120,7 @@ Job ID : 263769](https://jobright.ai/jobs/info/68d60c331f7fb2169ab157dc?utm_camp
 | **[Keysight Technologies](https://www.keysight.com)** | **[Full Stack Intern](https://jobright.ai/jobs/info/68d5a10f1f7fb2169ab1281c?utm_campaign=1079&utm_source=git)** | Colorado Springs, CO | Remote | Sep 25 |
 | **[ITW](http://www.itw.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68d59ea91f7fb2169ab126da?utm_campaign=1079&utm_source=git)** | Appleton-822 Comm | On Site | Sep 25 |
 | **[Align Technology](http://www.aligntech.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68d59d4163d77d6f6f3f0f10?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Sep 25 |
-| **[Trideum Corporation](http://trideum.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68d594271f7fb2169ab11d2d?utm_campaign=1079&utm_source=git)** | Killeen, TX | On Site | Sep 25 |
+| **[Trideum Corporation](http://trideum.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68d595201f7fb2169ab12048?utm_campaign=1079&utm_source=git)** | Killeen, TX | On Site | Sep 25 |
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[Part Time Student Trainee - UI Design Engineer](https://jobright.ai/jobs/info/68d5a0dd1f7fb2169ab127ee?utm_campaign=1079&utm_source=git)** | Clayton, NC | On Site | Sep 25 |
 | **[Anker Innovations LTD](https://us.anker.com/)** | **[Software Testing Intern](https://jobright.ai/jobs/info/68cd48f6b2a74e1837ed4d51?utm_campaign=1079&utm_source=git)** | Greater Seattle Area | On Site | Sep 25 |
 | **[Caterpillar Inc.](https://www.linkedin.com/company/44121827)** | **[Part Time Student Trainee - UI Design Engineer](https://jobright.ai/jobs/info/68d5800f63d77d6f6f3ef73f?utm_campaign=1079&utm_source=git)** | Clayton, North Carolina | On Site | Sep 25 |
@@ -152,10 +158,4 @@ Job ID : 263769](https://jobright.ai/jobs/info/68d60c331f7fb2169ab157dc?utm_camp
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68cf4fcafb49c96ca6ea7119?utm_campaign=1079&utm_source=git)** | Cary, NC | On Site | Sep 25 |
 | **[Cisco](http://www.cisco.com)** | **[Software Engineer PhD (Intern) United States](https://jobright.ai/jobs/info/68d359c1f0d9af73038e13df?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Sep 25 |
 | ↳ | **[Software Engineer PhD (Intern) United States](https://jobright.ai/jobs/info/68d353eb17554c2d9eeefeb6?utm_campaign=1079&utm_source=git)** | Santa Monica, CA | On Site | Sep 25 |
-| **[Volvo Group](http://www.volvogroup.com)** | **[Co-op: Embedded Software Engineering (Spring 2026)](https://jobright.ai/jobs/info/68d5187de678d65ec7d8b26f?utm_campaign=1079&utm_source=git)** | Greensboro, NC | On Site | Sep 25 |
-| **[Optiver](http://www.optiver.com)** | **[Software Engineer Intern (Summer 2026 - Chicago)](https://jobright.ai/jobs/info/68d3846f17554c2d9eef22ee?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Sep 25 |
-| **[HDR](http://www.hdrinc.com)** | **[Computation Intern](https://jobright.ai/jobs/info/6880f2a329ad6b2744add63f?utm_campaign=1079&utm_source=git)** | Round Rock, TX | On Site | Sep 25 |
-| **[Clerkie](https://clerkie.io)** | **[Software Engineer Internship (2 openings)](https://jobright.ai/jobs/info/68d509e024b1ee4c7b663641?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Remote | Sep 25 |
-| **[Epirus](https://www.epirusinc.com)** | **[Software Test Engineering Intern](https://jobright.ai/jobs/info/68bf7a6c5c5d5f14f46d7236?utm_campaign=1079&utm_source=git)** | Torrance, CA | On Site | Sep 25 |
-| **[WoodmenLife](https://www.woodmenlife.org/)** | **[Software Engineer (Developer) Intern - Summer 2026](https://jobright.ai/jobs/info/68ba87ee6105227d1189ed2e?utm_campaign=1079&utm_source=git)** | Omaha, NE | Hybrid | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
