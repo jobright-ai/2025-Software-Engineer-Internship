@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wagr](https://www.linkedin.com/company/81565209)** | **[Backend Developer](https://jobright.ai/jobs/info/68d8a7d9eed6e340d9e1c39a?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Sep 27 |
 | **[Foundation Industries](https://www.foundation-industries.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68d890cbfd604e222ce88cc7?utm_campaign=1079&utm_source=git)** | Foster City, CA | On Site | Sep 27 |
-| **[Square One Rentals](https://squareone-rentals.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68d88982295f8e37655e81ad?utm_campaign=1079&utm_source=git)** | United States | Remote | Sep 27 |
 | **[Arm](http://www.arm.com)** | **[Intern Software Engineer](https://jobright.ai/jobs/info/68d88125295f8e37655e7e34?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Sep 27 |
 | ↳ | **[Intern Software Engineer](https://jobright.ai/jobs/info/68d87dcb295f8e37655e7d2e?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | Sep 27 |
 | ↳ | **[Intern Software Engineer](https://jobright.ai/jobs/info/68d87d5ac9952514e1e95883?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Sep 27 |
@@ -141,6 +141,7 @@ For a complete list, click the following sortable link below:
 | **[MeeBoss](meeboss.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68d746b1cb1d8e52c9766891?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Sep 26 |
 | **[Dropbox](https://www.dropbox.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/68ce6c58846f0b04af679b1d?utm_campaign=1079&utm_source=git)** | United States | Remote | Sep 26 |
 | **[Oaktree Capital Management, L.P.](http://www.oaktreecapital.com)** | **[2026 Undergraduate Intern, Technology](https://jobright.ai/jobs/info/68d7419ad3fe025a3015fdbd?utm_campaign=1079&utm_source=git)** | Los Angeles | On Site | Sep 26 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate QA Analyst](https://jobright.ai/jobs/info/68ba71a95f383274918673f1?utm_campaign=1079&utm_source=git)** | Maryland Heights, MO | On Site | Sep 26 |
 | **[Base Power Company](https://www.basepowercompany.com)** | **[Quantitative Developer Intern](https://jobright.ai/jobs/info/68d73d48894705799a2f187b?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Sep 26 |
 | **[CliquePrize - Local Giveaway Marketing for Small Businesses](https://www.cliqueprize.com)** | **[Nuxt3 Web Developer Intern (Remote)](https://jobright.ai/jobs/info/68d736a6894705799a2f16ca?utm_campaign=1079&utm_source=git)** | United States | Remote | Sep 26 |
 | **[Skillz](http://www.skillz.com)** | **[Software Engineer Full Stack Co-Op](https://jobright.ai/jobs/info/68d734d2d3fe025a3015f960?utm_campaign=1079&utm_source=git)** | Las Vegas, Nevada, United States | On Site | Sep 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[Software Development Engineer Intern (Metadata Storage) - 2026 Start (PhD)](https://jobright.ai/jobs/info/68d7158a45853d0e39ccccdc?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Sep 26 |
 | **[WestRock Company](http://www.westrock.com)** | **[IT Solutions - Co-op, Spring 2026](https://jobright.ai/jobs/info/68ccedb377add66568abbf69?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Sep 26 |
 | **[Moloco](http://www.moloco.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68d714d045853d0e39cccc52?utm_campaign=1079&utm_source=git)** | Redwood City, CA | On Site | Sep 26 |
-| **[Computershare Canada](http://www.computershare.com/ca/en)** | **[Internship - Perl Developer](https://jobright.ai/jobs/info/68d71340d3fe025a3015ec74?utm_campaign=1079&utm_source=git)** | Home Based, Nevada - Home Based, NV, 0000, US | Hybrid | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
