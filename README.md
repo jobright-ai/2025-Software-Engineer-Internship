@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Structonix](structonix.us)** | **[Agile Engineer Internship](https://jobright.ai/jobs/info/68d93838022fc803b4876de8?utm_campaign=1079&utm_source=git)** | United States | Remote | Sep 28 |
+| **[ByteDance](http://bytedance.com)** | **[Software Engineer Intern (Relational Database) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68d95df8022fc803b487713a?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Sep 28 |
 | **[Framatome](http://www.framatome.com)** | **[Intern / Co - Op Software/Computer Science Engineer](https://jobright.ai/jobs/info/68d93831022fc803b4876de3?utm_campaign=1079&utm_source=git)** | Lynchburg, VA | On Site | Sep 28 |
+| **[Copart](http://www.copart.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68ce7125dbd9fb154eddfac3?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Sep 28 |
+| **[Sony Electronics](http://www.sonyjobs.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68cd1885b2a74e1837ed234b?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Sep 28 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Research Support Assistant (Software Engineer) - Fall 2025](https://jobright.ai/jobs/info/68d8d1239a8e451a446a293c?utm_campaign=1079&utm_source=git)** | Tampa, FL | On Site | Sep 27 |
 | **[Foundation Industries](https://www.foundation-industries.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68d890cbfd604e222ce88cc7?utm_campaign=1079&utm_source=git)** | Foster City, CA | On Site | Sep 27 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[Sales & Guest Services Software Engineer - Summer 2026 Intern](https://jobright.ai/jobs/info/68d85d3e7796a83635f10d42?utm_campaign=1079&utm_source=git)** | Miami, FL | Hybrid | Sep 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Brady Europe, Middle-East & Africa](https://www.brady.nl/)** | **[Software Development Intern](https://jobright.ai/jobs/info/68d71fe8894705799a2f0d99?utm_campaign=1079&utm_source=git)** | Milwaukee, WI | On Site | Sep 26 |
 | **[Samsung Semiconductor](https://www.samsung.com/us/samsungsemiconductor)** | **[Intern, System Software Engineer - CXL](https://jobright.ai/jobs/info/68d71b0945853d0e39cccf17?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Sep 26 |
 | **[Moloco](http://www.moloco.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68d71a63d3fe025a3015eed1?utm_campaign=1079&utm_source=git)** | Redwood City, California, United States | On Site | Sep 26 |
-| **[Computershare](https://www.computershare.com/)** | **[Internship - Perl Developer](https://jobright.ai/jobs/info/68d71a1ed3fe025a3015ee79?utm_campaign=1079&utm_source=git)** | Home Based, Nevada - Home Based, NV, 0000, US | Hybrid | Sep 26 |
-| **[Samsung Semiconductor](https://www.samsung.com/us/samsungsemiconductor)** | **[Intern, System Software Engineer - CXL](https://jobright.ai/jobs/info/68d6e2fb894705799a2ee588?utm_campaign=1079&utm_source=git)** | San Jose, California, United States | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
