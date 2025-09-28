@@ -59,7 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Structonix](structonix.us)** | **[Agile Engineer Internship](https://jobright.ai/jobs/info/68d93838022fc803b4876de8?utm_campaign=1079&utm_source=git)** | United States | Remote | Sep 28 |
 | **[Framatome](http://www.framatome.com)** | **[Intern / Co - Op Software/Computer Science Engineer](https://jobright.ai/jobs/info/68d93831022fc803b4876de3?utm_campaign=1079&utm_source=git)** | Lynchburg, VA | On Site | Sep 28 |
-| **[LunarTech](https://lunartech.ai)** | **[SWE - Software Engineering Internship - Texas](https://jobright.ai/jobs/info/68d9124d022fc803b4876b11?utm_campaign=1079&utm_source=git)** | Austin, TX | Remote | Sep 28 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Research Support Assistant (Software Engineer) - Fall 2025](https://jobright.ai/jobs/info/68d8d1239a8e451a446a293c?utm_campaign=1079&utm_source=git)** | Tampa, FL | On Site | Sep 27 |
 | **[Foundation Industries](https://www.foundation-industries.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68d890cbfd604e222ce88cc7?utm_campaign=1079&utm_source=git)** | Foster City, CA | On Site | Sep 27 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[Sales & Guest Services Software Engineer - Summer 2026 Intern](https://jobright.ai/jobs/info/68d85d3e7796a83635f10d42?utm_campaign=1079&utm_source=git)** | Miami, FL | Hybrid | Sep 27 |
@@ -92,11 +91,13 @@ For a complete list, click the following sortable link below:
 | **[Bose Corporation](https://www.bose.com/en_us/index.html)** | **[Embedded Software Developer Co-op](https://jobright.ai/jobs/info/68cc5e257342c7623ae6395f?utm_campaign=1079&utm_source=git)** | Framingham, MA | Hybrid | Sep 27 |
 | ↳ | **[Software Engineer Co-op](https://jobright.ai/jobs/info/68cfe3f9fb49c96ca6eac612?utm_campaign=1079&utm_source=git)** | Framingham, MA | On Site | Sep 27 |
 | ↳ | **[Firmware Engineering Intern](https://jobright.ai/jobs/info/68ce0aba1ad6b16f028a15a3?utm_campaign=1079&utm_source=git)** | Framingham, MA | Hybrid | Sep 27 |
+| ↳ | **[Software Engineer in Test Co-op](https://jobright.ai/jobs/info/68bb41de8043103d4f227385?utm_campaign=1079&utm_source=git)** | Framingham, MA | Hybrid | Sep 27 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Intern - Software Engineer (Fleet IT), Summer 2026](https://jobright.ai/jobs/info/68bb6a5f5f3832749186ef82?utm_campaign=1079&utm_source=git)** | St Louis, MO | Hybrid | Sep 27 |
 | **[Stellantis](https://www.stellantis.com/)** | **[2026 Business Software Summer Internship](https://jobright.ai/jobs/info/68cc346016d00d2beeb1ba02?utm_campaign=1079&utm_source=git)** | Auburn Hills, MI | On Site | Sep 27 |
 | **[Arm](http://www.arm.com)** | **[Intern Software Engineer](https://jobright.ai/jobs/info/68cf6478dbd9fb154ede7833?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Sep 27 |
 | **[Bose Corporation](https://www.bose.com/en_us/index.html)** | **[Embedded Firmware Intern](https://jobright.ai/jobs/info/68cbbee3ba798c1a501d4d07?utm_campaign=1079&utm_source=git)** | Framingham, MA | Hybrid | Sep 27 |
-| ↳ | **[Embedded Systems Intern](https://jobright.ai/jobs/info/68ce8444fb49c96ca6ea1321?utm_campaign=1079&utm_source=git)** | Framingham, MA | Hybrid | Sep 27 |
+| **[Hubbell Incorporated](https://www.hubbell.com/)** | **[IT Intern (Summer 2026) - Greenville, SC / Shelton, CT / St. Louis, MO](https://jobright.ai/jobs/info/68cf50a5fb49c96ca6ea7531?utm_campaign=1079&utm_source=git)** | Greenville, SC | On Site | Sep 27 |
+| **[Bose Corporation](https://www.bose.com/en_us/index.html)** | **[Embedded Systems Intern](https://jobright.ai/jobs/info/68ce8444fb49c96ca6ea1321?utm_campaign=1079&utm_source=git)** | Framingham, MA | Hybrid | Sep 27 |
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Software Engineering](https://jobright.ai/jobs/info/68c848af983e6768bc54b617?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Sep 27 |
 | **[Motion](https://www.motion.com)** | **[Mobile Software Development Intern](https://jobright.ai/jobs/info/68cd958d1ad6b16f0289bdd3?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | Sep 27 |
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Software Engineering](https://jobright.ai/jobs/info/68d1a383cece431f8b586635?utm_campaign=1079&utm_source=git)** | Miami, FL | On Site | Sep 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Moloco](http://www.moloco.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68d71a63d3fe025a3015eed1?utm_campaign=1079&utm_source=git)** | Redwood City, California, United States | On Site | Sep 26 |
 | **[Computershare](https://www.computershare.com/)** | **[Internship - Perl Developer](https://jobright.ai/jobs/info/68d71a1ed3fe025a3015ee79?utm_campaign=1079&utm_source=git)** | Home Based, Nevada - Home Based, NV, 0000, US | Hybrid | Sep 26 |
 | **[Samsung Semiconductor](https://www.samsung.com/us/samsungsemiconductor)** | **[Intern, System Software Engineer - CXL](https://jobright.ai/jobs/info/68d6e2fb894705799a2ee588?utm_campaign=1079&utm_source=git)** | San Jose, California, United States | On Site | Sep 26 |
-| **[ByteDance](http://bytedance.com)** | **[Software Development Engineer Intern (Metadata Storage) - 2026 Start (PhD)](https://jobright.ai/jobs/info/68d7158a45853d0e39ccccdc?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
