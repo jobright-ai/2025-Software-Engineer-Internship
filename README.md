@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LunarTech](https://lunartech.ai)** | **[SWE - Software Engineering Internship - Texas](https://jobright.ai/jobs/info/68d9124d022fc803b4876b11?utm_campaign=1079&utm_source=git)** | Austin, TX | Remote | Sep 28 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Research Support Assistant (Software Engineer) - Fall 2025](https://jobright.ai/jobs/info/68d8d1239a8e451a446a293c?utm_campaign=1079&utm_source=git)** | Tampa, FL | On Site | Sep 27 |
 | **[Foundation Industries](https://www.foundation-industries.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68d890cbfd604e222ce88cc7?utm_campaign=1079&utm_source=git)** | Foster City, CA | On Site | Sep 27 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[Sales & Guest Services Software Engineer - Summer 2026 Intern](https://jobright.ai/jobs/info/68d85d3e7796a83635f10d42?utm_campaign=1079&utm_source=git)** | Miami, FL | Hybrid | Sep 27 |
@@ -86,7 +87,8 @@ For a complete list, click the following sortable link below:
 | **[Arm](http://www.arm.com)** | **[Intern Software Engineer](https://jobright.ai/jobs/info/68c798347d0db4114273e167?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Sep 27 |
 | **[Pella Corporation](http://www.pella.com)** | **[Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68cc07d816d00d2beeb18646?utm_campaign=1079&utm_source=git)** | Pella, IA | On Site | Sep 27 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Embedded Software Development Intern](https://jobright.ai/jobs/info/68cce6e05954791a1d700be7?utm_campaign=1079&utm_source=git)** | Niles, IL | Hybrid | Sep 27 |
-| **[Bose Corporation](https://www.bose.com/en_us/index.html)** | **[Software Engineer Co-op](https://jobright.ai/jobs/info/68cfe3f9fb49c96ca6eac612?utm_campaign=1079&utm_source=git)** | Framingham, MA | On Site | Sep 27 |
+| **[Bose Corporation](https://www.bose.com/en_us/index.html)** | **[Embedded Software Developer Co-op](https://jobright.ai/jobs/info/68cc5e257342c7623ae6395f?utm_campaign=1079&utm_source=git)** | Framingham, MA | Hybrid | Sep 27 |
+| ↳ | **[Software Engineer Co-op](https://jobright.ai/jobs/info/68cfe3f9fb49c96ca6eac612?utm_campaign=1079&utm_source=git)** | Framingham, MA | On Site | Sep 27 |
 | ↳ | **[Firmware Engineering Intern](https://jobright.ai/jobs/info/68ce0aba1ad6b16f028a15a3?utm_campaign=1079&utm_source=git)** | Framingham, MA | Hybrid | Sep 27 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Intern - Software Engineer (Fleet IT), Summer 2026](https://jobright.ai/jobs/info/68bb6a5f5f3832749186ef82?utm_campaign=1079&utm_source=git)** | St Louis, MO | Hybrid | Sep 27 |
 | **[Stellantis](https://www.stellantis.com/)** | **[2026 Business Software Summer Internship](https://jobright.ai/jobs/info/68cc346016d00d2beeb1ba02?utm_campaign=1079&utm_source=git)** | Auburn Hills, MI | On Site | Sep 27 |
@@ -98,6 +100,7 @@ For a complete list, click the following sortable link below:
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Software Engineering](https://jobright.ai/jobs/info/68d1a383cece431f8b586635?utm_campaign=1079&utm_source=git)** | Miami, FL | On Site | Sep 27 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova CIC Software Engineer Intern - Fall 2026](https://jobright.ai/jobs/info/68ce72c7dbd9fb154eddfd64?utm_campaign=1079&utm_source=git)** | Rochester, NY | On Site | Sep 27 |
 | **[Rocket Lab](https://www.rocketlabusa.com)** | **[Software Intern Summer 2026](https://jobright.ai/jobs/info/68ccda9e5954791a1d6ffec1?utm_campaign=1079&utm_source=git)** | Littleton, CO | On Site | Sep 27 |
+| **[ADP](http://www.adp.com)** | **[OneADP Spring 2026 Internship (May 2026 Grads) - Louisville, KY](https://jobright.ai/jobs/info/68cd1bac1ad6b16f028951b0?utm_campaign=1079&utm_source=git)** | Louisville, KY | On Site | Sep 27 |
 | **[Sandisk](https://www.sandisk.com/en-in)** | **[New College Grad, Product Development Engineering (Summer 2026 start)](https://jobright.ai/jobs/info/68bb6c8a5f3832749186f10d?utm_campaign=1079&utm_source=git)** | Milpitas, CA | On Site | Sep 27 |
 | ↳ | **[Product Development Engineer (Intern)](https://jobright.ai/jobs/info/68bb1c7b5f3832749186c2e1?utm_campaign=1079&utm_source=git)** | Milpitas, CA | On Site | Sep 27 |
 | **[Assured Guaranty](http://assuredguaranty.com/)** | **[IT Software Development Intern - Summer 2026](https://jobright.ai/jobs/info/68d1c2db8c62e63bc7fcf758?utm_campaign=1079&utm_source=git)** | New York, NY, United States | On Site | Sep 27 |
@@ -110,6 +113,7 @@ For a complete list, click the following sortable link below:
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Mobile Device Engineer](https://jobright.ai/jobs/info/68bbc5505f38327491872d15?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO | On Site | Sep 27 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Information Systems Assurance - Summer 2026 (NYC)](https://jobright.ai/jobs/info/68ccc86fa77e5d7d744f54cd?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Sep 27 |
 | **[Cirrus Logic](https://cirrus.com/)** | **[Summer Intern - Embedded Software Test Engineer](https://jobright.ai/jobs/info/68ccdfa35954791a1d7002de?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Sep 27 |
+| **[DriveTime](https://www.drivetime.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/68cf5065fb49c96ca6ea73ef?utm_campaign=1079&utm_source=git)** | Tempe, AZ | On Site | Sep 27 |
 | **[Ameren](http://ameren.com)** | **[Application Development Co-Op](https://jobright.ai/jobs/info/689fc4ec83d13d1f5b6caea5?utm_campaign=1079&utm_source=git)** | St Louis, MO | Hybrid | Sep 27 |
 | **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Platforms and Technology - Software Engineer](https://jobright.ai/jobs/info/68d7ad2c7796a83635f0a04d?utm_campaign=1079&utm_source=git)** | Mount Laurel, NJ | Hybrid | Sep 27 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Data Infrastructure Engineer 1](https://jobright.ai/jobs/info/68bbc75d6105227d118a9bb8?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Sep 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Moloco](http://www.moloco.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68d714d045853d0e39cccc52?utm_campaign=1079&utm_source=git)** | Redwood City, CA | On Site | Sep 26 |
 | **[Computershare Canada](http://www.computershare.com/ca/en)** | **[Internship - Perl Developer](https://jobright.ai/jobs/info/68d71340d3fe025a3015ec74?utm_campaign=1079&utm_source=git)** | Home Based, Nevada - Home Based, NV, 0000, US | Hybrid | Sep 26 |
 | **[Pierce Manufacturing](http://www.piercemfg.com/)** | **[Engineer Intern - Software (Summer 2026)](https://jobright.ai/jobs/info/68d711a4d3fe025a3015ea8c?utm_campaign=1079&utm_source=git)** | Greenville, WI | On Site | Sep 26 |
-| **[Moloco](http://www.moloco.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68d70e1b45853d0e39ccc8a9?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Sep 26 |
-| **[WEX](http://www.wexinc.com)** | **[Intern - Software Engineer (Graduate Students Only)](https://jobright.ai/jobs/info/68d70d4145853d0e39ccc7b8?utm_campaign=1079&utm_source=git)** | Maine, United States | Remote | Sep 26 |
-| **[AbbVie](https://www.abbvie.com)** | **[2026 Business Technology Solutions Intern - Software Engineer](https://jobright.ai/jobs/info/68d709f0894705799a2f02d6?utm_campaign=1079&utm_source=git)** | North Chicago, IL | On Site | Sep 26 |
-| **[Gordon Food Service](https://www.gfs.com)** | **[SAP (PTP) Functional Analyst Internship](https://jobright.ai/jobs/info/68d709c1894705799a2f028a?utm_campaign=1079&utm_source=git)** | Wyoming, Michigan | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
