@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Structonix](structonix.us)** | **[Agile Engineer Internship](https://jobright.ai/jobs/info/68d93838022fc803b4876de8?utm_campaign=1079&utm_source=git)** | United States | Remote | Sep 28 |
+| **[Framatome](http://www.framatome.com)** | **[Intern / Co - Op Software/Computer Science Engineer](https://jobright.ai/jobs/info/68d93831022fc803b4876de3?utm_campaign=1079&utm_source=git)** | Lynchburg, VA | On Site | Sep 28 |
 | **[LunarTech](https://lunartech.ai)** | **[SWE - Software Engineering Internship - Texas](https://jobright.ai/jobs/info/68d9124d022fc803b4876b11?utm_campaign=1079&utm_source=git)** | Austin, TX | Remote | Sep 28 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Research Support Assistant (Software Engineer) - Fall 2025](https://jobright.ai/jobs/info/68d8d1239a8e451a446a293c?utm_campaign=1079&utm_source=git)** | Tampa, FL | On Site | Sep 27 |
 | **[Foundation Industries](https://www.foundation-industries.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68d890cbfd604e222ce88cc7?utm_campaign=1079&utm_source=git)** | Foster City, CA | On Site | Sep 27 |
@@ -101,6 +103,8 @@ For a complete list, click the following sortable link below:
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova CIC Software Engineer Intern - Fall 2026](https://jobright.ai/jobs/info/68ce72c7dbd9fb154eddfd64?utm_campaign=1079&utm_source=git)** | Rochester, NY | On Site | Sep 27 |
 | **[Rocket Lab](https://www.rocketlabusa.com)** | **[Software Intern Summer 2026](https://jobright.ai/jobs/info/68ccda9e5954791a1d6ffec1?utm_campaign=1079&utm_source=git)** | Littleton, CO | On Site | Sep 27 |
 | **[ADP](http://www.adp.com)** | **[OneADP Spring 2026 Internship (May 2026 Grads) - Louisville, KY](https://jobright.ai/jobs/info/68cd1bac1ad6b16f028951b0?utm_campaign=1079&utm_source=git)** | Louisville, KY | On Site | Sep 27 |
+| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Information Systems Assurance - Summer 2026 (San Diego)](https://jobright.ai/jobs/info/68bb91985f383274918704b0?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Sep 27 |
+| **[Epic Games](https://epicgames.com)** | **[Gameplay Programmer Intern](https://jobright.ai/jobs/info/68d20ca48c62e63bc7fd2aa9?utm_campaign=1079&utm_source=git)** | Cary, NC | On Site | Sep 27 |
 | **[Sandisk](https://www.sandisk.com/en-in)** | **[New College Grad, Product Development Engineering (Summer 2026 start)](https://jobright.ai/jobs/info/68bb6c8a5f3832749186f10d?utm_campaign=1079&utm_source=git)** | Milpitas, CA | On Site | Sep 27 |
 | ↳ | **[Product Development Engineer (Intern)](https://jobright.ai/jobs/info/68bb1c7b5f3832749186c2e1?utm_campaign=1079&utm_source=git)** | Milpitas, CA | On Site | Sep 27 |
 | **[Assured Guaranty](http://assuredguaranty.com/)** | **[IT Software Development Intern - Summer 2026](https://jobright.ai/jobs/info/68d1c2db8c62e63bc7fcf758?utm_campaign=1079&utm_source=git)** | New York, NY, United States | On Site | Sep 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Computershare](https://www.computershare.com/)** | **[Internship - Perl Developer](https://jobright.ai/jobs/info/68d71a1ed3fe025a3015ee79?utm_campaign=1079&utm_source=git)** | Home Based, Nevada - Home Based, NV, 0000, US | Hybrid | Sep 26 |
 | **[Samsung Semiconductor](https://www.samsung.com/us/samsungsemiconductor)** | **[Intern, System Software Engineer - CXL](https://jobright.ai/jobs/info/68d6e2fb894705799a2ee588?utm_campaign=1079&utm_source=git)** | San Jose, California, United States | On Site | Sep 26 |
 | **[ByteDance](http://bytedance.com)** | **[Software Development Engineer Intern (Metadata Storage) - 2026 Start (PhD)](https://jobright.ai/jobs/info/68d7158a45853d0e39ccccdc?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Sep 26 |
-| **[WestRock Company](http://www.westrock.com)** | **[IT Solutions - Co-op, Spring 2026](https://jobright.ai/jobs/info/68ccedb377add66568abbf69?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Sep 26 |
-| **[Moloco](http://www.moloco.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68d714d045853d0e39cccc52?utm_campaign=1079&utm_source=git)** | Redwood City, CA | On Site | Sep 26 |
-| **[Computershare Canada](http://www.computershare.com/ca/en)** | **[Internship - Perl Developer](https://jobright.ai/jobs/info/68d71340d3fe025a3015ec74?utm_campaign=1079&utm_source=git)** | Home Based, Nevada - Home Based, NV, 0000, US | Hybrid | Sep 26 |
-| **[Pierce Manufacturing](http://www.piercemfg.com/)** | **[Engineer Intern - Software (Summer 2026)](https://jobright.ai/jobs/info/68d711a4d3fe025a3015ea8c?utm_campaign=1079&utm_source=git)** | Greenville, WI | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
