@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Roseville Area Schools](https://www.isd623.org/)** | **[Amity Interns](https://jobright.ai/jobs/info/68da6aab07c157682e56a18c?utm_campaign=1079&utm_source=git)** | St Paul, MN | On Site | Sep 29 |
 | **[AMD](http://www.amd.com)** | **[2026 Masters Firmware Engineering Intern/Co-op](https://jobright.ai/jobs/info/68da52516df7b8311bb0e85e?utm_campaign=1079&utm_source=git)** | Boxborough, MA | On Site | Sep 29 |
 | ↳ | **[2026 Masters Firmware Engineering Intern/Co-op](https://jobright.ai/jobs/info/68da52406df7b8311bb0e84a?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Sep 29 |
 | ↳ | **[2026 Masters Firmware Engineering Intern/Co-op](https://jobright.ai/jobs/info/68da52240b832179ca4ad45f?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Sep 29 |
@@ -90,6 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Aptiv](http://www.aptiv.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68cfc473dbd9fb154edeabcd?utm_campaign=1079&utm_source=git)** | Troy, MI | On Site | Sep 28 |
 | ↳ | **[Autonomous Driving Algorithm Intern](https://jobright.ai/jobs/info/68cce05377add66568abb149?utm_campaign=1079&utm_source=git)** | Troy, MI | On Site | Sep 28 |
 | ↳ | **[AIML - Data Analytics Engineering Intern](https://jobright.ai/jobs/info/68cda6341ad6b16f0289cdaa?utm_campaign=1079&utm_source=git)** | Troy, MI | On Site | Sep 28 |
+| **[Stellantis](https://www.stellantis.com/)** | **[2026 Technical Software Summer Internship](https://jobright.ai/jobs/info/68cc8cc416d00d2beeb2141a?utm_campaign=1079&utm_source=git)** | Auburn Hills, MI | On Site | Sep 28 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Research Support Assistant (Software Engineer) - Fall 2025](https://jobright.ai/jobs/info/68d8d1239a8e451a446a293c?utm_campaign=1079&utm_source=git)** | Tampa, FL | On Site | Sep 27 |
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[Part Time Student Trainee - UI Design Engineer](https://jobright.ai/jobs/info/68d5a57514935e31e231a9e7?utm_campaign=1079&utm_source=git)** | Clayton, NC | On Site | Sep 27 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Advanced Technology](https://jobright.ai/jobs/info/68cc4a107342c7623ae623ac?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO | On Site | Sep 27 |
@@ -154,7 +156,5 @@ For a complete list, click the following sortable link below:
 | **[GreatAmerica Financial Services](http://www.greatamerica.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68d01499fb49c96ca6eadd4a?utm_campaign=1079&utm_source=git)** | Cedar Rapids, IA | On Site | Sep 27 |
 | **[Texas Instruments](http://www.ti.com)** | **[Information Technology Intern – Software](https://jobright.ai/jobs/info/68c6537cdb52c07d288472c4?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Sep 27 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Mobile Device Engineer](https://jobright.ai/jobs/info/68bbc5505f38327491872d15?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO | On Site | Sep 27 |
-| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Information Systems Assurance - Summer 2026 (NYC)](https://jobright.ai/jobs/info/68ccc86fa77e5d7d744f54cd?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Sep 27 |
-| **[Cirrus Logic](https://cirrus.com/)** | **[Summer Intern - Embedded Software Test Engineer](https://jobright.ai/jobs/info/68ccdfa35954791a1d7002de?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Sep 27 |
-| **[DriveTime](https://www.drivetime.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/68cf5065fb49c96ca6ea73ef?utm_campaign=1079&utm_source=git)** | Tempe, AZ | On Site | Sep 27 |
+| ↳ | **[2026 Summer Intern: Associate QA Analyst](https://jobright.ai/jobs/info/68bb20cb6105227d118a3344?utm_campaign=1079&utm_source=git)** | Maryland Heights, MO | On Site | Sep 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
