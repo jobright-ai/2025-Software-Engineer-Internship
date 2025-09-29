@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Raytheon](http://www.bbn.com)** | **[2026 Intern - Raytheon Missile Defense Sensors Software  Engineer Intern (On-site)](https://jobright.ai/jobs/info/68d98f709a8e451a446a4e63?utm_campaign=1079&utm_source=git)** | Woburn, MA | On Site | Sep 28 |
-| **[LunarTech](https://lunartech.ai)** | **[SWE - Software Engineering Internship - Texas, Austin](https://jobright.ai/jobs/info/68d98f1c022fc803b48775d2?utm_campaign=1079&utm_source=git)** | Austin, TX | Remote | Sep 28 |
 | **[RTX](http://www.raytheon.com)** | **[2026 Return Intern - Software Engineer Intern (Onsite)](https://jobright.ai/jobs/info/68d981c19a8e451a446a4bff?utm_campaign=1079&utm_source=git)** | MA801: Marlborough, MA 1001 Boston Post Road Building 2, Marlborough, MA, 01752 USA | On Site | Sep 28 |
 | **[ByteDance](http://bytedance.com)** | **[Software Engineer Intern (Relational Database) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68d95df8022fc803b487713a?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Sep 28 |
 | **[Framatome](http://www.framatome.com)** | **[Intern / Co - Op Software/Computer Science Engineer](https://jobright.ai/jobs/info/68d93831022fc803b4876de3?utm_campaign=1079&utm_source=git)** | Lynchburg, VA | On Site | Sep 28 |
@@ -125,6 +124,7 @@ For a complete list, click the following sortable link below:
 | **[GreatAmerica Financial Services](http://www.greatamerica.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68d01499fb49c96ca6eadd4a?utm_campaign=1079&utm_source=git)** | Cedar Rapids, IA | On Site | Sep 27 |
 | **[Texas Instruments](http://www.ti.com)** | **[Information Technology Intern – Software](https://jobright.ai/jobs/info/68c6537cdb52c07d288472c4?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Sep 27 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Mobile Device Engineer](https://jobright.ai/jobs/info/68bbc5505f38327491872d15?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO | On Site | Sep 27 |
+| ↳ | **[2026 Summer Intern: Associate QA Analyst](https://jobright.ai/jobs/info/68bb20cb6105227d118a3344?utm_campaign=1079&utm_source=git)** | Maryland Heights, MO | On Site | Sep 27 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Information Systems Assurance - Summer 2026 (NYC)](https://jobright.ai/jobs/info/68ccc86fa77e5d7d744f54cd?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Sep 27 |
 | **[Cirrus Logic](https://cirrus.com/)** | **[Summer Intern - Embedded Software Test Engineer](https://jobright.ai/jobs/info/68ccdfa35954791a1d7002de?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Sep 27 |
 | **[DriveTime](https://www.drivetime.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/68cf5065fb49c96ca6ea73ef?utm_campaign=1079&utm_source=git)** | Tempe, AZ | On Site | Sep 27 |
@@ -153,8 +153,8 @@ For a complete list, click the following sortable link below:
 | **[MeeBoss](meeboss.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68d746b1cb1d8e52c9766891?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Sep 26 |
 | **[Dropbox](https://www.dropbox.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/68ce6c58846f0b04af679b1d?utm_campaign=1079&utm_source=git)** | United States | Remote | Sep 26 |
 | **[Oaktree Capital Management, L.P.](http://www.oaktreecapital.com)** | **[2026 Undergraduate Intern, Technology](https://jobright.ai/jobs/info/68d7419ad3fe025a3015fdbd?utm_campaign=1079&utm_source=git)** | Los Angeles | On Site | Sep 26 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate QA Analyst](https://jobright.ai/jobs/info/68ba71a95f383274918673f1?utm_campaign=1079&utm_source=git)** | Maryland Heights, MO | On Site | Sep 26 |
 | **[Base Power Company](https://www.basepowercompany.com)** | **[Quantitative Developer Intern](https://jobright.ai/jobs/info/68d73d48894705799a2f187b?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Sep 26 |
-| **[CliquePrize - Local Giveaway Marketing for Small Businesses](https://www.cliqueprize.com)** | **[Nuxt3 Web Developer Intern (Remote)](https://jobright.ai/jobs/info/68d736a6894705799a2f16ca?utm_campaign=1079&utm_source=git)** | United States | Remote | Sep 26 |
 | **[Skillz](http://www.skillz.com)** | **[Software Engineer Full Stack Co-Op](https://jobright.ai/jobs/info/68d734d2d3fe025a3015f960?utm_campaign=1079&utm_source=git)** | Las Vegas, Nevada, United States | On Site | Sep 26 |
+| **[Gordon Food Service](https://www.gfs.com)** | **[SAP (PTP) Functional Analyst Internship](https://jobright.ai/jobs/info/68d71fd1d3fe025a3015f140?utm_campaign=1079&utm_source=git)** | Wyoming, MI | On Site | Sep 26 |
+| **[Sedaro](https://www.sedaro.com/)** | **[Compiler Engineer Intern, Simulator](https://jobright.ai/jobs/info/68d733ce894705799a2f146c?utm_campaign=1079&utm_source=git)** | Arlington, Virginia, United States | Hybrid | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
