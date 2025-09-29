@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lila Sciences](http://www.lila.ai)** | **[Intern, Security & Cloud Engineering](https://jobright.ai/jobs/info/68da7faf07c157682e56a851?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Sep 29 |
+| **[Flagship Pioneering](http://flagshippioneering.com)** | **[Intern, Security & Cloud Engineering](https://jobright.ai/jobs/info/68da7ccd07c157682e56a80b?utm_campaign=1079&utm_source=git)** | Cambridge, MA USA | On Site | Sep 29 |
+| **[Toshiba Global Commerce Solutions](https://commerce.toshiba.com)** | **[CHEC SW Intern](https://jobright.ai/jobs/info/68da7c766df7b8311bb0f063?utm_campaign=1079&utm_source=git)** | Durham, NC | On Site | Sep 29 |
+| ↳ | **[Software Engineer Intern (Agentic AI SRE & Cloud)](https://jobright.ai/jobs/info/68da7c5c07c157682e56a68a?utm_campaign=1079&utm_source=git)** | Frisco, TX | On Site | Sep 29 |
+| ↳ | **[AI SW Intern](https://jobright.ai/jobs/info/68da7c3c07c157682e56a619?utm_campaign=1079&utm_source=git)** | Durham, NC | Hybrid | Sep 29 |
+| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/68da7bcc0b832179ca4adbfd?utm_campaign=1079&utm_source=git)** | Durham, NC | Hybrid | Sep 29 |
+| **[LunarTech](https://lunartech.ai)** | **[Austin - SWE - Software Engineering Internship](https://jobright.ai/jobs/info/68da74656df7b8311bb0ee6e?utm_campaign=1079&utm_source=git)** | Austin, TX | Remote | Sep 29 |
 | **[Roseville Area Schools](https://www.isd623.org/)** | **[Amity Interns](https://jobright.ai/jobs/info/68da6aab07c157682e56a18c?utm_campaign=1079&utm_source=git)** | St Paul, MN | On Site | Sep 29 |
 | **[AMD](http://www.amd.com)** | **[2026 Masters Firmware Engineering Intern/Co-op](https://jobright.ai/jobs/info/68da52516df7b8311bb0e85e?utm_campaign=1079&utm_source=git)** | Boxborough, MA | On Site | Sep 29 |
 | ↳ | **[2026 Masters Firmware Engineering Intern/Co-op](https://jobright.ai/jobs/info/68da52406df7b8311bb0e84a?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Sep 29 |
@@ -72,8 +79,7 @@ For a complete list, click the following sortable link below:
 | **[AT&T](https://www.att.com/)** | **[Technology Development Program Intern (2026)](https://jobright.ai/jobs/info/68da20210b832179ca4ab2ee?utm_campaign=1079&utm_source=git)** | Dallas, Texas | On Site | Sep 28 |
 | ↳ | **[Technology Development Program Intern (2026)](https://jobright.ai/jobs/info/68da1f073c03cd327094300e?utm_campaign=1079&utm_source=git)** | Middletown, New Jersey | On Site | Sep 28 |
 | ↳ | **[Technology Development Program Intern (2026)](https://jobright.ai/jobs/info/68da1f036df7b8311bb0c631?utm_campaign=1079&utm_source=git)** | Atlanta, Georgia | On Site | Sep 28 |
-| **[RTX](http://www.raytheon.com)** | **[2026 Intern - Raytheon Software Engineering Intern (On-site)](https://jobright.ai/jobs/info/68da15536df7b8311bb0c268?utm_campaign=1079&utm_source=git)** | TX190: 2501 West University, McKinney 2501 West University  , McKinney, TX, 75070 USA | On Site | Sep 28 |
-| ↳ | **[2026 Intern - Raytheon Missile Defense Sensors Software  Engineer Intern (On-site)](https://jobright.ai/jobs/info/68da0d270b832179ca4aa9f5?utm_campaign=1079&utm_source=git)** | MA311: Woburn MA 225 Presidential 225 Presidential Way Goddard Building 27, Woburn, MA, 01801 USA | On Site | Sep 28 |
+| **[RTX](http://www.raytheon.com)** | **[2026 Intern - Raytheon Missile Defense Sensors Software  Engineer Intern (On-site)](https://jobright.ai/jobs/info/68da0d270b832179ca4aa9f5?utm_campaign=1079&utm_source=git)** | MA311: Woburn MA 225 Presidential 225 Presidential Way Goddard Building 27, Woburn, MA, 01801 USA | On Site | Sep 28 |
 | **[World Kinect](https://www.world-kinect.com/)** | **[Technology Internship - Summer 2026](https://jobright.ai/jobs/info/68d9febf3c03cd327094204d?utm_campaign=1079&utm_source=git)** | MIAMI, FL | On Site | Sep 28 |
 | **[Raytheon](http://www.bbn.com)** | **[2026 Intern - Raytheon Software Engineering Intern (On-site)](https://jobright.ai/jobs/info/68d9e369061b716fa295b006?utm_campaign=1079&utm_source=git)** | McKinney, TX | On Site | Sep 28 |
 | **[David AI](https://www.withdavid.ai/)** | **[Software Engineer (Intership, Summer 2026)](https://jobright.ai/jobs/info/68da27e46df7b8311bb0cb9e?utm_campaign=1079&utm_source=git)** | San Francisco | On Site | Sep 28 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Assured Guaranty](http://assuredguaranty.com/)** | **[IT Software Development Intern - Summer 2026](https://jobright.ai/jobs/info/68d1c2db8c62e63bc7fcf758?utm_campaign=1079&utm_source=git)** | New York, NY, United States | On Site | Sep 27 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68cf471b846f0b04af68033c?utm_campaign=1079&utm_source=git)** | Yarmouth, ME | On Site | Sep 27 |
 | **[Wave Life Sciences](http://wavelifesciences.com)** | **[Software Development Co-op (Spring 2026)](https://jobright.ai/jobs/info/68cd8d661ad6b16f0289b595?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Sep 27 |
-| **[Texas Instruments](http://www.ti.com)** | **[Information Technology Intern – Infrastructure](https://jobright.ai/jobs/info/68bb30816105227d118a3b39?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Sep 27 |
-| **[Massachusetts Medical Society](http://www.massmed.org/)** | **[Quality Assurance Tester and Analyst Co-op (NU Students only)](https://jobright.ai/jobs/info/68bd02893bf9eb44f8325d88?utm_campaign=1079&utm_source=git)** | Waltham, MA | On Site | Sep 27 |
-| **[GreatAmerica Financial Services](http://www.greatamerica.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68d01499fb49c96ca6eadd4a?utm_campaign=1079&utm_source=git)** | Cedar Rapids, IA | On Site | Sep 27 |
-| **[Texas Instruments](http://www.ti.com)** | **[Information Technology Intern – Software](https://jobright.ai/jobs/info/68c6537cdb52c07d288472c4?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Sep 27 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Mobile Device Engineer](https://jobright.ai/jobs/info/68bbc5505f38327491872d15?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO | On Site | Sep 27 |
-| ↳ | **[2026 Summer Intern: Associate QA Analyst](https://jobright.ai/jobs/info/68bb20cb6105227d118a3344?utm_campaign=1079&utm_source=git)** | Maryland Heights, MO | On Site | Sep 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
