@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AT&T](https://www.att.com/)** | **[Technology Development Program Intern (2026)](https://jobright.ai/jobs/info/68da1f073c03cd327094300e?utm_campaign=1079&utm_source=git)** | Middletown, New Jersey | On Site | Sep 28 |
+| ↳ | **[Technology Development Program Intern (2026)](https://jobright.ai/jobs/info/68da1f036df7b8311bb0c631?utm_campaign=1079&utm_source=git)** | Atlanta, Georgia | On Site | Sep 28 |
+| **[RTX](http://www.raytheon.com)** | **[2026 Intern - Raytheon Software Engineering Intern (On-site)](https://jobright.ai/jobs/info/68da15536df7b8311bb0c268?utm_campaign=1079&utm_source=git)** | TX190: 2501 West University, McKinney 2501 West University  , McKinney, TX, 75070 USA | On Site | Sep 28 |
+| ↳ | **[2026 Intern - Raytheon Missile Defense Sensors Software  Engineer Intern (On-site)](https://jobright.ai/jobs/info/68da0d270b832179ca4aa9f5?utm_campaign=1079&utm_source=git)** | MA311: Woburn MA 225 Presidential 225 Presidential Way Goddard Building 27, Woburn, MA, 01801 USA | On Site | Sep 28 |
 | **[World Kinect](https://www.world-kinect.com/)** | **[Technology Internship - Summer 2026](https://jobright.ai/jobs/info/68d9febf3c03cd327094204d?utm_campaign=1079&utm_source=git)** | MIAMI, FL | On Site | Sep 28 |
 | **[Raytheon](http://www.bbn.com)** | **[2026 Intern - Raytheon Software Engineering Intern (On-site)](https://jobright.ai/jobs/info/68d9e369061b716fa295b006?utm_campaign=1079&utm_source=git)** | McKinney, TX | On Site | Sep 28 |
 | **[Duolingo for Schools](schools.duolingo.com)** | **[Software Engineer, Intern](https://jobright.ai/jobs/info/68d9cb9d061b716fa295ae1b?utm_campaign=1079&utm_source=git)** | Pittsburgh, PA | On Site | Sep 28 |
@@ -72,8 +76,10 @@ For a complete list, click the following sortable link below:
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[Presales Solutions Architect Intern](https://jobright.ai/jobs/info/68d77bb67a37c712687ced17?utm_campaign=1079&utm_source=git)** | Hopkinton, MA | On Site | Sep 28 |
 | **[Aptiv](http://www.aptiv.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68cfc473dbd9fb154edeabcd?utm_campaign=1079&utm_source=git)** | Troy, MI | On Site | Sep 28 |
 | ↳ | **[Autonomous Driving Algorithm Intern](https://jobright.ai/jobs/info/68cce05377add66568abb149?utm_campaign=1079&utm_source=git)** | Troy, MI | On Site | Sep 28 |
+| ↳ | **[AIML - Data Analytics Engineering Intern](https://jobright.ai/jobs/info/68cda6341ad6b16f0289cdaa?utm_campaign=1079&utm_source=git)** | Troy, MI | On Site | Sep 28 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Research Support Assistant (Software Engineer) - Fall 2025](https://jobright.ai/jobs/info/68d8d1239a8e451a446a293c?utm_campaign=1079&utm_source=git)** | Tampa, FL | On Site | Sep 27 |
-| **[John Deere](https://www.deere.com)** | **[Part-Time Student - Software Engineering - Ames, IA](https://jobright.ai/jobs/info/68d9fc726df7b8311bb0b52e?utm_campaign=1079&utm_source=git)** | Ames, IA | Hybrid | Sep 27 |
+| **[Caterpillar Inc.](https://www.caterpillar.com)** | **[Part Time Student Trainee - UI Design Engineer](https://jobright.ai/jobs/info/68d5a57514935e31e231a9e7?utm_campaign=1079&utm_source=git)** | Clayton, NC | On Site | Sep 27 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Advanced Technology](https://jobright.ai/jobs/info/68cc4a107342c7623ae623ac?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO | On Site | Sep 27 |
 | **[Foundation Industries](https://www.foundation-industries.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68d890cbfd604e222ce88cc7?utm_campaign=1079&utm_source=git)** | Foster City, CA | On Site | Sep 27 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Software Engineer](https://jobright.ai/jobs/info/68cd9bbc1ad6b16f0289c343?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO | On Site | Sep 27 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Intern - Software Engineer (Enterprise Mobility IT), Summer 2026](https://jobright.ai/jobs/info/68d12e31cece431f8b581e2e?utm_campaign=1079&utm_source=git)** | St Louis, MO | Hybrid | Sep 27 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Uber](http://www.uber.com)** | **[2026 Summer Software Engineering Internship, US](https://jobright.ai/jobs/info/68d76eec61a175619f8cd055?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Sep 26 |
 | **[Zipline](http://flyzipline.com)** | **[Build Engineer Intern (Spring 2026)](https://jobright.ai/jobs/info/68d76ce0295f8e37655d8e68?utm_campaign=1079&utm_source=git)** | South San Francisco, California, USA | On Site | Sep 26 |
 | **[Uber](http://www.uber.com)** | **[2026 Summer Software Engineering Internship, US](https://jobright.ai/jobs/info/68d76bd0295f8e37655d8727?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Sep 26 |
-| **[ByteDance](http://bytedance.com)** | **[Cloud Acceleration Engineer Intern (DPU & AI Infra)- 2026 Summer (MS/BS)](https://jobright.ai/jobs/info/68d766e861a175619f8cba95?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Sep 26 |
-| ↳ | **[Cloud Acceleration Engineer Intern (DPU & AI Infra)- 2026 Start(PHD)](https://jobright.ai/jobs/info/68d766d77a37c712687cbe0a?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Sep 26 |
-| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Software Engineering Intern - Bellevue (NE) - R10209282](https://jobright.ai/jobs/info/68d7664e295f8e37655d7dc0?utm_campaign=1079&utm_source=git)** | Bellevue, NE | On Site | Sep 26 |
-| **[Compassion International](http://www.compassion.com/)** | **[2026 Summer Internship - IT and Software Engineering](https://jobright.ai/jobs/info/68d755a4295f8e37655d4922?utm_campaign=1079&utm_source=git)** | Colorado Springs, CO | On Site | Sep 26 |
-| **[Dominion Energy](http://www.dominionenergy.com/)** | **[IT Intern - AI & Emerging Technologies](https://jobright.ai/jobs/info/68d74992e5293e3538af3ab5?utm_campaign=1079&utm_source=git)** | Richmond, VA | Hybrid | Sep 26 |
-| **[ARKA Group, LP](https://arka.org)** | **[Software Engineering Intern - Summer 2026 {A}](https://jobright.ai/jobs/info/68d74937e5293e3538af39d3?utm_campaign=1079&utm_source=git)** | Colorado Springs, CO | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
