@@ -40,7 +40,7 @@
 
 ---
 <h4>
-Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">14</span> days are listed due to capacity constraints.
+Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">7</span> days are listed due to capacity constraints.
 <br>
 For a complete list, click the following sortable link below:
 </h4>
@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[Software Developer Student Intern - Spring 2026 - ASL](https://jobright.ai/jobs/info/68dc46a2accfd24b67e53c53?utm_campaign=1079&utm_source=git)** | Huntsville, AL | Hybrid | Sep 30 |
+| **[Uber Freight](https://www.uberfreight.com)** | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68dc456eddc10244dd673818?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Sep 30 |
+| **[Cardinal Health](https://www.cardinalhealth.com)** | **[Software Engineering Internship](https://jobright.ai/jobs/info/68dc3fd2ddc10244dd6734bc?utm_campaign=1079&utm_source=git)** | Dublin, OH | On Site | Sep 30 |
+| **[Fox Corporation](https://www.foxcorporation.com/)** | **[Summer 2026 FOX Technology Internship Program - Los Angeles, CA](https://jobright.ai/jobs/info/68dc3883731a804732067906?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Sep 30 |
+| **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Software Engineer Intern (Summer 2026)(Open)](https://jobright.ai/jobs/info/68dc37f9a271e745b8a7cc89?utm_campaign=1079&utm_source=git)** | Annapolis Junction, MD | Hybrid | Sep 30 |
 | **[Integrated DNA Technologies](http://idtdna.com)** | **[Engineering Software Intern - Coralville, Iowa](https://jobright.ai/jobs/info/68dc3221d6470e72cf4d96a1?utm_campaign=1079&utm_source=git)** | Coralville, IA | On Site | Sep 30 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - Software Engineering](https://jobright.ai/jobs/info/68dc21acd6470e72cf4d8e2c?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Sep 30 |
 | **[Numeric](https://www.numeric.io/)** | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68dc1cd466059a42a715bcb4?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Sep 30 |
@@ -86,5 +91,4 @@ For a complete list, click the following sortable link below:
 | **[i3 Verticals](http://www.i3verticals.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68dbec0397329f2f77320b5c?utm_campaign=1079&utm_source=git)** | Kentucky, United States | Remote | Sep 29 |
 | **[Truveta](https://www.truveta.com)** | **[Fall/Winter Software Engineering Intern](https://jobright.ai/jobs/info/68d1fdc717554c2d9eee20ca?utm_campaign=1079&utm_source=git)** | Greater Seattle Area | On Site | Sep 24 |
 | **[MTS Systems Corporation](http://www.mts.com)** | **[2026 Summer Information Technology Internship](https://jobright.ai/jobs/info/68d353368c62e63bc7fdfc7c?utm_campaign=1079&utm_source=git)** | Eden Prairie, MN | On Site | Sep 23 |
-| **[Toyota Material Handling](https://www.toyotaforklift.com/)** | **[IT Enterprise Architecture Internship](https://jobright.ai/jobs/info/68dbaf9597329f2f7731b3f3?utm_campaign=1079&utm_source=git)** | Columbus, IN, 47201, United States | Hybrid | Sep 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
