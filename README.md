@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM Canada Software Lab - Toronto](https://research.ibm.com)** | **[2026 Intern: Hybrid Cloud and Quantum Research Scientist](https://jobright.ai/jobs/info/68db8e7634f2c406da6d9b9d?utm_campaign=1079&utm_source=git)** | Yorktown Heights, NY | Hybrid | Sep 30 |
 | **[Truveta](https://www.truveta.com)** | **[Fall Software Engineering Intern](https://jobright.ai/jobs/info/68db7a429f13662d20e4bac0?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Sep 29 |
 | **[SprintRay Inc.](http://sprintray.com/)** | **[Software Development Engineer Intern](https://jobright.ai/jobs/info/68db795ce19b9e63ba20c52e?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Sep 29 |
-| **[Independent Force LLC](www.independentforceusa.com)** | **[Web Development Intern (WordPress, Remote)](https://jobright.ai/jobs/info/68db6d1b34f2c406da6d7f72?utm_campaign=1079&utm_source=git)** | United States | Remote | Sep 29 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[HPC/AI Software Engineering Intern](https://jobright.ai/jobs/info/68d39f5917554c2d9eef3abe?utm_campaign=1079&utm_source=git)** | Andover, MA | On Site | Sep 29 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WPVI-TV (6abc) Technology Intern, Spring 2026](https://jobright.ai/jobs/info/68db5d3934f2c406da6d745c?utm_campaign=1079&utm_source=git)** | Philadelphia, PA, USA | On Site | Sep 29 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[HPC/AI Software Engineering Intern](https://jobright.ai/jobs/info/68d4006c17554c2d9eef561f?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Sep 29 |
 | **[WEX](http://www.wexinc.com)** | **[Intern - Software Engineer (Undergraduate Students Only)](https://jobright.ai/jobs/info/68db546534f2c406da6d6c81?utm_campaign=1079&utm_source=git)** | Maine, United States | Remote | Sep 29 |
@@ -100,10 +101,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Irving V-Teamer for a Day 2025 Global Solutions Intern Program](https://jobright.ai/jobs/info/68db0d61e9b48513789b18ca?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Sep 29 |
 | **[Waymo](https://waymo.com)** | **[2026 Summer Intern, MS, Software Engineer, Behavior](https://jobright.ai/jobs/info/68db0cd1e9b48513789b185e?utm_campaign=1079&utm_source=git)** | Mountain View, CA, USA | On Site | Sep 29 |
 | **[ATI](https://www.atimaterials.com)** | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/68db0c2ae9b48513789b172a?utm_campaign=1079&utm_source=git)** | Latrobe, PA | On Site | Sep 29 |
+| ↳ | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/68db0c24e9b48513789b1717?utm_campaign=1079&utm_source=git)** | Zelienople, PA | On Site | Sep 29 |
 | **[TTM Technologies](https://www.ttm.com)** | **[Front End Engineering Apprentice - Internal](https://jobright.ai/jobs/info/68db0a946df7b8311bb15a1b?utm_campaign=1079&utm_source=git)** | Santa Ana, CA | On Site | Sep 29 |
 | **[Entrust](http://www.entrust.com)** | **[Software Engineering Intern - Sunrise, FL](https://jobright.ai/jobs/info/68db0a406df7b8311bb1590b?utm_campaign=1079&utm_source=git)** | United States - Sunrise, FL | Hybrid | Sep 29 |
-| **[ATI](https://www.atimaterials.com)** | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/68db082fe9b48513789b14ff?utm_campaign=1079&utm_source=git)** | Zelienople, PA | On Site | Sep 29 |
-| ↳ | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/68db07b50dffed6f83d2bfed?utm_campaign=1079&utm_source=git)** | Washington, PA | On Site | Sep 29 |
+| **[ATI](https://www.atimaterials.com)** | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/68db07b50dffed6f83d2bfed?utm_campaign=1079&utm_source=git)** | Washington, PA | On Site | Sep 29 |
 | ↳ | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/68db077de9b48513789b13e3?utm_campaign=1079&utm_source=git)** | Monaca, PA | On Site | Sep 29 |
 | ↳ | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/68db076e0dffed6f83d2bf67?utm_campaign=1079&utm_source=git)** | Rochester, PA | On Site | Sep 29 |
 | **[Ericsson](https://www.ericsson.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68db06e46df7b8311bb15748?utm_campaign=1079&utm_source=git)** | Plano, TX | On Site | Sep 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Development Engineer Intern](https://jobright.ai/jobs/info/68dac6486df7b8311bb11ece?utm_campaign=1079&utm_source=git)** | USA, CA, Pleasanton | Hybrid | Sep 29 |
 | **[State Street](http://www.statestreet.com)** | **[Emerging Technology Governance, Co-Op](https://jobright.ai/jobs/info/68dac5fe07c157682e56d3cf?utm_campaign=1079&utm_source=git)** | Quincy, Massachusetts | On Site | Sep 29 |
 | **[Danbury Mission Technologies](https://dmtllc.org)** | **[Embedded Software Engineering Co-op - Fall 2026 {D}](https://jobright.ai/jobs/info/68dad9906df7b8311bb13103?utm_campaign=1079&utm_source=git)** | Danbury, CT | On Site | Sep 29 |
-| ↳ | **[Embedded Software Engineering Co-op - Spring 2026 {D}](https://jobright.ai/jobs/info/68daea9f6df7b8311bb14200?utm_campaign=1079&utm_source=git)** | Danbury, CT | On Site | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
