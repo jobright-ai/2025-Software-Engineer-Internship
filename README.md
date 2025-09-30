@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Independent Force LLC](www.independentforceusa.com)** | **[Web Development Intern (WordPress, Remote)](https://jobright.ai/jobs/info/68db6d1b34f2c406da6d7f72?utm_campaign=1079&utm_source=git)** | United States | Remote | Sep 29 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WPVI-TV (6abc) Technology Intern, Spring 2026](https://jobright.ai/jobs/info/68db5d3934f2c406da6d745c?utm_campaign=1079&utm_source=git)** | Philadelphia, PA, USA | On Site | Sep 29 |
+| **[WEX](http://www.wexinc.com)** | **[Intern - Software Engineer (Undergraduate Students Only)](https://jobright.ai/jobs/info/68db546534f2c406da6d6c81?utm_campaign=1079&utm_source=git)** | Maine, United States | Remote | Sep 29 |
 | **[AMD](http://www.amd.com)** | **[2026 Undergrad Firmware Engineering Intern/Co-op](https://jobright.ai/jobs/info/68db50ed9f13662d20e49e7a?utm_campaign=1079&utm_source=git)** | Fort Collins, CO | On Site | Sep 29 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Reliability of Cloud and AI Systems](https://jobright.ai/jobs/info/68db4d6d9f13662d20e49ab5?utm_campaign=1079&utm_source=git)** | Redmond, WA | On Site | Sep 29 |
 | ↳ | **[Explore Program Internship Opportunities: Second-Year Students, Redmond](https://jobright.ai/jobs/info/68db4cf99f13662d20e4997b?utm_campaign=1079&utm_source=git)** | Redmond, WA | On Site | Sep 29 |
@@ -97,8 +100,8 @@ For a complete list, click the following sortable link below:
 | **[TTM Technologies](https://www.ttm.com)** | **[Front End Engineering Apprentice - Internal](https://jobright.ai/jobs/info/68db0a946df7b8311bb15a1b?utm_campaign=1079&utm_source=git)** | Santa Ana, CA | On Site | Sep 29 |
 | **[Entrust](http://www.entrust.com)** | **[Software Engineering Intern - Sunrise, FL](https://jobright.ai/jobs/info/68db0a406df7b8311bb1590b?utm_campaign=1079&utm_source=git)** | United States - Sunrise, FL | Hybrid | Sep 29 |
 | **[ATI](https://www.atimaterials.com)** | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/68db0829e9b48513789b14f1?utm_campaign=1079&utm_source=git)** | Rochester, PA | On Site | Sep 29 |
+| ↳ | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/68db07b50dffed6f83d2bfed?utm_campaign=1079&utm_source=git)** | Washington, PA | On Site | Sep 29 |
 | ↳ | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/68db077de9b48513789b13e3?utm_campaign=1079&utm_source=git)** | Monaca, PA | On Site | Sep 29 |
-| ↳ | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/68db07016df7b8311bb15789?utm_campaign=1079&utm_source=git)** | Washington, PA | On Site | Sep 29 |
 | **[Ericsson](https://www.ericsson.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68db06e46df7b8311bb15748?utm_campaign=1079&utm_source=git)** | Plano, TX | On Site | Sep 29 |
 | **[TTM Technologies](https://www.ttm.com)** | **[Front End Engineering Apprentice - Internal](https://jobright.ai/jobs/info/68db069c6df7b8311bb1569b?utm_campaign=1079&utm_source=git)** | Santa Ana, CA | On Site | Sep 29 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - AI Demo Build & Joule Agent Developer](https://jobright.ai/jobs/info/68daff40e9b48513789b0f9d?utm_campaign=1079&utm_source=git)** | Houston, TX | Hybrid | Sep 29 |
@@ -123,6 +126,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Mobile Application Developer Intern](https://jobright.ai/jobs/info/68daec640dffed6f83d2ab38?utm_campaign=1079&utm_source=git)** | United States | Hybrid | Sep 29 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Correctness & Reliability Engineer, AI (Winter/Spring 2026)](https://jobright.ai/jobs/info/68dae8c10dffed6f83d2aa05?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Sep 29 |
 | **[State Street](http://www.statestreet.com)** | **[Emerging Technology Governance, Co-Op](https://jobright.ai/jobs/info/68dae89c0dffed6f83d2a976?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Sep 29 |
+| **[Elastic](https://www.elastic.co)** | **[Solution Architect - Skillbridge Intern](https://jobright.ai/jobs/info/68dae7a007c157682e56f558?utm_campaign=1079&utm_source=git)** | United States | Remote | Sep 29 |
 | **[Anthropologie Weddings](https://www.bhldn.com)** | **[URBN Mobile Software Engineering Intern](https://jobright.ai/jobs/info/68dae78407c157682e56f4cb?utm_campaign=1079&utm_source=git)** | US-PA-Philadelphia | On Site | Sep 29 |
 | **[Allegion](https://www.allegion.com)** | **[Software Engineering Verification Intern](https://jobright.ai/jobs/info/68dae75d07c157682e56f459?utm_campaign=1079&utm_source=git)** | Golden, CO | On Site | Sep 29 |
 | **[Lazard](http://www.lazard.com)** | **[2026 Software Engineer Summer Internship - Lazard Data Analytics Group](https://jobright.ai/jobs/info/68dae31f07c157682e56f186?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Sep 29 |
@@ -151,10 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Embedded Software Engineering Co-op - Spring 2026 {D}](https://jobright.ai/jobs/info/68daea9f6df7b8311bb14200?utm_campaign=1079&utm_source=git)** | Danbury, CT | On Site | Sep 29 |
 | **[SeekLab](https://theseeklab.com/)** | **[Fall & Winter Full Stack Intern](https://jobright.ai/jobs/info/68dabe3d07c157682e56d03e?utm_campaign=1079&utm_source=git)** | United States | Remote | Sep 29 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern, Integrated Technology Solutions - IF](https://jobright.ai/jobs/info/68dabc1f0b832179ca4b05ac?utm_campaign=1079&utm_source=git)** | DC-Washington | On Site | Sep 29 |
-| **[Elastic](https://www.elastic.co)** | **[Solution Architect - Skillbridge Intern](https://jobright.ai/jobs/info/68dab9f30b832179ca4b04af?utm_campaign=1079&utm_source=git)** | United States | Remote | Sep 29 |
 | **[Imagine](https://www.theimaginegroup.com)** | **[Summer 2026 IT Development Intern](https://jobright.ai/jobs/info/68dab9510b832179ca4b038f?utm_campaign=1079&utm_source=git)** | Shakopee, MN | On Site | Sep 29 |
 | **[Allegion](https://www.allegion.com)** | **[Software Engineering Verification Intern](https://jobright.ai/jobs/info/68dab6926df7b8311bb11632?utm_campaign=1079&utm_source=git)** | Golden, CO | On Site | Sep 29 |
-| **[Oklahoma City Thunder](http://okcthunder.com)** | **[Software Engineer Intern / Basketball Operations](https://jobright.ai/jobs/info/68cf41a3846f0b04af67fef5?utm_campaign=1079&utm_source=git)** | Oklahoma City, OK | On Site | Sep 29 |
-| **[WestRock Company](http://www.westrock.com)** | **[IT Solutions, Summer Internship - 2026](https://jobright.ai/jobs/info/68cb99769e3a822f5d248bca?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Sep 29 |
-| ↳ | **[IT Solutions - Co-op, Spring 2026](https://jobright.ai/jobs/info/68ccedb377add66568abbf69?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
