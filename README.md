@@ -40,7 +40,7 @@
 
 ---
 <h4>
-Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">30</span> days are listed due to capacity constraints.
+Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">14</span> days are listed due to capacity constraints.
 <br>
 For a complete list, click the following sortable link below:
 </h4>
@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integrated DNA Technologies](http://idtdna.com)** | **[Engineering Software Intern - Coralville, Iowa](https://jobright.ai/jobs/info/68dc3221d6470e72cf4d96a1?utm_campaign=1079&utm_source=git)** | Coralville, IA | On Site | Sep 30 |
+| **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - Software Engineering](https://jobright.ai/jobs/info/68dc21acd6470e72cf4d8e2c?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Sep 30 |
+| **[Numeric](https://www.numeric.io/)** | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68dc1cd466059a42a715bcb4?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Sep 30 |
+| ↳ | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68dc1c85d6470e72cf4d8b6f?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Sep 30 |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Software Engineer Intern - Fall 2025](https://jobright.ai/jobs/info/68dc1c3ed6470e72cf4d8ad7?utm_campaign=1079&utm_source=git)** | Tampa, FL | On Site | Sep 30 |
+| **[Copart](http://www.copart.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68dc1c2966059a42a715bb14?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Sep 30 |
 | **[Aldevron](http://www.aldevron.com/)** | **[Computer Science Intern](https://jobright.ai/jobs/info/68dc1163d6470e72cf4d8684?utm_campaign=1079&utm_source=git)** | Fargo, ND | On Site | Sep 30 |
 | **[Leica Biosystems](http://www.leicabiosystems.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68dc0f356f6c5c3fadf363b6?utm_campaign=1079&utm_source=git)** | Vista, CA | On Site | Sep 30 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68dc0cb2d6470e72cf4d8406?utm_campaign=1079&utm_source=git)** | Arden Hills, MN | On Site | Sep 30 |
@@ -81,11 +87,4 @@ For a complete list, click the following sortable link below:
 | **[Truveta](https://www.truveta.com)** | **[Fall/Winter Software Engineering Intern](https://jobright.ai/jobs/info/68d1fdc717554c2d9eee20ca?utm_campaign=1079&utm_source=git)** | Greater Seattle Area | On Site | Sep 24 |
 | **[MTS Systems Corporation](http://www.mts.com)** | **[2026 Summer Information Technology Internship](https://jobright.ai/jobs/info/68d353368c62e63bc7fdfc7c?utm_campaign=1079&utm_source=git)** | Eden Prairie, MN | On Site | Sep 23 |
 | **[Toyota Material Handling](https://www.toyotaforklift.com/)** | **[IT Enterprise Architecture Internship](https://jobright.ai/jobs/info/68dbaf9597329f2f7731b3f3?utm_campaign=1079&utm_source=git)** | Columbus, IN, 47201, United States | Hybrid | Sep 23 |
-| **[Western Reserve Group](https://www.wrg-ins.com)** | **[IT Intern - Application Services, Quality Assurance, Data Management](https://jobright.ai/jobs/info/68dbd30d97329f2f7731e531?utm_campaign=1079&utm_source=git)** | Wooster, Ohio, United States | On Site | Sep 16 |
-| **[JLG Industries](http://www.jlg.com/en)** | **[Digital Solutions Engineering Intern](https://jobright.ai/jobs/info/68c234dd63b706703e112641?utm_campaign=1079&utm_source=git)** | Hagerstown, MD | On Site | Sep 16 |
-| **[Crowe](https://www.crowe.com/)** | **[D365 ERP Implementation Intern](https://jobright.ai/jobs/info/68c793a47d0db4114273de16?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Sep 16 |
-| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Information Systems Assurance - Summer 2026 (Orange County)](https://jobright.ai/jobs/info/68dbf04f6f6c5c3fadf351f8?utm_campaign=1079&utm_source=git)** | 33 600 Anton Boulevard , Costa Mesa, CA, 92626, US | On Site | Sep 05 |
-| **[Dot Foods](http://dotfoods.com)** | **[IT Internship - Power Platform Software Engineer](https://jobright.ai/jobs/info/68dbd2bd97329f2f7731e497?utm_campaign=1079&utm_source=git)** | Chesterfield, Missouri, United States | On Site | Sep 03 |
-| **[IAT Insurance Group](https://www.iatinsurancegroup.com)** | **[Internship / Application Delivery](https://jobright.ai/jobs/info/68dbd5746f6c5c3fadf32489?utm_campaign=1079&utm_source=git)** | Naperville, Illinois, United States | Hybrid | Sep 02 |
-| **[Midcontinent Independent System Operator (MISO)](https://www.misoenergy.org/)** | **[2026 Summer Intern -  Software Development & Automation](https://jobright.ai/jobs/info/68dbb5ff6f6c5c3fadf30037?utm_campaign=1079&utm_source=git)** | Little Rock, Arkansas, United States | On Site | Sep 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
