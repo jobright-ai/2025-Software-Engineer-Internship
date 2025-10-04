@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nutanix](http://www.nutanix.com)** | **[Software Engineering Intern - UNDERGRAD PLEASE ONLY APPLY.](https://jobright.ai/jobs/info/68e14a82f758fe1f97e54e7b?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Oct 04 |
 | **[ADM](http://www.adm.com)** | **[COBOL Developer Intern - Erlanger, KY](https://jobright.ai/jobs/info/68e130c7f758fe1f97e5482b?utm_campaign=1079&utm_source=git)** | Erlanger, KY | On Site | Oct 04 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[2026 Summer Intern: Software Engineer](https://jobright.ai/jobs/info/68e0f035f758fe1f97e53009?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO | On Site | Oct 04 |
 | **[Astronautics Corporation of America](https://astronautics.com/)** | **[Software Engineering Intern (PHX)](https://jobright.ai/jobs/info/68e0e533b99ec3563b0d4c4b?utm_campaign=1079&utm_source=git)** | Phoenix, AZ | On Site | Oct 04 |
 | **[Amazon](https://amazon.com)** | **[Software Development Engineer Internship - Winter- 2026 (US)](https://jobright.ai/jobs/info/68e0e4e0f758fe1f97e52894?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Oct 04 |
-| **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Software Development, Resort Accessibility and Compliance (Summer 2026)](https://jobright.ai/jobs/info/68e0e3e61852e62f007f00b5?utm_campaign=1079&utm_source=git)** | Orlando, FL | On Site | Oct 04 |
 | **[Travelers](https://www.travelers.com)** | **[Engineering Development Program (EDP) - Co-Op Intern](https://jobright.ai/jobs/info/68dd96c644d32141e0bf8af9?utm_campaign=1079&utm_source=git)** | Boston, MA | Hybrid | Oct 04 |
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Software Engineering Intern (Summer 2026)(Open)](https://jobright.ai/jobs/info/68e0d330f758fe1f97e51fa0?utm_campaign=1079&utm_source=git)** | Annapolis Junction, MD | Hybrid | Oct 04 |
 | **[Speak](https://www.speak.com)** | **[Full-stack Engineer, Internship (Summer 2026)](https://jobright.ai/jobs/info/68e0c38d1852e62f007ee7fb?utm_campaign=1079&utm_source=git)** | San Francisco, CA, US | On Site | Oct 03 |
@@ -132,7 +132,6 @@ For a complete list, click the following sortable link below:
 | **[Universal Creative](https://jobs.universalparks.com/universal-creative/)** | **[Internship, Universal Creative – Realtime Media Technology, Research & Development (Summer 2026)](https://jobright.ai/jobs/info/68de3ec109bda65a4b628574?utm_campaign=1079&utm_source=git)** | Orlando, FL | On Site | Oct 03 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Enterprise Architecture](https://jobright.ai/jobs/info/68e028bb1852e62f007e8135?utm_campaign=1079&utm_source=git)** | Arlington, TX | Hybrid | Oct 03 |
 | **[RTX](http://www.raytheon.com)** | **[Software Engineering Intern (Summer 2026)(Open)](https://jobright.ai/jobs/info/68e0281d1852e62f007e7fb9?utm_campaign=1079&utm_source=git)** | MD231: 306 Sentinel Drive Suite100 AJ 306 Sentinel Drive Suite 100, Annapolis Junction, MD, 20701 USA | Hybrid | Oct 03 |
-| **[VENUES](https://www.linkedin.com/company/108964486)** | **[Software Engineering Intern — Web Development (Full-Stack) @ Stealth Startup](https://jobright.ai/jobs/info/68e02686f758fe1f97e4a13d?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 03 |
 | **[Central Insurance](http://www.central-insurance.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68e02243f758fe1f97e4a041?utm_campaign=1079&utm_source=git)** | Dublin, OH, USA | Hybrid | Oct 03 |
 | **[Syft Inc.](https://syft.style/)** | **[Full Stack Software Engineer Intern](https://jobright.ai/jobs/info/68e021ddb99ec3563b0cc441?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Oct 03 |
 | **[Central Insurance](http://www.central-insurance.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68e021b1b99ec3563b0cc3fa?utm_campaign=1079&utm_source=git)** | Van Wert, OH 45891, USA | Hybrid | Oct 03 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Graduate Intern, Application Design & Development - R&S](https://jobright.ai/jobs/info/68e001bbb99ec3563b0caf8e?utm_campaign=1079&utm_source=git)** | DC-Washington | On Site | Oct 03 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Software Development Intern](https://jobright.ai/jobs/info/68dfdf4bb99ec3563b0c9b8c?utm_campaign=1079&utm_source=git)** | Remote, Wisconsin, United States | Remote | Oct 03 |
 | ↳ | **[Software Development Intern](https://jobright.ai/jobs/info/68dfdf1e1852e62f007e538d?utm_campaign=1079&utm_source=git)** | Oshkosh, Wisconsin, United States | On Site | Oct 03 |
+| **[Hermeus](http://www.hermeus.com)** | **[Hardware-In-the-Loop Software Engineering Intern - Spring & Summer 2026](https://jobright.ai/jobs/info/68dee75744d32141e0c03b77?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
