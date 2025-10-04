@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Esync Technologies](http://esynctechnologies.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68e1785c1852e62f007f2c3e?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 04 |
+| **[Elysium Security SAAS](www.elysiumincorporated.com)** | **[Full Stack Web Developer Intern](https://jobright.ai/jobs/info/68e175b0f758fe1f97e5532b?utm_campaign=1079&utm_source=git)** | Buffalo, NY | Remote | Oct 04 |
 | **[Nutanix](http://www.nutanix.com)** | **[Software Engineering Intern - UNDERGRAD PLEASE ONLY APPLY.](https://jobright.ai/jobs/info/68e14a82f758fe1f97e54e7b?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Oct 04 |
 | **[ADM](http://www.adm.com)** | **[COBOL Developer Intern - Erlanger, KY](https://jobright.ai/jobs/info/68e130c7f758fe1f97e5482b?utm_campaign=1079&utm_source=git)** | Erlanger, KY | On Site | Oct 04 |
-| **[TalentAlly](http://www.prodivnet.com/)** | **[2026 Summer Intern: Software Engineer](https://jobright.ai/jobs/info/68e0f035f758fe1f97e53009?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO | On Site | Oct 04 |
+| **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[IT Software Engineering Intern (Sales Technology) - Summer 2026](https://jobright.ai/jobs/info/68de301544d32141e0bfdde1?utm_campaign=1079&utm_source=git)** | Northbrook, IL | On Site | Oct 04 |
+| **[IBM](http://www.ibm.com)** | **[Software Developer Intern: 2026](https://jobright.ai/jobs/info/68df7af45ab4977c2e955148?utm_campaign=1079&utm_source=git)** | Durham, NC | On Site | Oct 04 |
 | **[Astronautics Corporation of America](https://astronautics.com/)** | **[Software Engineering Intern (PHX)](https://jobright.ai/jobs/info/68e0e533b99ec3563b0d4c4b?utm_campaign=1079&utm_source=git)** | Phoenix, AZ | On Site | Oct 04 |
 | **[Amazon](https://amazon.com)** | **[Software Development Engineer Internship - Winter- 2026 (US)](https://jobright.ai/jobs/info/68e0e4e0f758fe1f97e52894?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Oct 04 |
 | **[Travelers](https://www.travelers.com)** | **[Engineering Development Program (EDP) - Co-Op Intern](https://jobright.ai/jobs/info/68dd96c644d32141e0bf8af9?utm_campaign=1079&utm_source=git)** | Boston, MA | Hybrid | Oct 04 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - Motorsports: Software Engineering](https://jobright.ai/jobs/info/68e00802f758fe1f97e48e4d?utm_campaign=1079&utm_source=git)** | Concord, North Carolina, United States of America | Hybrid | Oct 03 |
 | **[SingleStore](http://www.singlestore.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68cd797db2a74e1837ed7631?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 03 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Graduate Intern, Application Design & Development - R&S](https://jobright.ai/jobs/info/68e001bbb99ec3563b0caf8e?utm_campaign=1079&utm_source=git)** | DC-Washington | On Site | Oct 03 |
-| **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Software Development Intern](https://jobright.ai/jobs/info/68dfdf4bb99ec3563b0c9b8c?utm_campaign=1079&utm_source=git)** | Remote, Wisconsin, United States | Remote | Oct 03 |
-| ↳ | **[Software Development Intern](https://jobright.ai/jobs/info/68dfdf1e1852e62f007e538d?utm_campaign=1079&utm_source=git)** | Oshkosh, Wisconsin, United States | On Site | Oct 03 |
-| **[Hermeus](http://www.hermeus.com)** | **[Hardware-In-the-Loop Software Engineering Intern - Spring & Summer 2026](https://jobright.ai/jobs/info/68dee75744d32141e0c03b77?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
