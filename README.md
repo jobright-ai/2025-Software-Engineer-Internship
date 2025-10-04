@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NimbleRx](https://www.nimblerx.com/)** | **[Software Engineer Intern - Winter / Spring Session (January - April 2026)](https://jobright.ai/jobs/info/68e0a2a6f758fe1f97e4f7e3?utm_campaign=1079&utm_source=git)** | Redwood City, CA | Hybrid | Oct 03 |
+| **[Domino Data Lab](https://domino.ai)** | **[Software Engineer, Intern - Campus Recruiting 2026](https://jobright.ai/jobs/info/68e09d96b99ec3563b0d15f9?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Remote | Oct 03 |
+| ↳ | **[Forward Deployed Engineer, Intern - Campus Recruiting 2026](https://jobright.ai/jobs/info/68e09cdbb99ec3563b0d153d?utm_campaign=1079&utm_source=git)** | New York, NY | Remote | Oct 03 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Firmware Engineer Intern - Master's Degree](https://jobright.ai/jobs/info/68e09487f758fe1f97e4e9ec?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Oct 03 |
 | ↳ | **[Firmware Engineer Intern - Bachelor's Degree](https://jobright.ai/jobs/info/68e09447f758fe1f97e4e963?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Oct 03 |
 | **[Mach Industries ](https://www.machindustries.com)** | **[Summer Intern 2026 - Software](https://jobright.ai/jobs/info/68e08f06b99ec3563b0d09ea?utm_campaign=1079&utm_source=git)** | Huntington Beach, CA | On Site | Oct 03 |
@@ -148,13 +151,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Development Intern](https://jobright.ai/jobs/info/68dfdf1e1852e62f007e538d?utm_campaign=1079&utm_source=git)** | Oshkosh, Wisconsin, United States | On Site | Oct 03 |
 | **[Arch Mortgage Insurance Company (Arch MI)](https://mortgage.archgroup.com/us)** | **[Enterprise Document Management Systems (EDMS) Summer Intern](https://jobright.ai/jobs/info/68dfabf16be63b6ec997249f?utm_campaign=1079&utm_source=git)** | Triad Area | Hybrid | Oct 03 |
 | ↳ | **[Platform Experience & Operations (PXO) Summer Intern](https://jobright.ai/jobs/info/68dfac26fe896042b0b7d235?utm_campaign=1079&utm_source=git)** | Triad Area | Hybrid | Oct 03 |
-| **[ByteDance](http://bytedance.com)** | **[Infrastructure Engineer Intern (Compute Infrastructure - Cloud-Native )- 2026 Summer (MS/BS)](https://jobright.ai/jobs/info/68cd8c93b2a74e1837ed89a1?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Oct 03 |
 | **[Crowe](https://www.crowe.com/)** | **[D365 ERP Implementation Intern](https://jobright.ai/jobs/info/68cf6b1b846f0b04af681ed6?utm_campaign=1079&utm_source=git)** | Sacramento, CA | On Site | Oct 03 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Software Engineer](https://jobright.ai/jobs/info/68cd49321ad6b16f0289775e?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO | On Site | Oct 03 |
+| **[ByteDance](http://bytedance.com)** | **[Infrastructure Engineer Intern (Compute Infrastructure - Cloud-Native )- 2026 Summer (MS/BS)](https://jobright.ai/jobs/info/68cd8c93b2a74e1837ed89a1?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Oct 03 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Software Development Intern- Summer 2026- Farmington Hills, MI](https://jobright.ai/jobs/info/68dfa262fe896042b0b7cdd0?utm_campaign=1079&utm_source=git)** | Farmington Hills, MI | On Site | Oct 03 |
 | **[Crowe](https://www.crowe.com/)** | **[D365 ERP Technical Intern](https://jobright.ai/jobs/info/68ce5ab0846f0b04af678f7d?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Oct 03 |
 | ↳ | **[D365 ERP Implementation Intern](https://jobright.ai/jobs/info/68c793a47d0db4114273de16?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Oct 03 |
-| **[Lennox](http://www.lennox.com)** | **[Embedded Software Intern](https://jobright.ai/jobs/info/68d0051edbd9fb154edecc8c?utm_campaign=1079&utm_source=git)** | Carrollton, TX | On Site | Oct 03 |
-| **[Crowe](https://www.crowe.com/)** | **[D365 ERP Implementation Intern](https://jobright.ai/jobs/info/68a7b8ccd627244576e2e26b?utm_campaign=1079&utm_source=git)** | Grand Rapids, MI | On Site | Oct 03 |
-| ↳ | **[D365 ERP Technical Intern](https://jobright.ai/jobs/info/68cc742616d00d2beeb1ff57?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Oct 03 |
+| ↳ | **[D365 ERP Implementation Intern](https://jobright.ai/jobs/info/68a7b8ccd627244576e2e26b?utm_campaign=1079&utm_source=git)** | Grand Rapids, MI | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
