@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TalentAlly](http://www.prodivnet.com/)** | **[2026 Summer Intern: Software Engineer](https://jobright.ai/jobs/info/68e0f035f758fe1f97e53009?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO | On Site | Oct 04 |
 | **[Astronautics Corporation of America](https://astronautics.com/)** | **[Software Engineering Intern (PHX)](https://jobright.ai/jobs/info/68e0e533b99ec3563b0d4c4b?utm_campaign=1079&utm_source=git)** | Phoenix, AZ | On Site | Oct 04 |
 | **[Amazon](https://amazon.com)** | **[Software Development Engineer Internship - Winter- 2026 (US)](https://jobright.ai/jobs/info/68e0e4e0f758fe1f97e52894?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Oct 04 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Software Engineer (Web) (Summer 2026)](https://jobright.ai/jobs/info/68e0e4b8f758fe1f97e5281e?utm_campaign=1079&utm_source=git)** | Orlando, FL | On Site | Oct 04 |
@@ -100,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[Mobile Developer - IOS - Summer 2026 Intern](https://jobright.ai/jobs/info/68e050d9f758fe1f97e4c3a8?utm_campaign=1079&utm_source=git)** | Miami, FL, United States | Hybrid | Oct 03 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Amazon Web Services Intern](https://jobright.ai/jobs/info/68e04bfef758fe1f97e4c120?utm_campaign=1079&utm_source=git)** | Scottsdale, AZ | Hybrid | Oct 03 |
 | **[IBM](http://www.ibm.com)** | **[Firmware Developer Intern 2026](https://jobright.ai/jobs/info/68e04b41b99ec3563b0ce52b?utm_campaign=1079&utm_source=git)** | Poughkeepsie, AR | Hybrid | Oct 03 |
-| **[TTL, Inc.](http://ttlusa.com)** | **[Construction Quality Assurance Engineer-in-Training](https://jobright.ai/jobs/info/68e0ea46f758fe1f97e52cdf?utm_campaign=1079&utm_source=git)** | Tuscaloosa, AL | On Site | Oct 03 |
 | **[Central Insurance](http://www.central-insurance.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68e034bab99ec3563b0cd49f?utm_campaign=1079&utm_source=git)** | Van Wert, OH | Hybrid | Oct 03 |
 | **[SeatGeek](https://seatgeek.com)** | **[Software Engineer - Internship](https://jobright.ai/jobs/info/68e02cd3f758fe1f97e4a7bb?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Oct 03 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - Motorsports: Software Engineering](https://jobright.ai/jobs/info/68e04543b99ec3563b0ce160?utm_campaign=1079&utm_source=git)** | Concord, NC | Hybrid | Oct 03 |
@@ -155,6 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Summer 2026 - Software Testing and Automation](https://jobright.ai/jobs/info/68e008921852e62f007e6ae0?utm_campaign=1079&utm_source=git)** | Rochester, NY | On Site | Oct 03 |
 | ↳ | **[College Intern I - Summer 2026 - Software Testing and Automation](https://jobright.ai/jobs/info/68e0083d1852e62f007e6a6c?utm_campaign=1079&utm_source=git)** | Binghamton, NY | On Site | Oct 03 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - Motorsports: Software Engineering](https://jobright.ai/jobs/info/68e00802f758fe1f97e48e4d?utm_campaign=1079&utm_source=git)** | Concord, North Carolina, United States of America | Hybrid | Oct 03 |
-| **[Gemini](https://gemini.com)** | **[Software Engineering Intern (Winter-Spring 2026)](https://jobright.ai/jobs/info/68e0e57ff758fe1f97e529f3?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Oct 03 |
 | **[SingleStore](http://www.singlestore.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68cd797db2a74e1837ed7631?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 03 |
+| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Graduate Intern, Application Design & Development - R&S](https://jobright.ai/jobs/info/68e001bbb99ec3563b0caf8e?utm_campaign=1079&utm_source=git)** | DC-Washington | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
