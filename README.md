@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Esync Technologies](http://esynctechnologies.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68e1785c1852e62f007f2c3e?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 04 |
-| **[Elysium Security SAAS](www.elysiumincorporated.com)** | **[Full Stack Web Developer Intern](https://jobright.ai/jobs/info/68e175b0f758fe1f97e5532b?utm_campaign=1079&utm_source=git)** | Buffalo, NY | Remote | Oct 04 |
+| **[Impel](https://impel.ai/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68e17d2df758fe1f97e553d5?utm_campaign=1079&utm_source=git)** | Syracuse, NY | On Site | Oct 04 |
 | **[Nutanix](http://www.nutanix.com)** | **[Software Engineering Intern - UNDERGRAD PLEASE ONLY APPLY.](https://jobright.ai/jobs/info/68e14a82f758fe1f97e54e7b?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Oct 04 |
 | **[ADM](http://www.adm.com)** | **[COBOL Developer Intern - Erlanger, KY](https://jobright.ai/jobs/info/68e130c7f758fe1f97e5482b?utm_campaign=1079&utm_source=git)** | Erlanger, KY | On Site | Oct 04 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[IT Software Engineering Intern (Sales Technology) - Summer 2026](https://jobright.ai/jobs/info/68de301544d32141e0bfdde1?utm_campaign=1079&utm_source=git)** | Northbrook, IL | On Site | Oct 04 |
 | **[IBM](http://www.ibm.com)** | **[Software Developer Intern: 2026](https://jobright.ai/jobs/info/68df7af45ab4977c2e955148?utm_campaign=1079&utm_source=git)** | Durham, NC | On Site | Oct 04 |
+| **[Esync Technologies](http://esynctechnologies.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68e18f471852e62f007f32b9?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 04 |
 | **[Astronautics Corporation of America](https://astronautics.com/)** | **[Software Engineering Intern (PHX)](https://jobright.ai/jobs/info/68e0e533b99ec3563b0d4c4b?utm_campaign=1079&utm_source=git)** | Phoenix, AZ | On Site | Oct 04 |
 | **[Amazon](https://amazon.com)** | **[Software Development Engineer Internship - Winter- 2026 (US)](https://jobright.ai/jobs/info/68e0e4e0f758fe1f97e52894?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Oct 04 |
 | **[Travelers](https://www.travelers.com)** | **[Engineering Development Program (EDP) - Co-Op Intern](https://jobright.ai/jobs/info/68dd96c644d32141e0bf8af9?utm_campaign=1079&utm_source=git)** | Boston, MA | Hybrid | Oct 04 |
