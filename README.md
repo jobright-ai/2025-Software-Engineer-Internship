@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BODA Insights](https://www.bodainsights.com)** | **[Full Stack Engineer Intern (with Stripe experience)](https://jobright.ai/jobs/info/68e2d3ca1852e62f007f8868?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 05 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Cloud Engineer Intern](https://jobright.ai/jobs/info/68e2c9721852e62f007f85fd?utm_campaign=1079&utm_source=git)** | Roseville, California, United States of America | Hybrid | Oct 05 |
 | ↳ | **[Cloud Engineer Intern](https://jobright.ai/jobs/info/68e2c94cb99ec3563b0dcd84?utm_campaign=1079&utm_source=git)** | Andover, Massachusetts, United States of America | Hybrid | Oct 05 |
 | ↳ | **[Cloud Engineer Intern](https://jobright.ai/jobs/info/68e2c94c1852e62f007f85ed?utm_campaign=1079&utm_source=git)** | San Jose, California, United States of America | Hybrid | Oct 05 |
 | ↳ | **[Cloud Engineer Intern](https://jobright.ai/jobs/info/68e2c93cf758fe1f97e5ac17?utm_campaign=1079&utm_source=git)** | Bloomington, Minnesota, United States of America | Hybrid | Oct 05 |
 | ↳ | **[Cloud Engineer Intern](https://jobright.ai/jobs/info/68e2c911b99ec3563b0dcd62?utm_campaign=1079&utm_source=git)** | Durham, North Carolina, United States of America | Hybrid | Oct 05 |
-| **[Xivius](https://www.linkedin.com/company/107599035)** | **[Unpaid Internship - Full-Stack Developer Intern](https://jobright.ai/jobs/info/68e2b898b99ec3563b0dcbd5?utm_campaign=1079&utm_source=git)** | Beverly Hills, CA | On Site | Oct 05 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Frontend Software Engineering Intern](https://jobright.ai/jobs/info/68dc5b4fddc10244dd6748ce?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Oct 05 |
 | **[IBM](http://www.ibm.com)** | **[Software Developer Intern: 2026](https://jobright.ai/jobs/info/68e247bc1852e62f007f78c2?utm_campaign=1079&utm_source=git)** | Lowell, MA | Hybrid | Oct 05 |
 | **[Pulchritude® Fashion Studio](pulchritudefashion.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68e28298f758fe1f97e5a5b8?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 04 |
@@ -70,7 +70,7 @@ For a complete list, click the following sortable link below:
 | **[GoFundMe](http://www.gofundme.com)** | **[Backend Software Engineer Intern](https://jobright.ai/jobs/info/68dc5fe2accfd24b67e54eb4?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Oct 04 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[HRIS Developer Intern, Spring 2026](https://jobright.ai/jobs/info/68e1b519f758fe1f97e55c8a?utm_campaign=1079&utm_source=git)** | Lake Buena Vista, FL | On Site | Oct 04 |
 | **[Impel](https://impel.ai/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68e17d2df758fe1f97e553d5?utm_campaign=1079&utm_source=git)** | Syracuse, NY | On Site | Oct 04 |
-| **[Business Web Solutions (UK)](https://businesswebsolutions.uk)** | **[Full Stack Developer Intern (Remote)](https://jobright.ai/jobs/info/68e2123eb99ec3563b0d9f49?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 04 |
+| **[Business Web Solutions (UK)](https://businesswebsolutions.uk)** | **[Full Stack Developer Intern (Remote)](https://jobright.ai/jobs/info/68e1e4a41852e62f007f40cf?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 04 |
 | **[Nutanix](http://www.nutanix.com)** | **[Software Engineering Intern - UNDERGRAD PLEASE ONLY APPLY.](https://jobright.ai/jobs/info/68e14a82f758fe1f97e54e7b?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Oct 04 |
 | **[ADM](http://www.adm.com)** | **[COBOL Developer Intern - Erlanger, KY](https://jobright.ai/jobs/info/68e130c7f758fe1f97e5482b?utm_campaign=1079&utm_source=git)** | Erlanger, KY | On Site | Oct 04 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[IT Software Engineering Intern (Sales Technology) - Summer 2026](https://jobright.ai/jobs/info/68de301544d32141e0bfdde1?utm_campaign=1079&utm_source=git)** | Northbrook, IL | On Site | Oct 04 |
