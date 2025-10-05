@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Cloud Engineer Intern](https://jobright.ai/jobs/info/68e2c9721852e62f007f85fd?utm_campaign=1079&utm_source=git)** | Roseville, California, United States of America | Hybrid | Oct 05 |
+| ↳ | **[Cloud Engineer Intern](https://jobright.ai/jobs/info/68e2c94cb99ec3563b0dcd84?utm_campaign=1079&utm_source=git)** | Andover, Massachusetts, United States of America | Hybrid | Oct 05 |
+| ↳ | **[Cloud Engineer Intern](https://jobright.ai/jobs/info/68e2c94c1852e62f007f85ed?utm_campaign=1079&utm_source=git)** | San Jose, California, United States of America | Hybrid | Oct 05 |
+| ↳ | **[Cloud Engineer Intern](https://jobright.ai/jobs/info/68e2c93cf758fe1f97e5ac17?utm_campaign=1079&utm_source=git)** | Bloomington, Minnesota, United States of America | Hybrid | Oct 05 |
+| ↳ | **[Cloud Engineer Intern](https://jobright.ai/jobs/info/68e2c911b99ec3563b0dcd62?utm_campaign=1079&utm_source=git)** | Durham, North Carolina, United States of America | Hybrid | Oct 05 |
+| **[Xivius](https://www.linkedin.com/company/107599035)** | **[Unpaid Internship - Full-Stack Developer Intern](https://jobright.ai/jobs/info/68e2b898b99ec3563b0dcbd5?utm_campaign=1079&utm_source=git)** | Beverly Hills, CA | On Site | Oct 05 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Frontend Software Engineering Intern](https://jobright.ai/jobs/info/68dc5b4fddc10244dd6748ce?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Oct 05 |
 | **[IBM](http://www.ibm.com)** | **[Software Developer Intern: 2026](https://jobright.ai/jobs/info/68e247bc1852e62f007f78c2?utm_campaign=1079&utm_source=git)** | Lowell, MA | Hybrid | Oct 05 |
 | **[Pulchritude® Fashion Studio](pulchritudefashion.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68e28298f758fe1f97e5a5b8?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 04 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Central Insurance](http://www.central-insurance.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68e021b1b99ec3563b0cc3fa?utm_campaign=1079&utm_source=git)** | Van Wert, OH 45891, USA | Hybrid | Oct 03 |
 | **[Paycom](http://www.paycom.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/68e0205eb99ec3563b0cc240?utm_campaign=1079&utm_source=git)** | Oklahoma City, OK | On Site | Oct 03 |
 | **[General Dynamics](https://www.gd.com)** | **[Amazon Web Services Intern](https://jobright.ai/jobs/info/68e01bfaf758fe1f97e49c38?utm_campaign=1079&utm_source=git)** | USA-MA-Dedham | Hybrid | Oct 03 |
-| ↳ | **[Amazon Web Services Intern](https://jobright.ai/jobs/info/68e01ba4f758fe1f97e49b4b?utm_campaign=1079&utm_source=git)** | USA-Telework-Telework | Hybrid | Oct 03 |
-| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Enterprise Architecture](https://jobright.ai/jobs/info/68e01b85b99ec3563b0cbf84?utm_campaign=1079&utm_source=git)** | 4001 Embarcadero, Arlington, TX, 76014, US | Hybrid | Oct 03 |
-| **[Nutanix](http://www.nutanix.com)** | **[Software Engineering Intern - UNDERGRAD PLEASE ONLY APPLY.](https://jobright.ai/jobs/info/68e01b61f758fe1f97e49a7b?utm_campaign=1079&utm_source=git)** | Durham, North Carolina | Hybrid | Oct 03 |
-| **[General Dynamics](https://www.gd.com)** | **[Amazon Web Services Intern](https://jobright.ai/jobs/info/68e01b3c1852e62f007e7579?utm_campaign=1079&utm_source=git)** | USA-AZ-Scottsdale | Hybrid | Oct 03 |
-| ↳ | **[Amazon Web Services Intern](https://jobright.ai/jobs/info/68e01b2bb99ec3563b0cbe46?utm_campaign=1079&utm_source=git)** | USA-MN-Bloomington | Hybrid | Oct 03 |
-| **[Micron Technology](http://www.micron.com)** | **[Intern - Firmware Validation Test Engineer](https://jobright.ai/jobs/info/68e01b12f758fe1f97e4998b?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
