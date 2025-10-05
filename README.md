@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[OPENLANE](http://www.openlane.com)** | **[Software Engineer Intern (Remote)](https://jobright.ai/jobs/info/68e1f9311852e62f007f4c81?utm_campaign=1079&utm_source=git)** | Carmel, IN | Remote | Oct 04 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Backend Software Engineer Intern](https://jobright.ai/jobs/info/68dc5fe2accfd24b67e54eb4?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Oct 04 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[HRIS Developer Intern, Spring 2026](https://jobright.ai/jobs/info/68e1b519f758fe1f97e55c8a?utm_campaign=1079&utm_source=git)** | Lake Buena Vista, FL | On Site | Oct 04 |
 | **[Impel](https://impel.ai/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68e17d2df758fe1f97e553d5?utm_campaign=1079&utm_source=git)** | Syracuse, NY | On Site | Oct 04 |
@@ -67,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Software Developer Intern: 2026](https://jobright.ai/jobs/info/68df7af45ab4977c2e955148?utm_campaign=1079&utm_source=git)** | Durham, NC | On Site | Oct 04 |
 | ↳ | **[Software Developer Intern: 2026](https://jobright.ai/jobs/info/68e0275df758fe1f97e4a25c?utm_campaign=1079&utm_source=git)** | Sandy Springs, GA | On Site | Oct 04 |
 | **[Esync Technologies](http://esynctechnologies.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68e18f471852e62f007f32b9?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 04 |
+| **[IBM](http://www.ibm.com)** | **[Software Developer Intern: 2026](https://jobright.ai/jobs/info/68e0468ab99ec3563b0ce2e1?utm_campaign=1079&utm_source=git)** | Tucson, AZ | On Site | Oct 04 |
 | **[Astronautics Corporation of America](https://astronautics.com/)** | **[Software Engineering Intern (PHX)](https://jobright.ai/jobs/info/68e0e533b99ec3563b0d4c4b?utm_campaign=1079&utm_source=git)** | Phoenix, AZ | On Site | Oct 04 |
 | **[Amazon](https://amazon.com)** | **[Software Development Engineer Internship - Winter- 2026 (US)](https://jobright.ai/jobs/info/68e0e4e0f758fe1f97e52894?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Oct 04 |
 | **[Travelers](https://www.travelers.com)** | **[Engineering Development Program (EDP) - Co-Op Intern](https://jobright.ai/jobs/info/68dd96c644d32141e0bf8af9?utm_campaign=1079&utm_source=git)** | Boston, MA | Hybrid | Oct 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Intern I - Summer 2026 - Software Testing and Automation](https://jobright.ai/jobs/info/68e01a80f758fe1f97e497ab?utm_campaign=1079&utm_source=git)** | DeWitt, NY | On Site | Oct 03 |
 | **[Nutanix](http://www.nutanix.com)** | **[Software Engineering Intern - UNDERGRAD PLEASE ONLY APPLY.](https://jobright.ai/jobs/info/68e01a6fb99ec3563b0cbc4a?utm_campaign=1079&utm_source=git)** | San Jose, California | Hybrid | Oct 03 |
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Summer 2026 - Software Testing and Automation](https://jobright.ai/jobs/info/68e0186d1852e62f007e71b0?utm_campaign=1079&utm_source=git)** | Elmira, NY | On Site | Oct 03 |
-| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern, Application Design & Development - R&S](https://jobright.ai/jobs/info/68e0170db99ec3563b0cba6a?utm_campaign=1079&utm_source=git)** | Washington, DC | On Site | Oct 03 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WPVI-TV (6abc) Technology Intern, Spring 2026](https://jobright.ai/jobs/info/68e00fd4f758fe1f97e49344?utm_campaign=1079&utm_source=git)** | Philadelphia, PA | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
