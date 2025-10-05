@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[HRIS Developer Intern, Spring 2026](https://jobright.ai/jobs/info/68e1b519f758fe1f97e55c8a?utm_campaign=1079&utm_source=git)** | Lake Buena Vista, FL | On Site | Oct 04 |
 | **[Impel](https://impel.ai/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68e17d2df758fe1f97e553d5?utm_campaign=1079&utm_source=git)** | Syracuse, NY | On Site | Oct 04 |
 | **[Nutanix](http://www.nutanix.com)** | **[Software Engineering Intern - UNDERGRAD PLEASE ONLY APPLY.](https://jobright.ai/jobs/info/68e14a82f758fe1f97e54e7b?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Oct 04 |
 | **[ADM](http://www.adm.com)** | **[COBOL Developer Intern - Erlanger, KY](https://jobright.ai/jobs/info/68e130c7f758fe1f97e5482b?utm_campaign=1079&utm_source=git)** | Erlanger, KY | On Site | Oct 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Intern I - Summer 2026 - Software Testing and Automation](https://jobright.ai/jobs/info/68e0083d1852e62f007e6a6c?utm_campaign=1079&utm_source=git)** | Binghamton, NY | On Site | Oct 03 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - Motorsports: Software Engineering](https://jobright.ai/jobs/info/68e00802f758fe1f97e48e4d?utm_campaign=1079&utm_source=git)** | Concord, North Carolina, United States of America | Hybrid | Oct 03 |
 | **[SingleStore](http://www.singlestore.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68cd797db2a74e1837ed7631?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 03 |
-| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Graduate Intern, Application Design & Development - R&S](https://jobright.ai/jobs/info/68e001bbb99ec3563b0caf8e?utm_campaign=1079&utm_source=git)** | DC-Washington | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
