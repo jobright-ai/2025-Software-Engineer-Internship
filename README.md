@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GoFundMe](http://www.gofundme.com)** | **[Frontend Software Engineering Intern](https://jobright.ai/jobs/info/68dc5b4fddc10244dd6748ce?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Oct 05 |
 | **[IBM](http://www.ibm.com)** | **[Software Developer Intern: 2026](https://jobright.ai/jobs/info/68e247bc1852e62f007f78c2?utm_campaign=1079&utm_source=git)** | Lowell, MA | Hybrid | Oct 05 |
+| **[Pulchritude® Fashion Studio](pulchritudefashion.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68e28298f758fe1f97e5a5b8?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 04 |
+| **[Esync Technologies](http://esynctechnologies.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68e27f7ef758fe1f97e5a583?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 04 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Backend Software Engineer Intern](https://jobright.ai/jobs/info/68dc5fe2accfd24b67e54eb4?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Oct 04 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[HRIS Developer Intern, Spring 2026](https://jobright.ai/jobs/info/68e1b519f758fe1f97e55c8a?utm_campaign=1079&utm_source=git)** | Lake Buena Vista, FL | On Site | Oct 04 |
 | **[Impel](https://impel.ai/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68e17d2df758fe1f97e553d5?utm_campaign=1079&utm_source=git)** | Syracuse, NY | On Site | Oct 04 |
-| **[Business Web Solutions (UK)](https://businesswebsolutions.uk)** | **[Full Stack Developer Intern (Remote)](https://jobright.ai/jobs/info/68e2123eb99ec3563b0d9f49?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 04 |
+| **[Business Web Solutions (UK)](https://businesswebsolutions.uk)** | **[Full Stack Developer Intern (Remote)](https://jobright.ai/jobs/info/68e1e4a41852e62f007f40cf?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 04 |
 | **[Nutanix](http://www.nutanix.com)** | **[Software Engineering Intern - UNDERGRAD PLEASE ONLY APPLY.](https://jobright.ai/jobs/info/68e14a82f758fe1f97e54e7b?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Oct 04 |
 | **[ADM](http://www.adm.com)** | **[COBOL Developer Intern - Erlanger, KY](https://jobright.ai/jobs/info/68e130c7f758fe1f97e5482b?utm_campaign=1079&utm_source=git)** | Erlanger, KY | On Site | Oct 04 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[IT Software Engineering Intern (Sales Technology) - Summer 2026](https://jobright.ai/jobs/info/68de301544d32141e0bfdde1?utm_campaign=1079&utm_source=git)** | Northbrook, IL | On Site | Oct 04 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics](https://www.gd.com)** | **[Amazon Web Services Intern](https://jobright.ai/jobs/info/68e01b3c1852e62f007e7579?utm_campaign=1079&utm_source=git)** | USA-AZ-Scottsdale | Hybrid | Oct 03 |
 | ↳ | **[Amazon Web Services Intern](https://jobright.ai/jobs/info/68e01b2bb99ec3563b0cbe46?utm_campaign=1079&utm_source=git)** | USA-MN-Bloomington | Hybrid | Oct 03 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Firmware Validation Test Engineer](https://jobright.ai/jobs/info/68e01b12f758fe1f97e4998b?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Oct 03 |
-| **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Summer 2026 - Software Testing and Automation](https://jobright.ai/jobs/info/68e01afcf758fe1f97e4995d?utm_campaign=1079&utm_source=git)** | Utica, NY | On Site | Oct 03 |
-| ↳ | **[College Intern I - Summer 2026 - Software Testing and Automation](https://jobright.ai/jobs/info/68e01a80f758fe1f97e497ab?utm_campaign=1079&utm_source=git)** | DeWitt, NY | On Site | Oct 03 |
-| **[Nutanix](http://www.nutanix.com)** | **[Software Engineering Intern - UNDERGRAD PLEASE ONLY APPLY.](https://jobright.ai/jobs/info/68e01a6fb99ec3563b0cbc4a?utm_campaign=1079&utm_source=git)** | San Jose, California | Hybrid | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
