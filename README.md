@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark](https://genpark.ai)** | **[Web Development Intern](https://jobright.ai/jobs/info/68e372221852e62f007fbdeb?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Oct 06 |
+| **[Pella Corporation](http://www.pella.com)** | **[Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68e361391852e62f007fadff?utm_campaign=1079&utm_source=git)** | Pella, IA | On Site | Oct 05 |
+| ↳ | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/68e35e5db99ec3563b0df485?utm_campaign=1079&utm_source=git)** | Pella, IA | On Site | Oct 05 |
 | **[Khan Academy](http://khanacademy.org/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68e346a2b99ec3563b0de77c?utm_campaign=1079&utm_source=git)** | Friendly, MD | On Site | Oct 05 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[Mobile Developer - IOS - Summer 2026 Intern](https://jobright.ai/jobs/info/68e34350b99ec3563b0de6b3?utm_campaign=1079&utm_source=git)** | Miami, FL | Hybrid | Oct 05 |
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Summer 2026 - Software Engineering - Testing](https://jobright.ai/jobs/info/68e30721f758fe1f97e5b28c?utm_campaign=1079&utm_source=git)** | Rochester, NY | On Site | Oct 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Blue Cross and Blue Shield of Nebraska](https://www.nebraskablue.com)** | **[Information Services Intern – Software Development & Cloud Engineering: Starts Summer 2026](https://jobright.ai/jobs/info/68e035241852e62f007e8aab?utm_campaign=1079&utm_source=git)** | Omaha, NE | Hybrid | Oct 03 |
 | **[IBM](http://www.ibm.com)** | **[Intern 2026: Quantum Primitives Software Developer](https://jobright.ai/jobs/info/68e034f9f758fe1f97e4b01e?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Oct 03 |
 | ↳ | **[Intern 2026: Software Engineer - Semiconductor](https://jobright.ai/jobs/info/68e034c6f758fe1f97e4afca?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Oct 03 |
-| **[Akuna Capital](https://akunacapital.com)** | **[Software Engineer Intern - Python, Summer 2026](https://jobright.ai/jobs/info/68e034bab99ec3563b0cd4a0?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Oct 03 |
-| **[SeatGeek](https://seatgeek.com)** | **[Software Engineer - Internship](https://jobright.ai/jobs/info/68e03477b99ec3563b0cd449?utm_campaign=1079&utm_source=git)** | New York, New York | On Site | Oct 03 |
-| **[The Aerospace Corporation](http://www.aerospace.org)** | **[2026 Undergraduate Embedded Computing Engineer Intern](https://jobright.ai/jobs/info/68e033cef758fe1f97e4ad7c?utm_campaign=1079&utm_source=git)** | El Segundo, CA | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
