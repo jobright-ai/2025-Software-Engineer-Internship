@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Khan Academy](http://khanacademy.org/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68e346a2b99ec3563b0de77c?utm_campaign=1079&utm_source=git)** | Friendly, MD | On Site | Oct 05 |
+| **[Carnival Corporation](http://carnivalcorp.com)** | **[Mobile Developer - IOS - Summer 2026 Intern](https://jobright.ai/jobs/info/68e34350b99ec3563b0de6b3?utm_campaign=1079&utm_source=git)** | Miami, FL | Hybrid | Oct 05 |
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Summer 2026 - Software Engineering - Testing](https://jobright.ai/jobs/info/68e30721f758fe1f97e5b28c?utm_campaign=1079&utm_source=git)** | Rochester, NY | On Site | Oct 05 |
 | ↳ | **[College Intern I - Summer 2026 - Software Engineering - Testing](https://jobright.ai/jobs/info/68e306b01852e62f007f8c45?utm_campaign=1079&utm_source=git)** | DeWitt, NY | On Site | Oct 05 |
 | ↳ | **[College Intern I - Summer 2026 - Software Engineering - Testing](https://jobright.ai/jobs/info/68e30462b99ec3563b0dd3cc?utm_campaign=1079&utm_source=git)** | Utica, NY | On Site | Oct 05 |
@@ -67,7 +69,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Cloud Engineer Intern](https://jobright.ai/jobs/info/68e2efa0b99ec3563b0dd251?utm_campaign=1079&utm_source=git)** | Durham, NC | On Site | Oct 05 |
 | ↳ | **[Cloud Engineer Intern](https://jobright.ai/jobs/info/68e2ef6a1852e62f007f8ad5?utm_campaign=1079&utm_source=git)** | Andover, MA | On Site | Oct 05 |
 | ↳ | **[Cloud Engineer Intern](https://jobright.ai/jobs/info/68e2ec5bb99ec3563b0dd206?utm_campaign=1079&utm_source=git)** | Roseville, CA | Hybrid | Oct 05 |
-| **[Mosaiq Software](https://mosaiq.dev)** | **[Software Engineer Internship (Part-Time)](https://jobright.ai/jobs/info/68e2ec4eb99ec3563b0dd202?utm_campaign=1079&utm_source=git)** | Worcester, MA | Hybrid | Oct 05 |
 | **[BODA Insights](https://www.bodainsights.com)** | **[Full Stack Engineer Intern (with Stripe experience)](https://jobright.ai/jobs/info/68e2d3ca1852e62f007f8868?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 05 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Cloud Engineer Intern](https://jobright.ai/jobs/info/68e2c9721852e62f007f85fd?utm_campaign=1079&utm_source=git)** | Roseville, California, United States of America | Hybrid | Oct 05 |
 | ↳ | **[Cloud Engineer Intern](https://jobright.ai/jobs/info/68e2c94cb99ec3563b0dcd84?utm_campaign=1079&utm_source=git)** | Andover, Massachusetts, United States of America | Hybrid | Oct 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Akuna Capital](https://akunacapital.com)** | **[Software Engineer Intern - Python, Summer 2026](https://jobright.ai/jobs/info/68e034bab99ec3563b0cd4a0?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Oct 03 |
 | **[SeatGeek](https://seatgeek.com)** | **[Software Engineer - Internship](https://jobright.ai/jobs/info/68e03477b99ec3563b0cd449?utm_campaign=1079&utm_source=git)** | New York, New York | On Site | Oct 03 |
 | **[The Aerospace Corporation](http://www.aerospace.org)** | **[2026 Undergraduate Embedded Computing Engineer Intern](https://jobright.ai/jobs/info/68e033cef758fe1f97e4ad7c?utm_campaign=1079&utm_source=git)** | El Segundo, CA | On Site | Oct 03 |
-| ↳ | **[2026 Undergraduate Embedded Computing Engineer Intern](https://jobright.ai/jobs/info/68e033be1852e62f007e87bd?utm_campaign=1079&utm_source=git)** | Chantilly, VA | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
