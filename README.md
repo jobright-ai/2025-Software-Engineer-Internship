@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LSEG](http://www.lseg.com)** | **[Intern - Software Engineer](https://jobright.ai/jobs/info/68e3a8adf758fe1f97e5fb1e?utm_campaign=1079&utm_source=git)** | New York City, United States | On Site | Oct 06 |
+| ↳ | **[Intern - Financial Engineer](https://jobright.ai/jobs/info/68e3a89ef758fe1f97e5fb19?utm_campaign=1079&utm_source=git)** | New York City, United States | Hybrid | Oct 06 |
+| **[SANMINA-SCI TECHNOLOGY INDIA PRIVATE LIMITED](http://www.sanmina.com)** | **[Engineering Intern (Fall 2025)](https://jobright.ai/jobs/info/68e39a56f758fe1f97e5f879?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Oct 06 |
 | **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Platforms and Technology - Software Engineer](https://jobright.ai/jobs/info/68e38aeaf758fe1f97e5f0ce?utm_campaign=1079&utm_source=git)** | Mount Laurel, NJ | Hybrid | Oct 06 |
 | **[Assured Guaranty](http://assuredguaranty.com/)** | **[Product Software Developer – Front-End Intern - Summer 2026](https://jobright.ai/jobs/info/68d1f3728c62e63bc7fd19a5?utm_campaign=1079&utm_source=git)** | New York, NY, United States | On Site | Oct 06 |
 | **[Pella Corporation](http://www.pella.com)** | **[Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68e361391852e62f007fadff?utm_campaign=1079&utm_source=git)** | Pella, IA | On Site | Oct 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lucid Motors](http://lucidmotors.com)** | **[Intern, Embedded Software - Summer 2026](https://jobright.ai/jobs/info/68e03605f758fe1f97e4b1a3?utm_campaign=1079&utm_source=git)** | Newark, CA | On Site | Oct 03 |
 | **[IBM](http://www.ibm.com)** | **[Software Engineering Intern 2026](https://jobright.ai/jobs/info/68e035e8f758fe1f97e4b173?utm_campaign=1079&utm_source=git)** | Poughkeepsie, AR | Hybrid | Oct 03 |
 | ↳ | **[Intern 2026: Software Developer - Security](https://jobright.ai/jobs/info/68e03568b99ec3563b0cd5a5?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Oct 03 |
-| ↳ | **[Software Developer Intern 2026](https://jobright.ai/jobs/info/68e0355fb99ec3563b0cd595?utm_campaign=1079&utm_source=git)** | Poughkeepsie, AR | Hybrid | Oct 03 |
-| **[Blue Cross and Blue Shield of Nebraska](https://www.nebraskablue.com)** | **[Information Services Intern – Software Development & Cloud Engineering: Starts Summer 2026](https://jobright.ai/jobs/info/68e035241852e62f007e8aab?utm_campaign=1079&utm_source=git)** | Omaha, NE | Hybrid | Oct 03 |
-| **[IBM](http://www.ibm.com)** | **[Intern 2026: Quantum Primitives Software Developer](https://jobright.ai/jobs/info/68e034f9f758fe1f97e4b01e?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
