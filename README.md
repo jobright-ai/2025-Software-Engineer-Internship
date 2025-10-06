@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[BotStacks](https://www.botstacks.ai/)** | **[Full Stack Software Engineer Unpaid Internship](https://jobright.ai/jobs/info/68e31768b99ec3563b0dd5ac?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 05 |
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Summer 2026 - Software Engineering - Testing](https://jobright.ai/jobs/info/68e30721f758fe1f97e5b28c?utm_campaign=1079&utm_source=git)** | Rochester, NY | On Site | Oct 05 |
 | ↳ | **[College Intern I - Summer 2026 - Software Engineering - Testing](https://jobright.ai/jobs/info/68e306b01852e62f007f8c45?utm_campaign=1079&utm_source=git)** | DeWitt, NY | On Site | Oct 05 |
 | ↳ | **[College Intern I - Summer 2026 - Software Engineering - Testing](https://jobright.ai/jobs/info/68e30462b99ec3563b0dd3cc?utm_campaign=1079&utm_source=git)** | Utica, NY | On Site | Oct 05 |
@@ -76,14 +75,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Cloud Engineer Intern](https://jobright.ai/jobs/info/68e2c93cf758fe1f97e5ac17?utm_campaign=1079&utm_source=git)** | Bloomington, Minnesota, United States of America | Hybrid | Oct 05 |
 | ↳ | **[Cloud Engineer Intern](https://jobright.ai/jobs/info/68e2c911b99ec3563b0dcd62?utm_campaign=1079&utm_source=git)** | Durham, North Carolina, United States of America | Hybrid | Oct 05 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Frontend Software Engineering Intern](https://jobright.ai/jobs/info/68dc5b4fddc10244dd6748ce?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Oct 05 |
+| **[Web Management Consultants Ltd](https://www.webmanagementconsultants.co.uk)** | **[Software Development Intern](https://jobright.ai/jobs/info/68e331531852e62f007f9546?utm_campaign=1079&utm_source=git)** | Lincoln, NE | On Site | Oct 05 |
 | **[IBM](http://www.ibm.com)** | **[Software Developer Intern: 2026](https://jobright.ai/jobs/info/68e247bc1852e62f007f78c2?utm_campaign=1079&utm_source=git)** | Lowell, MA | Hybrid | Oct 05 |
 | ↳ | **[Software Developer Intern: 2026](https://jobright.ai/jobs/info/68e04fc51852e62f007ea05c?utm_campaign=1079&utm_source=git)** | Rochester, MN | On Site | Oct 05 |
 | **[Pulchritude® Fashion Studio](pulchritudefashion.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68e28298f758fe1f97e5a5b8?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 04 |
 | **[Esync Technologies](http://esynctechnologies.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68e27f7ef758fe1f97e5a583?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 04 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Backend Software Engineer Intern](https://jobright.ai/jobs/info/68dc5fe2accfd24b67e54eb4?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Oct 04 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[HRIS Developer Intern, Spring 2026](https://jobright.ai/jobs/info/68e1b519f758fe1f97e55c8a?utm_campaign=1079&utm_source=git)** | Lake Buena Vista, FL | On Site | Oct 04 |
+| **[Parsons Corporation](http://www.parsons.com)** | **[Software Engineering Intern Summer 2026](https://jobright.ai/jobs/info/68dee71ba125e75c422b7f53?utm_campaign=1079&utm_source=git)** | Herndon, VA | On Site | Oct 04 |
 | **[Impel](https://impel.ai/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68e17d2df758fe1f97e553d5?utm_campaign=1079&utm_source=git)** | Syracuse, NY | On Site | Oct 04 |
-| **[Business Web Solutions (UK)](https://businesswebsolutions.uk)** | **[Full Stack Developer Intern (Remote)](https://jobright.ai/jobs/info/68e1e4a41852e62f007f40cf?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 04 |
 | **[Nutanix](http://www.nutanix.com)** | **[Software Engineering Intern - UNDERGRAD PLEASE ONLY APPLY.](https://jobright.ai/jobs/info/68e14a82f758fe1f97e54e7b?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Oct 04 |
 | **[ADM](http://www.adm.com)** | **[COBOL Developer Intern - Erlanger, KY](https://jobright.ai/jobs/info/68e130c7f758fe1f97e5482b?utm_campaign=1079&utm_source=git)** | Erlanger, KY | On Site | Oct 04 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[IT Software Engineering Intern (Sales Technology) - Summer 2026](https://jobright.ai/jobs/info/68de301544d32141e0bfdde1?utm_campaign=1079&utm_source=git)** | Northbrook, IL | On Site | Oct 04 |
