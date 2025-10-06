@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GenPark](https://genpark.ai)** | **[Web Development Intern](https://jobright.ai/jobs/info/68e372221852e62f007fbdeb?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Oct 06 |
+| **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Platforms and Technology - Software Engineer](https://jobright.ai/jobs/info/68e38aeaf758fe1f97e5f0ce?utm_campaign=1079&utm_source=git)** | Mount Laurel, NJ | Hybrid | Oct 06 |
+| **[Assured Guaranty](http://assuredguaranty.com/)** | **[Product Software Developer – Front-End Intern - Summer 2026](https://jobright.ai/jobs/info/68d1f3728c62e63bc7fd19a5?utm_campaign=1079&utm_source=git)** | New York, NY, United States | On Site | Oct 06 |
 | **[Pella Corporation](http://www.pella.com)** | **[Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68e361391852e62f007fadff?utm_campaign=1079&utm_source=git)** | Pella, IA | On Site | Oct 05 |
 | ↳ | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/68e35e5db99ec3563b0df485?utm_campaign=1079&utm_source=git)** | Pella, IA | On Site | Oct 05 |
 | **[Khan Academy](http://khanacademy.org/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68e346a2b99ec3563b0de77c?utm_campaign=1079&utm_source=git)** | Friendly, MD | On Site | Oct 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Developer Intern 2026](https://jobright.ai/jobs/info/68e0355fb99ec3563b0cd595?utm_campaign=1079&utm_source=git)** | Poughkeepsie, AR | Hybrid | Oct 03 |
 | **[Blue Cross and Blue Shield of Nebraska](https://www.nebraskablue.com)** | **[Information Services Intern – Software Development & Cloud Engineering: Starts Summer 2026](https://jobright.ai/jobs/info/68e035241852e62f007e8aab?utm_campaign=1079&utm_source=git)** | Omaha, NE | Hybrid | Oct 03 |
 | **[IBM](http://www.ibm.com)** | **[Intern 2026: Quantum Primitives Software Developer](https://jobright.ai/jobs/info/68e034f9f758fe1f97e4b01e?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Oct 03 |
-| ↳ | **[Intern 2026: Software Engineer - Semiconductor](https://jobright.ai/jobs/info/68e034c6f758fe1f97e4afca?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
