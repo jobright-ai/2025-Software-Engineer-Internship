@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[IT/Software Development Intern - Summer 2026 - Orlando, FL](https://jobright.ai/jobs/info/68e3dcf2f758fe1f97e6105c?utm_campaign=1079&utm_source=git)** | Orlando, FL | On Site | Oct 06 |
+| **[Altom Transport](http://altomtransport.com)** | **[Winter Software Development Intern](https://jobright.ai/jobs/info/68e3dcbd1852e62f007fe8c2?utm_campaign=1079&utm_source=git)** | Hammond, IN | On Site | Oct 06 |
+| **[ZOLL Medical Corporation](https://www.lifevest.zoll.com)** | **[Software Intern](https://jobright.ai/jobs/info/68e3d7331852e62f007fe618?utm_campaign=1079&utm_source=git)** | Chelmsford, MA | On Site | Oct 06 |
+| **[LSEG](http://www.lseg.com)** | **[Intern – Software Engineer (Java)](https://jobright.ai/jobs/info/68e3d675f758fe1f97e60d03?utm_campaign=1079&utm_source=git)** | Norwell, Massachusetts | Hybrid | Oct 06 |
+| **[Momentive](https://www.momentive.com/)** | **[Software Developer Intern 2026](https://jobright.ai/jobs/info/68e3d5971852e62f007fe3f4?utm_campaign=1079&utm_source=git)** | Niskayuna, NY | On Site | Oct 06 |
+| **[Kiewit](http://www.kiewit.com)** | **[Drainage Engineer Intern - Kiewit Infrastructure Engineers (Summer 2026)](https://jobright.ai/jobs/info/68c7b5fb27f073224060397e?utm_campaign=1079&utm_source=git)** | Lone Tree, CO | On Site | Oct 06 |
 | **[Momentive](https://www.momentive.com/)** | **[Software Developer Intern 2026](https://jobright.ai/jobs/info/68e3c7481852e62f007fdec9?utm_campaign=1079&utm_source=git)** | US NY Niskayuna | On Site | Oct 06 |
 | **[LSEG](http://www.lseg.com)** | **[Intern - Quantitative Services](https://jobright.ai/jobs/info/68e3c705b99ec3563b0e2768?utm_campaign=1079&utm_source=git)** | New York City, United States | Hybrid | Oct 06 |
 | ↳ | **[Intern - Quantitative Services](https://jobright.ai/jobs/info/68e3c6ff1852e62f007fde9b?utm_campaign=1079&utm_source=git)** | USA-Boston-26 Thomson Place | Hybrid | Oct 06 |
@@ -66,7 +72,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Financial Engineer](https://jobright.ai/jobs/info/68e3a89ef758fe1f97e5fb19?utm_campaign=1079&utm_source=git)** | New York City, United States | Hybrid | Oct 06 |
 | **[SANMINA-SCI TECHNOLOGY INDIA PRIVATE LIMITED](http://www.sanmina.com)** | **[Engineering Intern (Fall 2025)](https://jobright.ai/jobs/info/68e39a56f758fe1f97e5f879?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Oct 06 |
 | **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Platforms and Technology - Software Engineer](https://jobright.ai/jobs/info/68e39454f758fe1f97e5f623?utm_campaign=1079&utm_source=git)** | Mount Laurel, NJ | Hybrid | Oct 06 |
-| **[Assured Guaranty](http://assuredguaranty.com/)** | **[Product Software Developer – Front-End Intern - Summer 2026](https://jobright.ai/jobs/info/68d1f3728c62e63bc7fd19a5?utm_campaign=1079&utm_source=git)** | New York, NY, United States | On Site | Oct 06 |
 | **[Pella Corporation](http://www.pella.com)** | **[Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68e361391852e62f007fadff?utm_campaign=1079&utm_source=git)** | Pella, IA | On Site | Oct 05 |
 | ↳ | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/68e35e5db99ec3563b0df485?utm_campaign=1079&utm_source=git)** | Pella, IA | On Site | Oct 05 |
 | **[Khan Academy](http://khanacademy.org/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68e346a2b99ec3563b0de77c?utm_campaign=1079&utm_source=git)** | Friendly, MD | On Site | Oct 05 |
@@ -95,7 +100,6 @@ For a complete list, click the following sortable link below:
 | **[Esync Technologies](http://esynctechnologies.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68e27f7ef758fe1f97e5a583?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 04 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Backend Software Engineer Intern](https://jobright.ai/jobs/info/68dc5fe2accfd24b67e54eb4?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Oct 04 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[HRIS Developer Intern, Spring 2026](https://jobright.ai/jobs/info/68e1b519f758fe1f97e55c8a?utm_campaign=1079&utm_source=git)** | Lake Buena Vista, FL | On Site | Oct 04 |
-| **[Parsons Corporation](http://www.parsons.com)** | **[Software Engineering Intern Summer 2026](https://jobright.ai/jobs/info/68dee71ba125e75c422b7f53?utm_campaign=1079&utm_source=git)** | Herndon, VA | On Site | Oct 04 |
 | **[Impel](https://impel.ai/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68e17d2df758fe1f97e553d5?utm_campaign=1079&utm_source=git)** | Syracuse, NY | On Site | Oct 04 |
 | **[Nutanix](http://www.nutanix.com)** | **[Software Engineering Intern - UNDERGRAD PLEASE ONLY APPLY.](https://jobright.ai/jobs/info/68e14a82f758fe1f97e54e7b?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Oct 04 |
 | **[ADM](http://www.adm.com)** | **[COBOL Developer Intern - Erlanger, KY](https://jobright.ai/jobs/info/68e130c7f758fe1f97e5482b?utm_campaign=1079&utm_source=git)** | Erlanger, KY | On Site | Oct 04 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[2026 Intern: Hybrid Cloud and Quantum Research Scientist](https://jobright.ai/jobs/info/68e03def1852e62f007e94a1?utm_campaign=1079&utm_source=git)** | Cambridge, MA | Hybrid | Oct 03 |
 | ↳ | **[Back End Developer Intern 2026](https://jobright.ai/jobs/info/68e03caf1852e62f007e927f?utm_campaign=1079&utm_source=git)** | Tucson, AZ | Hybrid | Oct 03 |
 | ↳ | **[Cloud-Native Front-end and API Developer Intern 2026](https://jobright.ai/jobs/info/68e03c511852e62f007e91a5?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Oct 03 |
-| **[Astrolab](https://astrolab.space)** | **[Summer 2026 Software Engineering Intern](https://jobright.ai/jobs/info/68e03c261852e62f007e9142?utm_campaign=1079&utm_source=git)** | Hawthorne, CA | On Site | Oct 03 |
-| **[JFK Johnson Rehabilitation Institute ](http://JFKJohnson.org)** | **[IT APPLICATIONS PROGRAMMER IV -WORKDAY STUDENT TECHNICAL ANALYST- DIGITAL TECHNOLOGY SERVICES](https://jobright.ai/jobs/info/68e03bcaf758fe1f97e4b68f?utm_campaign=1079&utm_source=git)** | Edison, NJ | On Site | Oct 03 |
-| **[IBM](http://www.ibm.com)** | **[Intern 2026: Quantum Cloud Engineering](https://jobright.ai/jobs/info/68e03bacb99ec3563b0cdaf4?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Oct 03 |
-| ↳ | **[Software Developer Intern: 2026](https://jobright.ai/jobs/info/68e03b52b99ec3563b0cda77?utm_campaign=1079&utm_source=git)** | Poughkeepsie, AR | Hybrid | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
