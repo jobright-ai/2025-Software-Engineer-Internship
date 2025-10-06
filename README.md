@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Summer 2026 - Software Engineering - Testing](https://jobright.ai/jobs/info/68e30462b99ec3563b0dd3cc?utm_campaign=1079&utm_source=git)** | Utica, NY | On Site | Oct 05 |
+| **[BotStacks](https://www.botstacks.ai/)** | **[Full Stack Software Engineer Unpaid Internship](https://jobright.ai/jobs/info/68e31768b99ec3563b0dd5ac?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 05 |
+| **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Summer 2026 - Software Engineering - Testing](https://jobright.ai/jobs/info/68e30721f758fe1f97e5b28c?utm_campaign=1079&utm_source=git)** | Rochester, NY | On Site | Oct 05 |
+| ↳ | **[College Intern I - Summer 2026 - Software Engineering - Testing](https://jobright.ai/jobs/info/68e306b01852e62f007f8c45?utm_campaign=1079&utm_source=git)** | DeWitt, NY | On Site | Oct 05 |
+| ↳ | **[College Intern I - Summer 2026 - Software Engineering - Testing](https://jobright.ai/jobs/info/68e30462b99ec3563b0dd3cc?utm_campaign=1079&utm_source=git)** | Utica, NY | On Site | Oct 05 |
 | ↳ | **[College Intern I - Summer 2026 - Software Engineering - Testing](https://jobright.ai/jobs/info/68e3045db99ec3563b0dd3c8?utm_campaign=1079&utm_source=git)** | Binghamton, NY | On Site | Oct 05 |
 | ↳ | **[College Intern I - Summer 2026 - Software Engineering - Testing](https://jobright.ai/jobs/info/68e2fe78b99ec3563b0dd36b?utm_campaign=1079&utm_source=git)** | Elmira, NY | On Site | Oct 05 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Cloud Engineer Intern](https://jobright.ai/jobs/info/68e2efd2f758fe1f97e5b0ce?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Oct 05 |
@@ -66,7 +69,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Cloud Engineer Intern](https://jobright.ai/jobs/info/68e2ef6a1852e62f007f8ad5?utm_campaign=1079&utm_source=git)** | Andover, MA | On Site | Oct 05 |
 | ↳ | **[Cloud Engineer Intern](https://jobright.ai/jobs/info/68e2ec5bb99ec3563b0dd206?utm_campaign=1079&utm_source=git)** | Roseville, CA | Hybrid | Oct 05 |
 | **[Mosaiq Software](https://mosaiq.dev)** | **[Software Engineer Internship (Part-Time)](https://jobright.ai/jobs/info/68e2ec4eb99ec3563b0dd202?utm_campaign=1079&utm_source=git)** | Worcester, MA | Hybrid | Oct 05 |
-| **[Xivius](https://www.linkedin.com/company/107599035)** | **[Full-Stack Developer Intern](https://jobright.ai/jobs/info/68e2ebdc1852e62f007f8a56?utm_campaign=1079&utm_source=git)** | Beverly Hills, CA | On Site | Oct 05 |
 | **[BODA Insights](https://www.bodainsights.com)** | **[Full Stack Engineer Intern (with Stripe experience)](https://jobright.ai/jobs/info/68e2d3ca1852e62f007f8868?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 05 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Cloud Engineer Intern](https://jobright.ai/jobs/info/68e2c9721852e62f007f85fd?utm_campaign=1079&utm_source=git)** | Roseville, California, United States of America | Hybrid | Oct 05 |
 | ↳ | **[Cloud Engineer Intern](https://jobright.ai/jobs/info/68e2c94cb99ec3563b0dcd84?utm_campaign=1079&utm_source=git)** | Andover, Massachusetts, United States of America | Hybrid | Oct 05 |
@@ -75,6 +77,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Cloud Engineer Intern](https://jobright.ai/jobs/info/68e2c911b99ec3563b0dcd62?utm_campaign=1079&utm_source=git)** | Durham, North Carolina, United States of America | Hybrid | Oct 05 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Frontend Software Engineering Intern](https://jobright.ai/jobs/info/68dc5b4fddc10244dd6748ce?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Oct 05 |
 | **[IBM](http://www.ibm.com)** | **[Software Developer Intern: 2026](https://jobright.ai/jobs/info/68e247bc1852e62f007f78c2?utm_campaign=1079&utm_source=git)** | Lowell, MA | Hybrid | Oct 05 |
+| ↳ | **[Software Developer Intern: 2026](https://jobright.ai/jobs/info/68e04fc51852e62f007ea05c?utm_campaign=1079&utm_source=git)** | Rochester, MN | On Site | Oct 05 |
 | **[Pulchritude® Fashion Studio](pulchritudefashion.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68e28298f758fe1f97e5a5b8?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 04 |
 | **[Esync Technologies](http://esynctechnologies.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68e27f7ef758fe1f97e5a583?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 04 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Backend Software Engineer Intern](https://jobright.ai/jobs/info/68dc5fe2accfd24b67e54eb4?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Oct 04 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SeatGeek](https://seatgeek.com)** | **[Software Engineer - Internship](https://jobright.ai/jobs/info/68e03477b99ec3563b0cd449?utm_campaign=1079&utm_source=git)** | New York, New York | On Site | Oct 03 |
 | **[The Aerospace Corporation](http://www.aerospace.org)** | **[2026 Undergraduate Embedded Computing Engineer Intern](https://jobright.ai/jobs/info/68e033cef758fe1f97e4ad7c?utm_campaign=1079&utm_source=git)** | El Segundo, CA | On Site | Oct 03 |
 | ↳ | **[2026 Undergraduate Embedded Computing Engineer Intern](https://jobright.ai/jobs/info/68e033be1852e62f007e87bd?utm_campaign=1079&utm_source=git)** | Chantilly, VA | On Site | Oct 03 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[HRIS Developer Intern, Spring 2026](https://jobright.ai/jobs/info/68e03388f758fe1f97e4ac98?utm_campaign=1079&utm_source=git)** | Lake Buena Vista, FL, USA | Hybrid | Oct 03 |
-| **[IBM](http://www.ibm.com)** | **[2026 Intern: Software Engineer – AI-powered Automation](https://jobright.ai/jobs/info/68e03352f758fe1f97e4abe6?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Oct 03 |
-| ↳ | **[Back End Developer Intern 2026](https://jobright.ai/jobs/info/68e03328f758fe1f97e4ab53?utm_campaign=1079&utm_source=git)** | Poughkeepsie, AR | Hybrid | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
