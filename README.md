@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Research Support Assistant (Software Engineer) - Fall 2025](https://jobright.ai/jobs/info/68e4be7dae2b894b1d708317?utm_campaign=1079&utm_source=git)** | Tampa, FL | On Site | Oct 07 |
+| **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Software Development Internship](https://jobright.ai/jobs/info/68e4bcd11852e62f00808f31?utm_campaign=1079&utm_source=git)** | Fort Wayne, IN | On Site | Oct 07 |
+| **[Kinective](https://www.kinective.io)** | **[Software Development Intern](https://jobright.ai/jobs/info/68e4b70b1852e62f00808b40?utm_campaign=1079&utm_source=git)** | Golden, CO | Hybrid | Oct 06 |
+| **[Microsoft](https://www.microsoft.com)** | **[Software Engineer: Fullstack Internship Opportunities, Neurodiversity Hiring Program](https://jobright.ai/jobs/info/68e4b6eeae2b894b1d707c28?utm_campaign=1079&utm_source=git)** | Redmond, Washington, United States | Hybrid | Oct 06 |
+| **[Southwest Airlines](http://www.southwest.com/)** | **[Software Engineer (UI-UX) Summer 2026 Intern](https://jobright.ai/jobs/info/68e4aa87b99ec3563b0ecc58?utm_campaign=1079&utm_source=git)** | TX-Dallas | Remote | Oct 06 |
 | **[Vertex Inc.](https://www.vertexinc.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/68e49c22b99ec3563b0ec54c?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 06 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68e492fe1852e62f00807823?utm_campaign=1079&utm_source=git)** | Arden Hills, MN | On Site | Oct 06 |
 | **[Wealth.com](https://wealth.com)** | **[Software Engineer Internship](https://jobright.ai/jobs/info/68e492d11852e62f008077f4?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 06 |
@@ -83,10 +88,10 @@ For a complete list, click the following sortable link below:
 | **[Anduril Industries](https://www.anduril.com)** | **[Embedded Haskell Developer Intern](https://jobright.ai/jobs/info/68e44a6fb99ec3563b0e8ca1?utm_campaign=1079&utm_source=git)** | Costa Mesa, California, United States | On Site | Oct 06 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - Fluids Software Engineer](https://jobright.ai/jobs/info/68e448ac1852e62f008042b6?utm_campaign=1079&utm_source=git)** | Waltham, MA | Hybrid | Oct 06 |
 | **[DoorDash](http://www.doordash.com)** | **[Software Engineer, Intern (Summer 2026) - US](https://jobright.ai/jobs/info/68e447c4b99ec3563b0e87b3?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Oct 06 |
+| **[Boston Scientific](http://www.bostonscientific.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68df521e5ab4977c2e9530fe?utm_campaign=1079&utm_source=git)** | Arden Hills, MN | Hybrid | Oct 06 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Test Engineer Intern](https://jobright.ai/jobs/info/68e446e11852e62f00803f1c?utm_campaign=1079&utm_source=git)** | US - WI - Madison | On Site | Oct 06 |
 | **[Lumen Technologies](https://www.lumen.com)** | **[Intern - Cloud Developer - Summer 2026](https://jobright.ai/jobs/info/68e442d7b99ec3563b0e8512?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 06 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68e44282b99ec3563b0e8496?utm_campaign=1079&utm_source=git)** | Boulder, CO | On Site | Oct 06 |
-| **[THE DREAM BOWL](http://www.dreambowl.net)** | **[Mobile Dev Lead Intern](https://jobright.ai/jobs/info/68e440d8f758fe1f97e66186?utm_campaign=1079&utm_source=git)** | DFW Metroplex | Hybrid | Oct 06 |
 | **[Lumen Technologies](https://www.lumen.com)** | **[Intern - Software Developer - Summer 2026](https://jobright.ai/jobs/info/68e440a0b99ec3563b0e825c?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 06 |
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Firmware Engineering Intern (Summer 2026) - St. Louis, MO](https://jobright.ai/jobs/info/68e43edd1852e62f008037d1?utm_campaign=1079&utm_source=git)** | St Louis, MO | On Site | Oct 06 |
 | **[Lumen Technologies](https://www.lumen.com)** | **[Intern - Cloud Developer - Summer 2026](https://jobright.ai/jobs/info/68e438e41852e62f00803304?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 06 |
@@ -141,7 +146,6 @@ For a complete list, click the following sortable link below:
 | **[Pella Corporation](http://www.pella.com)** | **[Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68e361391852e62f007fadff?utm_campaign=1079&utm_source=git)** | Pella, IA | On Site | Oct 05 |
 | ↳ | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/68e35e5db99ec3563b0df485?utm_campaign=1079&utm_source=git)** | Pella, IA | On Site | Oct 05 |
 | **[Khan Academy](http://khanacademy.org/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68e346a2b99ec3563b0de77c?utm_campaign=1079&utm_source=git)** | Friendly, MD | On Site | Oct 05 |
-| **[CUDDLE CRAFTER](https://www.cuddlecrafter.com)** | **[Frontend Developer Intern (React / Next.js)](https://jobright.ai/jobs/info/68e4a944ae2b894b1d707659?utm_campaign=1079&utm_source=git)** | Miami, FL | Remote | Oct 05 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[Mobile Developer - IOS - Summer 2026 Intern](https://jobright.ai/jobs/info/68e34350b99ec3563b0de6b3?utm_campaign=1079&utm_source=git)** | Miami, FL | Hybrid | Oct 05 |
 | **[Phoenix Suns](https://suns.nba.com)** | **[Basketball Software Engineering Seasonal Intern](https://jobright.ai/jobs/info/68e482b71852e62f00806a89?utm_campaign=1079&utm_source=git)** | Phoenix, AZ | On Site | Oct 05 |
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Summer 2026 - Software Engineering - Testing](https://jobright.ai/jobs/info/68e30721f758fe1f97e5b28c?utm_campaign=1079&utm_source=git)** | Rochester, NY | On Site | Oct 05 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Cloud Engineer Intern](https://jobright.ai/jobs/info/68e2efb1b99ec3563b0dd256?utm_campaign=1079&utm_source=git)** | Bloomington, MN | On Site | Oct 05 |
 | ↳ | **[Cloud Engineer Intern](https://jobright.ai/jobs/info/68e2efa0b99ec3563b0dd251?utm_campaign=1079&utm_source=git)** | Durham, NC | On Site | Oct 05 |
 | ↳ | **[Cloud Engineer Intern](https://jobright.ai/jobs/info/68e2ef6a1852e62f007f8ad5?utm_campaign=1079&utm_source=git)** | Andover, MA | On Site | Oct 05 |
-| ↳ | **[Cloud Engineer Intern](https://jobright.ai/jobs/info/68e2ec5bb99ec3563b0dd206?utm_campaign=1079&utm_source=git)** | Roseville, CA | Hybrid | Oct 05 |
-| **[SleepFix.ai](https://www.sleepfix.ai/)** | **[Backend AI Engineering Intern](https://jobright.ai/jobs/info/68e4a3011852e62f008082a7?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 05 |
-| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Cloud Engineer Intern](https://jobright.ai/jobs/info/68e2c9721852e62f007f85fd?utm_campaign=1079&utm_source=git)** | Roseville, California, United States of America | Hybrid | Oct 05 |
-| ↳ | **[Cloud Engineer Intern](https://jobright.ai/jobs/info/68e2c94cb99ec3563b0dcd84?utm_campaign=1079&utm_source=git)** | Andover, Massachusetts, United States of America | Hybrid | Oct 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
