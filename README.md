@@ -57,16 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Macy's](http://www.macysjobs.com)** | **[Macy's Technology 2026 Summer Internship](https://jobright.ai/jobs/info/68e52d31ae2b894b1d70b633?utm_campaign=1079&utm_source=git)** | 5985 State Bridge Road, Johns Creek, GA, 30097, US | On Site | Oct 07 |
+| **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Software Engineering Intern - Bellevue (NE)](https://jobright.ai/jobs/info/68e529abb99ec3563b0f0b51?utm_campaign=1079&utm_source=git)** | United States-Nebraska-Bellevue | On Site | Oct 07 |
+| **[The Wall Street Journal](https://www.wjs.com/)** | **[Summer 2026 Internship - Enterprise Application Intern](https://jobright.ai/jobs/info/68e529681852e62f0080c348?utm_campaign=1079&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Oct 07 |
+| ↳ | **[Summer 2026 Internship - SAP Intern](https://jobright.ai/jobs/info/68e52789ae2b894b1d70b229?utm_campaign=1079&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Oct 07 |
+| **[AT&T](https://www.att.com/)** | **[Technology Development Program Intern (2026)](https://jobright.ai/jobs/info/68e51ecaae2b894b1d70adcc?utm_campaign=1079&utm_source=git)** | Bothell, Washington | On Site | Oct 07 |
+| **[KCF Technologies, Inc.](http://www.kcftech.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68e51a81ae2b894b1d70ab27?utm_campaign=1079&utm_source=git)** | United States | Hybrid | Oct 07 |
 | **[Nitro Software](http://www.gonitro.com)** | **[Software Engineer Intern (Python)](https://jobright.ai/jobs/info/68e50ca4b99ec3563b0efdc6?utm_campaign=1079&utm_source=git)** | College, AK | On Site | Oct 07 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Software Engineer](https://jobright.ai/jobs/info/68e4e1f6ae2b894b1d709b9b?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO | On Site | Oct 07 |
-| ↳ | **[2026 Summer Intern: Associate Quality Assurance Analyst](https://jobright.ai/jobs/info/68e4e105ae2b894b1d709aee?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Oct 07 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Software Engineer](https://jobright.ai/jobs/info/68e4e5861852e62f0080ac5d?utm_campaign=1079&utm_source=git)** | Maryland Heights, MO | On Site | Oct 07 |
+| ↳ | **[2026 Summer Intern: Software Engineer](https://jobright.ai/jobs/info/68e4e1f6ae2b894b1d709b9b?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO | On Site | Oct 07 |
 | **[Atomic Semi](https://atomicsemi.com)** | **[Rust Software Engineering Intern - Summer](https://jobright.ai/jobs/info/68e4dff71852e62f0080aa6c?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Oct 07 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Software Engineer](https://jobright.ai/jobs/info/68e4dfc8ae2b894b1d709a1b?utm_campaign=1079&utm_source=git)** | Englewood, CO | On Site | Oct 07 |
-| ↳ | **[2026 Summer Intern: Software Engineer](https://jobright.ai/jobs/info/68e4de6e1852e62f0080a909?utm_campaign=1079&utm_source=git)** | Maryland Heights, MO | On Site | Oct 07 |
 | ↳ | **[2026 Summer Intern: Data Infrastructure Engineer 1](https://jobright.ai/jobs/info/68e4db07ae2b894b1d7097eb?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Oct 07 |
 | **[Kinective](https://www.kinective.io)** | **[Software Development Intern](https://jobright.ai/jobs/info/68e4d9b9b99ec3563b0eedcd?utm_campaign=1079&utm_source=git)** | Golden, CO | On Site | Oct 07 |
 | **[Microsoft](https://www.microsoft.com)** | **[Software Engineer: Fullstack Internship Opportunities, Neurodiversity Hiring Program](https://jobright.ai/jobs/info/68e4d8a71852e62f0080a5fa?utm_campaign=1079&utm_source=git)** | Redmond, WA | Hybrid | Oct 07 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Software Engineer](https://jobright.ai/jobs/info/68e4d3a2b99ec3563b0ee992?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO | On Site | Oct 07 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Quality Assurance Analyst](https://jobright.ai/jobs/info/68e4d54b1852e62f0080a4ca?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Oct 07 |
+| ↳ | **[2026 Summer Intern: Software Engineer](https://jobright.ai/jobs/info/68e4d3a2b99ec3563b0ee992?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO | On Site | Oct 07 |
 | ↳ | **[2026 Summer Intern: Software Engineer](https://jobright.ai/jobs/info/68e4cf7eae2b894b1d7091ec?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO | On Site | Oct 07 |
 | ↳ | **[2026 Summer Intern: Advanced Technology](https://jobright.ai/jobs/info/68e4cd97b99ec3563b0ee4c3?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO | On Site | Oct 07 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Research Support Assistant (Software Engineer) - Fall 2025](https://jobright.ai/jobs/info/68e4be7dae2b894b1d708317?utm_campaign=1079&utm_source=git)** | Tampa, FL | On Site | Oct 07 |
@@ -137,7 +143,9 @@ For a complete list, click the following sortable link below:
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68e3f4421852e62f007ff9d5?utm_campaign=1079&utm_source=git)** | White Plains, NY United States of America | Hybrid | Oct 06 |
 | **[LSEG](http://www.lseg.com)** | **[Intern - Financial Engineer](https://jobright.ai/jobs/info/68e3f393f758fe1f97e61f8c?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Oct 06 |
 | **[Arch Capital Group Ltd.](https://www.archgroup.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68e3f38b1852e62f007ff8df?utm_campaign=1079&utm_source=git)** | Morristown, NJ | Hybrid | Oct 06 |
-| **[LSEG](http://www.lseg.com)** | **[Intern - Software Engineer](https://jobright.ai/jobs/info/68e3f2caf758fe1f97e61ecd?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Oct 06 |
+| **[LSEG](http://www.lseg.com)** | **[Intern - Quantitative Services](https://jobright.ai/jobs/info/68e531ddb99ec3563b0f12e3?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Oct 06 |
+| ↳ | **[Intern - Quantitative Services](https://jobright.ai/jobs/info/68e5305f1852e62f0080c94a?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Oct 06 |
+| ↳ | **[Intern - Software Engineer](https://jobright.ai/jobs/info/68e3f2caf758fe1f97e61ecd?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Oct 06 |
 | **[TwinMind](https://twinmind.com)** | **[Android Engineer (Full-time/Internship)](https://jobright.ai/jobs/info/68e3f2b8f758fe1f97e61ebc?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 06 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Software Engineer - Intern](https://jobright.ai/jobs/info/68e3ebeef758fe1f97e61b18?utm_campaign=1079&utm_source=git)** | Scottsdale, AZ | Hybrid | Oct 06 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Jr. Software Engineer Intern- D&IT](https://jobright.ai/jobs/info/68e3ea881852e62f007ff323?utm_campaign=1079&utm_source=git)** | Cary, NC | Hybrid | Oct 06 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LSEG](http://www.lseg.com)** | **[Intern – Software Engineer (Java)](https://jobright.ai/jobs/info/68e3d675f758fe1f97e60d03?utm_campaign=1079&utm_source=git)** | Norwell, Massachusetts | Hybrid | Oct 06 |
 | **[Kiewit](http://www.kiewit.com)** | **[Drainage Engineer Intern - Kiewit Infrastructure Engineers (Summer 2026)](https://jobright.ai/jobs/info/68c7b5fb27f073224060397e?utm_campaign=1079&utm_source=git)** | Lone Tree, CO | On Site | Oct 06 |
 | **[Momentive](https://www.momentive.com/)** | **[Software Developer Intern 2026](https://jobright.ai/jobs/info/68e3c7481852e62f007fdec9?utm_campaign=1079&utm_source=git)** | US NY Niskayuna | On Site | Oct 06 |
-| **[LSEG](http://www.lseg.com)** | **[Intern - Quantitative Services](https://jobright.ai/jobs/info/68e3c705b99ec3563b0e2768?utm_campaign=1079&utm_source=git)** | New York City, United States | Hybrid | Oct 06 |
-| ↳ | **[Intern - Quantitative Services](https://jobright.ai/jobs/info/68e3c6ff1852e62f007fde9b?utm_campaign=1079&utm_source=git)** | USA-Boston-26 Thomson Place | Hybrid | Oct 06 |
-| **[ZOLL Cardiac Management Solutions](https://cardiac.zoll.com/)** | **[Software Intern](https://jobright.ai/jobs/info/68e3bb491852e62f007fd852?utm_campaign=1079&utm_source=git)** | Chelmsford, MA | On Site | Oct 06 |
-| **[Muon Space](https://www.muonspace.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68e3b4af1852e62f007fd68f?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Oct 06 |
-| **[LSEG](http://www.lseg.com)** | **[Intern - Software Engineer](https://jobright.ai/jobs/info/68e3a8adf758fe1f97e5fb1e?utm_campaign=1079&utm_source=git)** | New York City, United States | On Site | Oct 06 |
-| ↳ | **[Intern - Financial Engineer](https://jobright.ai/jobs/info/68e3a89ef758fe1f97e5fb19?utm_campaign=1079&utm_source=git)** | New York City, United States | Hybrid | Oct 06 |
-| **[SANMINA-SCI TECHNOLOGY INDIA PRIVATE LIMITED](http://www.sanmina.com)** | **[Engineering Intern (Fall 2025)](https://jobright.ai/jobs/info/68e39a56f758fe1f97e5f879?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Oct 06 |
-| **[Pella Corporation](http://www.pella.com)** | **[Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68e361391852e62f007fadff?utm_campaign=1079&utm_source=git)** | Pella, IA | On Site | Oct 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
