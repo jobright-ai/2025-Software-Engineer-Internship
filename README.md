@@ -57,19 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lila Sciences](http://www.lila.ai)** | **[Intern, Security & Cloud Engineering](https://jobright.ai/jobs/info/68e6822aae2b894b1d71ae6e?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Oct 08 |
+| **[Garner Health](https://www.getgarner.com/)** | **[Full Stack Engineering Intern](https://jobright.ai/jobs/info/68e67fbd1852e62f0081b90f?utm_campaign=1079&utm_source=git)** | New York City, New York | On Site | Oct 08 |
+| **[RTX](http://www.raytheon.com)** | **[2026 Intern -  Software Fellow Engineer Intern - Onsite (PA)](https://jobright.ai/jobs/info/68e67d751852e62f0081b795?utm_campaign=1079&utm_source=git)** | PA602: 302 Science Park Road, Bldg 5C 302 Science Park Road Building 5C, State College, PA, 16803-2214 USA | Hybrid | Oct 08 |
+| **[Copart](http://www.copart.com)** | **[QA Engineer Intern](https://jobright.ai/jobs/info/68e67b6fe8daec61499ab763?utm_campaign=1079&utm_source=git)** | Dallas, TX - Headquarters | On Site | Oct 08 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Mobile App Developer Intern (May to August)](https://jobright.ai/jobs/info/68cf7b6afb49c96ca6ea8dbd?utm_campaign=1079&utm_source=git)** | Needham, MA | Hybrid | Oct 08 |
 | **[ADP](http://www.adp.com)** | **[Summer 2026 Application Development Internship](https://jobright.ai/jobs/info/68cf0825846f0b04af67ecb2?utm_campaign=1079&utm_source=git)** | Alpharetta, GA | On Site | Oct 08 |
 | **[Meta](https://www.meta.com)** | **[Software Engineer, Intern/Co-op](https://jobright.ai/jobs/info/68cd5ee5e23def7af55b90b7?utm_campaign=1079&utm_source=git)** | Bellevue, WA | On Site | Oct 08 |
 | **[Intrepid Control Systems](https://www.intrepidcs.com/)** | **[Embedded Firmware Intern](https://jobright.ai/jobs/info/68e64eb1ae2b894b1d719a14?utm_campaign=1079&utm_source=git)** | Michigan, United States | On Site | Oct 08 |
 | **[Meta](https://www.meta.com)** | **[Software Engineer, Intern/Co-op](https://jobright.ai/jobs/info/68e64e5c1852e62f0081a6b4?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Oct 08 |
+| **[Intrepid Control Systems](https://www.intrepidcs.com/)** | **[Software Intern](https://jobright.ai/jobs/info/68e6710ae8daec61499ab3e7?utm_campaign=1079&utm_source=git)** | Michigan, United States | On Site | Oct 08 |
 | **[Bechtel Corporation](http://www.bechtel.com)** | **[2026 Student Internship (U.S.) - Information & Digital (I&D) Intern](https://jobright.ai/jobs/info/68e648ce1852e62f0081a54e?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 08 |
 | **[ADP](http://www.adp.com)** | **[Summer 2026 Application Development Internship](https://jobright.ai/jobs/info/68ddae1444d32141e0bfa1a5?utm_campaign=1079&utm_source=git)** | Florham Park, NJ | On Site | Oct 08 |
 | **[Crowe](https://www.crowe.com/)** | **[Power Platform Business Solutions Intern](https://jobright.ai/jobs/info/68acf397758f2e4ac3009c3c?utm_campaign=1079&utm_source=git)** | Sacramento, CA | On Site | Oct 08 |
+| ↳ | **[Power Platform Business Solutions Intern](https://jobright.ai/jobs/info/68ad0be9daf1431824c9a187?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Oct 08 |
 | **[Bechtel Corporation](http://www.bechtel.com)** | **[2026 Student Internship (U.S.) - Startup Engineer Intern](https://jobright.ai/jobs/info/68e653da1852e62f0081a913?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 08 |
 | **[Maschinenfabrik Reinhausen](http://www.reinhausen.com/en/desktopdefault.aspx/tabid-11)** | **[Computer Engineering - Summer 2026 Intern](https://jobright.ai/jobs/info/68e654371852e62f0081a944?utm_campaign=1079&utm_source=git)** | Humboldt, TN | On Site | Oct 08 |
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Trusted Methods Graduate Intern (Summer 2026)(Remote)](https://jobright.ai/jobs/info/68e62d27e8daec61499a9cef?utm_campaign=1079&utm_source=git)** | Florida, United States | Hybrid | Oct 08 |
 | **[GMI Cloud](https://www.gmicloud.ai)** | **[AI Cloud Solution Architect (Intern)](https://jobright.ai/jobs/info/68e624d3e8daec61499a95ad?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Oct 08 |
-| **[Anti Capital](https://anticapital.ai)** | **[Trading System Developer Intern (Rust)](https://jobright.ai/jobs/info/68e64084e8daec61499aa4b6?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Oct 08 |
 | **[Fort Washington Investment Advisors, Inc.](http://www.fortwashington.com)** | **[Software Development Intern (Full Year 2026)](https://jobright.ai/jobs/info/68e619aeae2b894b1d717da3?utm_campaign=1079&utm_source=git)** | US-OH-CINCINNATI | On Site | Oct 08 |
 | **[Arizona Public Service - APS](http://www.aps.com)** | **[2026 Summer Internship - Information Technology](https://jobright.ai/jobs/info/68e63a561852e62f0081a1df?utm_campaign=1079&utm_source=git)** | Phoenix, AZ | Hybrid | Oct 08 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Software Development Internship](https://jobright.ai/jobs/info/68e5f0c01852e62f0081681e?utm_campaign=1079&utm_source=git)** | Sinton, TX | On Site | Oct 07 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Engineer Intern](https://jobright.ai/jobs/info/68c1ef8963b706703e1105bf?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Oct 07 |
 | **[TransPerfect](http://www.transperfect.com)** | **[QA Analyst Intern](https://jobright.ai/jobs/info/68e5539bae2b894b1d70d817?utm_campaign=1079&utm_source=git)** | US-New York, NY (1250 Broadway) | On Site | Oct 07 |
 | **[Cencora](http://www.cencora.com)** | **[EDI Developer Intern](https://jobright.ai/jobs/info/68e55265b99ec3563b0f2cc2?utm_campaign=1079&utm_source=git)** | Conshohocken, PA | On Site | Oct 07 |
-| **[Altom Transport](http://altomtransport.com)** | **[Summer 2026 Software Development Intern](https://jobright.ai/jobs/info/68e570121852e62f0080ffa8?utm_campaign=1079&utm_source=git)** | Hammond, IN | On Site | Oct 07 |
-| **[Textron](http://textron.com)** | **[2026 Internship - Quality Assurance Engineer (Customer Quality)](https://jobright.ai/jobs/info/68e54bfdae2b894b1d70d10c?utm_campaign=1079&utm_source=git)** | US-Kansas-Wichita | On Site | Oct 07 |
-| **[We Insure](https://weinsuregroup.com/)** | **[2026 AFS Technology Internship Program](https://jobright.ai/jobs/info/68e548c2ae2b894b1d70ce89?utm_campaign=1079&utm_source=git)** | Dallas, TX | Hybrid | Oct 07 |
-| **[Philips](https://www.usa.philips.com)** | **[Intern-Embedded Software Engineering-Murrysville, PA-Summer 2026](https://jobright.ai/jobs/info/68e548511852e62f0080dc04?utm_campaign=1079&utm_source=git)** | Murrysville | On Site | Oct 07 |
-| **[We Insure](https://weinsuregroup.com/)** | **[2026 AFS Technology Internship Program](https://jobright.ai/jobs/info/68e5483eb99ec3563b0f2413?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
