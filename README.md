@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Itron, Inc.](http://www.itron.com)** | **[Intern - Embedded Firmware (January 2026)](https://jobright.ai/jobs/info/68e8810bc72beb74cb31f5db?utm_campaign=1079&utm_source=git)** | West Union, SC | On Site | Oct 09 |
+| **[Keysight Technologies](https://www.keysight.com)** | **[R&D Software Engineering Internship-NAS/Product Strategy Org](https://jobright.ai/jobs/info/68e872b0c72beb74cb31e9fd?utm_campaign=1079&utm_source=git)** | Calabasas, CA | Remote | Oct 09 |
+| **[Ninth Wave](https://ninth-wave.com/)** | **[Jr. Java Software Developer Internship](https://jobright.ai/jobs/info/68e87248cc49a84b7e106438?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Oct 09 |
+| **[Pratt & Whitney](https://prattwhitney.com/)** | **[Intern: Summer 2026 - Control/Diagnostic Software (Onsite)](https://jobright.ai/jobs/info/68e86ddb09580a2fe57f7936?utm_campaign=1079&utm_source=git)** | Palm Beach Gardens, FL | On Site | Oct 09 |
+| **[Keysight Technologies](https://www.keysight.com)** | **[R&D Software Engineering Internship-NAS/Product Strategy Org](https://jobright.ai/jobs/info/68e86657c72beb74cb31e532?utm_campaign=1079&utm_source=git)** | Calabasas, California | On Site | Oct 09 |
+| **[Micron Technology](http://www.micron.com)** | **[Intern - Design Architect, HBM](https://jobright.ai/jobs/info/68e865e6cc49a84b7e105d5f?utm_campaign=1079&utm_source=git)** | Richardson, TX | On Site | Oct 09 |
 | **[Ninth Wave](https://ninth-wave.com/)** | **[Jr. Java Software Developer Internship](https://jobright.ai/jobs/info/68e85d1ec72beb74cb31ddcf?utm_campaign=1079&utm_source=git)** | New York, New York, United States | On Site | Oct 09 |
 | **[tms](https://themarketingstore.com)** | **[Multimedia Developer Intern](https://jobright.ai/jobs/info/68e85b2209580a2fe57f6af9?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Oct 09 |
 | **[Steelcase](https://www.steelcase.com/)** | **[2026 IT Summer Intern - Grand Rapids, MI](https://jobright.ai/jobs/info/68e85adac72beb74cb31dbf3?utm_campaign=1079&utm_source=git)** | Grand Rapids, MI | On Site | Oct 09 |
@@ -66,7 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Kiewit](http://www.kiewit.com)** | **[Integrative Engineer Intern - Kiewit Infrastructure Engineers (Summer 2026)](https://jobright.ai/jobs/info/68e852aec72beb74cb31d842?utm_campaign=1079&utm_source=git)** | Lone Tree, CO | On Site | Oct 09 |
 | **[Marketeq Media Inc.](http://marketeqmedia.co)** | **[Blockchain Engineering Internship – Smart Contracts & Tokenomics](https://jobright.ai/jobs/info/68e84df009580a2fe57f6644?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 09 |
 | **[SK hynix memory solutions America Inc.](http://www.skhms.com)** | **[Software Engineer Inter in Test - Fall 2025](https://jobright.ai/jobs/info/68e84d6ec72beb74cb31d6fe?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Oct 09 |
-| **[Itron, Inc.](http://www.itron.com)** | **[Intern - Embedded Firmware (January 2026)](https://jobright.ai/jobs/info/68e84680c72beb74cb31d1df?utm_campaign=1079&utm_source=git)** | United States of America, South Carolina, West Union | On Site | Oct 09 |
+| **[Itron, Inc.](http://www.itron.com)** | **[Intern - Embedded Firmware (January 2026)](https://jobright.ai/jobs/info/68e846c509580a2fe57f62e1?utm_campaign=1079&utm_source=git)** | United States of America, South Carolina, West Union | On Site | Oct 09 |
 | **[KeyBank](https://www.key.com)** | **[Technology Analyst-Micro Intern](https://jobright.ai/jobs/info/68e83f55cc49a84b7e10460c?utm_campaign=1079&utm_source=git)** | Brooklyn, OH | On Site | Oct 09 |
 | **[Ericsson](https://www.ericsson.com)** | **[SWE & Automation Intern](https://jobright.ai/jobs/info/68e83dd8c72beb74cb31c9fb?utm_campaign=1079&utm_source=git)** | Plano, TX | On Site | Oct 09 |
 | **[Anyscale](https://anyscale.com)** | **[Software Engineer (Intern 26')](https://jobright.ai/jobs/info/68e81a5ec4895107182c258f?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Oct 09 |
@@ -115,7 +121,6 @@ For a complete list, click the following sortable link below:
 | **[Chess.com](http://www.chess.com)** | **[Engineering Internship, Frontend](https://jobright.ai/jobs/info/68e7b7ca09580a2fe57eedd0?utm_campaign=1079&utm_source=git)** | Remote (United States) | Remote | Oct 09 |
 | **[Expedia Group](https://www.expediagroup.com)** | **[Software Development Engineering Intern - 2026 - Austin, San Jose, Seattle](https://jobright.ai/jobs/info/68e7b784cc49a84b7e0fd2f3?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Oct 09 |
 | **[Chess.com](http://www.chess.com)** | **[Engineering Internship, Backend](https://jobright.ai/jobs/info/68e7b596c4895107182bd15d?utm_campaign=1079&utm_source=git)** | Remote (United States) | Remote | Oct 09 |
-| **[Expedia Group](https://www.expediagroup.com)** | **[Cloud Engineering Intern - 2026 - Austin, San Jose](https://jobright.ai/jobs/info/68e7b50dcc49a84b7e0fcdc1?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Oct 09 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Software Engineer Intern](https://jobright.ai/jobs/info/68cb8bc9efdec76df36be6e4?utm_campaign=1079&utm_source=git)** | San Mateo, CA | On Site | Oct 09 |
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Summer 2026 - IEF - Software Engineering College Intern](https://jobright.ai/jobs/info/68de96e209bda65a4b62b9a0?utm_campaign=1079&utm_source=git)** | Savannah, GA | On Site | Oct 09 |
 | **[Oracle](https://www.oracle.com/)** | **[Advanced Degree Software Engineer Intern - Fusion](https://jobright.ai/jobs/info/68e79b8160ad860a1dc80a97?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 09 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 PhD Software Engineer Intern (Programming Systems Group), United States](https://jobright.ai/jobs/info/68e6fe82e8daec61499b126f?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Oct 08 |
 | **[Anyscale](https://anyscale.com)** | **[Software Engineer (Intern 26')](https://jobright.ai/jobs/info/68e80f18cc49a84b7e1015a0?utm_campaign=1079&utm_source=git)** | San Francisco or Palo Alto, CA | On Site | Oct 08 |
 | **[Waymo](https://waymo.com)** | **[2026 Summer Intern, BS/MS, Fullstack Software Engineer (Data Tooling)](https://jobright.ai/jobs/info/68e6eb9de8daec61499b089d?utm_campaign=1079&utm_source=git)** | Mountain View, CA, USA | On Site | Oct 08 |
-| **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[SW Engineering (Java/C++) Intern (Summer 2026)](https://jobright.ai/jobs/info/68e6e423e8daec61499b021e?utm_campaign=1079&utm_source=git)** | Manassas, VA | Hybrid | Oct 08 |
-| **[Farm Credit Services of America](https://www.fcsamerica.com/)** | **[Application Developer - Intern](https://jobright.ai/jobs/info/68e6de8e1852e62f0081fbe2?utm_campaign=1079&utm_source=git)** | Omaha, NE | On Site | Oct 08 |
-| **[Patreon](http://www.patreon.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68e6c849e8daec61499ae9fa?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Oct 08 |
-| **[Marvell Technology](https://www.marvell.com/)** | **[Firmware Engineering Intern - Master's Degree](https://jobright.ai/jobs/info/68e6de301852e62f0081fb6b?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Oct 08 |
-| **[IBM](http://www.ibm.com)** | **[Back End Developer Intern 2026](https://jobright.ai/jobs/info/68e6d724ae2b894b1d71e9d8?utm_campaign=1079&utm_source=git)** | Poughkeepsie, AR | Hybrid | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
