@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[McNeilus Truck and Manufacturing, Inc.](https://mcneilusgarbagetrucks.com)** | **[Engineer Intern - Software (Summer 2026)](https://jobright.ai/jobs/info/68e9e0c8cfc08e49089136a9?utm_campaign=1079&utm_source=git)** | Dodge Center, MN | On Site | Oct 10 |
+| **[Retensa Employee Retention](http://www.retensa.com)** | **[Software Management Information Systems (MIS) Intern: Spring Internship 2026](https://jobright.ai/jobs/info/68e9dee154fbf903f6a7f22f?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 10 |
 | **[Electronic Arts (EA)](https://www.ea.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68e9c89acfc08e4908912f69?utm_campaign=1079&utm_source=git)** | Redwood City, CA | Hybrid | Oct 10 |
 | **[DigiKey](https://www.digikey.ca)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68e9c6e754fbf903f6a7eb66?utm_campaign=1079&utm_source=git)** | Thief River Falls, MN | Hybrid | Oct 10 |
 | **[Amazon](https://amazon.com)** | **[Undergrad Solutions Architect Intern](https://jobright.ai/jobs/info/68e9bf97cdf8d94b293a1fcf?utm_campaign=1079&utm_source=git)** | San Francisco, California, USA | On Site | Oct 10 |
@@ -117,10 +119,10 @@ For a complete list, click the following sortable link below:
 | **[SingleStore](http://www.singlestore.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68e95848f195760c354a7b5a?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Oct 10 |
 | **[FlightSafety International](https://www.flightsafety.com/)** | **[Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68e6a7b7e8daec61499ad2fb?utm_campaign=1079&utm_source=git)** | Tulsa Metropolitan Area | On Site | Oct 10 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Embedded Software Engineer Intern](https://jobright.ai/jobs/info/68e9500d0930fe0bc46240ce?utm_campaign=1079&utm_source=git)** | Bridgeton, MO | Hybrid | Oct 10 |
+| **[SageSure](https://www.sagesure.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68e9498665768b6412b1a229?utm_campaign=1079&utm_source=git)** | Jersey City, NJ | On Site | Oct 10 |
 | **[Iridium](http://www.iridium.com/)** | **[Iridium Software Engineering Internship – Summer 2026 (Virginia)](https://jobright.ai/jobs/info/68e944729020b95add6a543a?utm_campaign=1079&utm_source=git)** | McLean, VA | On Site | Oct 10 |
 | **[Reliable Robotics Corporation](http://www.reliable.co/)** | **[Flight Software Engineer (Summer 2026 Internship)](https://jobright.ai/jobs/info/68e9441b0930fe0bc46239d2?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Oct 10 |
 | **[ENSCO, Inc.](http://www.ensco.com)** | **[Junior Software Developer Intern](https://jobright.ai/jobs/info/68e93d7f9020b95add6a513d?utm_campaign=1079&utm_source=git)** | Melbourne, Florida, United States | On Site | Oct 10 |
-| **[SageSure](https://www.sagesure.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68e93cca65768b6412b19b5c?utm_campaign=1079&utm_source=git)** | Jersey City, NJ | On Site | Oct 10 |
 | **[Leidos](https://www.leidos.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68e936619020b95add6a4cbe?utm_campaign=1079&utm_source=git)** | Omaha, NE | On Site | Oct 10 |
 | **[Iridium](http://www.iridium.com/)** | **[Iridium Software Engineering Internship - Summer 2026 (Arizona)](https://jobright.ai/jobs/info/68e933919020b95add6a49bd?utm_campaign=1079&utm_source=git)** | Chandler, AZ | On Site | Oct 10 |
 | **[1898 & Co.](https://1898andco.burnsmcd.com)** | **[Analyst Implementation - Columbus](https://jobright.ai/jobs/info/68e9271b65768b6412b18f28?utm_campaign=1079&utm_source=git)** | Columbus, OH | On Site | Oct 10 |
@@ -133,8 +135,8 @@ For a complete list, click the following sortable link below:
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Research & Development (Connected Car Technologies)](https://jobright.ai/jobs/info/68e9076665768b6412b18175?utm_campaign=1079&utm_source=git)** | Belleville, MI | On Site | Oct 10 |
 | **[Resideo](https://www.resideo.com/)** | **[Mobile App Test Intern](https://jobright.ai/jobs/info/68cf927bdbd9fb154ede8e3c?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Oct 10 |
 | **[Quiq](https://quiq.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68e8ebd765768b6412b17668?utm_campaign=1079&utm_source=git)** | Bozeman, MT | Hybrid | Oct 10 |
+| **[IBM](http://www.ibm.com)** | **[2026 Intern: Software Engineer – AI-powered Automation](https://jobright.ai/jobs/info/68e0a0e1b99ec3563b0d173d?utm_campaign=1079&utm_source=git)** | Yorktown Heights, NY | On Site | Oct 10 |
 | **[Oracle](https://www.oracle.com/)** | **[Undergrad Software Engineer Intern - Fusion](https://jobright.ai/jobs/info/68e8bac809580a2fe57fb31f?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 10 |
-| **[Dillard's](http://www.dillards.com)** | **[Technology Internship](https://jobright.ai/jobs/info/68e8ec0465768b6412b1768f?utm_campaign=1079&utm_source=git)** | Little Rock, AR | On Site | Oct 10 |
 | **[Epic Games](https://epicgames.com)** | **[Tools Programmer Intern](https://jobright.ai/jobs/info/68e8c0d3c72beb74cb322c25?utm_campaign=1079&utm_source=git)** | Cary, NC | On Site | Oct 10 |
 | **[NavGurukul](https://www.navgurukul.org/)** | **[Tech & AI Intern](https://jobright.ai/jobs/info/68e8ad7109580a2fe57fa34e?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 09 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Software Intern Engineer](https://jobright.ai/jobs/info/68e88aa5cc49a84b7e107603?utm_campaign=1079&utm_source=git)** | Dedham, MA | Hybrid | Oct 09 |
@@ -143,7 +145,7 @@ For a complete list, click the following sortable link below:
 | **[Keysight Technologies](https://www.keysight.com)** | **[R&D Software Engineering Internship-NAS/Product Strategy Org](https://jobright.ai/jobs/info/68e872b0c72beb74cb31e9fd?utm_campaign=1079&utm_source=git)** | Calabasas, CA | Remote | Oct 09 |
 | **[Ninth Wave](https://ninth-wave.com/)** | **[Jr. Java Software Developer Internship](https://jobright.ai/jobs/info/68e87248cc49a84b7e106438?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Oct 09 |
 | **[Pratt & Whitney](https://prattwhitney.com/)** | **[Intern: Summer 2026 - Control/Diagnostic Software (Onsite)](https://jobright.ai/jobs/info/68e86ddb09580a2fe57f7936?utm_campaign=1079&utm_source=git)** | Palm Beach Gardens, FL | On Site | Oct 09 |
-| **[Keysight Technologies](https://www.keysight.com)** | **[R&D Software Engineering Internship-NAS/Product Strategy Org](https://jobright.ai/jobs/info/68e8669309580a2fe57f7503?utm_campaign=1079&utm_source=git)** | Calabasas, California | On Site | Oct 09 |
+| **[Keysight Technologies](https://www.keysight.com)** | **[R&D Software Engineering Internship-NAS/Product Strategy Org](https://jobright.ai/jobs/info/68e86657c72beb74cb31e532?utm_campaign=1079&utm_source=git)** | Calabasas, California | On Site | Oct 09 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Design Architect, HBM](https://jobright.ai/jobs/info/68e865e6cc49a84b7e105d5f?utm_campaign=1079&utm_source=git)** | Richardson, TX | On Site | Oct 09 |
 | **[Ninth Wave](https://ninth-wave.com/)** | **[Jr. Java Software Developer Internship](https://jobright.ai/jobs/info/68e85d1ec72beb74cb31ddcf?utm_campaign=1079&utm_source=git)** | New York, New York, United States | On Site | Oct 09 |
 | **[tms](https://themarketingstore.com)** | **[Multimedia Developer Intern](https://jobright.ai/jobs/info/68e85b2209580a2fe57f6af9?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Oct 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marketeq Media Inc.](http://marketeqmedia.co)** | **[Blockchain Engineering Internship – Smart Contracts & Tokenomics](https://jobright.ai/jobs/info/68e84df009580a2fe57f6644?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 09 |
 | **[SK hynix memory solutions America Inc.](http://www.skhms.com)** | **[Software Engineer Inter in Test - Fall 2025](https://jobright.ai/jobs/info/68e84d6ec72beb74cb31d6fe?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Oct 09 |
 | **[Fizz](http://fizzsocial.app)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68e9566e65768b6412b1a8ba?utm_campaign=1079&utm_source=git)** | New York | On Site | Oct 09 |
-| **[Itron, Inc.](http://www.itron.com)** | **[Intern - Embedded Firmware (January 2026)](https://jobright.ai/jobs/info/68e84680c72beb74cb31d1df?utm_campaign=1079&utm_source=git)** | United States of America, South Carolina, West Union | On Site | Oct 09 |
-| **[Ericsson](https://www.ericsson.com)** | **[SWE & Automation Intern](https://jobright.ai/jobs/info/68e83dd8c72beb74cb31c9fb?utm_campaign=1079&utm_source=git)** | Plano, TX | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
