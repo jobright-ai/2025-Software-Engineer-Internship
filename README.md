@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[OPENLANE](http://www.openlane.com)** | **[Software Engineer Intern (Remote)](https://jobright.ai/jobs/info/68eb36a48369791ef7824fc5?utm_campaign=1079&utm_source=git)** | Carmel, IN | Remote | Oct 11 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[SW Engineering (Java/C++) Intern (Summer 2026)](https://jobright.ai/jobs/info/68e6e423e8daec61499b021e?utm_campaign=1079&utm_source=git)** | Manassas, VA | Hybrid | Oct 11 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Design Assurance Intern](https://jobright.ai/jobs/info/68eadc7c8369791ef78232fa?utm_campaign=1079&utm_source=git)** | United States |  N/A | On Site | Oct 11 |
 | **[JSOC IT, Inc](https://www.jsocit.com)** | **[Engineer Intern](https://jobright.ai/jobs/info/68eaca768369791ef78230a2?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 11 |
@@ -79,6 +78,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68cecca1fb49c96ca6ea3a11?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | Hybrid | Oct 11 |
 | **[Johns Hopkins Applied Physics Laboratory](http://jhuapl.edu/)** | **[2026 Internship - Software Engineer](https://jobright.ai/jobs/info/68ea0261cdf8d94b293a3dbe?utm_campaign=1079&utm_source=git)** | Laurel, MD | On Site | Oct 11 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - Game Engineering](https://jobright.ai/jobs/info/68ea01dccfc08e490891461b?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Oct 11 |
+| **[Iridium](http://www.iridium.com/)** | **[Iridium Software Engineering Internship – Summer 2026 (Virginia)](https://jobright.ai/jobs/info/68eb45d076a1db7c5985e64d?utm_campaign=1079&utm_source=git)** | McLean, VA | On Site | Oct 10 |
 | **[McNeilus Truck and Manufacturing, Inc.](https://mcneilusgarbagetrucks.com)** | **[Engineer Intern - Software (Summer 2026)](https://jobright.ai/jobs/info/68e9e0c8cfc08e49089136a9?utm_campaign=1079&utm_source=git)** | Dodge Center, MN | On Site | Oct 10 |
 | **[Retensa Employee Retention](http://www.retensa.com)** | **[Software Management Information Systems (MIS) Intern: Spring Internship 2026](https://jobright.ai/jobs/info/68e9dee154fbf903f6a7f22f?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 10 |
 | **[Electronic Arts (EA)](https://www.ea.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68e9c89acfc08e4908912f69?utm_campaign=1079&utm_source=git)** | Redwood City, CA | Hybrid | Oct 10 |
@@ -145,10 +145,10 @@ For a complete list, click the following sortable link below:
 | **[FlightSafety International](https://www.flightsafety.com/)** | **[Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68e6a7b7e8daec61499ad2fb?utm_campaign=1079&utm_source=git)** | Tulsa Metropolitan Area | On Site | Oct 10 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Internship: Software Engineering (Summer 2026) - Franksville, WI](https://jobright.ai/jobs/info/68ccf7d4d11b445e0bee5388?utm_campaign=1079&utm_source=git)** | Franksville, WI | On Site | Oct 10 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Embedded Software Engineer Intern](https://jobright.ai/jobs/info/68e9500d0930fe0bc46240ce?utm_campaign=1079&utm_source=git)** | Bridgeton, MO | Hybrid | Oct 10 |
-| **[Iridium](http://www.iridium.com/)** | **[Iridium Software Engineering Internship - Summer 2026 (Arizona)](https://jobright.ai/jobs/info/68ea3766db8fbc4015c66528?utm_campaign=1079&utm_source=git)** | US-AZ-Chandler | On Site | Oct 10 |
-| ↳ | **[Iridium Software Engineering Internship – Summer 2026 (Virginia)](https://jobright.ai/jobs/info/68ea376bdb8fbc4015c66534?utm_campaign=1079&utm_source=git)** | US-VA-Leesburg | On Site | Oct 10 |
-| ↳ | **[Iridium Software Engineering Internship - Summer 2026 (Arizona)](https://jobright.ai/jobs/info/68ea374a4ae33307d3eda77e?utm_campaign=1079&utm_source=git)** | US-AZ-Tempe | On Site | Oct 10 |
+| **[Iridium](http://www.iridium.com/)** | **[Iridium Software Engineering Internship – Summer 2026 (Virginia)](https://jobright.ai/jobs/info/68ea376bdb8fbc4015c66534?utm_campaign=1079&utm_source=git)** | US-VA-Leesburg | On Site | Oct 10 |
 | ↳ | **[Iridium Software Engineering Internship – Summer 2026 (Virginia)](https://jobright.ai/jobs/info/68ea37504ae33307d3eda796?utm_campaign=1079&utm_source=git)** | US-VA-McLean | On Site | Oct 10 |
+| ↳ | **[Iridium Software Engineering Internship - Summer 2026 (Arizona)](https://jobright.ai/jobs/info/68ea374a4ae33307d3eda77e?utm_campaign=1079&utm_source=git)** | US-AZ-Tempe | On Site | Oct 10 |
+| ↳ | **[Iridium Software Engineering Internship - Summer 2026 (Arizona)](https://jobright.ai/jobs/info/68ea3766db8fbc4015c66528?utm_campaign=1079&utm_source=git)** | US-AZ-Chandler | On Site | Oct 10 |
 | **[Reliable Robotics Corporation](http://www.reliable.co/)** | **[Flight Software Engineer (Summer 2026 Internship)](https://jobright.ai/jobs/info/68e9441b0930fe0bc46239d2?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Oct 10 |
 | **[MacLean-Fogg Company](https://macleanfogg.com)** | **[Information Technology (IT) Internship (Summer 2026)](https://jobright.ai/jobs/info/68df691bfe896042b0b7aa3f?utm_campaign=1079&utm_source=git)** | Plymouth, MI | On Site | Oct 10 |
 | **[ENSCO, Inc.](http://www.ensco.com)** | **[Junior Software Developer Intern](https://jobright.ai/jobs/info/68e93d7f9020b95add6a513d?utm_campaign=1079&utm_source=git)** | Melbourne, Florida, United States | On Site | Oct 10 |
