@@ -94,6 +94,7 @@ For a complete list, click the following sortable link below:
 | **[Gusto](https://www.gusto.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68ce7176dbd9fb154eddfb3e?utm_campaign=1079&utm_source=git)** | Denver Metropolitan Area | Hybrid | Oct 11 |
 | ↳ | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68cdea2fb2a74e1837edd462?utm_campaign=1079&utm_source=git)** | NYC Metro Area | Hybrid | Oct 11 |
 | ↳ | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68cecca1fb49c96ca6ea3a11?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | Hybrid | Oct 11 |
+| **[IBM](http://www.ibm.com)** | **[Intern 2026: Software Developer - Security](https://jobright.ai/jobs/info/68ecb96c1eecd439f43fda05?utm_campaign=1079&utm_source=git)** | Albany, NY | On Site | Oct 11 |
 | **[Johns Hopkins Applied Physics Laboratory](http://jhuapl.edu/)** | **[2026 Internship - Software Engineer](https://jobright.ai/jobs/info/68ea0261cdf8d94b293a3dbe?utm_campaign=1079&utm_source=git)** | Laurel, MD | On Site | Oct 11 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - Game Engineering](https://jobright.ai/jobs/info/68ea01dccfc08e490891461b?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Oct 11 |
 | **[IBM](http://www.ibm.com)** | **[Intern 2026: Software Developer - Security](https://jobright.ai/jobs/info/68eca50bc26b9574506f5fdf?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Oct 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marvell Technology](https://www.marvell.com/)** | **[Software Engineer Intern - Bachelor's Degree](https://jobright.ai/jobs/info/68e95d8c65768b6412b1b2f0?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Oct 10 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Undergrad Software Engineer Intern - Oracle Cloud Infrastructure (OCI) - Austin, TX](https://jobright.ai/jobs/info/68e95d4a0930fe0bc4624d61?utm_campaign=1079&utm_source=git)** | Austin, TX, United States | On Site | Oct 10 |
 | **[Oracle](https://www.oracle.com/)** | **[Undergrad Software Engineer Intern - Oracle Cloud Infrastructure (OCI) - Austin, TX](https://jobright.ai/jobs/info/68e95c7765768b6412b1b0bc?utm_campaign=1079&utm_source=git)** | Austin, TX, United States | On Site | Oct 10 |
-| ↳ | **[Undergrad Software Engineer Intern - Oracle Cloud Infrastructure (OCI) - Santa Clara, CA](https://jobright.ai/jobs/info/68e95ba5f195760c354a8169?utm_campaign=1079&utm_source=git)** | Santa Clara, CA, United States | On Site | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
