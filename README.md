@@ -89,6 +89,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern/Co-op - Information Technology (Fall 2026)](https://jobright.ai/jobs/info/68b403141ade4306aa63daf0?utm_campaign=1079&utm_source=git)** | Findlay, OH | On Site | Oct 11 |
 | ↳ | **[Intern/Co-op - Information Technology (Fall 2026)](https://jobright.ai/jobs/info/68b406d0bc187f64e1be2e4b?utm_campaign=1079&utm_source=git)** | San Antonio, TX | On Site | Oct 11 |
 | **[MacLean-Fogg Company](https://macleanfogg.com)** | **[Information Technology (IT) Internship (Summer 2026)](https://jobright.ai/jobs/info/68eb394e76a1db7c5985e2f5?utm_campaign=1079&utm_source=git)** | Buffalo, NY | On Site | Oct 11 |
+| ↳ | **[Information Technology (IT) Internship (Summer 2026)](https://jobright.ai/jobs/info/68ece1fd70b66e2345d3920f?utm_campaign=1079&utm_source=git)** | Maquoketa, IA | On Site | Oct 11 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/68c8abeaf9c6ff7aedf116f4?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Oct 11 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - BT&A Americas](https://jobright.ai/jobs/info/68ea371d4ae33307d3eda70b?utm_campaign=1079&utm_source=git)** | Plano, TX | Hybrid | Oct 11 |
 | **[Gusto](https://www.gusto.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68ce7176dbd9fb154eddfb3e?utm_campaign=1079&utm_source=git)** | Denver Metropolitan Area | Hybrid | Oct 11 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Nelnet](https://nelnetinc.com)** | **[Intern - IT Software Engineer .NET](https://jobright.ai/jobs/info/68e96408f195760c354a87f1?utm_campaign=1079&utm_source=git)** | Lincoln, NE | On Site | Oct 10 |
 | **[athenahealth](http://www.athenahealth.com)** | **[2026 Summer Software Engineering Intern](https://jobright.ai/jobs/info/68e96284f195760c354a86f5?utm_campaign=1079&utm_source=git)** | Boston MA | Hybrid | Oct 10 |
 | **[ENSCO, Inc.](http://www.ensco.com)** | **[Junior Software Developer Intern](https://jobright.ai/jobs/info/68e96021f195760c354a85dc?utm_campaign=1079&utm_source=git)** | Melbourne, FL | On Site | Oct 10 |
-| **[Marvell Technology](https://www.marvell.com/)** | **[Software Engineer Intern - Bachelor's Degree](https://jobright.ai/jobs/info/68e95d8c65768b6412b1b2f0?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Oct 10 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Undergrad Software Engineer Intern - Oracle Cloud Infrastructure (OCI) - Austin, TX](https://jobright.ai/jobs/info/68e95d4a0930fe0bc4624d61?utm_campaign=1079&utm_source=git)** | Austin, TX, United States | On Site | Oct 10 |
 | **[Oracle](https://www.oracle.com/)** | **[Undergrad Software Engineer Intern - Oracle Cloud Infrastructure (OCI) - Austin, TX](https://jobright.ai/jobs/info/68e95c7765768b6412b1b0bc?utm_campaign=1079&utm_source=git)** | Austin, TX, United States | On Site | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
