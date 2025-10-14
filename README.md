@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oigetit.ai - Fake News Filter](https://oigetit.ai/)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/68ee513146e5b153e5a57110?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 14 |
+| **[MacLean-Fogg Company](https://macleanfogg.com)** | **[Information Technology (IT) Internship (Summer 2026)](https://jobright.ai/jobs/info/68ee40efd078b81ad1604fe1?utm_campaign=1079&utm_source=git)** | Chesterfield, MI | On Site | Oct 14 |
 | **[General Dynamics Land Systems](http://www.gdls.com)** | **[Summer Intern- Future Systems and Capabilities](https://jobright.ai/jobs/info/68ee3204d078b81ad16033ca?utm_campaign=1079&utm_source=git)** | Sterling Heights, MI | On Site | Oct 14 |
 | **[Anthropologie Weddings](https://www.bhldn.com)** | **[URBN Retail Technology Intern](https://jobright.ai/jobs/info/68ee143881fdd1626d3a23e0?utm_campaign=1079&utm_source=git)** | US-PA-Philadelphia | On Site | Oct 14 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - Software Engineering](https://jobright.ai/jobs/info/68edfce26335d3323612e08c?utm_campaign=1079&utm_source=git)** | Bloomfield, CT | On Site | Oct 14 |
@@ -85,8 +87,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[R&D Firmware Intern](https://jobright.ai/jobs/info/68edabbe6335d3323612abc8?utm_campaign=1079&utm_source=git)** | Santa Rosa, CA | On Site | Oct 13 |
 | **[Commerce Bank](https://www.commercebank.com/)** | **[Intern - IT (Summer 2026)](https://jobright.ai/jobs/info/68eda8b570b66e2345d3fba9?utm_campaign=1079&utm_source=git)** | Kansas City, MO | Hybrid | Oct 13 |
 | **[Pure Storage](http://www.purestorage.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/68eda55e81fdd1626d39e136?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Oct 13 |
-| **[Keysight Technologies](https://www.keysight.com)** | **[Computer Science Intern](https://jobright.ai/jobs/info/68ed9fd36335d3323612a666?utm_campaign=1079&utm_source=git)** | Santa Rosa, California | On Site | Oct 13 |
 | **[Clarity Partners](http://claritypartners.com)** | **[Software Development Internship](https://jobright.ai/jobs/info/68ed9f996335d3323612a5c9?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Oct 13 |
+| **[Keysight Technologies](https://www.keysight.com)** | **[Computer Science Intern](https://jobright.ai/jobs/info/68ed9f786335d3323612a572?utm_campaign=1079&utm_source=git)** | Santa Rosa, California | On Site | Oct 13 |
 | **[a0.dev (YC W25)](https://a0.dev/)** | **[Software Engineering Intern [Summer 2026]](https://jobright.ai/jobs/info/68ed9f3170b66e2345d3f76b?utm_campaign=1079&utm_source=git)** | San Francisco, CA, US | On Site | Oct 13 |
 | **[Keysight Technologies](https://www.keysight.com)** | **[R&D Firmware Intern](https://jobright.ai/jobs/info/68ed9f2981fdd1626d39de3f?utm_campaign=1079&utm_source=git)** | Santa Rosa, California | On Site | Oct 13 |
 | **[Auzmor](https://auzmor.com)** | **[Flutter Developer](https://jobright.ai/jobs/info/68ed9a4170b66e2345d3f483?utm_campaign=1079&utm_source=git)** | United States | Hybrid | Oct 13 |
@@ -137,12 +139,12 @@ For a complete list, click the following sortable link below:
 | **[Corewell Health](https://corewellhealth.org)** | **[Web and Mobile Development Internship Summer 2026](https://jobright.ai/jobs/info/68ed4e1e6335d332361275f6?utm_campaign=1079&utm_source=git)** | Grand Rapids, MI | Hybrid | Oct 13 |
 | **[DemaDose](https://www.linkedin.com/company/107191997)** | **[Associate Technical Manager](https://jobright.ai/jobs/info/68ed468f70b66e2345d3c1a4?utm_campaign=1079&utm_source=git)** | Washington, United States | Remote | Oct 13 |
 | **[ICE](https://www.ice.com)** | **[Summer Internship Program 2026 - Software Engineer Intern](https://jobright.ai/jobs/info/68ed467970b66e2345d3c18b?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Oct 13 |
-| ↳ | **[Summer Internship Program 2026 - C++ Developer Intern](https://jobright.ai/jobs/info/68ed45b670b66e2345d3c06a?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Oct 13 |
 | ↳ | **[Summer Internship Program 2026 - Quantitative Engineer Intern](https://jobright.ai/jobs/info/68ed456b70b66e2345d3bff8?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Oct 13 |
 | ↳ | **[Summer Internship Program 2026 - Front-End Engineer Intern](https://jobright.ai/jobs/info/68ed452581fdd1626d39a752?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Oct 13 |
 | ↳ | **[Summer Internship Program 2026 - Software Development Engineer in Test Intern](https://jobright.ai/jobs/info/68ed44ca81fdd1626d39a6f8?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Oct 13 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Product Engineering, HBM](https://jobright.ai/jobs/info/68ed441c6335d33236126f94?utm_campaign=1079&utm_source=git)** | Boise, ID | On Site | Oct 13 |
-| **[ICE](https://www.ice.com)** | **[Summer Internship Program 2026 - Java Developer Intern](https://jobright.ai/jobs/info/68ed438a6335d33236126f19?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Oct 13 |
+| **[ICE](https://www.ice.com)** | **[Summer Internship Program 2026 - C++ Developer Intern](https://jobright.ai/jobs/info/68ed44166335d33236126f8e?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Oct 13 |
+| ↳ | **[Summer Internship Program 2026 - Java Developer Intern](https://jobright.ai/jobs/info/68ed438a6335d33236126f19?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Oct 13 |
 | ↳ | **[Summer Internship Program 2026 - Full-Stack (Java) Software Engineering Intern](https://jobright.ai/jobs/info/68ed43616335d33236126eed?utm_campaign=1079&utm_source=git)** | Jacksonville, FL | On Site | Oct 13 |
 | ↳ | **[Summer Internship Program 2026 - Software Developer Intern](https://jobright.ai/jobs/info/68ed434a6335d33236126ed5?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Oct 13 |
 | ↳ | **[Summer Internship Program 2026 - Mobile Application Development Intern](https://jobright.ai/jobs/info/68ed433f6335d33236126ece?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Oct 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fortrea](https://www.fortrea.com)** | **[Intern - Software Engineering](https://jobright.ai/jobs/info/68ed2da081fdd1626d399b25?utm_campaign=1079&utm_source=git)** | Bloomfield CT | On Site | Oct 13 |
 | **[Nordson Corporation](http://www.nordson.com)** | **[Intern (Computer Engineering)](https://jobright.ai/jobs/info/68ed2ced6335d33236126394?utm_campaign=1079&utm_source=git)** | Duluth, GA | On Site | Oct 13 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[WB Games Software Engineering Intern Co-op: Needham, MA - June-December 2026](https://jobright.ai/jobs/info/68ed2c4670b66e2345d3b2fb?utm_campaign=1079&utm_source=git)** | MA Needham 117 Kendrick St | Hybrid | Oct 13 |
-| ↳ | **[WB Games Game Dev & Machine Learning Intern Co-op: San Francisco - Jun-Dec 2026](https://jobright.ai/jobs/info/68ed2c136335d33236126164?utm_campaign=1079&utm_source=git)** | CA San Francisco 153 Kearny Street | Hybrid | Oct 13 |
-| **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Software Engineering Intern - Roy UT](https://jobright.ai/jobs/info/68ed2c0e70b66e2345d3b2a3?utm_campaign=1079&utm_source=git)** | United States-Utah-Roy | On Site | Oct 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
