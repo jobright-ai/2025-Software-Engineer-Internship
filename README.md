@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Token Metrics](http://tokenmetrics.com)** | **[Crypto Full Stack Developer Internship](https://jobright.ai/jobs/info/68eff3ddde50091dbfa510f2?utm_campaign=1079&utm_source=git)** | Austin, TX | Remote | Oct 15 |
+| ↳ | **[Smart Contract Engineer Intern](https://jobright.ai/jobs/info/68eff1fbde50091dbfa51010?utm_campaign=1079&utm_source=git)** | Austin, TX | Remote | Oct 15 |
 | **[Princeton Biopartners](https://www.princetonbiopartners.com)** | **[Part-Time Software Engineering Intern US (Full Stack) – Healthcare](https://jobright.ai/jobs/info/68efde579821486c423c7dae?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 15 |
 | **[Great West Casualty Company](https://ssl.gwccnet.com)** | **[Intern](https://jobright.ai/jobs/info/68efdda2de50091dbfa50b9e?utm_campaign=1079&utm_source=git)** | South Sioux City, NE | On Site | Oct 15 |
 | **[Arvato](https://arvato.com/)** | **[Werkstudent IT - SAP (m/w/x)](https://jobright.ai/jobs/info/68efd387de50091dbfa50843?utm_campaign=1079&utm_source=git)** | St Georges, DE | On Site | Oct 15 |
@@ -88,10 +90,10 @@ For a complete list, click the following sortable link below:
 | **[Hubbell Gas Utility Solutions (HGUS)](https://www.hubbell.com/continentalindustries/en)** | **[Engineering Intern (Summer 2026) - Boonton, NJ](https://jobright.ai/jobs/info/68efcc8778ba1621431e067b?utm_campaign=1079&utm_source=git)** | Boonton, NJ | On Site | Oct 15 |
 | **[Intel Corporation](http://www.intel.com)** | **[Software Engineering - Intern, Graduate](https://jobright.ai/jobs/info/68efa2e8de50091dbfa4f65a?utm_campaign=1079&utm_source=git)** | Santa Clara County, CA | On Site | Oct 15 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern – Architect, HBM Generative AI](https://jobright.ai/jobs/info/68ef98d078ba1621431df568?utm_campaign=1079&utm_source=git)** | Folsom, CA | On Site | Oct 15 |
-| **[Intel Corporation](http://www.intel.com)** | **[Software Engineering - Intern, Graduate](https://jobright.ai/jobs/info/68ef86ed9821486c423c61d8?utm_campaign=1079&utm_source=git)** | Santa Clara County, CA | On Site | Oct 15 |
 | **[Alliance Resource Partners, L.P.](http://www.arlp.com/)** | **[Software Engineering - Embedded Systems Intern](https://jobright.ai/jobs/info/68ef784578ba1621431defc7?utm_campaign=1079&utm_source=git)** | Newburgh, IN | On Site | Oct 15 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[V.I.E. Market and CCR application developper](https://jobright.ai/jobs/info/68ef761dde50091dbfa4ed13?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Oct 15 |
-| **[Atlassian](https://www.atlassian.com)** | **[Software Engineer Intern, 2026 Summer U.S.](https://jobright.ai/jobs/info/68eb507d2f64880ca0b56ab3?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Oct 15 |
+| **[Atlassian](https://www.atlassian.com)** | **[Software Engineer Intern, 2026 Summer U.S.](https://jobright.ai/jobs/info/68eb91bf8369791ef7827c9d?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Oct 15 |
+| ↳ | **[Software Engineer Intern, 2026 Summer U.S.](https://jobright.ai/jobs/info/68eb507d2f64880ca0b56ab3?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Oct 15 |
 | **[Art of Problem Solving](https://artofproblemsolving.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68ef66699821486c423c57bd?utm_campaign=1079&utm_source=git)** | San Diego, California, United States | On Site | Oct 15 |
 | **[Quantinuum](https://www.quantinuum.com/)** | **[Quantum Compiler Engineering Intern - 497](https://jobright.ai/jobs/info/68ef586e78ba1621431ddb25?utm_campaign=1079&utm_source=git)** | Broomfield, CO | Hybrid | Oct 15 |
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Software Engineering Intern (Summer 2026) (Onsite)](https://jobright.ai/jobs/info/68ef584dde50091dbfa4dab6?utm_campaign=1079&utm_source=git)** | Cedar Rapids, IA | On Site | Oct 15 |
@@ -105,6 +107,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/68ef479cde50091dbfa4c63c?utm_campaign=1079&utm_source=git)** | Possible | On Site | Oct 15 |
 | **[Kiewit](http://www.kiewit.com)** | **[Estimating Intern - Kiewit Infrastructure Engineers (Summer 2026)](https://jobright.ai/jobs/info/68ef4123a1a1d02df61ebc19?utm_campaign=1079&utm_source=git)** | Lone Tree, CO | On Site | Oct 14 |
 | **[PlayStation](https://www.playstation.com/)** | **[Software Engineering Intern - Undergraduate](https://jobright.ai/jobs/info/68ef2cdba1a1d02df61ea73c?utm_campaign=1079&utm_source=git)** | United States of America | On Site | Oct 14 |
+| ↳ | **[Software Engineering Intern - Undergraduate](https://jobright.ai/jobs/info/68ef2ccea1a1d02df61ea732?utm_campaign=1079&utm_source=git)** | United States of America | On Site | Oct 14 |
 | ↳ | **[Software Engineering Intern - Undergraduate ](https://jobright.ai/jobs/info/68ef2c16a1a1d02df61ea5dc?utm_campaign=1079&utm_source=git)** | United States of America | On Site | Oct 14 |
 | ↳ | **[Software Engineer - Subscriptions - Intern](https://jobright.ai/jobs/info/68ef2bf1a1a1d02df61ea599?utm_campaign=1079&utm_source=git)** | United States of America | On Site | Oct 14 |
 | ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/68ef2bbe20456578d5eb62b2?utm_campaign=1079&utm_source=git)** | United States of America | On Site | Oct 14 |
@@ -113,7 +116,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineering Intern - Master’s](https://jobright.ai/jobs/info/68ef2b4ba1a1d02df61ea474?utm_campaign=1079&utm_source=git)** | United States of America | On Site | Oct 14 |
 | ↳ | **[Online Programming Intern](https://jobright.ai/jobs/info/68ef2b3820456578d5eb61b7?utm_campaign=1079&utm_source=git)** | United States of America | On Site | Oct 14 |
 | ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/68ef2b29a1a1d02df61ea441?utm_campaign=1079&utm_source=git)** | United States of America | On Site | Oct 14 |
-| ↳ | **[Software Engineering Intern - Undergraduate](https://jobright.ai/jobs/info/68ef2ade20456578d5eb6105?utm_campaign=1079&utm_source=git)** | United States of America | On Site | Oct 14 |
 | ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/68ef2ada230ae70a14c41284?utm_campaign=1079&utm_source=git)** | United States of America | On Site | Oct 14 |
 | ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/68ef2ad1230ae70a14c41276?utm_campaign=1079&utm_source=git)** | United States of America | On Site | Oct 14 |
 | ↳ | **[Software Engineering Intern - Undergraduate ](https://jobright.ai/jobs/info/68ef2a9420456578d5eb606d?utm_campaign=1079&utm_source=git)** | United States of America | On Site | Oct 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[LSE Student Intern - Software Developer](https://jobright.ai/jobs/info/68eebc66d078b81ad160e72a?utm_campaign=1079&utm_source=git)** | Aiken, SC | On Site | Oct 14 |
 | **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Systems/Software Intern-Boulder CO](https://jobright.ai/jobs/info/68eeb9ca46e5b153e5a5ec4a?utm_campaign=1079&utm_source=git)** | United States-Colorado-Boulder | On Site | Oct 14 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Factory Firmware Integration Engineer, Vehicle Firmware (Winter/Spring 2026)](https://jobright.ai/jobs/info/68eeb658d078b81ad160dfc5?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Oct 14 |
-| **[CesiumAstro](https://www.cesiumastro.com)** | **[Summer 2026 - Embedded Software Engineering Internship](https://jobright.ai/jobs/info/68eeb47546e5b153e5a5e624?utm_campaign=1079&utm_source=git)** | Denver Metropolitan Area | On Site | Oct 14 |
-| **[Nelnet](https://nelnetinc.com)** | **[Intern - IT Software Engineer](https://jobright.ai/jobs/info/68eeb074d078b81ad160db2c?utm_campaign=1079&utm_source=git)** | Lincoln, NE | On Site | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
