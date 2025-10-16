@@ -103,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[Mercury](https://mercury.com)** | **[Mobile Engineering Intern - Spring 2026](https://jobright.ai/jobs/info/68effd5e9821486c423c84d1?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Oct 15 |
 | **[AMD](http://www.amd.com)** | **[2026 Masters Compiler Engineering Co-Op/Intern](https://jobright.ai/jobs/info/68f0231178ba1621431e255e?utm_campaign=1079&utm_source=git)** | Fishkill, NY | On Site | Oct 15 |
 | ↳ | **[2026 PhD Compiler Engineering Co-op/Intern](https://jobright.ai/jobs/info/68f01e6cde50091dbfa51cf7?utm_campaign=1079&utm_source=git)** | Boxborough, MA | On Site | Oct 15 |
-| ↳ | **[2026 PhD Compiler Engineering Co-op/Intern](https://jobright.ai/jobs/info/68f02225de50091dbfa520ca?utm_campaign=1079&utm_source=git)** | Rochester, NY | On Site | Oct 15 |
 | ↳ | **[2026 Masters Compiler Engineering Co-Op/Intern](https://jobright.ai/jobs/info/68f01d8a9821486c423c8d2b?utm_campaign=1079&utm_source=git)** | Rochester, NY | On Site | Oct 15 |
+| ↳ | **[2026 PhD Compiler Engineering Co-op/Intern](https://jobright.ai/jobs/info/68f02225de50091dbfa520ca?utm_campaign=1079&utm_source=git)** | Rochester, NY | On Site | Oct 15 |
 | ↳ | **[2026 PhD Compiler Engineering Co-op/Intern](https://jobright.ai/jobs/info/68f02374de50091dbfa52254?utm_campaign=1079&utm_source=git)** | Fishkill, NY | On Site | Oct 15 |
 | **[Mercury](https://mercury.com)** | **[Mobile Engineering Intern - Spring 2026](https://jobright.ai/jobs/info/68effce478ba1621431e1512?utm_campaign=1079&utm_source=git)** | Portland, OR | Hybrid | Oct 15 |
 | **[SWBC](https://www.swbc.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68f0239e9821486c423c94c2?utm_campaign=1079&utm_source=git)** | San Antonio, TX | On Site | Oct 15 |
