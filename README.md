@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oracle](https://www.oracle.com/)** | **[Advanced Degree Software Engineer Intern - Oracle Health & Analytics](https://jobright.ai/jobs/info/68f08ae51f624a7ec1cf3c03?utm_campaign=1079&utm_source=git)** | Pleasanton, CA | On Site | Oct 15 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[2026 TechStart Summer Internship Program](https://jobright.ai/jobs/info/68f07c5beb273a32d9768ff4?utm_campaign=1079&utm_source=git)** | Indianapolis, IN | On Site | Oct 15 |
 | **[Vertex Inc.](https://www.vertexinc.com)** | **[Full Stack Developer Intern - Certification Management Platform](https://jobright.ai/jobs/info/68f07bd9a6b9004b5e320e10?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 15 |
 | **[Oracle](https://www.oracle.com/)** | **[Advanced Degree Software Engineer Intern - Oracle Health & Analytics](https://jobright.ai/jobs/info/68f07b8ca6b9004b5e320d52?utm_campaign=1079&utm_source=git)** | Kansas City, MO | On Site | Oct 15 |
@@ -102,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[Mercury](https://mercury.com)** | **[Mobile Engineering Intern - Spring 2026](https://jobright.ai/jobs/info/68effd5e9821486c423c84d1?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Oct 15 |
 | **[AMD](http://www.amd.com)** | **[2026 Masters Compiler Engineering Co-Op/Intern](https://jobright.ai/jobs/info/68f0231178ba1621431e255e?utm_campaign=1079&utm_source=git)** | Fishkill, NY | On Site | Oct 15 |
 | ↳ | **[2026 PhD Compiler Engineering Co-op/Intern](https://jobright.ai/jobs/info/68f01e6cde50091dbfa51cf7?utm_campaign=1079&utm_source=git)** | Boxborough, MA | On Site | Oct 15 |
-| ↳ | **[2026 Masters Compiler Engineering Co-Op/Intern](https://jobright.ai/jobs/info/68f01d8a9821486c423c8d2b?utm_campaign=1079&utm_source=git)** | Rochester, NY | On Site | Oct 15 |
 | ↳ | **[2026 PhD Compiler Engineering Co-op/Intern](https://jobright.ai/jobs/info/68f02225de50091dbfa520ca?utm_campaign=1079&utm_source=git)** | Rochester, NY | On Site | Oct 15 |
+| ↳ | **[2026 Masters Compiler Engineering Co-Op/Intern](https://jobright.ai/jobs/info/68f01d8a9821486c423c8d2b?utm_campaign=1079&utm_source=git)** | Rochester, NY | On Site | Oct 15 |
 | ↳ | **[2026 PhD Compiler Engineering Co-op/Intern](https://jobright.ai/jobs/info/68f02374de50091dbfa52254?utm_campaign=1079&utm_source=git)** | Fishkill, NY | On Site | Oct 15 |
 | **[Mercury](https://mercury.com)** | **[Mobile Engineering Intern - Spring 2026](https://jobright.ai/jobs/info/68effce478ba1621431e1512?utm_campaign=1079&utm_source=git)** | Portland, OR | Hybrid | Oct 15 |
 | **[SWBC](https://www.swbc.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68f0239e9821486c423c94c2?utm_campaign=1079&utm_source=git)** | San Antonio, TX | On Site | Oct 15 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[7-Eleven](http://www.7-eleven.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68efa7a678ba1621431df95e?utm_campaign=1079&utm_source=git)** | Irving, TX | On Site | Oct 15 |
 | **[Hubbell Gas Utility Solutions (HGUS)](https://www.hubbell.com/continentalindustries/en)** | **[Engineering Intern (Summer 2026) - Boonton, NJ](https://jobright.ai/jobs/info/68efcc8778ba1621431e067b?utm_campaign=1079&utm_source=git)** | Boonton, NJ | On Site | Oct 15 |
 | **[Truveta](https://www.truveta.com)** | **[Fall/Winter Software Engineering Intern](https://jobright.ai/jobs/info/68d1fdc717554c2d9eee20ca?utm_campaign=1079&utm_source=git)** | Greater Seattle Area | On Site | Oct 15 |
-| **[Micron Technology](http://www.micron.com)** | **[Intern – Architect, HBM Generative AI](https://jobright.ai/jobs/info/68ef98d078ba1621431df568?utm_campaign=1079&utm_source=git)** | Folsom, CA | On Site | Oct 15 |
-| **[Alliance Resource Partners, L.P.](http://www.arlp.com/)** | **[Software Engineering - Embedded Systems Intern](https://jobright.ai/jobs/info/68ef784578ba1621431defc7?utm_campaign=1079&utm_source=git)** | Newburgh, IN | On Site | Oct 15 |
+| **[MacLean-Fogg Company](https://macleanfogg.com)** | **[Information Technology (IT) Internship (Summer 2026)](https://jobright.ai/jobs/info/68f085ada6b9004b5e32106a?utm_campaign=1079&utm_source=git)** | Saegertown, PA | On Site | Oct 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
