@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Uline](http://www.uline.com)** | **[Software Developer Internship - Summer 2026](https://jobright.ai/jobs/info/68f12a01ef766b3f0fd09378?utm_campaign=1079&utm_source=git)** | Kenosha, WI | On Site | Oct 16 |
+| **[Solidigm](https://www.solidigmtechnology.com)** | **[Firmware Validation Intern](https://jobright.ai/jobs/info/68f128cbe6870116b1f54288?utm_campaign=1079&utm_source=git)** | Longmont, CO | On Site | Oct 16 |
+| **[Wing](https://www.wing.com/)** | **[Backend Software Engineer Intern, Summer 2026](https://jobright.ai/jobs/info/68f127abf462172a5a7d39c9?utm_campaign=1079&utm_source=git)** | Palo Alto, California | On Site | Oct 16 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Software Engineer - Intern](https://jobright.ai/jobs/info/68f11086ef766b3f0fd082bb?utm_campaign=1079&utm_source=git)** | Location, WV | Hybrid | Oct 16 |
 | **[Hubbell Gas Utility Solutions (HGUS)](https://www.hubbell.com/continentalindustries/en)** | **[Firmware Engineering Intern (Summer 2026) - St. Louis, MO](https://jobright.ai/jobs/info/68f10a9cf462172a5a7d266c?utm_campaign=1079&utm_source=git)** | St Louis, MO | On Site | Oct 16 |
-| **[Marketeq Media Inc.](http://marketeqmedia.co)** | **[Front-End UI Development Internship - Next.js, Typescript](https://jobright.ai/jobs/info/68f10726e6870116b1f52e7f?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 16 |
 | **[Kiewit](http://www.kiewit.com)** | **[Design Intern - Kiewit Infrastructure Engineers (Summer 2026)](https://jobright.ai/jobs/info/68d48a0cffc1276de3fdbc22?utm_campaign=1079&utm_source=git)** | Lone Tree, CO | On Site | Oct 16 |
 | **[Hubbell Gas Utility Solutions (HGUS)](https://www.hubbell.com/continentalindustries/en)** | **[IT Intern (Summer 2026) - Greenville, SC / Shelton, CT / St. Louis, MO](https://jobright.ai/jobs/info/68f111cce6870116b1f53681?utm_campaign=1079&utm_source=git)** | Greenville, SC | On Site | Oct 16 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Assoc, Software Engineer (Waco, TX)](https://jobright.ai/jobs/info/68f0dbccef766b3f0fd06177?utm_campaign=1079&utm_source=git)** | Waco, TX | On Site | Oct 16 |
@@ -142,6 +144,7 @@ For a complete list, click the following sortable link below:
 | **[The Tri-M Group, LLC](http://tri-mgroup.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/68f0e4f3e6870116b1f5167f?utm_campaign=1079&utm_source=git)** | Kennett Square, Pennsylvania, United States | On Site | Oct 15 |
 | **[Skydio](https://www.skydio.com)** | **[Embedded Software Engineer Intern](https://jobright.ai/jobs/info/68f0022278ba1621431e19f5?utm_campaign=1079&utm_source=git)** | San Mateo, California, United States | On Site | Oct 15 |
 | **[Princeton Biopartners](https://www.princetonbiopartners.com)** | **[Part-Time Software Engineering Intern US (Full Stack) – Healthcare](https://jobright.ai/jobs/info/68efde579821486c423c7dae?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 15 |
+| **[Talcott Financial Group](https://talcott.com)** | **[IT Software Engineering Intern](https://jobright.ai/jobs/info/68f12168e6870116b1f53e15?utm_campaign=1079&utm_source=git)** | Greater Hartford | On Site | Oct 15 |
 | **[Arvato](https://arvato.com/)** | **[Werkstudent IT - SAP (m/w/x)](https://jobright.ai/jobs/info/68efd387de50091dbfa50843?utm_campaign=1079&utm_source=git)** | St Georges, DE | On Site | Oct 15 |
 | **[Alaska Airlines](https://alaskaair.jobs)** | **[Intern - Software Engineer (Summer 2026)](https://jobright.ai/jobs/info/68efa93678ba1621431dfab5?utm_campaign=1079&utm_source=git)** | SeaTac, WA | On Site | Oct 15 |
 | **[GBA](http://gbateam.com)** | **[Intern - Project Engineer (Infrastructure Solutions)](https://jobright.ai/jobs/info/68efc7f69821486c423c7512?utm_campaign=1079&utm_source=git)** | Lenexa, KS | On Site | Oct 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineering Intern, Summer 2026 (42286)](https://jobright.ai/jobs/info/68efbb629821486c423c6f28?utm_campaign=1079&utm_source=git)** | Ada, MI | Hybrid | Oct 15 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[Software Development Intern](https://jobright.ai/jobs/info/68efbb209821486c423c6ef8?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Oct 15 |
 | **[Amway](http://www.amway.com)** | **[Software Engineer Intern - MyBiz  (42289)](https://jobright.ai/jobs/info/68efba2978ba1621431dffcb?utm_campaign=1079&utm_source=git)** | Ada, MI | On Site | Oct 15 |
-| **[Simon Property Group](https://www.simon.com/)** | **[Intern - Project Delivery](https://jobright.ai/jobs/info/68ea07b1cfc08e4908914e6e?utm_campaign=1079&utm_source=git)** | Indianapolis, IN | On Site | Oct 15 |
-| **[Dematic](http://www.dematic.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68efb6ce9821486c423c6e69?utm_campaign=1079&utm_source=git)** | Grand Rapids, MI | On Site | Oct 15 |
-| **[Intel Corporation](http://www.intel.com)** | **[Software Engineering -  Intern, Bachelor’s](https://jobright.ai/jobs/info/68efb6079821486c423c6da3?utm_campaign=1079&utm_source=git)** | Hillsboro, OR | On Site | Oct 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
