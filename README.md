@@ -57,7 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TalentAlly](http://www.prodivnet.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68f069735d625872c151d88d?utm_campaign=1079&utm_source=git)** | Irving, TX | On Site | Oct 15 |
+| **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[2026 TechStart Summer Internship Program](https://jobright.ai/jobs/info/68f07c5beb273a32d9768ff4?utm_campaign=1079&utm_source=git)** | Indianapolis, IN | On Site | Oct 15 |
+| **[Vertex Inc.](https://www.vertexinc.com)** | **[Full Stack Developer Intern - Certification Management Platform](https://jobright.ai/jobs/info/68f07bd9a6b9004b5e320e10?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 15 |
+| **[Oracle](https://www.oracle.com/)** | **[Advanced Degree Software Engineer Intern - Oracle Health & Analytics](https://jobright.ai/jobs/info/68f07b8ca6b9004b5e320d52?utm_campaign=1079&utm_source=git)** | Kansas City, MO | On Site | Oct 15 |
+| ↳ | **[Advanced Degree Software Engineer Intern - Oracle Health & Analytics](https://jobright.ai/jobs/info/68f07b81eb273a32d9768e38?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 15 |
+| **[Samsung Semiconductor](https://www.samsung.com/us/samsungsemiconductor)** | **[Intern, Firmware Engineer - PFD](https://jobright.ai/jobs/info/68f07b4c1f624a7ec1cf358c?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Oct 15 |
+| **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[2026 TechStart Summer Internship Program](https://jobright.ai/jobs/info/68f07b481f624a7ec1cf3581?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Oct 15 |
+| **[Oracle](https://www.oracle.com/)** | **[Advanced Degree Software Engineer Intern - Oracle Health & Analytics](https://jobright.ai/jobs/info/68f07a17eb273a32d9768b7e?utm_campaign=1079&utm_source=git)** | Redwood City, CA | On Site | Oct 15 |
+| **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[2026 TechStart Summer Internship Program](https://jobright.ai/jobs/info/68f075c0a6b9004b5e3207fb?utm_campaign=1079&utm_source=git)** | Plano, TX | On Site | Oct 15 |
+| **[Oracle](https://www.oracle.com/)** | **[Advanced Degree Software Engineer Intern - Oracle Health & Analytics](https://jobright.ai/jobs/info/68f075a7a6b9004b5e3207db?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Oct 15 |
+| ↳ | **[Advanced Degree Software Engineer Intern - Oracle Health & Analytics](https://jobright.ai/jobs/info/68f075731f624a7ec1cf3135?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Oct 15 |
+| **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[2026 TechStart Summer Internship Program](https://jobright.ai/jobs/info/68f06cf6eb273a32d976812c?utm_campaign=1079&utm_source=git)** | Portsmouth, VA | On Site | Oct 15 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68f068bc55b21e20aa6d702d?utm_campaign=1079&utm_source=git)** | Brea, CA | On Site | Oct 15 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Intern Engineer](https://jobright.ai/jobs/info/68f0688255b21e20aa6d6fd2?utm_campaign=1079&utm_source=git)** | Fort Wayne, IN | Hybrid | Oct 15 |
 | **[Samsung Semiconductor](https://www.samsung.com/us/samsungsemiconductor)** | **[Intern, Firmware Engineer - PFD](https://jobright.ai/jobs/info/68f063989e09d311e0431674?utm_campaign=1079&utm_source=git)** | San Jose, California, United States | On Site | Oct 15 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Truveta](https://www.truveta.com)** | **[Fall/Winter Software Engineering Intern](https://jobright.ai/jobs/info/68d1fdc717554c2d9eee20ca?utm_campaign=1079&utm_source=git)** | Greater Seattle Area | On Site | Oct 15 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern – Architect, HBM Generative AI](https://jobright.ai/jobs/info/68ef98d078ba1621431df568?utm_campaign=1079&utm_source=git)** | Folsom, CA | On Site | Oct 15 |
 | **[Alliance Resource Partners, L.P.](http://www.arlp.com/)** | **[Software Engineering - Embedded Systems Intern](https://jobright.ai/jobs/info/68ef784578ba1621431defc7?utm_campaign=1079&utm_source=git)** | Newburgh, IN | On Site | Oct 15 |
-| **[Societe Generale](https://www.societegenerale.com)** | **[V.I.E. Market and CCR application developper](https://jobright.ai/jobs/info/68ef761dde50091dbfa4ed13?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Oct 15 |
-| **[Atlassian](https://www.atlassian.com)** | **[Software Engineer Intern, 2026 Summer U.S.](https://jobright.ai/jobs/info/68eb91bf8369791ef7827c9d?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Oct 15 |
-| ↳ | **[Software Engineer Intern, 2026 Summer U.S.](https://jobright.ai/jobs/info/68eb507d2f64880ca0b56ab3?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Oct 15 |
-| **[Art of Problem Solving](https://artofproblemsolving.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68ef66699821486c423c57bd?utm_campaign=1079&utm_source=git)** | San Diego, California, United States | On Site | Oct 15 |
-| **[Quantinuum](https://www.quantinuum.com/)** | **[Quantum Compiler Engineering Intern - 497](https://jobright.ai/jobs/info/68ef586e78ba1621431ddb25?utm_campaign=1079&utm_source=git)** | Broomfield, CO | Hybrid | Oct 15 |
-| **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Software Engineering Intern (Summer 2026) (Onsite)](https://jobright.ai/jobs/info/68ef584dde50091dbfa4dab6?utm_campaign=1079&utm_source=git)** | Cedar Rapids, IA | On Site | Oct 15 |
-| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68ef4a369821486c423c3bf6?utm_campaign=1079&utm_source=git)** | Possible | On Site | Oct 15 |
-| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/68ef4a0e9821486c423c3bad?utm_campaign=1079&utm_source=git)** | Possible | On Site | Oct 15 |
-| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/68ef496c9821486c423c3b37?utm_campaign=1079&utm_source=git)** | Possible | On Site | Oct 15 |
-| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/68ef496c78ba1621431dc976?utm_campaign=1079&utm_source=git)** | Alabama | On Site | Oct 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
