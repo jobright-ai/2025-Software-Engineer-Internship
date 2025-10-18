@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Software Engineering Intern C++ Development](https://jobright.ai/jobs/info/68f401cd76a51a4307bd02f3?utm_campaign=1079&utm_source=git)** | San Antonio, TX | Hybrid | Oct 18 |
+| **[Bridge Specialty Group](https://bridgespecialtygroup.com/)** | **[Technology Solutions Internship](https://jobright.ai/jobs/info/68f3fd8476a51a4307bd01de?utm_campaign=1079&utm_source=git)** | Daytona Beach, FL | On Site | Oct 18 |
+| **[Skydio](https://www.skydio.com)** | **[Middleware Software Intern - Jan-April 2026](https://jobright.ai/jobs/info/68a8d6af758f2e4ac3ff5be9?utm_campaign=1079&utm_source=git)** | San Mateo, California, United States | On Site | Oct 18 |
+| **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Software Development Intern (Early career) - S&P Global](https://jobright.ai/jobs/info/68f3f96876a51a4307bd0129?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Oct 18 |
+| ↳ | **[Software Engineer Intern (Early Career) - S&P Global](https://jobright.ai/jobs/info/68f3f6ad9a65fd3458588d50?utm_campaign=1079&utm_source=git)** | Princeton, NJ | On Site | Oct 18 |
+| ↳ | **[Software Engineer Intern (Early Career) - S&P Global](https://jobright.ai/jobs/info/68f3f5339a65fd3458588cf2?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Oct 18 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Enterprise Platform Engineering Services Center of Excellence)](https://jobright.ai/jobs/info/68bb792b6105227d118a6410?utm_campaign=1079&utm_source=git)** | Vienna, VA | Hybrid | Oct 18 |
 | ↳ | **[Summer Associate Internship (Application Engineer)](https://jobright.ai/jobs/info/68d802df7a37c712687d7b75?utm_campaign=1079&utm_source=git)** | Vienna, VA | Hybrid | Oct 18 |
 | **[WEX](http://www.wexinc.com)** | **[Intern - Software Engineer (Graduate Students Only)](https://jobright.ai/jobs/info/68d70d4145853d0e39ccc7b8?utm_campaign=1079&utm_source=git)** | Maine, United States | Remote | Oct 18 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Eng Intern](https://jobright.ai/jobs/info/68f2e54176a51a4307bc9111?utm_campaign=1079&utm_source=git)** | San Francisco, California, USA | On Site | Oct 17 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Enterprise Applications Internship](https://jobright.ai/jobs/info/68f2e44d9a63986de756ce81?utm_campaign=1079&utm_source=git)** | US-NJ-Egg Harbor Township | Hybrid | Oct 17 |
 | **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Intern, Enterprise Architecture](https://jobright.ai/jobs/info/68f2e4319a65fd3458581b0e?utm_campaign=1079&utm_source=git)** | US-IA-Urbandale | On Site | Oct 17 |
-| **[Waymo](https://waymo.com)** | **[2026 Summer Intern, PhD, Software Engineer, Strategic Selection](https://jobright.ai/jobs/info/68f2e3cb76a51a4307bc8e7d?utm_campaign=1079&utm_source=git)** | Mountain View, CA, USA | On Site | Oct 17 |
-| **[City of Beaverton](https://www.beavertonoregon.gov)** | **[Web Specialist - Temporary](https://jobright.ai/jobs/info/68f2e3ae76a51a4307bc8e72?utm_campaign=1079&utm_source=git)** | Beaverton, OR | On Site | Oct 17 |
-| **[Arthrex](https://www.arthrex.com/)** | **[Custom Dev .NET Intern](https://jobright.ai/jobs/info/68f2e26a76a51a4307bc8ded?utm_campaign=1079&utm_source=git)** | Naples, FL | On Site | Oct 17 |
-| **[Western Governors University](http://www.wgu.edu/)** | **[Intern - Technical](https://jobright.ai/jobs/info/68f2e2109a65fd34585819fd?utm_campaign=1079&utm_source=git)** | SLC Metro Area | On Site | Oct 17 |
-| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/68f2e1009a65fd345858196c?utm_campaign=1079&utm_source=git)** | Memphis, TN | Hybrid | Oct 17 |
-| **[Cambium Assessment](https://www.cambiumassessment.com)** | **[Assessment Engineering Intern](https://jobright.ai/jobs/info/68d9664d061b716fa295a4a3?utm_campaign=1079&utm_source=git)** | Concord, MA | Remote | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
