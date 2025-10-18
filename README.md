@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM Canada Software Lab - Toronto](https://research.ibm.com)** | **[2026 Intern: Hybrid Cloud and Quantum Research Scientist](https://jobright.ai/jobs/info/68f35a059a65fd3458586823?utm_campaign=1079&utm_source=git)** | Yorktown Heights, NY | Hybrid | Oct 18 |
+| **[ABB](https://global.abb/group/en)** | **[Internship - Software Developer with C++](https://jobright.ai/jobs/info/68f358dc9a63986de7571aa0?utm_campaign=1079&utm_source=git)** | Location, WV | On Site | Oct 18 |
+| ↳ | **[Internship- R&D QA Engineer](https://jobright.ai/jobs/info/68f358499a65fd345858678d?utm_campaign=1079&utm_source=git)** | Location, WV | On Site | Oct 18 |
+| **[Sigma](http://sigmacomputing.com)** | **[Software Engineer (New Grad Program)](https://jobright.ai/jobs/info/68f3581676a51a4307bcdb2c?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Oct 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Monetization Technology) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68f328e89a65fd3458584603?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Oct 17 |
 | **[Oracle](https://www.oracle.com/)** | **[Advanced Degree Software Engineer Intern - Fusion](https://jobright.ai/jobs/info/68f322fb9a65fd34585843c0?utm_campaign=1079&utm_source=git)** | Redwood City, CA | On Site | Oct 17 |
 | ↳ | **[Advanced Degree Software Engineer Intern - Fusion](https://jobright.ai/jobs/info/68f3214f76a51a4307bcb715?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Oct 17 |
@@ -93,8 +97,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Intern, BS/MS, Software Engineer, SQR](https://jobright.ai/jobs/info/68f2f56c9a63986de756d72b?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Oct 17 |
 | **[Viasat](http://www.viasat.com)** | **[Software Engineer Intern, Viasat Government](https://jobright.ai/jobs/info/68f2f2f29a63986de756d6e5?utm_campaign=1079&utm_source=git)** | Carlsbad, California | Hybrid | Oct 17 |
 | **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Intern, Enterprise Architecture](https://jobright.ai/jobs/info/68f2e63a9a63986de756d26e?utm_campaign=1079&utm_source=git)** | IA, Urbandale - 3840  109th Street | On Site | Oct 17 |
-| **[Amazon](https://amazon.com)** | **[Software Eng Intern](https://jobright.ai/jobs/info/68f2e4ed9a63986de756cfc1?utm_campaign=1079&utm_source=git)** | San Francisco, California, USA | On Site | Oct 17 |
-| ↳ | **[Software Eng Intern](https://jobright.ai/jobs/info/68f2e49b9a65fd3458581bb6?utm_campaign=1079&utm_source=git)** | San Francisco, California, USA | On Site | Oct 17 |
+| **[Amazon](https://amazon.com)** | **[Software Eng Intern](https://jobright.ai/jobs/info/68f2e54d76a51a4307bc912b?utm_campaign=1079&utm_source=git)** | San Francisco, California, USA | On Site | Oct 17 |
+| ↳ | **[Software Eng Intern](https://jobright.ai/jobs/info/68f2e4ed9a63986de756cfc1?utm_campaign=1079&utm_source=git)** | San Francisco, California, USA | On Site | Oct 17 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Enterprise Applications Internship](https://jobright.ai/jobs/info/68f2e44d9a63986de756ce81?utm_campaign=1079&utm_source=git)** | US-NJ-Egg Harbor Township | Hybrid | Oct 17 |
 | **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Intern, Enterprise Architecture](https://jobright.ai/jobs/info/68f2e4319a65fd3458581b0e?utm_campaign=1079&utm_source=git)** | US-IA-Urbandale | On Site | Oct 17 |
 | **[Waymo](https://waymo.com)** | **[2026 Summer Intern, PhD, Software Engineer, Strategic Selection](https://jobright.ai/jobs/info/68f2e3cb76a51a4307bc8e7d?utm_campaign=1079&utm_source=git)** | Mountain View, CA, USA | On Site | Oct 17 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GoFundMe](http://www.gofundme.com)** | **[Frontend Software Engineering Intern](https://jobright.ai/jobs/info/68dc5b4fddc10244dd6748ce?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Oct 17 |
 | **[Life Fitness  / Hammer Strength](https://www.lifefitness.com)** | **[Android Software Engineering Intern](https://jobright.ai/jobs/info/68f2920e9a65fd345857db84?utm_campaign=1079&utm_source=git)** | Life Fitness Schaumburg | On Site | Oct 17 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Software Engineer in Test Intern - EDG (36437-KCAR)](https://jobright.ai/jobs/info/68f2c33b9a65fd3458580b96?utm_campaign=1079&utm_source=git)** | Natick, MA | Hybrid | Oct 17 |
-| **[Gordon Food Service - Canada](https://www.gfs.ca/en-ca)** | **[SAP Development Internship](https://jobright.ai/jobs/info/68f30ce176a51a4307bca835?utm_campaign=1079&utm_source=git)** | Wyoming, MI | On Site | Oct 17 |
-| ↳ | **[SAP (PTP) Functional Analyst Internship](https://jobright.ai/jobs/info/68f30dae9a65fd3458583521?utm_campaign=1079&utm_source=git)** | Wyoming, MI | On Site | Oct 17 |
-| **[Gateway Ticketing Systems, Inc.](http://gatewayticketing.com)** | **[Software Developer Intern - Summer 2026](https://jobright.ai/jobs/info/68f27b069a63986de756837e?utm_campaign=1079&utm_source=git)** | Gilbertsville Office, Gilbertsville, PA, US | Hybrid | Oct 17 |
-| **[S&P Global](https://www.spglobal.com)** | **[Software Engineer Intern (Early Career)](https://jobright.ai/jobs/info/68f279089a65fd345857cee7?utm_campaign=1079&utm_source=git)** | Princeton, NJ | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
