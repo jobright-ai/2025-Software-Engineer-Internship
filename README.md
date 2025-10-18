@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Monetization Technology) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68f328e89a65fd3458584603?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Oct 17 |
 | **[Oracle](https://www.oracle.com/)** | **[Advanced Degree Software Engineer Intern - Fusion](https://jobright.ai/jobs/info/68f322fb9a65fd34585843c0?utm_campaign=1079&utm_source=git)** | Redwood City, CA | On Site | Oct 17 |
 | ↳ | **[Advanced Degree Software Engineer Intern - Fusion](https://jobright.ai/jobs/info/68f3214f76a51a4307bcb715?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Oct 17 |
 | **[Qualcomm](http://www.qualcomm.com)** | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68f302319a65fd3458582cb4?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Oct 17 |
@@ -92,8 +93,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Intern, BS/MS, Software Engineer, SQR](https://jobright.ai/jobs/info/68f2f56c9a63986de756d72b?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Oct 17 |
 | **[Viasat](http://www.viasat.com)** | **[Software Engineer Intern, Viasat Government](https://jobright.ai/jobs/info/68f2f2f29a63986de756d6e5?utm_campaign=1079&utm_source=git)** | Carlsbad, California | Hybrid | Oct 17 |
 | **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Intern, Enterprise Architecture](https://jobright.ai/jobs/info/68f2e63a9a63986de756d26e?utm_campaign=1079&utm_source=git)** | IA, Urbandale - 3840  109th Street | On Site | Oct 17 |
-| **[Amazon](https://amazon.com)** | **[Software Eng Intern](https://jobright.ai/jobs/info/68f2e54d76a51a4307bc912b?utm_campaign=1079&utm_source=git)** | San Francisco, California, USA | On Site | Oct 17 |
-| ↳ | **[Software Eng Intern](https://jobright.ai/jobs/info/68f2e54176a51a4307bc9111?utm_campaign=1079&utm_source=git)** | San Francisco, California, USA | On Site | Oct 17 |
+| **[Amazon](https://amazon.com)** | **[Software Eng Intern](https://jobright.ai/jobs/info/68f2e4ed9a63986de756cfc1?utm_campaign=1079&utm_source=git)** | San Francisco, California, USA | On Site | Oct 17 |
+| ↳ | **[Software Eng Intern](https://jobright.ai/jobs/info/68f2e49b9a65fd3458581bb6?utm_campaign=1079&utm_source=git)** | San Francisco, California, USA | On Site | Oct 17 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Enterprise Applications Internship](https://jobright.ai/jobs/info/68f2e44d9a63986de756ce81?utm_campaign=1079&utm_source=git)** | US-NJ-Egg Harbor Township | Hybrid | Oct 17 |
 | **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Intern, Enterprise Architecture](https://jobright.ai/jobs/info/68f2e4319a65fd3458581b0e?utm_campaign=1079&utm_source=git)** | US-IA-Urbandale | On Site | Oct 17 |
 | **[Waymo](https://waymo.com)** | **[2026 Summer Intern, PhD, Software Engineer, Strategic Selection](https://jobright.ai/jobs/info/68f2e3cb76a51a4307bc8e7d?utm_campaign=1079&utm_source=git)** | Mountain View, CA, USA | On Site | Oct 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[SAP (PTP) Functional Analyst Internship](https://jobright.ai/jobs/info/68f30dae9a65fd3458583521?utm_campaign=1079&utm_source=git)** | Wyoming, MI | On Site | Oct 17 |
 | **[Gateway Ticketing Systems, Inc.](http://gatewayticketing.com)** | **[Software Developer Intern - Summer 2026](https://jobright.ai/jobs/info/68f27b069a63986de756837e?utm_campaign=1079&utm_source=git)** | Gilbertsville Office, Gilbertsville, PA, US | Hybrid | Oct 17 |
 | **[S&P Global](https://www.spglobal.com)** | **[Software Engineer Intern (Early Career)](https://jobright.ai/jobs/info/68f279089a65fd345857cee7?utm_campaign=1079&utm_source=git)** | Princeton, NJ | On Site | Oct 17 |
-| ↳ | **[Software Development Intern (Early career)](https://jobright.ai/jobs/info/68f274c19a65fd345857cb9e?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
