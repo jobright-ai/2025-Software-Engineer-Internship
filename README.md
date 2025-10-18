@@ -57,14 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oracle](https://www.oracle.com/)** | **[Advanced Degree Software Engineer Intern - Fusion](https://jobright.ai/jobs/info/68f322fb9a65fd34585843c0?utm_campaign=1079&utm_source=git)** | Redwood City, CA | On Site | Oct 17 |
+| ↳ | **[Advanced Degree Software Engineer Intern - Fusion](https://jobright.ai/jobs/info/68f3214f76a51a4307bcb715?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Oct 17 |
+| **[Qualcomm](http://www.qualcomm.com)** | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68f302319a65fd3458582cb4?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Oct 17 |
+| **[Oracle](https://www.oracle.com/)** | **[Advanced Degree Software Engineer Intern - Fusion](https://jobright.ai/jobs/info/68f31c019a63986de756f158?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 17 |
+| ↳ | **[Advanced Degree Software Engineer Intern - Fusion](https://jobright.ai/jobs/info/68f3151876a51a4307bcaf5d?utm_campaign=1079&utm_source=git)** | Pleasanton, CA | On Site | Oct 17 |
 | **[Viasat](http://www.viasat.com)** | **[Software Engineer Intern, Viasat Government](https://jobright.ai/jobs/info/68f30e0676a51a4307bca9a0?utm_campaign=1079&utm_source=git)** | Carlsbad, CA | Hybrid | Oct 17 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[RMCC Software Engineering Intern](https://jobright.ai/jobs/info/68f30c8e9a63986de756e780?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Oct 17 |
 | **[Seagate Technology](http://www.seagate.com)** | **[Intern - Test Process Firmware Engineer - Summer 2026](https://jobright.ai/jobs/info/68e97f3965768b6412b1cb33?utm_campaign=1079&utm_source=git)** | Shakopee, MN | On Site | Oct 17 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Backend Software Engineer Intern](https://jobright.ai/jobs/info/68dc5fe2accfd24b67e54eb4?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Oct 17 |
 | **[Mom's Meals | A Purfoods Company](https://www.momsmeals.com)** | **[Salesforce Developer Intern](https://jobright.ai/jobs/info/68f305d876a51a4307bca2f9?utm_campaign=1079&utm_source=git)** | Ankeny, IA | On Site | Oct 17 |
 | **[Kwaza Games LLC](http://etwaves.online)** | **[(Internship/Unpaid) Unity Programmer/3D Modeling/ AI prompting](https://jobright.ai/jobs/info/68f3040976a51a4307bca190?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 17 |
-| **[Qualcomm](http://www.qualcomm.com)** | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68f302319a65fd3458582cb4?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Oct 17 |
-| ↳ | **[Embedded Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68f300bb9a65fd3458582b50?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Oct 17 |
+| **[Qualcomm](http://www.qualcomm.com)** | **[Embedded Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68f300bb9a65fd3458582b50?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Oct 17 |
 | ↳ | **[Multimedia Engineering Internship – Summer 2026](https://jobright.ai/jobs/info/68f3004c9a65fd3458582add?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Oct 17 |
 | ↳ | **[IT Infrastructure & Cloud Engineering Internship – Summer 2026](https://jobright.ai/jobs/info/68f300089a65fd3458582a99?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Oct 17 |
 | **[Kodiak](http://www.kodiak.ai)** | **[Winter 2026 Intern Onboard Infrastructure Engineer](https://jobright.ai/jobs/info/68f2fff776a51a4307bc9e98?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Oct 17 |
@@ -89,7 +93,7 @@ For a complete list, click the following sortable link below:
 | **[Viasat](http://www.viasat.com)** | **[Software Engineer Intern, Viasat Government](https://jobright.ai/jobs/info/68f2f2f29a63986de756d6e5?utm_campaign=1079&utm_source=git)** | Carlsbad, California | Hybrid | Oct 17 |
 | **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Intern, Enterprise Architecture](https://jobright.ai/jobs/info/68f2e63a9a63986de756d26e?utm_campaign=1079&utm_source=git)** | IA, Urbandale - 3840  109th Street | On Site | Oct 17 |
 | **[Amazon](https://amazon.com)** | **[Software Eng Intern](https://jobright.ai/jobs/info/68f2e54d76a51a4307bc912b?utm_campaign=1079&utm_source=git)** | San Francisco, California, USA | On Site | Oct 17 |
-| ↳ | **[Software Eng Intern](https://jobright.ai/jobs/info/68f2e4ed9a63986de756cfc1?utm_campaign=1079&utm_source=git)** | San Francisco, California, USA | On Site | Oct 17 |
+| ↳ | **[Software Eng Intern](https://jobright.ai/jobs/info/68f2e54176a51a4307bc9111?utm_campaign=1079&utm_source=git)** | San Francisco, California, USA | On Site | Oct 17 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Enterprise Applications Internship](https://jobright.ai/jobs/info/68f2e44d9a63986de756ce81?utm_campaign=1079&utm_source=git)** | US-NJ-Egg Harbor Township | Hybrid | Oct 17 |
 | **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Intern, Enterprise Architecture](https://jobright.ai/jobs/info/68f2e4319a65fd3458581b0e?utm_campaign=1079&utm_source=git)** | US-IA-Urbandale | On Site | Oct 17 |
 | **[Waymo](https://waymo.com)** | **[2026 Summer Intern, PhD, Software Engineer, Strategic Selection](https://jobright.ai/jobs/info/68f2e3cb76a51a4307bc8e7d?utm_campaign=1079&utm_source=git)** | Mountain View, CA, USA | On Site | Oct 17 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gateway Ticketing Systems, Inc.](http://gatewayticketing.com)** | **[Software Developer Intern - Summer 2026](https://jobright.ai/jobs/info/68f27b069a63986de756837e?utm_campaign=1079&utm_source=git)** | Gilbertsville Office, Gilbertsville, PA, US | Hybrid | Oct 17 |
 | **[S&P Global](https://www.spglobal.com)** | **[Software Engineer Intern (Early Career)](https://jobright.ai/jobs/info/68f279089a65fd345857cee7?utm_campaign=1079&utm_source=git)** | Princeton, NJ | On Site | Oct 17 |
 | ↳ | **[Software Development Intern (Early career)](https://jobright.ai/jobs/info/68f274c19a65fd345857cb9e?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Oct 17 |
-| **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Software Engineering Summer Intern](https://jobright.ai/jobs/info/68f273dc9a63986de7567ea9?utm_campaign=1079&utm_source=git)** | Greensboro, NC United States of America | Hybrid | Oct 17 |
-| **[Arch Mortgage Insurance Company (Arch MI)](https://mortgage.archgroup.com/us)** | **[Software Engineering Summer Intern](https://jobright.ai/jobs/info/68f2a8e69a63986de756a008?utm_campaign=1079&utm_source=git)** | Triad Area | Hybrid | Oct 17 |
-| **[Pegasystems](http://www.pega.com)** | **[Software Engineer Summer Intern, Software Delivery Excellence Alliance](https://jobright.ai/jobs/info/68f2685faf0b5a06b584cf2f?utm_campaign=1079&utm_source=git)** | Waltham, MA | On Site | Oct 17 |
-| **[Microsoft](https://www.microsoft.com)** | **[Software Engineer: Systems Intern Opportunities for University Students, Redmond](https://jobright.ai/jobs/info/68cd39671ad6b16f028969bd?utm_campaign=1079&utm_source=git)** | Redmond, WA | Hybrid | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
