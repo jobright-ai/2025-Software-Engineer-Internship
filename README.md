@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Information Technology Engineer](https://jobright.ai/jobs/info/68e925c50930fe0bc4622946?utm_campaign=1079&utm_source=git)** | Kentucky, United States | Hybrid | Oct 18 |
+| ↳ | **[Internship - Product Engineer](https://jobright.ai/jobs/info/68c0f09e8e65e77df55c5d23?utm_campaign=1079&utm_source=git)** | Massachusetts, United States | On Site | Oct 18 |
 | **[Scale AI](https://scale.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68bf2491702aa35207aa361b?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Oct 18 |
+| **[Klaviyo](http://www.klaviyo.com)** | **[Full-stack Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/68c922e3a0c52d598ea36139?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Oct 18 |
 | **[General Dynamics](https://www.gd.com)** | **[Software Engineering Intern – C++ Development](https://jobright.ai/jobs/info/68f4161376a51a4307bd0436?utm_campaign=1079&utm_source=git)** | USA-TX-San Antonio | Hybrid | Oct 18 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Software Engineering Intern C++ Development](https://jobright.ai/jobs/info/68f401cd76a51a4307bd02f3?utm_campaign=1079&utm_source=git)** | San Antonio, TX | Hybrid | Oct 18 |
 | **[Bridge Specialty Group](https://bridgespecialtygroup.com/)** | **[Technology Solutions Internship](https://jobright.ai/jobs/info/68f3fd8476a51a4307bd01de?utm_campaign=1079&utm_source=git)** | Daytona Beach, FL | On Site | Oct 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mom's Meals | A Purfoods Company](https://www.momsmeals.com)** | **[D365 Finance & Operations Technical Intern](https://jobright.ai/jobs/info/68f2faf09a63986de756d993?utm_campaign=1079&utm_source=git)** | Ankeny, IA | On Site | Oct 17 |
 | **[Waymo](https://waymo.com)** | **[2026 Summer Intern, PhD, Software Engineer, Strategic Selection](https://jobright.ai/jobs/info/68f2f5e876a51a4307bc97ba?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Oct 17 |
 | ↳ | **[2026 Summer Intern, BS/MS, Software Engineer, SQR](https://jobright.ai/jobs/info/68f2f56c9a63986de756d72b?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Oct 17 |
-| **[Viasat](http://www.viasat.com)** | **[Software Engineer Intern, Viasat Government](https://jobright.ai/jobs/info/68f2f2f29a63986de756d6e5?utm_campaign=1079&utm_source=git)** | Carlsbad, California | Hybrid | Oct 17 |
-| **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Intern, Enterprise Architecture](https://jobright.ai/jobs/info/68f2e63a9a63986de756d26e?utm_campaign=1079&utm_source=git)** | IA, Urbandale - 3840  109th Street | On Site | Oct 17 |
-| **[Amazon](https://amazon.com)** | **[Software Eng Intern](https://jobright.ai/jobs/info/68f2e54d76a51a4307bc912b?utm_campaign=1079&utm_source=git)** | San Francisco, California, USA | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
