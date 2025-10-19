@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Radix Trading LLC](https://radix.trade)** | **[Quantitative Technologist (C++ Intern - Summer 2026)](https://jobright.ai/jobs/info/6897ea211b9e81727f1a2fd0?utm_campaign=1079&utm_source=git)** | Chicago | On Site | Oct 19 |
+| **[Caterpillar Inc.](https://www.caterpillar.com)** | **[2026 Internship ITS (Information Technology Solutions)](https://jobright.ai/jobs/info/68caa621efdec76df36b4c12?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Oct 19 |
 | **[CSX](http://www.csx.com)** | **[Technology Internship - Summer 2026 (Paid)](https://jobright.ai/jobs/info/68ce19fe1ad6b16f028a1c6a?utm_campaign=1079&utm_source=git)** | Jacksonville, FL | On Site | Oct 19 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Software Engineer Intern - Fall 2025](https://jobright.ai/jobs/info/68f5288b76a51a4307bd4744?utm_campaign=1079&utm_source=git)** | Tampa, FL | On Site | Oct 19 |
 | **[Tanium](http://www.tanium.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68cfdcd8846f0b04af6857b9?utm_campaign=1079&utm_source=git)** | Addison, TX | Hybrid | Oct 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Monetization Technology) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68f328e89a65fd3458584603?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Oct 17 |
 | **[Oracle](https://www.oracle.com/)** | **[Advanced Degree Software Engineer Intern - Fusion](https://jobright.ai/jobs/info/68f322fb9a65fd34585843c0?utm_campaign=1079&utm_source=git)** | Redwood City, CA | On Site | Oct 17 |
 | ↳ | **[Advanced Degree Software Engineer Intern - Fusion](https://jobright.ai/jobs/info/68f3214f76a51a4307bcb715?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Oct 17 |
-| **[Qualcomm](http://www.qualcomm.com)** | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68f302319a65fd3458582cb4?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Oct 17 |
-| **[Oracle](https://www.oracle.com/)** | **[Advanced Degree Software Engineer Intern - Fusion](https://jobright.ai/jobs/info/68f31c019a63986de756f158?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
