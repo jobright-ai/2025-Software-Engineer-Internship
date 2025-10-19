@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lexcar](https://lexcar.us/)** | **[Software Engineer Intern (Spring 2025)](https://jobright.ai/jobs/info/68f4b27a76a51a4307bd3441?utm_campaign=1079&utm_source=git)** | LA Metro Area | On Site | Oct 19 |
+| **[DataInsta](www.datainsta.com)** | **[Software Engineer Intern (Unpaid)](https://jobright.ai/jobs/info/68f4af4c9a63986de7577278?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 19 |
+| **[The Toro Company](https://www.thetorocompany.com)** | **[Hardware and Software Engineering Internship - Ditch Witch](https://jobright.ai/jobs/info/68bae8446105227d118a1515?utm_campaign=1079&utm_source=git)** | Noble County, OK | On Site | Oct 19 |
+| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Software Engineer](https://jobright.ai/jobs/info/68cd2d3de23def7af55b68fd?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Oct 19 |
+| **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Software Engineer Intern](https://jobright.ai/jobs/info/6893a548a9199876488ded96?utm_campaign=1079&utm_source=git)** | San Mateo, CA, United States | On Site | Oct 19 |
+| **[AaronBux Asset Management Firm LLC](www.AaronBux.com)** | **[iOS Developer Intern – AaronBux (Remote, U.S. Only)](https://jobright.ai/jobs/info/68f4a4309a63986de7576ff3?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 19 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Information Technology Engineer](https://jobright.ai/jobs/info/68e925c50930fe0bc4622946?utm_campaign=1079&utm_source=git)** | Kentucky, United States | Hybrid | Oct 18 |
 | ↳ | **[Internship - Product Engineer](https://jobright.ai/jobs/info/68c0f09e8e65e77df55c5d23?utm_campaign=1079&utm_source=git)** | Massachusetts, United States | On Site | Oct 18 |
 | **[Scale AI](https://scale.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68bf2491702aa35207aa361b?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Oct 18 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Spencer's](http://www.spencersonline.com/)** | **[Enterprise Applications Internship](https://jobright.ai/jobs/info/68f2fc8076a51a4307bc9b03?utm_campaign=1079&utm_source=git)** | Egg Harbor, NJ | On Site | Oct 17 |
 | **[Qualcomm](http://www.qualcomm.com)** | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68f2fc349a63986de756da68?utm_campaign=1079&utm_source=git)** | Chandler, AZ | On Site | Oct 17 |
 | ↳ | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68f2fbdf76a51a4307bc9a85?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Oct 17 |
-| ↳ | **[Information Technology (IT) Internship – Summer 2026](https://jobright.ai/jobs/info/68f2fbd49a63986de756da36?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Oct 17 |
-| ↳ | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68f2fb959a63986de756da0e?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Oct 17 |
-| **[Mom's Meals | A Purfoods Company](https://www.momsmeals.com)** | **[D365 Finance & Operations Technical Intern](https://jobright.ai/jobs/info/68f2faf09a63986de756d993?utm_campaign=1079&utm_source=git)** | Ankeny, IA | On Site | Oct 17 |
-| **[Subaru of America](http://www.subaru.com)** | **[INTERN - Information Technology Internships](https://jobright.ai/jobs/info/68f4551d76a51a4307bd0b4d?utm_campaign=1079&utm_source=git)** | Camden, NJ | On Site | Oct 17 |
-| **[Waymo](https://waymo.com)** | **[2026 Summer Intern, PhD, Software Engineer, Strategic Selection](https://jobright.ai/jobs/info/68f2f5e876a51a4307bc97ba?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Oct 17 |
-| ↳ | **[2026 Summer Intern, BS/MS, Software Engineer, SQR](https://jobright.ai/jobs/info/68f2f56c9a63986de756d72b?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
