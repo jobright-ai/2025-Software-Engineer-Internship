@@ -57,8 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lexcar](https://lexcar.us/)** | **[Software Engineer Intern (Spring 2025)](https://jobright.ai/jobs/info/68f4b27a76a51a4307bd3441?utm_campaign=1079&utm_source=git)** | LA Metro Area | On Site | Oct 19 |
-| **[DataInsta](www.datainsta.com)** | **[Software Engineer Intern (Unpaid)](https://jobright.ai/jobs/info/68f4af4c9a63986de7577278?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 19 |
+| **[Motion](http://www.dragosupply.com/)** | **[Customer Software Development Intern](https://jobright.ai/jobs/info/68f33f739a63986de7570665?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | Oct 19 |
+| ↳ | **[Web Developer Intern](https://jobright.ai/jobs/info/68f30c869a65fd34585832e7?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | Oct 19 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Mobile Device Engineer](https://jobright.ai/jobs/info/68f4acee76a51a4307bd30f2?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO | On Site | Oct 19 |
+| ↳ | **[2026 Summer Intern: Software Engineer](https://jobright.ai/jobs/info/68f4c1359a65fd345858c493?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO | On Site | Oct 19 |
+| ↳ | **[2026 Summer Intern: Software Engineer](https://jobright.ai/jobs/info/68f4c1069a65fd345858c3a2?utm_campaign=1079&utm_source=git)** | St Louis, MO | On Site | Oct 19 |
+| **[Texas Instruments](http://www.ti.com)** | **[Information Technology Intern – Infrastructure](https://jobright.ai/jobs/info/68bb30816105227d118a3b39?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Oct 19 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Software Engineer](https://jobright.ai/jobs/info/68f4bcf19a63986de7577595?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Oct 19 |
+| **[GreatAmerica Financial Services](http://www.greatamerica.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68d01499fb49c96ca6eadd4a?utm_campaign=1079&utm_source=git)** | Cedar Rapids, IA | On Site | Oct 19 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Hardware and Software Engineering Internship - Ditch Witch](https://jobright.ai/jobs/info/68bae8446105227d118a1515?utm_campaign=1079&utm_source=git)** | Noble County, OK | On Site | Oct 19 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Software Engineer](https://jobright.ai/jobs/info/68cd2d3de23def7af55b68fd?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Oct 19 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Software Engineer Intern](https://jobright.ai/jobs/info/6893a548a9199876488ded96?utm_campaign=1079&utm_source=git)** | San Mateo, CA, United States | On Site | Oct 19 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68f2fdd69a65fd34585827f8?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Oct 17 |
 | ↳ | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68f2fd499a63986de756db4a?utm_campaign=1079&utm_source=git)** | Louisville, KY | On Site | Oct 17 |
 | ↳ | **[Embedded Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68f2fd279a63986de756db2a?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Oct 17 |
-| **[Mom's Meals | A Purfoods Company](https://www.momsmeals.com)** | **[Software Quality Assurance (QA) Intern](https://jobright.ai/jobs/info/68f2fd169a63986de756db1b?utm_campaign=1079&utm_source=git)** | Ankeny, IA | On Site | Oct 17 |
-| **[Qualcomm](http://www.qualcomm.com)** | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68f2fcc29a63986de756dae4?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Oct 17 |
-| ↳ | **[Multimedia Engineering Internship – Summer 2026](https://jobright.ai/jobs/info/68f2fc9a9a63986de756dabc?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Oct 17 |
-| **[Spencer's](http://www.spencersonline.com/)** | **[Enterprise Applications Internship](https://jobright.ai/jobs/info/68f2fc8076a51a4307bc9b03?utm_campaign=1079&utm_source=git)** | Egg Harbor, NJ | On Site | Oct 17 |
-| **[Qualcomm](http://www.qualcomm.com)** | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68f2fc349a63986de756da68?utm_campaign=1079&utm_source=git)** | Chandler, AZ | On Site | Oct 17 |
-| ↳ | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68f2fbdf76a51a4307bc9a85?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
