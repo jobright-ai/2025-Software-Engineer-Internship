@@ -118,8 +118,7 @@ For a complete list, click the following sortable link below:
 | **[Amway](http://www.amway.com)** | **[Quality Assurance Engineer Intern, Summer 2026 (42279)](https://jobright.ai/jobs/info/68cd0ca1b2a74e1837ed1789?utm_campaign=1079&utm_source=git)** | Ada, MI | On Site | Oct 18 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Software Engineer](https://jobright.ai/jobs/info/68f02ab7de50091dbfa52625?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Oct 18 |
 | **[Epic Games](https://epicgames.com)** | **[Ecommerce Programmer Intern](https://jobright.ai/jobs/info/68ea2aea6afbef49f2c65a86?utm_campaign=1079&utm_source=git)** | Greater Seattle Area | On Site | Oct 18 |
-| **[Optiver](http://www.optiver.com)** | **[Software Engineer Intern (Summer 2026 - Austin)](https://jobright.ai/jobs/info/68f363689a63986de7571e79?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Oct 18 |
-| **[Epic Games](https://epicgames.com)** | **[Game Services Engineer Intern](https://jobright.ai/jobs/info/68e6a264e8daec61499ad00f?utm_campaign=1079&utm_source=git)** | Cary, NC | On Site | Oct 18 |
+| ↳ | **[Game Services Engineer Intern](https://jobright.ai/jobs/info/68e6a264e8daec61499ad00f?utm_campaign=1079&utm_source=git)** | Cary, NC | On Site | Oct 18 |
 | **[Amway](http://www.amway.com)** | **[Software Engineering Intern, Summer 2026 (42275)](https://jobright.ai/jobs/info/68cf8df6fb49c96ca6ea975a?utm_campaign=1079&utm_source=git)** | Ada, MI | Hybrid | Oct 18 |
 | **[IBM Canada Software Lab - Toronto](https://research.ibm.com)** | **[2026 Intern: Hybrid Cloud and Quantum Research Scientist](https://jobright.ai/jobs/info/68f35a059a65fd3458586823?utm_campaign=1079&utm_source=git)** | Yorktown Heights, NY | Hybrid | Oct 18 |
 | **[Sigma](http://sigmacomputing.com)** | **[Software Engineer (New Grad Program)](https://jobright.ai/jobs/info/68f3581676a51a4307bcdb2c?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Oct 18 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Mom's Meals | A Purfoods Company](https://www.momsmeals.com)** | **[D365 Finance & Operations Technical Intern](https://jobright.ai/jobs/info/68f2faf09a63986de756d993?utm_campaign=1079&utm_source=git)** | Ankeny, IA | On Site | Oct 17 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Information Technology Internships](https://jobright.ai/jobs/info/68f4551d76a51a4307bd0b4d?utm_campaign=1079&utm_source=git)** | Camden, NJ | On Site | Oct 17 |
 | **[Waymo](https://waymo.com)** | **[2026 Summer Intern, PhD, Software Engineer, Strategic Selection](https://jobright.ai/jobs/info/68f2f5e876a51a4307bc97ba?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Oct 17 |
+| ↳ | **[2026 Summer Intern, BS/MS, Software Engineer, SQR](https://jobright.ai/jobs/info/68f2f56c9a63986de756d72b?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
