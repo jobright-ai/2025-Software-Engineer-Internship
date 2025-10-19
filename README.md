@@ -94,6 +94,7 @@ For a complete list, click the following sortable link below:
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Software Development Intern (Early career) - S&P Global](https://jobright.ai/jobs/info/68f3f96876a51a4307bd0129?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Oct 18 |
 | ↳ | **[Software Engineer Intern (Early Career) - S&P Global](https://jobright.ai/jobs/info/68f3f6ad9a65fd3458588d50?utm_campaign=1079&utm_source=git)** | Princeton, NJ | On Site | Oct 18 |
 | ↳ | **[Software Engineer Intern (Early Career) - S&P Global](https://jobright.ai/jobs/info/68f3f5339a65fd3458588cf2?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Oct 18 |
+| **[Esync Technologies](http://esynctechnologies.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68f517869a63986de75786f0?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 18 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Enterprise Platform Engineering Services Center of Excellence)](https://jobright.ai/jobs/info/68bb792b6105227d118a6410?utm_campaign=1079&utm_source=git)** | Vienna, VA | Hybrid | Oct 18 |
 | ↳ | **[Summer Associate Internship (Application Engineer)](https://jobright.ai/jobs/info/68d802df7a37c712687d7b75?utm_campaign=1079&utm_source=git)** | Vienna, VA | Hybrid | Oct 18 |
 | **[WEX](http://www.wexinc.com)** | **[Intern - Software Engineer (Graduate Students Only)](https://jobright.ai/jobs/info/68d70d4145853d0e39ccc7b8?utm_campaign=1079&utm_source=git)** | Maine, United States | Remote | Oct 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Oracle](https://www.oracle.com/)** | **[Advanced Degree Software Engineer Intern - Fusion](https://jobright.ai/jobs/info/68f31c019a63986de756f158?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 17 |
 | ↳ | **[Advanced Degree Software Engineer Intern - Fusion](https://jobright.ai/jobs/info/68f3151876a51a4307bcaf5d?utm_campaign=1079&utm_source=git)** | Pleasanton, CA | On Site | Oct 17 |
 | **[Viasat](http://www.viasat.com)** | **[Software Engineer Intern, Viasat Government](https://jobright.ai/jobs/info/68f30e0676a51a4307bca9a0?utm_campaign=1079&utm_source=git)** | Carlsbad, CA | Hybrid | Oct 17 |
-| **[Bloom Energy](http://www.bloomenergy.com)** | **[RMCC Software Engineering Intern](https://jobright.ai/jobs/info/68f30c8e9a63986de756e780?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
