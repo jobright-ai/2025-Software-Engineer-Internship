@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gordon Food Service](https://www.gfs.com)** | **[SAP (PTP) Functional Analyst Internship](https://jobright.ai/jobs/info/68f61a299a63986de757c4fa?utm_campaign=1079&utm_source=git)** | Wyoming, MI | Hybrid | Oct 20 |
+| **[ByteDance](http://bytedance.com)** | **[Software Engineer Intern (Relational Database) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68d95df8022fc803b487713a?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Oct 20 |
+| ↳ | **[Software Engineer Intern (Payment Risk) - Global Payment - 2026 Summer(BS/MS)](https://jobright.ai/jobs/info/68d9b1f6061b716fa295acdc?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Oct 20 |
+| **[Aptiv](http://www.aptiv.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68cfc473dbd9fb154edeabcd?utm_campaign=1079&utm_source=git)** | Troy, MI | On Site | Oct 20 |
 | **[Badger](http://badgerlax.com)** | **[Firmware QA Intern (Associate Degree)](https://jobright.ai/jobs/info/68f5fec876a51a4307bd7f23?utm_campaign=1079&utm_source=git)** | Milwaukee, WI | On Site | Oct 20 |
 | **[Meijer](https://www.meijer.com/)** | **[Information Technology Intern- Summer 2026](https://jobright.ai/jobs/info/68f5f7b09a63986de757bb8c?utm_campaign=1079&utm_source=git)** | Grand Rapids, MI | On Site | Oct 20 |
 | **[American Electric Power](http://aep.com)** | **[Technology Intern – Columbus, OH](https://jobright.ai/jobs/info/68c293c18753a565272fc015?utm_campaign=1079&utm_source=git)** | Columbus, OH | On Site | Oct 20 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Software Engineer](https://jobright.ai/jobs/info/68f02ab7de50091dbfa52625?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Oct 18 |
 | **[Epic Games](https://epicgames.com)** | **[Ecommerce Programmer Intern](https://jobright.ai/jobs/info/68ea2aea6afbef49f2c65a86?utm_campaign=1079&utm_source=git)** | Greater Seattle Area | On Site | Oct 18 |
 | ↳ | **[Game Services Engineer Intern](https://jobright.ai/jobs/info/68e6a264e8daec61499ad00f?utm_campaign=1079&utm_source=git)** | Cary, NC | On Site | Oct 18 |
-| **[Amway](http://www.amway.com)** | **[Software Engineering Intern, Summer 2026 (42275)](https://jobright.ai/jobs/info/68cf8df6fb49c96ca6ea975a?utm_campaign=1079&utm_source=git)** | Ada, MI | Hybrid | Oct 18 |
-| **[IBM Canada Software Lab - Toronto](https://research.ibm.com)** | **[2026 Intern: Hybrid Cloud and Quantum Research Scientist](https://jobright.ai/jobs/info/68f35a059a65fd3458586823?utm_campaign=1079&utm_source=git)** | Yorktown Heights, NY | Hybrid | Oct 18 |
-| **[Sigma](http://sigmacomputing.com)** | **[Software Engineer (New Grad Program)](https://jobright.ai/jobs/info/68f3581676a51a4307bcdb2c?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Oct 18 |
-| **[Sigma](http://sigmacomputing.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68f41d3d9a63986de7574402?utm_campaign=1079&utm_source=git)** | San Francisco, CA and New York City, NY | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
