@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oigetit AI Fact-Checker](https://oigetit.ai/)** | **[Web Quality Assurance Intern](https://jobright.ai/jobs/info/68f639f09a65fd3458591af1?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 20 |
+| **[Talentix](https://thetalentix.com/)** | **[Applied AI Engineer(Frontend Intern) - Internship - Talentix](https://jobright.ai/jobs/info/68f62f809a63986de757c8df?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Oct 20 |
+| **[Cambium Assessment](https://www.cambiumassessment.com)** | **[Assessment Engineering Intern](https://jobright.ai/jobs/info/68d9664d061b716fa295a4a3?utm_campaign=1079&utm_source=git)** | Concord, MA | Remote | Oct 20 |
+| ↳ | **[Assessment Engineering Intern](https://jobright.ai/jobs/info/68cda7b7b2a74e1837eda67a?utm_campaign=1079&utm_source=git)** | Dallas, TX | Remote | Oct 20 |
+| **[Clarity](https://clarityapp.io)** | **[Internship - Software Engineering Intern](https://jobright.ai/jobs/info/687674c0ae2f413e4a5afd36?utm_campaign=1079&utm_source=git)** | Herndon, VA | On Site | Oct 20 |
 | **[Gordon Food Service](https://www.gfs.com)** | **[SAP (PTP) Functional Analyst Internship](https://jobright.ai/jobs/info/68f61a299a63986de757c4fa?utm_campaign=1079&utm_source=git)** | Wyoming, MI | Hybrid | Oct 20 |
 | **[ByteDance](http://bytedance.com)** | **[Software Engineer Intern (Relational Database) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68d95df8022fc803b487713a?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Oct 20 |
 | ↳ | **[Software Engineer Intern (Payment Risk) - Global Payment - 2026 Summer(BS/MS)](https://jobright.ai/jobs/info/68d9b1f6061b716fa295acdc?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Oct 20 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DriveTime](https://www.drivetime.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/68cf5065fb49c96ca6ea73ef?utm_campaign=1079&utm_source=git)** | Tempe, AZ | On Site | Oct 18 |
 | **[HellermannTyton North America](https://www.hellermanntyton.us/?utm_source=linkedin&utm_medium=social&utm_campaign=aboutHT&utm_content=mainpage)** | **[Intern - ERP Technical Analyst](https://jobright.ai/jobs/info/68d72ecdd3fe025a3015f6c3?utm_campaign=1079&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 18 |
 | **[Southern Farm Bureau Life Insurance Company](http://www.sfbli.com)** | **[IT Cloud & Infrastructure Intern](https://jobright.ai/jobs/info/68d72b2a894705799a2f1267?utm_campaign=1079&utm_source=git)** | Jackson, MS | On Site | Oct 18 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Software Engineer](https://jobright.ai/jobs/info/68e500041852e62f0080b3ba?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO | On Site | Oct 18 |
-| **[Amway](http://www.amway.com)** | **[Quality Assurance Engineer Intern, Summer 2026 (42279)](https://jobright.ai/jobs/info/68cd0ca1b2a74e1837ed1789?utm_campaign=1079&utm_source=git)** | Ada, MI | On Site | Oct 18 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Software Engineer](https://jobright.ai/jobs/info/68f02ab7de50091dbfa52625?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Oct 18 |
-| **[Epic Games](https://epicgames.com)** | **[Ecommerce Programmer Intern](https://jobright.ai/jobs/info/68ea2aea6afbef49f2c65a86?utm_campaign=1079&utm_source=git)** | Greater Seattle Area | On Site | Oct 18 |
-| ↳ | **[Game Services Engineer Intern](https://jobright.ai/jobs/info/68e6a264e8daec61499ad00f?utm_campaign=1079&utm_source=git)** | Cary, NC | On Site | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
