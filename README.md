@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PreSales Collective](https://www.presalescollective.com)** | **[2026 Business Technology Solutions Intern - Software Engineer](https://jobright.ai/jobs/info/68f569d99a65fd345858db9e?utm_campaign=1079&utm_source=git)** | North Chicago, IL | On Site | Oct 19 |
 | **[Radix Trading LLC](https://radix.trade)** | **[Quantitative Technologist (C++ Intern - Summer 2026)](https://jobright.ai/jobs/info/6897ea211b9e81727f1a2fd0?utm_campaign=1079&utm_source=git)** | Chicago | On Site | Oct 19 |
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[2026 Internship ITS (Information Technology Solutions)](https://jobright.ai/jobs/info/68caa621efdec76df36b4c12?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Oct 19 |
 | **[CSX](http://www.csx.com)** | **[Technology Internship - Summer 2026 (Paid)](https://jobright.ai/jobs/info/68ce19fe1ad6b16f028a1c6a?utm_campaign=1079&utm_source=git)** | Jacksonville, FL | On Site | Oct 19 |
@@ -84,8 +85,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Intern: Software Engineer](https://jobright.ai/jobs/info/68f4c1359a65fd345858c493?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO | On Site | Oct 19 |
 | ↳ | **[2026 Summer Intern: Software Engineer](https://jobright.ai/jobs/info/68f4c1069a65fd345858c3a2?utm_campaign=1079&utm_source=git)** | St Louis, MO | On Site | Oct 19 |
 | **[Texas Instruments](http://www.ti.com)** | **[Information Technology Intern – Infrastructure](https://jobright.ai/jobs/info/68bb30816105227d118a3b39?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Oct 19 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Software Engineer](https://jobright.ai/jobs/info/68f4bcf19a63986de7577595?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Oct 19 |
 | **[GreatAmerica Financial Services](http://www.greatamerica.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68d01499fb49c96ca6eadd4a?utm_campaign=1079&utm_source=git)** | Cedar Rapids, IA | On Site | Oct 19 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Software Engineer](https://jobright.ai/jobs/info/68f4bab276a51a4307bd34a1?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Oct 19 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Hardware and Software Engineering Internship - Ditch Witch](https://jobright.ai/jobs/info/68bae8446105227d118a1515?utm_campaign=1079&utm_source=git)** | Noble County, OK | On Site | Oct 19 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Software Engineer](https://jobright.ai/jobs/info/68cd2d3de23def7af55b68fd?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Oct 19 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Software Engineer Intern](https://jobright.ai/jobs/info/6893a548a9199876488ded96?utm_campaign=1079&utm_source=git)** | San Mateo, CA, United States | On Site | Oct 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sigma](http://sigmacomputing.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68f41d3d9a63986de7574402?utm_campaign=1079&utm_source=git)** | San Francisco, CA and New York City, NY | On Site | Oct 17 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Monetization Technology) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68f328e89a65fd3458584603?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Oct 17 |
 | **[Oracle](https://www.oracle.com/)** | **[Advanced Degree Software Engineer Intern - Fusion](https://jobright.ai/jobs/info/68f322fb9a65fd34585843c0?utm_campaign=1079&utm_source=git)** | Redwood City, CA | On Site | Oct 17 |
-| ↳ | **[Advanced Degree Software Engineer Intern - Fusion](https://jobright.ai/jobs/info/68f3214f76a51a4307bcb715?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
