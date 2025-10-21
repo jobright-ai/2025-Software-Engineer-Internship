@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aeyesafe](https://www.aeyesafe.com/)** | **[Android Developer (Full-time/Intern/Potential Founder)](https://jobright.ai/jobs/info/68f71de376a51a4307be0f75?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Oct 20 |
 | **[Ameritas](http://www.ameritas.com)** | **[Software Developer Intern - Packaged Systems](https://jobright.ai/jobs/info/68f6fd9276a51a4307bdff82?utm_campaign=1079&utm_source=git)** | Lincoln, NE | Remote | Oct 20 |
 | **[Zus Health](https://zushealth.com)** | **[Fullstack Software Engineering Co-op](https://jobright.ai/jobs/info/68ef086020456578d5eb4270?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Oct 20 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Full Stack Developer Intern](https://jobright.ai/jobs/info/68f6f4c776a51a4307bdf9b4?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Oct 20 |
@@ -93,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[Sartorius](http://sartorius.com)** | **[Software Engineer Intern - Onsite - Fremont, CA](https://jobright.ai/jobs/info/68f6bbd99a63986de7581c89?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Oct 20 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2026 Backend Engineering Intern](https://jobright.ai/jobs/info/68f6ba959a63986de7581bbe?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Oct 20 |
 | ↳ | **[Summer 2026 Front End Engineering Intern](https://jobright.ai/jobs/info/68f6ba0b76a51a4307bddc77?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Oct 20 |
-| ↳ | **[Summer 2026 Mobile(iOS/Android) Intern](https://jobright.ai/jobs/info/68f6b9f476a51a4307bddc61?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Oct 20 |
 | ↳ | **[Summer 2026 Front End Engineering Intern](https://jobright.ai/jobs/info/68f6b9f476a51a4307bddc62?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Oct 20 |
+| ↳ | **[Summer 2026 Mobile(iOS/Android) Intern](https://jobright.ai/jobs/info/68f6b9f476a51a4307bddc61?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Oct 20 |
 | **[Schweitzer Engineering Laboratories (SEL)](http://www.selinc.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68f6b9a59a63986de7581ab6?utm_campaign=1079&utm_source=git)** | North Carolina - Charlotte | On Site | Oct 20 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2026 Full Stack Engineering Intern](https://jobright.ai/jobs/info/68f6b9489a63986de7581a31?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Oct 20 |
 | ↳ | **[Summer 2026 Front End Engineering Intern](https://jobright.ai/jobs/info/68f6b92d9a63986de7581a0c?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Oct 20 |
@@ -110,10 +111,9 @@ For a complete list, click the following sortable link below:
 | **[Seagate Technology](http://www.seagate.com)** | **[High Performance Computing Software Engineer/Research Intern Summer 2026](https://jobright.ai/jobs/info/68f6a48a9a65fd34585959e3?utm_campaign=1079&utm_source=git)** | Shakopee, MN | On Site | Oct 20 |
 | **[The Kendall Group](https://kendallgroup.com/home/index)** | **[Information Systems Intern - Summer 2026](https://jobright.ai/jobs/info/68f6a3fd9a65fd3458595939?utm_campaign=1079&utm_source=git)** | Conshohocken, PA | Hybrid | Oct 20 |
 | **[Golub Capital](http://golubcapital.com)** | **[Technology Solutions (Developer) Intern](https://jobright.ai/jobs/info/68f687f19a63986de757f14f?utm_campaign=1079&utm_source=git)** | Chicago | Hybrid | Oct 20 |
-| **[RJMedex](https://rjmedex.com/)** | **[UX/UI with Strong Backend Development Intern to Fulltime](https://jobright.ai/jobs/info/68f6a2769a65fd3458595798?utm_campaign=1079&utm_source=git)** | Columbia, MD | On Site | Oct 20 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Software Developer Intern (Kansas City)](https://jobright.ai/jobs/info/68f69d5c9a65fd3458595388?utm_campaign=1079&utm_source=git)** | Kansas City, MO | On Site | Oct 20 |
-| **[Allegion](https://www.allegion.com)** | **[Product Assurance Engineering Intern](https://jobright.ai/jobs/info/68f69cef9a65fd34585952d4?utm_campaign=1079&utm_source=git)** | Indianapolis, IN - Hague Rd | On Site | Oct 20 |
 | **[Tencent](https://www.tencent.com/)** | **[IT Application Developer  (AI-Driven IT Ops)  Intern](https://jobright.ai/jobs/info/68f69bca9a63986de758037f?utm_campaign=1079&utm_source=git)** | US-California-Palo Alto | On Site | Oct 20 |
+| **[Allegion](https://www.allegion.com)** | **[Product Assurance Engineering Intern](https://jobright.ai/jobs/info/68f69b8c76a51a4307bdc2d1?utm_campaign=1079&utm_source=git)** | Indianapolis, IN - Hague Rd | On Site | Oct 20 |
 | **[Golub Capital](http://golubcapital.com)** | **[Technology Solutions (BI Developer) Intern](https://jobright.ai/jobs/info/68f69b6c9a63986de7580320?utm_campaign=1079&utm_source=git)** | Chicago | Hybrid | Oct 20 |
 | **[Journal Technologies](http://journaltech.com/)** | **[Junior QA Intern](https://jobright.ai/jobs/info/68f699da76a51a4307bdc0f3?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 20 |
 | **[Wawa, Inc.](https://www.wawa.com)** | **[Back-End Developer Intern](https://jobright.ai/jobs/info/68f6998e9a65fd3458594f90?utm_campaign=1079&utm_source=git)** | Media, PA | On Site | Oct 20 |
@@ -123,7 +123,7 @@ For a complete list, click the following sortable link below:
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Test Engineer Intern](https://jobright.ai/jobs/info/68f688f076a51a4307bdb40d?utm_campaign=1079&utm_source=git)** | Possible | On Site | Oct 20 |
 | **[Altom Transport](http://altomtransport.com)** | **[Summer 2026 Software Development Intern](https://jobright.ai/jobs/info/68f687e79a63986de757f13d?utm_campaign=1079&utm_source=git)** | Hammond, IN | On Site | Oct 20 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Test Engineer Intern](https://jobright.ai/jobs/info/68f687a19a65fd345859415f?utm_campaign=1079&utm_source=git)** | Florida | On Site | Oct 20 |
-| **[Allegion](https://www.allegion.com)** | **[IT Software Engineering Intern](https://jobright.ai/jobs/info/68f6877676a51a4307bdb1c1?utm_campaign=1079&utm_source=git)** | Carmel, IN | Hybrid | Oct 20 |
+| **[Allegion](https://www.allegion.com)** | **[IT Software Engineering Intern](https://jobright.ai/jobs/info/68f687639a63986de757f037?utm_campaign=1079&utm_source=git)** | Carmel, IN | Hybrid | Oct 20 |
 | **[Skyryse](https://www.skyryse.com/)** | **[IT Intern (Summer 2026)](https://jobright.ai/jobs/info/68f6875d9a63986de757f02e?utm_campaign=1079&utm_source=git)** | Greater Los Angeles Area, CA | On Site | Oct 20 |
 | **[Istari Digital](https://www.istaridigital.com)** | **[Istari Internships](https://jobright.ai/jobs/info/68f6865476a51a4307bdb04c?utm_campaign=1079&utm_source=git)** | Anywhere | On Site | Oct 20 |
 | **[Skyryse](https://www.skyryse.com/)** | **[Software Verification & Validation Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68f6854576a51a4307bdafaf?utm_campaign=1079&utm_source=git)** | Greater Los Angeles Area, CA | On Site | Oct 20 |
