@@ -94,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[Sartorius](http://sartorius.com)** | **[Software Engineer Intern - Onsite - Fremont, CA](https://jobright.ai/jobs/info/68f6bbd99a63986de7581c89?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Oct 20 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2026 Backend Engineering Intern](https://jobright.ai/jobs/info/68f6ba959a63986de7581bbe?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Oct 20 |
 | ↳ | **[Summer 2026 Front End Engineering Intern](https://jobright.ai/jobs/info/68f6ba0b76a51a4307bddc77?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Oct 20 |
-| ↳ | **[Summer 2026 Front End Engineering Intern](https://jobright.ai/jobs/info/68f6b9f476a51a4307bddc62?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Oct 20 |
 | ↳ | **[Summer 2026 Mobile(iOS/Android) Intern](https://jobright.ai/jobs/info/68f6b9f476a51a4307bddc61?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Oct 20 |
+| ↳ | **[Summer 2026 Front End Engineering Intern](https://jobright.ai/jobs/info/68f6b9f476a51a4307bddc62?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Oct 20 |
 | **[Schweitzer Engineering Laboratories (SEL)](http://www.selinc.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68f6b9a59a63986de7581ab6?utm_campaign=1079&utm_source=git)** | North Carolina - Charlotte | On Site | Oct 20 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2026 Full Stack Engineering Intern](https://jobright.ai/jobs/info/68f6b9489a63986de7581a31?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Oct 20 |
 | ↳ | **[Summer 2026 Front End Engineering Intern](https://jobright.ai/jobs/info/68f6b92d9a63986de7581a0c?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Oct 20 |
