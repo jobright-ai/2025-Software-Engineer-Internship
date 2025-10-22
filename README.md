@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pal AI](https://www.linkedin.com/company/107991267)** | **[Frontend & UI/UX Engineering Intern](https://jobright.ai/jobs/info/68f8617da628d10664e825d9?utm_campaign=1079&utm_source=git)** | NYC Metro Area | Remote | Oct 21 |
+| **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Product AI Intern](https://jobright.ai/jobs/info/68f85fde4bafad6d2d762085?utm_campaign=1079&utm_source=git)** | Oshkosh, WI | On Site | Oct 21 |
 | **[Melotech](https://www.melotech.ai)** | **[Roblox Platform Developer Intern](https://jobright.ai/jobs/info/68dbd978d6470e72cf4d4c19?utm_campaign=1079&utm_source=git)** | Berlin, NY | Remote | Oct 21 |
 | **[J.R. Simplot Company](http://www.simplot.com/)** | **[Enterprise Solutions Intern](https://jobright.ai/jobs/info/68e7198de8daec61499b2592?utm_campaign=1079&utm_source=git)** | Boise, ID | On Site | Oct 21 |
 | **[Northwest Area Education Agency (AEA)](https://www.nwaea.org)** | **[Northwest AEA Internship Opportunity](https://jobright.ai/jobs/info/68f849db4bafad6d2d76135d?utm_campaign=1079&utm_source=git)** | Sioux City, IA | On Site | Oct 21 |
@@ -108,7 +110,7 @@ For a complete list, click the following sortable link below:
 | **[Waymo](https://waymo.com)** | **[2026 Summer Intern, BS/MS, Software Engineering, Fleet Response](https://jobright.ai/jobs/info/68f7e9d5ec6dbe7073fce508?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Oct 21 |
 | ↳ | **[2026 Summer Intern, BS/MS, Software Engineering, Fleet Response](https://jobright.ai/jobs/info/68f7e91d5dc1be601281e2da?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Oct 21 |
 | **[H.W. Kaufman Group](https://www.hwkaufman.com/)** | **[Digital Transformation Intern](https://jobright.ai/jobs/info/68f7e715b0edcf159dc8b908?utm_campaign=1079&utm_source=git)** | Farmington Hills, MI | Hybrid | Oct 21 |
-| **[Raytheon](http://www.bbn.com)** | **[2026 Co-Op - Software Engineering Intern - Onsite (CO)](https://jobright.ai/jobs/info/68f7e6ccb0edcf159dc8b87c?utm_campaign=1079&utm_source=git)** | Aurora, CO | Hybrid | Oct 21 |
+| **[Raytheon](http://www.bbn.com)** | **[2026 Co-Op - Software Engineering Intern - Onsite (CO)](https://jobright.ai/jobs/info/68f7e5f15dc1be601281dcd0?utm_campaign=1079&utm_source=git)** | Aurora, CO | Hybrid | Oct 21 |
 | **[Hunter Engineering Company](http://www.hunter.com)** | **[Software Engineering Co-Op](https://jobright.ai/jobs/info/68f7e4e9ec6dbe7073fcdd4a?utm_campaign=1079&utm_source=git)** | Bridgeton, MO | On Site | Oct 21 |
 | **[Tokyo Electron US](http://www.tel.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/68f7e1165dc1be601281d7cc?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Oct 21 |
 | **[UHS](https://uhs.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68f7fcd5b0edcf159dc8d305?utm_campaign=1079&utm_source=git)** | KING OF PRUSSIA, Pennsylvania | On Site | Oct 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Software Engineering Internship, Summer 2026](https://jobright.ai/jobs/info/68f79583b0edcf159dc83ed5?utm_campaign=1079&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 21 |
 | **[Truveta](https://www.truveta.com)** | **[Fall Software Engineering Intern](https://jobright.ai/jobs/info/68dbbe2897329f2f7731cce2?utm_campaign=1079&utm_source=git)** | Greater Seattle Area | Hybrid | Oct 21 |
 | **[Lids](https://www.lids.com)** | **[Summer 2026 - IT Intern](https://jobright.ai/jobs/info/68bf8d7d702aa35207aa7550?utm_campaign=1079&utm_source=git)** | Indianapolis, IN | On Site | Oct 21 |
-| **[Qumulo](http://qumulo.com)** | **[Software Development Engineer Internship (Winter '25 and Summer '26)](https://jobright.ai/jobs/info/68ccd90577add66568aba640?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Oct 21 |
-| **[Imagine](https://www.theimaginegroup.com)** | **[Summer 2026 IT Development Intern](https://jobright.ai/jobs/info/68ea92688369791ef782259d?utm_campaign=1079&utm_source=git)** | Shakopee, MN | On Site | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
