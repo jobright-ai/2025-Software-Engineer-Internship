@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Atomic Object](http://atomicobject.com)** | **[Atomic Internship Ann Arbor 2026](https://jobright.ai/jobs/info/68f886916de2db04dc3dffde?utm_campaign=1079&utm_source=git)** | Ann Arbor, MI | On Site | Oct 22 |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Software Engineer Intern - Fall 2025](https://jobright.ai/jobs/info/68f882d74bafad6d2d76372e?utm_campaign=1079&utm_source=git)** | Tampa, FL | On Site | Oct 22 |
 | **[Pal AI](https://www.linkedin.com/company/107991267)** | **[Frontend & UI/UX Engineering Intern](https://jobright.ai/jobs/info/68f8617da628d10664e825d9?utm_campaign=1079&utm_source=git)** | NYC Metro Area | Remote | Oct 21 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Product AI Intern](https://jobright.ai/jobs/info/68f85fde4bafad6d2d762085?utm_campaign=1079&utm_source=git)** | Oshkosh, WI | On Site | Oct 21 |
 | **[Melotech](https://www.melotech.ai)** | **[Roblox Platform Developer Intern](https://jobright.ai/jobs/info/68dbd978d6470e72cf4d4c19?utm_campaign=1079&utm_source=git)** | Berlin, NY | Remote | Oct 21 |
@@ -67,13 +69,13 @@ For a complete list, click the following sortable link below:
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Software Engineer](https://jobright.ai/jobs/info/68f8415d6de2db04dc3dd33a?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Oct 21 |
 | **[Experian](http://www.experianplc.com)** | **[Frontend Software Engineer Summer Intern (Remote & Paid)](https://jobright.ai/jobs/info/68f841114bafad6d2d760d8b?utm_campaign=1079&utm_source=git)** | United States | Hybrid | Oct 21 |
 | ↳ | **[Cloud Engineering Summer Intern (Remote & Paid)](https://jobright.ai/jobs/info/68f83fdda628d10664e80e62?utm_campaign=1079&utm_source=git)** | United States | Hybrid | Oct 21 |
-| **[Moffatt & Nichol ](https://www.moffattnichol.com/)** | **[Software Development Intern](https://jobright.ai/jobs/info/68f83e124bafad6d2d760b23?utm_campaign=1079&utm_source=git)** | Costa Mesa, CA, US | On Site | Oct 21 |
 | **[Marvin](http://www.marvin.com/)** | **[Software Development Internship](https://jobright.ai/jobs/info/68f83a3aa628d10664e80a6e?utm_campaign=1079&utm_source=git)** | Grafton, ND | On Site | Oct 21 |
 | **[Experian](http://www.experianplc.com)** | **[Cloud Engineering Summer Intern (Remote & Paid)](https://jobright.ai/jobs/info/68f8390f4bafad6d2d760762?utm_campaign=1079&utm_source=git)** | United States, United States, United States | Hybrid | Oct 21 |
 | ↳ | **[Full Stack SWE Summer Intern (Remote & Paid)](https://jobright.ai/jobs/info/68f83738a628d10664e806dc?utm_campaign=1079&utm_source=git)** | United States, United States, United States, United States | Hybrid | Oct 21 |
 | **[Rivian and Volkswagen Group Technologies](https://rivianvw.tech)** | **[Software Engineering Intern - Digital Manufacturing Automation](https://jobright.ai/jobs/info/68f8371d4bafad6d2d7604c7?utm_campaign=1079&utm_source=git)** | Tustin, California | On Site | Oct 21 |
 | **[Experian](http://www.experianplc.com)** | **[Frontend Software Engineer Summer Intern (Remote & Paid)](https://jobright.ai/jobs/info/68f836d46de2db04dc3dcaf0?utm_campaign=1079&utm_source=git)** | United States, United States, United States, United States | Hybrid | Oct 21 |
 | **[Marvin](http://www.marvin.com/)** | **[Software Development Internship](https://jobright.ai/jobs/info/68f830d95dc1be6012821a5f?utm_campaign=1079&utm_source=git)** | US-ND-Grafton | On Site | Oct 21 |
+| **[Moffatt & Nichol ](https://www.moffattnichol.com/)** | **[Software Development Intern](https://jobright.ai/jobs/info/68f830c35dc1be6012821a47?utm_campaign=1079&utm_source=git)** | Costa Mesa, CA, US | On Site | Oct 21 |
 | **[NorthWestern Energy](http://northwesternenergy.com)** | **[Intern Software Engineer (Sioux Falls, SD preferred; other major office location in SD &amp; MT will be considered)](https://jobright.ai/jobs/info/68f82f7cb0edcf159dc8f2f6?utm_campaign=1079&utm_source=git)** | Sioux Falls,SD,US | On Site | Oct 21 |
 | **[MBTA](http://mbta.com)** | **[Software Engineer Intern (Undergraduate Students)](https://jobright.ai/jobs/info/68f810f9ec6dbe7073fd0e53?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Oct 21 |
 | **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[Graduate Engineering Intern - Software Development](https://jobright.ai/jobs/info/68f8144b5dc1be6012820c87?utm_campaign=1079&utm_source=git)** | Rochester, MN | On Site | Oct 21 |
@@ -110,7 +112,7 @@ For a complete list, click the following sortable link below:
 | **[Waymo](https://waymo.com)** | **[2026 Summer Intern, BS/MS, Software Engineering, Fleet Response](https://jobright.ai/jobs/info/68f7e9d5ec6dbe7073fce508?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Oct 21 |
 | ↳ | **[2026 Summer Intern, BS/MS, Software Engineering, Fleet Response](https://jobright.ai/jobs/info/68f7e91d5dc1be601281e2da?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Oct 21 |
 | **[H.W. Kaufman Group](https://www.hwkaufman.com/)** | **[Digital Transformation Intern](https://jobright.ai/jobs/info/68f7e715b0edcf159dc8b908?utm_campaign=1079&utm_source=git)** | Farmington Hills, MI | Hybrid | Oct 21 |
-| **[Raytheon](http://www.bbn.com)** | **[2026 Co-Op - Software Engineering Intern - Onsite (CO)](https://jobright.ai/jobs/info/68f7e5f15dc1be601281dcd0?utm_campaign=1079&utm_source=git)** | Aurora, CO | Hybrid | Oct 21 |
+| **[Raytheon](http://www.bbn.com)** | **[2026 Co-Op - Software Engineering Intern - Onsite (CO)](https://jobright.ai/jobs/info/68f7e6ccb0edcf159dc8b87c?utm_campaign=1079&utm_source=git)** | Aurora, CO | Hybrid | Oct 21 |
 | **[Hunter Engineering Company](http://www.hunter.com)** | **[Software Engineering Co-Op](https://jobright.ai/jobs/info/68f7e4e9ec6dbe7073fcdd4a?utm_campaign=1079&utm_source=git)** | Bridgeton, MO | On Site | Oct 21 |
 | **[Tokyo Electron US](http://www.tel.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/68f7e1165dc1be601281d7cc?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Oct 21 |
 | **[UHS](https://uhs.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68f7fcd5b0edcf159dc8d305?utm_campaign=1079&utm_source=git)** | KING OF PRUSSIA, Pennsylvania | On Site | Oct 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern, Integrated Technology Solutions - IF](https://jobright.ai/jobs/info/68dac9ea07c157682e56d9fb?utm_campaign=1079&utm_source=git)** | Washington, DC | On Site | Oct 21 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/68f796165dc1be6012816778?utm_campaign=1079&utm_source=git)** | Irving, TX | On Site | Oct 21 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Software Engineering Internship, Summer 2026](https://jobright.ai/jobs/info/68f79583b0edcf159dc83ed5?utm_campaign=1079&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 21 |
-| **[Truveta](https://www.truveta.com)** | **[Fall Software Engineering Intern](https://jobright.ai/jobs/info/68dbbe2897329f2f7731cce2?utm_campaign=1079&utm_source=git)** | Greater Seattle Area | Hybrid | Oct 21 |
-| **[Lids](https://www.lids.com)** | **[Summer 2026 - IT Intern](https://jobright.ai/jobs/info/68bf8d7d702aa35207aa7550?utm_campaign=1079&utm_source=git)** | Indianapolis, IN | On Site | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
