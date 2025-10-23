@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Merz Aesthetics](http://www.merzusa.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68f9918ccadb2e5a06a65d62?utm_campaign=1079&utm_source=git)** | Raleigh, NC | Hybrid | Oct 22 |
+| **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2026 Intern / Application Developer (OH)](https://jobright.ai/jobs/info/68f98b786de2db04dc3e9fd9?utm_campaign=1079&utm_source=git)** | Kirkland, WA | On Site | Oct 22 |
+| **[Twitch](https://www.twitch.tv)** | **[Undergrad Solutions Architect Intern](https://jobright.ai/jobs/info/68f98ac76de2db04dc3e9f66?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Oct 22 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Signal Operations Training, Emerging Talent Intern](https://jobright.ai/jobs/info/68f97f86a628d10664e8d686?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Oct 22 |
 | **[Cape Fox Federal Contracting Group](https://capefoxfcg.com)** | **[Critical Infrastructure Engineering Internship](https://jobright.ai/jobs/info/68f97ef46de2db04dc3e98b4?utm_campaign=1079&utm_source=git)** | Atlanta - Greater Atlanta Area - Atlanta, GA 30332 US (Primary) | On Site | Oct 22 |
-| **[Twitch](https://www.twitch.tv)** | **[Undergrad Solutions Architect Intern](https://jobright.ai/jobs/info/68f97b45cadb2e5a06a65160?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Oct 22 |
 | **[Invitation Homes](http://invitationhomes.com/)** | **[Intern, Software Engineer](https://jobright.ai/jobs/info/68f97633cadb2e5a06a64ff0?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Oct 22 |
 | **[DP World](https://www.dpworld.com/)** | **[Applications Analyst Intern](https://jobright.ai/jobs/info/68f975e2cadb2e5a06a64fcf?utm_campaign=1079&utm_source=git)** | Itasca, IL | On Site | Oct 22 |
+| **[Illumio](http://www.illumio.com)** | **[Engineering Intern, Architecture Platform](https://jobright.ai/jobs/info/68f14b87ef766b3f0fd0b5c5?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Oct 22 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers – Finance Application Developer Intern](https://jobright.ai/jobs/info/68f95c89a628d10664e8c78f?utm_campaign=1079&utm_source=git)** | IL - Chicago | Hybrid | Oct 22 |
 | ↳ | **[Early Careers – Finance Application Developer Intern](https://jobright.ai/jobs/info/68f95b27cadb2e5a06a64520?utm_campaign=1079&utm_source=git)** | TX - Richardson | Hybrid | Oct 22 |
 | **[Block](https://block.xyz/)** | **[Builder Fellow, Design](https://jobright.ai/jobs/info/68f95ad7cadb2e5a06a644de?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | Remote | Oct 22 |
@@ -87,15 +90,14 @@ For a complete list, click the following sortable link below:
 | **[Advanced Space](https://advancedspace.com/)** | **[2026 Software Engineering Summer Intern](https://jobright.ai/jobs/info/68f9363f6de2db04dc3e6b6d?utm_campaign=1079&utm_source=git)** | Westminster, CO | On Site | Oct 22 |
 | **[Whatnot](https://www.whatnot.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/68f935a7cadb2e5a06a626f8?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Oct 22 |
 | **[Washington Nationals](https://nationals.mlb.com)** | **[Software Engineering Intern, Baseball R&D (2026 Season)](https://jobright.ai/jobs/info/68f934d16de2db04dc3e6a2b?utm_campaign=1079&utm_source=git)** | Washington, DC | On Site | Oct 22 |
-| **[Peraton](https://www.peraton.com/)** | **[Software Engineering Intern – Simi Valley, CA](https://jobright.ai/jobs/info/68f934cfa628d10664e8a674?utm_campaign=1079&utm_source=git)** | US-CA-Simi Valley | Hybrid | Oct 22 |
 | **[University of California, San Francisco](http://www.ucsf.edu)** | **[EXCEL Intern](https://jobright.ai/jobs/info/68f934a2a628d10664e8a637?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Oct 22 |
 | **[Confluent](https://confluent.io)** | **[2026 Confluent Software Engineering Intern Opportunity (Austin, Texas)](https://jobright.ai/jobs/info/68f930b5cadb2e5a06a62203?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Oct 22 |
-| **[Keysight Technologies](https://www.keysight.com)** | **[R&D Software Engineer Intern](https://jobright.ai/jobs/info/68f92db0cadb2e5a06a620be?utm_campaign=1079&utm_source=git)** | Santa Clara, California | On Site | Oct 22 |
 | **[Viasat](http://www.viasat.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68f92cb36de2db04dc3e6376?utm_campaign=1079&utm_source=git)** | Carlsbad, California | Hybrid | Oct 22 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Software Engineer (Quality) - Intern](https://jobright.ai/jobs/info/68f92c526de2db04dc3e62cf?utm_campaign=1079&utm_source=git)** | Florida | Hybrid | Oct 22 |
 | **[Cherokee Federal](https://cherokee-federal.com)** | **[Applications Analyst Intern](https://jobright.ai/jobs/info/68f92c52cadb2e5a06a61f1f?utm_campaign=1079&utm_source=git)** | Itasca, IL, United States | On Site | Oct 22 |
 | **[Suno](https://www.suno.com)** | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68f92be86de2db04dc3e6219?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Oct 22 |
 | **[Emerson](http://www.emerson.com)** | **[Product Engineering Intern](https://jobright.ai/jobs/info/68f92a98cadb2e5a06a61c7d?utm_campaign=1079&utm_source=git)** | 1100 W Louis Henna Boulevard Building 1, Round Rock, TX, 78681, US | Hybrid | Oct 22 |
+| **[Keysight Technologies](https://www.keysight.com)** | **[R&D Software Engineer Intern](https://jobright.ai/jobs/info/68f92a306de2db04dc3e5fc2?utm_campaign=1079&utm_source=git)** | Santa Clara, California | On Site | Oct 22 |
 | **[DP World](https://www.dpworld.com/)** | **[Applications Analyst Intern](https://jobright.ai/jobs/info/68f92a146de2db04dc3e5f97?utm_campaign=1079&utm_source=git)** | Itasca, IL, United States | On Site | Oct 22 |
 | **[Wing](https://www.wing.com/)** | **[UTM Software Engineer Intern, Summer 2026](https://jobright.ai/jobs/info/68f929dccadb2e5a06a61b7a?utm_campaign=1079&utm_source=git)** | Palo Alto, California | On Site | Oct 22 |
 | **[Peraton](https://www.peraton.com/)** | **[Software Engineering Intern - Simi Valley, CA](https://jobright.ai/jobs/info/68f9235ba628d10664e899ac?utm_campaign=1079&utm_source=git)** | Simi Valley, CA | Hybrid | Oct 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Figma](https://www.figma.com)** | **[PhD Intern, Software Engineer - Graphics (2026)](https://jobright.ai/jobs/info/68bf2648702aa35207aa37a0?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Oct 22 |
 | **[Hermeus](http://www.hermeus.com)** | **[Human Machine Interface (HMI) Software Engineering Intern  - Spring & Summer 2026](https://jobright.ai/jobs/info/68f8d0dd4bafad6d2d765ba6?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Oct 22 |
 | **[Figma](https://www.figma.com)** | **[PhD Intern, Software Engineer - Graphics (2026)](https://jobright.ai/jobs/info/68cee511846f0b04af67da11?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Oct 22 |
-| **[Epirus](https://www.epirusinc.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68ce600f846f0b04af679304?utm_campaign=1079&utm_source=git)** | Torrance, CA | On Site | Oct 22 |
-| **[American Equity](http://www.american-equity.com)** | **[IT Intern, Solutions Architecture](https://jobright.ai/jobs/info/68bf2f1a5c5d5f14f46d494f?utm_campaign=1079&utm_source=git)** | West Des Moines, IA | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
