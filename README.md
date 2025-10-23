@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Radix Trading LLC](https://radix.trade)** | **[Quantitative Technologist (C++ Intern - Summer 2026)](https://jobright.ai/jobs/info/6897ea211b9e81727f1a2fd0?utm_campaign=1079&utm_source=git)** | Chicago | On Site | Oct 23 |
+| **[Bristol Myers Squibb](http://www.bms.com)** | **[DigITal Accelerator Program Internship - Summer 2026](https://jobright.ai/jobs/info/68f9efe8089c7e2b4457f3f8?utm_campaign=1079&utm_source=git)** | Princeton, NJ | Hybrid | Oct 23 |
+| **[Pegasystems](http://www.pega.com)** | **[Cloud Engineering Summer Intern](https://jobright.ai/jobs/info/68f9efc6089c7e2b4457f3e8?utm_campaign=1079&utm_source=git)** | Waltham, MA | On Site | Oct 23 |
 | **[Security Finance](https://www.securityfinance.com)** | **[IT Quality Assurance Intern](https://jobright.ai/jobs/info/68f9bfdacadb2e5a06a67738?utm_campaign=1079&utm_source=git)** | Spartanburg, SC | On Site | Oct 22 |
 | **[GreenStone Farm Credit Services](http://greenstonefcs.com)** | **[Application Developer Internship](https://jobright.ai/jobs/info/68f662689a65fd3458592ca2?utm_campaign=1079&utm_source=git)** | St Paul, MN | On Site | Oct 22 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Signal Operations Training, Emerging Talent Intern](https://jobright.ai/jobs/info/68f9afa16de2db04dc3eb3b3?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Oct 22 |
@@ -151,10 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Johnson & Johnson MedTech](https://thenext.jnjmedtech.com)** | **[MAKE 2026 Software Engineering Intern/Co Op](https://jobright.ai/jobs/info/68f642539a63986de757cda6?utm_campaign=1079&utm_source=git)** | Jacksonville, FL | On Site | Oct 22 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[Engineering Intern-1](https://jobright.ai/jobs/info/68cf10e6846f0b04af67f0dc?utm_campaign=1079&utm_source=git)** | Auburn Hills, MI | On Site | Oct 22 |
 | **[Hermeus](http://www.hermeus.com)** | **[Modeling & Simulation Software Engineering Intern - Spring & Summer 2026](https://jobright.ai/jobs/info/68dc75c9a125e75c422a0f21?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Oct 22 |
-| **[General Dynamics](https://www.gd.com)** | **[SW Engineer Intern](https://jobright.ai/jobs/info/68f8fc04a628d10664e87593?utm_campaign=1079&utm_source=git)** | USA-PA-Pittsburgh | Hybrid | Oct 22 |
-| ↳ | **[Test Engineer Intern](https://jobright.ai/jobs/info/68f9134da628d10664e88f86?utm_campaign=1079&utm_source=git)** | USA-PA-Pittsburgh | Hybrid | Oct 22 |
+| **[General Dynamics](https://www.gd.com)** | **[Test Engineer Intern](https://jobright.ai/jobs/info/68f9134da628d10664e88f86?utm_campaign=1079&utm_source=git)** | USA-PA-Pittsburgh | Hybrid | Oct 22 |
+| ↳ | **[SW Engineer Intern](https://jobright.ai/jobs/info/68f8fc04a628d10664e87593?utm_campaign=1079&utm_source=git)** | USA-PA-Pittsburgh | Hybrid | Oct 22 |
 | **[Lake Shore Cryotronics](http://lakeshore.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68f8fb57cadb2e5a06a5f1d4?utm_campaign=1079&utm_source=git)** | Westerville, OH, USA | On Site | Oct 22 |
-| **[Copart](http://www.copart.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68e018581852e62f007e719b?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Oct 22 |
-| **[TeamWorx Security](https://teamworxsecurity.com)** | **[DoD SkillBridge: Software Developer or Engineer](https://jobright.ai/jobs/info/68cb9f4eefdec76df36bfa26?utm_campaign=1079&utm_source=git)** | Columbia, MD | Hybrid | Oct 22 |
-| **[Landis+Gyr](https://www.landisgyr.com/)** | **[Intern - Technical Implementation Engineer Winter Spring 2026](https://jobright.ai/jobs/info/68dc5157a125e75c4229fab0?utm_campaign=1079&utm_source=git)** | Alpharetta, GA | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
