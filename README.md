@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Security Finance](https://www.securityfinance.com)** | **[IT Quality Assurance Intern](https://jobright.ai/jobs/info/68f9bfdacadb2e5a06a67738?utm_campaign=1079&utm_source=git)** | Spartanburg, SC | On Site | Oct 22 |
+| **[GreenStone Farm Credit Services](http://greenstonefcs.com)** | **[Application Developer Internship](https://jobright.ai/jobs/info/68f662689a65fd3458592ca2?utm_campaign=1079&utm_source=git)** | St Paul, MN | On Site | Oct 22 |
+| **[NyxSentinel](http://nyxsentinel.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68f9b19e7b89366816033801?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 22 |
+| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Signal Operations Training, Emerging Talent Intern](https://jobright.ai/jobs/info/68f9afa16de2db04dc3eb3b3?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Oct 22 |
+| **[Zideas LLC](https://www.zideasconsulting.com)** | **[Internship - LLM Full Stack Developer](https://jobright.ai/jobs/info/68f9ad847b89366816033614?utm_campaign=1079&utm_source=git)** | NYC Metro Area | Remote | Oct 22 |
+| **[Obsidian Entertainment](http://www.obsidian.net/)** | **[Quality Assurance Analyst - 2026 Summer Internship](https://jobright.ai/jobs/info/68f9ad37cadb2e5a06a66d1d?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Oct 22 |
+| ↳ | **[Core Tech Engineer - 2026 Summer Internship](https://jobright.ai/jobs/info/68f9acf1cadb2e5a06a66cfc?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Oct 22 |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Factory Firmware Integration Engineer, Vehicle Firmware (Winter/Spring)](https://jobright.ai/jobs/info/68f9aa307b8936681603351b?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Oct 22 |
 | **[Merz Aesthetics](http://www.merzusa.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68f9918ccadb2e5a06a65d62?utm_campaign=1079&utm_source=git)** | Raleigh, NC | Hybrid | Oct 22 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2026 Intern / Application Developer (OH)](https://jobright.ai/jobs/info/68f98b786de2db04dc3e9fd9?utm_campaign=1079&utm_source=git)** | Kirkland, WA | On Site | Oct 22 |
 | **[Twitch](https://www.twitch.tv)** | **[Undergrad Solutions Architect Intern](https://jobright.ai/jobs/info/68f98ac76de2db04dc3e9f66?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Oct 22 |
@@ -71,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Insulet Corporation](https://www.insulet.com)** | **[Intern, EngOps Software Tools: June - August 2026 (Onsite)](https://jobright.ai/jobs/info/68f9586ba628d10664e8c46a?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Oct 22 |
 | ↳ | **[Intern, EngOps Software Tools: June - August 2026 (Onsite)](https://jobright.ai/jobs/info/68f95382a628d10664e8c183?utm_campaign=1079&utm_source=git)** | San Diego, California | On Site | Oct 22 |
 | **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Software Engineer Intern - San Diego CA](https://jobright.ai/jobs/info/68f95312a628d10664e8c0ea?utm_campaign=1079&utm_source=git)** | United States-California-San Diego | On Site | Oct 22 |
-| **[Varmodel AI](https://www.linkedin.com/company/79943374)** | **[Software Engineer- Intern](https://jobright.ai/jobs/info/68f952d4a628d10664e8c095?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 22 |
 | **[Emerson](http://www.emerson.com)** | **[Product Engineering Intern](https://jobright.ai/jobs/info/68f952c16de2db04dc3e8568?utm_campaign=1079&utm_source=git)** | Round Rock, TX | Hybrid | Oct 22 |
 | **[Jacobs](http://www.jacobs.com)** | **[Intern - Agile Software](https://jobright.ai/jobs/info/68f95084cadb2e5a06a63d36?utm_campaign=1079&utm_source=git)** | Nashua, NH | On Site | Oct 22 |
 | **[Wing](https://www.wing.com/)** | **[UTM Software Engineer Intern, Summer 2026](https://jobright.ai/jobs/info/68f94bdca628d10664e8bbc6?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Oct 22 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TeamWorx Security](https://teamworxsecurity.com)** | **[DoD SkillBridge: Software Developer or Engineer](https://jobright.ai/jobs/info/68cb9f4eefdec76df36bfa26?utm_campaign=1079&utm_source=git)** | Columbia, MD | Hybrid | Oct 22 |
 | **[Landis+Gyr](https://www.landisgyr.com/)** | **[Intern - Technical Implementation Engineer Winter Spring 2026](https://jobright.ai/jobs/info/68dc5157a125e75c4229fab0?utm_campaign=1079&utm_source=git)** | Alpharetta, GA | On Site | Oct 22 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Software Developer Intern](https://jobright.ai/jobs/info/68cc163e16d00d2beeb197f5?utm_campaign=1079&utm_source=git)** | Dayton, OH | On Site | Oct 22 |
-| **[Vermeer Corporation](https://borestore.com/)** | **[Embedded Software Intern (Summer 2026)](https://jobright.ai/jobs/info/68ccf068d11b445e0bee4ade?utm_campaign=1079&utm_source=git)** | Pella, IA | On Site | Oct 22 |
-| **[Aptiv](http://www.aptiv.com)** | **[Embedded Software Intern](https://jobright.ai/jobs/info/68f8f90d6de2db04dc3e3492?utm_campaign=1079&utm_source=git)** | USA Indiana Technical Center | On Site | Oct 22 |
-| **[LiveSwitch](https://www.liveswitch.io)** | **[Software Acceptance Intern](https://jobright.ai/jobs/info/68f8e28a6de2db04dc3e25c5?utm_campaign=1079&utm_source=git)** | Apex, NC | On Site | Oct 22 |
-| **[Hermeus](http://www.hermeus.com)** | **[Software Engineering Intern (Datalinks/C2) - Spring & Summer 2026](https://jobright.ai/jobs/info/68dc6aa0accfd24b67e55339?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Oct 22 |
-| **[Figma](https://www.figma.com)** | **[PhD Intern, Software Engineer - Graphics (2026)](https://jobright.ai/jobs/info/68bf2648702aa35207aa37a0?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Oct 22 |
-| **[Hermeus](http://www.hermeus.com)** | **[Human Machine Interface (HMI) Software Engineering Intern  - Spring & Summer 2026](https://jobright.ai/jobs/info/68f8d0dd4bafad6d2d765ba6?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Oct 22 |
-| **[Figma](https://www.figma.com)** | **[PhD Intern, Software Engineer - Graphics (2026)](https://jobright.ai/jobs/info/68cee511846f0b04af67da11?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
