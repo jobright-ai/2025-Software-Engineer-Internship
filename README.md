@@ -57,6 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Todd](https://toddagriscience.com)** | **[Frontend Software Engineer Intern](https://jobright.ai/jobs/info/68fb9ca493c49825ab104161?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Oct 24 |
+| **[Marvell Technology](https://www.marvell.com/)** | **[Design for Test Engineering Intern - Master's Degree](https://jobright.ai/jobs/info/68e202d5b99ec3563b0d9a0a?utm_campaign=1079&utm_source=git)** | Morrisville, NC | On Site | Oct 24 |
+| **[Dexcom](http://www.dexcom.com)** | **[Intern I - Software Development Engineering](https://jobright.ai/jobs/info/68cd9e8b1ad6b16f0289c779?utm_campaign=1079&utm_source=git)** | United States | Hybrid | Oct 24 |
+| **[UPMC](https://www.upmc.com/)** | **[Summer Associate - Information Technology Internship](https://jobright.ai/jobs/info/68cbaeb0efdec76df36c0e3d?utm_campaign=1079&utm_source=git)** | Pittsburgh, PA | On Site | Oct 24 |
+| **[Arch Mortgage Insurance Company (Arch MI)](https://mortgage.archgroup.com/us)** | **[Platform Experience & Operations (PXO) Summer Intern](https://jobright.ai/jobs/info/68dfac26fe896042b0b7d235?utm_campaign=1079&utm_source=git)** | Triad Area | On Site | Oct 24 |
+| ↳ | **[Enterprise Document Management Systems (EDMS) Summer Intern](https://jobright.ai/jobs/info/68dfabf16be63b6ec997249f?utm_campaign=1079&utm_source=git)** | Triad Area | Hybrid | Oct 24 |
+| **[Ormco](http://www.ormco.com)** | **[Manufacturing Software Intern](https://jobright.ai/jobs/info/68defb4909bda65a4b62f77e?utm_campaign=1079&utm_source=git)** | Pomona, CA | On Site | Oct 24 |
+| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern - Cloud Engineer - IT](https://jobright.ai/jobs/info/68df18795ab4977c2e94feb0?utm_campaign=1079&utm_source=git)** | Washington, DC | On Site | Oct 24 |
+| **[Dexcom](http://www.dexcom.com)** | **[Intern I - IT Integrations](https://jobright.ai/jobs/info/68ce1801e23def7af55c20a2?utm_campaign=1079&utm_source=git)** | United States | Hybrid | Oct 24 |
+| ↳ | **[Intern I - Software Test Engineering](https://jobright.ai/jobs/info/68c9167795f5211cd2cee616?utm_campaign=1079&utm_source=git)** | United States | Hybrid | Oct 24 |
+| ↳ | **[Intern I - SW Development Engineering](https://jobright.ai/jobs/info/68cd82e91ad6b16f0289ab3b?utm_campaign=1079&utm_source=git)** | United States | Hybrid | Oct 24 |
+| **[BorgWarner](http://www.borgwarner.com)** | **[Software Application Engineering & IATF Intern](https://jobright.ai/jobs/info/68defc6ba125e75c422b8db3?utm_campaign=1079&utm_source=git)** | Auburn Hills, MI | On Site | Oct 24 |
+| **[KCF Technologies, Inc.](http://www.kcftech.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68fb870693c49825ab10398b?utm_campaign=1079&utm_source=git)** | United States | Hybrid | Oct 24 |
+| **[Twitch](https://www.twitch.tv)** | **[Undergrad Software Engineering Intern](https://jobright.ai/jobs/info/68df2bff5ab4977c2e9512e7?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Oct 24 |
 | **[Hermeus](http://www.hermeus.com)** | **[Hardware-In-the-Loop Software Engineering Intern - Spring & Summer 2026](https://jobright.ai/jobs/info/68dee75744d32141e0c03b77?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Oct 24 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Software Engineer Intern - Aviation Web Development](https://jobright.ai/jobs/info/68cd102de23def7af55b482d?utm_campaign=1079&utm_source=git)** | Middlebury, CT | On Site | Oct 24 |
 | **[American Equity](http://www.american-equity.com)** | **[IT Intern, SAP Development](https://jobright.ai/jobs/info/68c1e62f233c7d3e64d05bef?utm_campaign=1079&utm_source=git)** | West Des Moines, Iowa, United States | On Site | Oct 24 |
@@ -66,7 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Embedded Software Developer, Network/Payload Software Intern (Winter 2026)](https://jobright.ai/jobs/info/68c9044895f5211cd2ced2d9?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Oct 24 |
 | **[Altium Packaging](https://altiumpkg.com/)** | **[2026 ERP Implementation – Oracle Fusion Intern](https://jobright.ai/jobs/info/68c37d816031587f8458b4a1?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Oct 24 |
 | **[Figma](https://www.figma.com)** | **[Software Engineer Intern (2026)](https://jobright.ai/jobs/info/68ce948afb49c96ca6ea1c8d?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Oct 24 |
-| **[Innovative Defense Technologies (IDT)](http://idtus.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68f6b57a76a51a4307bdd85b?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Oct 24 |
+| **[Innovative Defense Technologies (IDT)](http://idtus.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68f6c8c39a65fd34585971fd?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Oct 24 |
 | ↳ | **[Cyber Security / Infrastructure Engineer Intern](https://jobright.ai/jobs/info/68f0a085eb273a32d976a385?utm_campaign=1079&utm_source=git)** | Fall River, MA | On Site | Oct 24 |
 | **[Altium Packaging](https://altiumpkg.com/)** | **[2026 IS AI & Automations Developer Intern](https://jobright.ai/jobs/info/68ce43c5b2a74e1837ee0f88?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Oct 24 |
 | **[Innovative Defense Technologies (IDT)](http://idtus.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68fa3616edd1901442389c9d?utm_campaign=1079&utm_source=git)** | Fall River, MA | On Site | Oct 24 |
@@ -130,7 +144,6 @@ For a complete list, click the following sortable link below:
 | **[IBM Canada Software Lab - Toronto](https://research.ibm.com)** | **[Intern 2026: Fault-tolerant quantum algorithms](https://jobright.ai/jobs/info/68fb3e789e8e925ac6c89ffd?utm_campaign=1079&utm_source=git)** | Yorktown Heights, NY | Hybrid | Oct 24 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship ITS (Information Technology Solutions)](https://jobright.ai/jobs/info/68b59508f4e41a61efd904da?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Oct 24 |
 | **[Seagate Technology](http://www.seagate.com)** | **[High Performance Computing Software Engineer/Research Intern Summer 2026](https://jobright.ai/jobs/info/68f6a48a9a65fd34585959e3?utm_campaign=1079&utm_source=git)** | Shakopee, MN | On Site | Oct 24 |
-| **[State Street](http://www.statestreet.com)** | **[Electronic Trading Platform Software Engineer, Internship/CO-OP (Fulltime Jan - June 2026)](https://jobright.ai/jobs/info/68fb38473c99cc1d96029d16?utm_campaign=1079&utm_source=git)** | Quincy, MA | On Site | Oct 24 |
 | **[enGen](https://goengen.com)** | **[Sumer 2026 Software Engineer Graduate Intern](https://jobright.ai/jobs/info/68fb35b8e154835f11efaa4e?utm_campaign=1079&utm_source=git)** | Erie-Meadville Area | On Site | Oct 24 |
 | ↳ | **[Summer 2026 Software Engineering Undergraduate Intern](https://jobright.ai/jobs/info/68fb5a1ef55bb021a8899787?utm_campaign=1079&utm_source=git)** | Erie-Meadville Area | On Site | Oct 24 |
 | **[REV Robotics](http://www.revrobotics.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68fb464c3c99cc1d9602a486?utm_campaign=1079&utm_source=git)** | Carrollton, TX | On Site | Oct 24 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sumer 2026 Software Engineer Graduate Intern](https://jobright.ai/jobs/info/68faffa89e8e925ac6c883a9?utm_campaign=1079&utm_source=git)** | CO, Working at Home - Colorado | Remote | Oct 23 |
 | ↳ | **[Sumer 2026 Software Engineer Graduate Intern](https://jobright.ai/jobs/info/68faffa83c99cc1d96028348?utm_campaign=1079&utm_source=git)** | HI, Working at Home - Hawaii | Remote | Oct 23 |
 | ↳ | **[Sumer 2026 Software Engineer Graduate Intern](https://jobright.ai/jobs/info/68faff949e8e925ac6c8839f?utm_campaign=1079&utm_source=git)** | KS, Working at Home - Kansas | Remote | Oct 23 |
-| ↳ | **[Sumer 2026 Software Engineer Graduate Intern](https://jobright.ai/jobs/info/68fafd8be154835f11ef9079?utm_campaign=1079&utm_source=git)** | FL, Working at Home - Florida | Remote | Oct 23 |
-| ↳ | **[Sumer 2026 Software Engineer Graduate Intern](https://jobright.ai/jobs/info/68fafd62e154835f11ef9057?utm_campaign=1079&utm_source=git)** | MA, Working at Home -Massachusetts | Remote | Oct 23 |
-| ↳ | **[Sumer 2026 Software Engineer Graduate Intern](https://jobright.ai/jobs/info/68fafd0b9e8e925ac6c881b1?utm_campaign=1079&utm_source=git)** | OK, Working at Home - Oklahoma | Remote | Oct 23 |
-| ↳ | **[Sumer 2026 Software Engineer Graduate Intern](https://jobright.ai/jobs/info/68fafd0a9e8e925ac6c881af?utm_campaign=1079&utm_source=git)** | MO, Working at Home - Missouri | Remote | Oct 23 |
-| ↳ | **[Sumer 2026 Software Engineer Graduate Intern](https://jobright.ai/jobs/info/68fafd003c99cc1d96028123?utm_campaign=1079&utm_source=git)** | LA, Working at Home - Louisiana | Remote | Oct 23 |
-| ↳ | **[Sumer 2026 Software Engineer Graduate Intern](https://jobright.ai/jobs/info/68fafcfb9e8e925ac6c881a9?utm_campaign=1079&utm_source=git)** | AL, Working at Home - Alabama | Remote | Oct 23 |
-| ↳ | **[Sumer 2026 Software Engineer Graduate Intern](https://jobright.ai/jobs/info/68fafc789e8e925ac6c88190?utm_campaign=1079&utm_source=git)** | CT, Working at Home - Conneticut | Remote | Oct 23 |
-| **[Emerson](http://www.emerson.com)** | **[Embedded Software Development Intern](https://jobright.ai/jobs/info/68fafbe3e154835f11ef8f95?utm_campaign=1079&utm_source=git)** | Round Rock, TX | Hybrid | Oct 23 |
-| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Sumer 2026 Software Engineer Graduate Intern](https://jobright.ai/jobs/info/68fafa9de154835f11ef8e80?utm_campaign=1079&utm_source=git)** | MS, Working at Home - Mississippi | Remote | Oct 23 |
-| ↳ | **[Sumer 2026 Software Engineer Graduate Intern](https://jobright.ai/jobs/info/68fafa77e154835f11ef8dd0?utm_campaign=1079&utm_source=git)** | KY, Working at Home - Kentucky | Remote | Oct 23 |
-| ↳ | **[Sumer 2026 Software Engineer Graduate Intern](https://jobright.ai/jobs/info/68fafa71e154835f11ef8db7?utm_campaign=1079&utm_source=git)** | NV, Working at Home - Nevada | Remote | Oct 23 |
-| ↳ | **[Sumer 2026 Software Engineer Graduate Intern](https://jobright.ai/jobs/info/68fafa67e154835f11ef8d80?utm_campaign=1079&utm_source=git)** | TN, Working at Home -Tennessee | Remote | Oct 23 |
-| ↳ | **[Sumer 2026 Software Engineer Graduate Intern](https://jobright.ai/jobs/info/68fafa65e154835f11ef8d7f?utm_campaign=1079&utm_source=git)** | NM, Working at Home - New Mexico | Remote | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
