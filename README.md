@@ -57,6 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hermeus](http://www.hermeus.com)** | **[Hardware-In-the-Loop Software Engineering Intern - Spring & Summer 2026](https://jobright.ai/jobs/info/68dee75744d32141e0c03b77?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Oct 24 |
+| **[Garmin](https://www.garmin.com/en-US/)** | **[Software Engineer Intern - Aviation Web Development](https://jobright.ai/jobs/info/68cd102de23def7af55b482d?utm_campaign=1079&utm_source=git)** | Middlebury, CT | On Site | Oct 24 |
+| **[American Equity](http://www.american-equity.com)** | **[IT Intern, SAP Development](https://jobright.ai/jobs/info/68c1e62f233c7d3e64d05bef?utm_campaign=1079&utm_source=git)** | West Des Moines, Iowa, United States | On Site | Oct 24 |
+| **[Motion](https://www.motion.com)** | **[Cloud SRE Intern](https://jobright.ai/jobs/info/68df07f45ab4977c2e94caa6?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | Oct 24 |
+| **[Tenaska](http://www.tenaska.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68c38f506031587f8458bde3?utm_campaign=1079&utm_source=git)** | Omaha, NE | On Site | Oct 24 |
+| **[Innovative Defense Technologies (IDT)](http://idtus.com)** | **[Software Test Engineer Intern](https://jobright.ai/jobs/info/68fa5d0b67272b29af72e2ec?utm_campaign=1079&utm_source=git)** | Arlington, VA | On Site | Oct 24 |
+| **[Astranis Space Technologies](http://www.astranis.com)** | **[Embedded Software Developer, Network/Payload Software Intern (Winter 2026)](https://jobright.ai/jobs/info/68c9044895f5211cd2ced2d9?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Oct 24 |
+| **[Altium Packaging](https://altiumpkg.com/)** | **[2026 ERP Implementation – Oracle Fusion Intern](https://jobright.ai/jobs/info/68c37d816031587f8458b4a1?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Oct 24 |
+| **[Figma](https://www.figma.com)** | **[Software Engineer Intern (2026)](https://jobright.ai/jobs/info/68ce948afb49c96ca6ea1c8d?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Oct 24 |
+| **[Innovative Defense Technologies (IDT)](http://idtus.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68f6b57a76a51a4307bdd85b?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Oct 24 |
+| ↳ | **[Cyber Security / Infrastructure Engineer Intern](https://jobright.ai/jobs/info/68f0a085eb273a32d976a385?utm_campaign=1079&utm_source=git)** | Fall River, MA | On Site | Oct 24 |
+| **[Altium Packaging](https://altiumpkg.com/)** | **[2026 IS AI & Automations Developer Intern](https://jobright.ai/jobs/info/68ce43c5b2a74e1837ee0f88?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Oct 24 |
+| **[Innovative Defense Technologies (IDT)](http://idtus.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68fa3616edd1901442389c9d?utm_campaign=1079&utm_source=git)** | Fall River, MA | On Site | Oct 24 |
 | **[Emerson](http://www.emerson.com)** | **[Graduate Software Engineering Intern](https://jobright.ai/jobs/info/68cbfe3c16d00d2beeb17dd1?utm_campaign=1079&utm_source=git)** | Round Rock, TX | On Site | Oct 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern - TikTok Search Architecture team - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cd5de81ad6b16f02898c5a?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Oct 24 |
 | ↳ | **[Backend Software Engineer Intern (TikTok-PGC-UCP) - 2026 Summer(BS/MS)](https://jobright.ai/jobs/info/68cd477eb2a74e1837ed4b59?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Oct 24 |
@@ -113,7 +126,7 @@ For a complete list, click the following sortable link below:
 | **[Bank of America](https://www.bankofamerica.com)** | **[Global Technology Summer Analyst 2026 - Software Engineer](https://jobright.ai/jobs/info/68fa15cbd8eb372efd1922f3?utm_campaign=1079&utm_source=git)** | Richmond, VA | On Site | Oct 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Global CRM) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cdc38db2a74e1837edc24d?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Oct 24 |
 | ↳ | **[Software Engineer Intern (Recommendation Infrastructure) - 2026 Start (PhD)](https://jobright.ai/jobs/info/68ce2931b2a74e1837edfedf?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Oct 24 |
-| **[Yesvite](http://www.yesvite.com)** | **[iOS Developer Intern](https://jobright.ai/jobs/info/68fb3ebde154835f11efae7c?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 24 |
+| **[Jack Link's Protein Snacks](http://www.jacklinks.com)** | **[IT Infrastructure Intern](https://jobright.ai/jobs/info/68c207874d652f044775c7e5?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | On Site | Oct 24 |
 | **[IBM Canada Software Lab - Toronto](https://research.ibm.com)** | **[Intern 2026: Fault-tolerant quantum algorithms](https://jobright.ai/jobs/info/68fb3e789e8e925ac6c89ffd?utm_campaign=1079&utm_source=git)** | Yorktown Heights, NY | Hybrid | Oct 24 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship ITS (Information Technology Solutions)](https://jobright.ai/jobs/info/68b59508f4e41a61efd904da?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Oct 24 |
 | **[Seagate Technology](http://www.seagate.com)** | **[High Performance Computing Software Engineer/Research Intern Summer 2026](https://jobright.ai/jobs/info/68f6a48a9a65fd34585959e3?utm_campaign=1079&utm_source=git)** | Shakopee, MN | On Site | Oct 24 |
@@ -128,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Sumer 2026 Software Engineer Graduate Intern](https://jobright.ai/jobs/info/68fb001de154835f11ef9109?utm_campaign=1079&utm_source=git)** | MI, Working at Home - Michigan | Remote | Oct 23 |
 | ↳ | **[Sumer 2026 Software Engineer Graduate Intern](https://jobright.ai/jobs/info/68faffb49e8e925ac6c883b2?utm_campaign=1079&utm_source=git)** | NJ, Working at Home - New Jersey | Remote | Oct 23 |
 | ↳ | **[Sumer 2026 Software Engineer Graduate Intern](https://jobright.ai/jobs/info/68faffb49e8e925ac6c883b1?utm_campaign=1079&utm_source=git)** | TX, Working at Home - Texas | Remote | Oct 23 |
-| ↳ | **[Sumer 2026 Software Engineer Graduate Intern](https://jobright.ai/jobs/info/68faffa83c99cc1d96028348?utm_campaign=1079&utm_source=git)** | HI, Working at Home - Hawaii | Remote | Oct 23 |
 | ↳ | **[Sumer 2026 Software Engineer Graduate Intern](https://jobright.ai/jobs/info/68faffa89e8e925ac6c883a9?utm_campaign=1079&utm_source=git)** | CO, Working at Home - Colorado | Remote | Oct 23 |
+| ↳ | **[Sumer 2026 Software Engineer Graduate Intern](https://jobright.ai/jobs/info/68faffa83c99cc1d96028348?utm_campaign=1079&utm_source=git)** | HI, Working at Home - Hawaii | Remote | Oct 23 |
 | ↳ | **[Sumer 2026 Software Engineer Graduate Intern](https://jobright.ai/jobs/info/68faff949e8e925ac6c8839f?utm_campaign=1079&utm_source=git)** | KS, Working at Home - Kansas | Remote | Oct 23 |
 | ↳ | **[Sumer 2026 Software Engineer Graduate Intern](https://jobright.ai/jobs/info/68fafd8be154835f11ef9079?utm_campaign=1079&utm_source=git)** | FL, Working at Home - Florida | Remote | Oct 23 |
 | ↳ | **[Sumer 2026 Software Engineer Graduate Intern](https://jobright.ai/jobs/info/68fafd62e154835f11ef9057?utm_campaign=1079&utm_source=git)** | MA, Working at Home -Massachusetts | Remote | Oct 23 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sumer 2026 Software Engineer Graduate Intern](https://jobright.ai/jobs/info/68fafa71e154835f11ef8db7?utm_campaign=1079&utm_source=git)** | NV, Working at Home - Nevada | Remote | Oct 23 |
 | ↳ | **[Sumer 2026 Software Engineer Graduate Intern](https://jobright.ai/jobs/info/68fafa67e154835f11ef8d80?utm_campaign=1079&utm_source=git)** | TN, Working at Home -Tennessee | Remote | Oct 23 |
 | ↳ | **[Sumer 2026 Software Engineer Graduate Intern](https://jobright.ai/jobs/info/68fafa65e154835f11ef8d7f?utm_campaign=1079&utm_source=git)** | NM, Working at Home - New Mexico | Remote | Oct 23 |
-| ↳ | **[Sumer 2026 Software Engineer Graduate Intern](https://jobright.ai/jobs/info/68fafa5ce154835f11ef8d69?utm_campaign=1079&utm_source=git)** | SC, Working at Home-South Carolina | Remote | Oct 23 |
-| ↳ | **[Sumer 2026 Software Engineer Graduate Intern](https://jobright.ai/jobs/info/68fafa50e154835f11ef8d3a?utm_campaign=1079&utm_source=git)** | ME, Working at Home - Maine | Remote | Oct 23 |
-| ↳ | **[Sumer 2026 Software Engineer Graduate Intern](https://jobright.ai/jobs/info/68fafa43e154835f11ef8d19?utm_campaign=1079&utm_source=git)** | DE, Working at Home - Delaware | Remote | Oct 23 |
-| ↳ | **[Sumer 2026 Software Engineer Graduate Intern](https://jobright.ai/jobs/info/68fafa43e154835f11ef8d18?utm_campaign=1079&utm_source=git)** | AZ, Working at Home - Arizona | Remote | Oct 23 |
-| ↳ | **[Sumer 2026 Software Engineer Graduate Intern](https://jobright.ai/jobs/info/68fafa3ee154835f11ef8cfc?utm_campaign=1079&utm_source=git)** | WA, Working at Home - Washington | Remote | Oct 23 |
-| ↳ | **[Sumer 2026 Software Engineer Graduate Intern](https://jobright.ai/jobs/info/68fafa3be154835f11ef8cf7?utm_campaign=1079&utm_source=git)** | MO, Working at Home - Montana | Remote | Oct 23 |
-| ↳ | **[Sumer 2026 Software Engineer Graduate Intern](https://jobright.ai/jobs/info/68fafa2ae154835f11ef8cad?utm_campaign=1079&utm_source=git)** | SD, Working at Home-South Dakota | Remote | Oct 23 |
-| ↳ | **[Sumer 2026 Software Engineer Graduate Intern](https://jobright.ai/jobs/info/68fafa02e154835f11ef8c87?utm_campaign=1079&utm_source=git)** | IL, Working at Home - Illinois | Remote | Oct 23 |
-| ↳ | **[Sumer 2026 Software Engineer Graduate Intern](https://jobright.ai/jobs/info/68faf9f63c99cc1d960280a4?utm_campaign=1079&utm_source=git)** | VA, Working at Home - Virginia | Remote | Oct 23 |
-| ↳ | **[Sumer 2026 Software Engineer Graduate Intern](https://jobright.ai/jobs/info/68faf9e53c99cc1d9602809c?utm_campaign=1079&utm_source=git)** | NY, Working at Home - New York | Remote | Oct 23 |
-| ↳ | **[Sumer 2026 Software Engineer Graduate Intern](https://jobright.ai/jobs/info/68faf9e03c99cc1d96028096?utm_campaign=1079&utm_source=git)** | IA, Working at Home - Iowa | Remote | Oct 23 |
-| ↳ | **[Sumer 2026 Software Engineer Graduate Intern](https://jobright.ai/jobs/info/68faf9d99e8e925ac6c880dd?utm_campaign=1079&utm_source=git)** | PA, Working at Home - Pennsylvania | Remote | Oct 23 |
-| ↳ | **[Sumer 2026 Software Engineer Graduate Intern](https://jobright.ai/jobs/info/68faf9d13c99cc1d96028088?utm_campaign=1079&utm_source=git)** | CA, Working at Home - California | Remote | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
