@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Software Engineering Intern - Orlando, FL](https://jobright.ai/jobs/info/68fdc8b90ab3b222462a4717?utm_campaign=1079&utm_source=git)** | Florida | On Site | Oct 26 |
-| ↳ | **[Software Engineering Intern - Orlando, FL](https://jobright.ai/jobs/info/68fdc8b9e04ac838fb5b1a89?utm_campaign=1079&utm_source=git)** | Possible | On Site | Oct 26 |
+| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Information Systems Assurance - Summer 2026 (Atlanta)](https://jobright.ai/jobs/info/68cb9623ba798c1a501d262d?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Hybrid | Oct 26 |
+| **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - Production](https://jobright.ai/jobs/info/68c7bdd7369c3763c743b304?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Oct 26 |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Software Engineering Intern - Orlando, FL](https://jobright.ai/jobs/info/68fdc8b9e04ac838fb5b1a89?utm_campaign=1079&utm_source=git)** | Possible | On Site | Oct 26 |
+| ↳ | **[Software Engineering Intern - Orlando, FL](https://jobright.ai/jobs/info/68fdc8b90ab3b222462a4717?utm_campaign=1079&utm_source=git)** | Florida | On Site | Oct 26 |
 | **[Align Technology](http://www.aligntech.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68fd8cb5e04ac838fb5afff7?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Oct 25 |
-| **[SANMINA-SCI TECHNOLOGY INDIA PRIVATE LIMITED](http://www.sanmina.com)** | **[Engineering Intern (Fall 2025)](https://jobright.ai/jobs/info/68fd4fce0ab3b222462a16e2?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Oct 25 |
-| ↳ | **[Engineering Intern (Fall 2025)](https://jobright.ai/jobs/info/68fd48d4e0c73b3a11191a9d?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Oct 25 |
+| **[SANMINA-SCI TECHNOLOGY INDIA PRIVATE LIMITED](http://www.sanmina.com)** | **[Engineering Intern (Fall 2025)](https://jobright.ai/jobs/info/68fd492c0ab3b222462a167d?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Oct 25 |
 | **[IPConfigure Inc.](http://www.ipconfigure.com/)** | **[Software Development Internship for Video Surveillance Software](https://jobright.ai/jobs/info/68fd53140ab3b222462a190b?utm_campaign=1079&utm_source=git)** | Norfolk, VA, US | On Site | Oct 25 |
 | **[Sedaro](https://www.sedaro.com/)** | **[Software Engineer Intern, Full Stack](https://jobright.ai/jobs/info/68fd51e1e04ac838fb5aebbd?utm_campaign=1079&utm_source=git)** | Arlington, VA, US | Hybrid | Oct 25 |
 | **[Safran](http://www.safran-group.com)** | **[Embedded Software Engineer (Internship) Granada, Spain](https://jobright.ai/jobs/info/68fd5ac60ab3b222462a1aab?utm_campaign=1079&utm_source=git)** | Bath, PA, US | Hybrid | Oct 25 |
@@ -117,8 +118,8 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[Research Intern (Infrastructure System Lab)- 2026 Start (PHD)](https://jobright.ai/jobs/info/68cfd1abfb49c96ca6eabc98?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Oct 25 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (TikTok-PGC) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689c293779a9f96662536fb3?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Oct 25 |
 | **[ByteDance](http://bytedance.com)** | **[Software Development Engineer Intern (Network Automation)- 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/68c65f56c96a22563ecedeec?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Oct 25 |
-| **[TikTok](https://www.tiktok.com)** | **[Backend Software Engineer Intern (TikTok-Growth-Customer Lifecycle) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689c0a6efaa4e875e826522e?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Oct 25 |
-| ↳ | **[Backend Software Engineer Intern (TikTok-Social-Friend Interaction) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68faef7d8d32c164778ccc0f?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Oct 25 |
+| **[TikTok](https://www.tiktok.com)** | **[Backend Software Engineer Intern (TikTok-Social-Friend Interaction) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68faef7d8d32c164778ccc0f?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Oct 25 |
+| ↳ | **[Backend Software Engineer Intern (TikTok-Growth-Customer Lifecycle) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689c0a6efaa4e875e826522e?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Oct 25 |
 | **[IBM](http://www.ibm.com)** | **[Cloud-Native Front-end and API Developer Intern 2026](https://jobright.ai/jobs/info/68eca1141eecd439f43fbcad?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Oct 25 |
 | **[ByteDance](http://bytedance.com)** | **[Backend Software Engineer Intern (Global E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cf2d23dbd9fb154ede570a?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Oct 25 |
 | **[TikTok](https://www.tiktok.com)** | **[Online Architecture Engineer Intern (TikTok-Generalized Arch)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68c64ec37d0db411427384c4?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Oct 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Dev Ops Engineer](https://jobright.ai/jobs/info/68cd181db2a74e1837ed228d?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Oct 25 |
 | **[Red Hat](http://www.redhat.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68ccef6a5954791a1d701465?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Oct 25 |
 | **[Crowe](https://www.crowe.com/)** | **[D365 ERP Implementation Intern](https://jobright.ai/jobs/info/68ccef85d11b445e0bee48e6?utm_campaign=1079&utm_source=git)** | Nashville, TN | On Site | Oct 25 |
-| **[Linchpin](https://linchpin.com)** | **[Front End Web Development Intern](https://jobright.ai/jobs/info/68fcc445e04ac838fb5ac843?utm_campaign=1079&utm_source=git)** | Warren, RI | On Site | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
