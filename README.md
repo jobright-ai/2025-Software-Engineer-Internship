@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[USTechBridge](https://ustechbridge.com)** | **[Software Engineer Intern (Unpaid)](https://jobright.ai/jobs/info/68fd5366e04ac838fb5aec6b?utm_campaign=1079&utm_source=git)** | United States | Hybrid | Oct 25 |
+| **[SANMINA-SCI TECHNOLOGY INDIA PRIVATE LIMITED](http://www.sanmina.com)** | **[Engineering Intern (Fall 2025)](https://jobright.ai/jobs/info/68fd4fce0ab3b222462a16e2?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Oct 25 |
+| ↳ | **[Engineering Intern (Fall 2025)](https://jobright.ai/jobs/info/68fd48d4e0c73b3a11191a9d?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Oct 25 |
+| **[IPConfigure Inc.](http://www.ipconfigure.com/)** | **[Software Development Internship for Video Surveillance Software](https://jobright.ai/jobs/info/68fd53140ab3b222462a190b?utm_campaign=1079&utm_source=git)** | Norfolk, VA, US | On Site | Oct 25 |
+| **[Sedaro](https://www.sedaro.com/)** | **[Software Engineer Intern, Full Stack](https://jobright.ai/jobs/info/68fd51e1e04ac838fb5aebbd?utm_campaign=1079&utm_source=git)** | Arlington, VA, US | Hybrid | Oct 25 |
+| **[Safran](http://www.safran-group.com)** | **[Embedded Software Engineer (Internship) Granada, Spain](https://jobright.ai/jobs/info/68fd5ac60ab3b222462a1aab?utm_campaign=1079&utm_source=git)** | Bath, PA, US | Hybrid | Oct 25 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Software Engineer Intern - Fall 2025](https://jobright.ai/jobs/info/68fd128be04ac838fb5ae19e?utm_campaign=1079&utm_source=git)** | Tampa, FL | On Site | Oct 25 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Firmware Engineer Intern - Master's Degree](https://jobright.ai/jobs/info/68e09487f758fe1f97e4e9ec?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Oct 25 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Software Engineer (SkillBridge Intern) - 23875](https://jobright.ai/jobs/info/68cce080d11b445e0bee3779?utm_campaign=1079&utm_source=git)** | Greater Roanoke Area | On Site | Oct 25 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Red Hat](http://www.redhat.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68ccef6a5954791a1d701465?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Oct 25 |
 | **[Crowe](https://www.crowe.com/)** | **[D365 ERP Implementation Intern](https://jobright.ai/jobs/info/68ccef85d11b445e0bee48e6?utm_campaign=1079&utm_source=git)** | Nashville, TN | On Site | Oct 25 |
 | **[Sift](https://www.siftstack.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68f66f8a9a65fd345859336c?utm_campaign=1079&utm_source=git)** | El Segundo, CA | On Site | Oct 25 |
-| **[Linchpin](https://linchpin.com)** | **[Front End Web Development Intern](https://jobright.ai/jobs/info/68fcc445e04ac838fb5ac843?utm_campaign=1079&utm_source=git)** | Warren, RI | On Site | Oct 25 |
-| **[Rambus](http://www.rambus.com/us)** | **[Intern Digital Verification](https://jobright.ai/jobs/info/68eb4b3a76a1db7c5985e824?utm_campaign=1079&utm_source=git)** | Alameda County, CA | Hybrid | Oct 25 |
-| **[Group One Trading](http://group1.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/68fcaac2e04ac838fb5ab96b?utm_campaign=1079&utm_source=git)** | Chicago, IL, US | On Site | Oct 25 |
-| **[ATPCO](http://www.atpco.net)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68fcae9a0ab3b2224629e672?utm_campaign=1079&utm_source=git)** | Herndon, VA, US | Hybrid | Oct 25 |
-| **[Experian](http://www.experianplc.com)** | **[Frontend Software Engineer Summer Intern (Remote & Paid)](https://jobright.ai/jobs/info/68fcafa9e04ac838fb5abb93?utm_campaign=1079&utm_source=git)** | United, WV, US | Hybrid | Oct 25 |
-| **[Merge](https://merge.dev)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68f7a6005dc1be6012817f9c?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
