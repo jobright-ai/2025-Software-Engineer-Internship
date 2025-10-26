@@ -57,14 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Software Engineering Intern - Orlando, FL](https://jobright.ai/jobs/info/68fdc8b90ab3b222462a4717?utm_campaign=1079&utm_source=git)** | Florida | On Site | Oct 26 |
+| ↳ | **[Software Engineering Intern - Orlando, FL](https://jobright.ai/jobs/info/68fdc8b9e04ac838fb5b1a89?utm_campaign=1079&utm_source=git)** | Possible | On Site | Oct 26 |
 | **[Align Technology](http://www.aligntech.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68fd8cb5e04ac838fb5afff7?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Oct 25 |
 | **[SANMINA-SCI TECHNOLOGY INDIA PRIVATE LIMITED](http://www.sanmina.com)** | **[Engineering Intern (Fall 2025)](https://jobright.ai/jobs/info/68fd4fce0ab3b222462a16e2?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Oct 25 |
 | ↳ | **[Engineering Intern (Fall 2025)](https://jobright.ai/jobs/info/68fd48d4e0c73b3a11191a9d?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Oct 25 |
 | **[IPConfigure Inc.](http://www.ipconfigure.com/)** | **[Software Development Internship for Video Surveillance Software](https://jobright.ai/jobs/info/68fd53140ab3b222462a190b?utm_campaign=1079&utm_source=git)** | Norfolk, VA, US | On Site | Oct 25 |
 | **[Sedaro](https://www.sedaro.com/)** | **[Software Engineer Intern, Full Stack](https://jobright.ai/jobs/info/68fd51e1e04ac838fb5aebbd?utm_campaign=1079&utm_source=git)** | Arlington, VA, US | Hybrid | Oct 25 |
 | **[Safran](http://www.safran-group.com)** | **[Embedded Software Engineer (Internship) Granada, Spain](https://jobright.ai/jobs/info/68fd5ac60ab3b222462a1aab?utm_campaign=1079&utm_source=git)** | Bath, PA, US | Hybrid | Oct 25 |
-| **[Spotlight | Analyst Relations](https://spotlightar.com/)** | **[Software Development Intern Summer '26](https://jobright.ai/jobs/info/68fd51900ab3b222462a17f5?utm_campaign=1079&utm_source=git)** | Kansas City, MO, US | On Site | Oct 25 |
-| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Software Engineer Intern - Fall 2025](https://jobright.ai/jobs/info/68fd128be04ac838fb5ae19e?utm_campaign=1079&utm_source=git)** | Tampa, FL | On Site | Oct 25 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Firmware Engineer Intern - Master's Degree](https://jobright.ai/jobs/info/68e09487f758fe1f97e4e9ec?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Oct 25 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Software Engineer (SkillBridge Intern) - 23875](https://jobright.ai/jobs/info/68cce080d11b445e0bee3779?utm_campaign=1079&utm_source=git)** | Greater Roanoke Area | On Site | Oct 25 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Enterprise Architecture](https://jobright.ai/jobs/info/68e028bb1852e62f007e8135?utm_campaign=1079&utm_source=git)** | Arlington, TX | Hybrid | Oct 25 |
@@ -150,11 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Aerotech, Inc.](http://www.aerotech.com/Default.aspx)** | **[Software Engineering Internship or Co-op](https://jobright.ai/jobs/info/68fc9c33e0c73b3a1118dd2c?utm_campaign=1079&utm_source=git)** | Pittsburgh, PA, US | On Site | Oct 25 |
 | **[Rackner](https://www.rackner.com/)** | **[Computer Science Internship](https://jobright.ai/jobs/info/68fc9ba7e04ac838fb5aade5?utm_campaign=1079&utm_source=git)** | College Park, MD, US | On Site | Oct 25 |
 | **[Dev Technology](https://www.linkedin.com/company/79469447)** | **[React/Node Application Developer Intern (Summer 2026)](https://jobright.ai/jobs/info/68fc9b70e04ac838fb5aad83?utm_campaign=1079&utm_source=git)** | Reston, VA, US | Hybrid | Oct 25 |
+| **[Spotlight | Analyst Relations](https://spotlightar.com/)** | **[Software Development Intern Summer '26](https://jobright.ai/jobs/info/68fc9b5be04ac838fb5aad62?utm_campaign=1079&utm_source=git)** | Kansas City, MO, US | On Site | Oct 25 |
 | **[Ammobia](https://www.ammobia.co)** | **[Full Stack Software Engineer (Winter 2026 Internship/Co-op)](https://jobright.ai/jobs/info/68fc9ac10ab3b2224629d6fe?utm_campaign=1079&utm_source=git)** | San Francisco, CA, US | On Site | Oct 25 |
 | **[Crowe](https://www.crowe.com/)** | **[D365 ERP Technical Intern](https://jobright.ai/jobs/info/68cc742616d00d2beeb1ff57?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Oct 25 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Dev Ops Engineer](https://jobright.ai/jobs/info/68cd181db2a74e1837ed228d?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Oct 25 |
 | **[Red Hat](http://www.redhat.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68ccef6a5954791a1d701465?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Oct 25 |
 | **[Crowe](https://www.crowe.com/)** | **[D365 ERP Implementation Intern](https://jobright.ai/jobs/info/68ccef85d11b445e0bee48e6?utm_campaign=1079&utm_source=git)** | Nashville, TN | On Site | Oct 25 |
 | **[Linchpin](https://linchpin.com)** | **[Front End Web Development Intern](https://jobright.ai/jobs/info/68fcc445e04ac838fb5ac843?utm_campaign=1079&utm_source=git)** | Warren, RI | On Site | Oct 25 |
-| **[Rambus](http://www.rambus.com/us)** | **[Intern Digital Verification](https://jobright.ai/jobs/info/68eb4b3a76a1db7c5985e824?utm_campaign=1079&utm_source=git)** | Alameda County, CA | Hybrid | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
