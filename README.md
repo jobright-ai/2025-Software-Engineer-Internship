@@ -57,9 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[H15DEN](https://h15den.com)** | **[App Tester (California)](https://jobright.ai/jobs/info/68fec397e04ac838fb5b4aab?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Oct 26 |
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Infotainment Engineering Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/68feaf1b0ab3b222462a7533?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Oct 26 |
-| **[Todd](https://toddagriscience.com)** | **[Frontend Software Engineer Intern](https://jobright.ai/jobs/info/68fea9190ab3b222462a74e2?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Oct 26 |
-| **[Percival](https://www.linkedin.com/company/108127498)** | **[Backend Engineering Intern (Scaling & Data)](https://jobright.ai/jobs/info/68fea283e0c73b3a1119789d?utm_campaign=1079&utm_source=git)** | Cambridge, MA | Remote | Oct 26 |
 | **[Froglet Games](http://www.froglet.games)** | **[Unpaid Game Development Intern](https://jobright.ai/jobs/info/68fe8e40e04ac838fb5b46c7?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 26 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[IT Specialist (ERP Applications Software) FT – 6511](https://jobright.ai/jobs/info/68fe88860ab3b222462a726e?utm_campaign=1079&utm_source=git)** | Chesapeake, VA | On Site | Oct 26 |
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Software Engineer Intern (Early Career) - S&P Global](https://jobright.ai/jobs/info/68fe7ae30ab3b222462a6ffa?utm_campaign=1079&utm_source=git)** | Princeton, NJ | On Site | Oct 26 |
@@ -90,12 +89,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Developer Intern: 2026](https://jobright.ai/jobs/info/68df7af45ab4977c2e955148?utm_campaign=1079&utm_source=git)** | Durham, NC | Hybrid | Oct 26 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Information Systems Assurance - Summer 2026 (Atlanta)](https://jobright.ai/jobs/info/68cb9623ba798c1a501d262d?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Hybrid | Oct 26 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - Production](https://jobright.ai/jobs/info/68c7bdd7369c3763c743b304?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Oct 26 |
-| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Software Engineering Intern - Orlando, FL](https://jobright.ai/jobs/info/68fdc8b9e04ac838fb5b1a89?utm_campaign=1079&utm_source=git)** | Possible | On Site | Oct 26 |
-| ↳ | **[Software Engineering Intern - Orlando, FL](https://jobright.ai/jobs/info/68fdc8b90ab3b222462a4717?utm_campaign=1079&utm_source=git)** | Florida | On Site | Oct 26 |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Software Engineering Intern - Orlando, FL](https://jobright.ai/jobs/info/68fdc8b90ab3b222462a4717?utm_campaign=1079&utm_source=git)** | Florida | On Site | Oct 26 |
+| ↳ | **[Software Engineering Intern - Orlando, FL](https://jobright.ai/jobs/info/68fdc8b9e04ac838fb5b1a89?utm_campaign=1079&utm_source=git)** | Possible | On Site | Oct 26 |
 | **[Align Technology](http://www.aligntech.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68fd8cb5e04ac838fb5afff7?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Oct 25 |
 | **[IPConfigure Inc.](http://www.ipconfigure.com/)** | **[Software Development Internship for Video Surveillance Software](https://jobright.ai/jobs/info/68fd53140ab3b222462a190b?utm_campaign=1079&utm_source=git)** | Norfolk, VA, US | On Site | Oct 25 |
 | **[Sedaro](https://www.sedaro.com/)** | **[Software Engineer Intern, Full Stack](https://jobright.ai/jobs/info/68fd51e1e04ac838fb5aebbd?utm_campaign=1079&utm_source=git)** | Arlington, VA, US | Hybrid | Oct 25 |
 | **[Safran](http://www.safran-group.com)** | **[Embedded Software Engineer (Internship) Granada, Spain](https://jobright.ai/jobs/info/68fd5ac60ab3b222462a1aab?utm_campaign=1079&utm_source=git)** | Bath, PA, US | Hybrid | Oct 25 |
+| **[Spotlight | Analyst Relations](https://spotlightar.com/)** | **[Software Development Intern Summer '26](https://jobright.ai/jobs/info/68fd51900ab3b222462a17f5?utm_campaign=1079&utm_source=git)** | Kansas City, MO, US | On Site | Oct 25 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Firmware Engineer Intern - Master's Degree](https://jobright.ai/jobs/info/68e09487f758fe1f97e4e9ec?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Oct 25 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Software Engineer (SkillBridge Intern) - 23875](https://jobright.ai/jobs/info/68cce080d11b445e0bee3779?utm_campaign=1079&utm_source=git)** | Greater Roanoke Area | On Site | Oct 25 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Enterprise Architecture](https://jobright.ai/jobs/info/68e028bb1852e62f007e8135?utm_campaign=1079&utm_source=git)** | Arlington, TX | Hybrid | Oct 25 |
