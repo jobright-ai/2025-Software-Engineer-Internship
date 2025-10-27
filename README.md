@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Software Engineering Intern - Roy UT](https://jobright.ai/jobs/info/68ff6ffae0c73b3a1119b710?utm_campaign=1079&utm_source=git)** | United States-Utah-Roy | On Site | Oct 27 |
 | **[Oigetit AI Fact-Checker](https://oigetit.ai/)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/68ff588f0ab3b222462aac72?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 27 |
 | **[Merge](https://merge.dev)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68f7a6005dc1be6012817f9c?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Oct 27 |
 | **[Synopsys Inc](http://www.synopsys.com)** | **[Spring 2026 Simulation Process Data Management Intern (BS/MS)](https://jobright.ai/jobs/info/68f01ed1de50091dbfa51d5b?utm_campaign=1079&utm_source=git)** | Canonsburg, PA | On Site | Oct 27 |
@@ -65,7 +66,7 @@ For a complete list, click the following sortable link below:
 | **[American Electric Power](http://aep.com)** | **[Technology Intern – Columbus, OH](https://jobright.ai/jobs/info/68c293c18753a565272fc015?utm_campaign=1079&utm_source=git)** | Columbus, OH | On Site | Oct 27 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Entertainment Software Engineering Intern, Summer 2026](https://jobright.ai/jobs/info/68ff30cee04ac838fb5b748d?utm_campaign=1079&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 27 |
 | ↳ | **[The Walt Disney Studios, Software Engineering Intern, Summer 2026](https://jobright.ai/jobs/info/68ff304c0ab3b222462a9ec6?utm_campaign=1079&utm_source=git)** | Glendale, CA, USA | Hybrid | Oct 27 |
-| ↳ | **[The Walt Disney Studios, Software Engineering Intern, Summer 2026](https://jobright.ai/jobs/info/68ff2428e0c73b3a11199e7d?utm_campaign=1079&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 27 |
+| ↳ | **[The Walt Disney Studios, Software Engineering Intern, Summer 2026](https://jobright.ai/jobs/info/68ff2a0ee04ac838fb5b7038?utm_campaign=1079&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 27 |
 | **[American Equity](http://www.american-equity.com)** | **[IT Intern, Digital Platforms](https://jobright.ai/jobs/info/68c05ce9702aa35207aac671?utm_campaign=1079&utm_source=git)** | West Des Moines, Iowa, United States | On Site | Oct 26 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Software Engineer Intern - Fall 2025](https://jobright.ai/jobs/info/68ff0c3d0ab3b222462a8ce8?utm_campaign=1079&utm_source=git)** | Tampa, FL | On Site | Oct 26 |
 | **[Okta](http://www.okta.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/68fef242e0c73b3a11198aaa?utm_campaign=1079&utm_source=git)** | Bellevue, Washington | On Site | Oct 26 |
@@ -107,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[IPConfigure Inc.](http://www.ipconfigure.com/)** | **[Software Development Internship for Video Surveillance Software](https://jobright.ai/jobs/info/68fd53140ab3b222462a190b?utm_campaign=1079&utm_source=git)** | Norfolk, VA, US | On Site | Oct 25 |
 | **[Sedaro](https://www.sedaro.com/)** | **[Software Engineer Intern, Full Stack](https://jobright.ai/jobs/info/68fd51e1e04ac838fb5aebbd?utm_campaign=1079&utm_source=git)** | Arlington, VA, US | Hybrid | Oct 25 |
 | **[Safran](http://www.safran-group.com)** | **[Embedded Software Engineer (Internship) Granada, Spain](https://jobright.ai/jobs/info/68fd5ac60ab3b222462a1aab?utm_campaign=1079&utm_source=git)** | Bath, PA, US | Hybrid | Oct 25 |
-| **[Spotlight | Analyst Relations](https://spotlightar.com/)** | **[Software Development Intern Summer '26](https://jobright.ai/jobs/info/68fd51900ab3b222462a17f5?utm_campaign=1079&utm_source=git)** | Kansas City, MO, US | On Site | Oct 25 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Firmware Engineer Intern - Master's Degree](https://jobright.ai/jobs/info/68e09487f758fe1f97e4e9ec?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Oct 25 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Software Engineer (SkillBridge Intern) - 23875](https://jobright.ai/jobs/info/68cce080d11b445e0bee3779?utm_campaign=1079&utm_source=git)** | Greater Roanoke Area | On Site | Oct 25 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Enterprise Architecture](https://jobright.ai/jobs/info/68e028bb1852e62f007e8135?utm_campaign=1079&utm_source=git)** | Arlington, TX | Hybrid | Oct 25 |
