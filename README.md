@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Independence Blue Cross](https://www.ibx.com)** | **[Summer Intern - Client Setup](https://jobright.ai/jobs/info/6900695de0c73b3a111a4b2e?utm_campaign=1079&utm_source=git)** | Philadelphia, Pennsylvania | On Site | Oct 27 |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Software Engineer Intern - Fall 2025](https://jobright.ai/jobs/info/690068c4e0c73b3a111a4b03?utm_campaign=1079&utm_source=git)** | Tampa, FL | On Site | Oct 27 |
+| **[Fives](http://www.fivesgroup.com/)** | **[Co-Op: Software Engineering](https://jobright.ai/jobs/info/69006435e0c73b3a111a4a18?utm_campaign=1079&utm_source=git)** | Hebron, KY | On Site | Oct 27 |
+| **[Medlaunch Concepts](medlaunchlp.com)** | **[Spring 2026 - QA Engineering Internship](https://jobright.ai/jobs/info/690058eee0c73b3a111a4877?utm_campaign=1079&utm_source=git)** | Clearwater, FL | Remote | Oct 27 |
 | **[RTX](http://www.raytheon.com)** | **[2026 Intern - Software Engineer Intern - Onsite (MA)](https://jobright.ai/jobs/info/69004efbe04ac838fb5c14da?utm_campaign=1079&utm_source=git)** | MA801: Marlborough, MA 1001 Boston Post Road Building 2, Marlborough, MA, 01752 USA | Hybrid | Oct 27 |
 | **[Solakair](www.solakair.com)** | **[Embedded Engineer C++ Aircraft/Drone Tech Internship (Unpaid)](https://jobright.ai/jobs/info/69004dc90ab3b222462b3d1d?utm_campaign=1079&utm_source=git)** | California, United States | Remote | Oct 27 |
 | **[Principal Financial Group](https://www.principalam.com/)** | **[COBOL Engineer Internship (Summer 2026)](https://jobright.ai/jobs/info/690047a3e0c73b3a111a3fde?utm_campaign=1079&utm_source=git)** | Des Moines, IA | On Site | Oct 27 |
@@ -80,10 +84,10 @@ For a complete list, click the following sortable link below:
 | **[H15DEN](https://h15den.com)** | **[Bilingual Communication Associate](https://jobright.ai/jobs/info/69000cdbe04ac838fb5beb0d?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Oct 27 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Software Engineer (Undersea Warfare) - Intern](https://jobright.ai/jobs/info/690024a4e0c73b3a111a2904?utm_campaign=1079&utm_source=git)** | Possible | On Site | Oct 27 |
 | **[Unwrap](https://www.unwrap.ai/)** | **[Full Stack Engineer Intern](https://jobright.ai/jobs/info/69004d170ab3b222462b3cc0?utm_campaign=1079&utm_source=git)** | Santa Barbara | On Site | Oct 27 |
+| **[Ryan](http://ryan.com)** | **[Summer 2026 Intern, Full Stack Development](https://jobright.ai/jobs/info/68fffc1de0c73b3a111a13d7?utm_campaign=1079&utm_source=git)** | Plano | On Site | Oct 27 |
 | **[GreenStone Farm Credit Services](http://greenstonefcs.com)** | **[Quality Engineering Internship](https://jobright.ai/jobs/info/68fffb720ab3b222462b0ce0?utm_campaign=1079&utm_source=git)** | East Lansing, MI | On Site | Oct 27 |
 | **[Cadence](https://www.cadence.com)** | **[Product Engineering Intern](https://jobright.ai/jobs/info/68fff8d7e04ac838fb5be11a?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Oct 27 |
 | **[KLA](https://www.kla.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68fff8cfe04ac838fb5be10c?utm_campaign=1079&utm_source=git)** | Milpitas, CA | On Site | Oct 27 |
-| **[Ryan](http://ryan.com)** | **[Summer 2026 Intern, Full Stack Development](https://jobright.ai/jobs/info/68fff7f1e04ac838fb5be01e?utm_campaign=1079&utm_source=git)** | Plano | On Site | Oct 27 |
 | **[MAHLE](https://www.mahle.com)** | **[Software Engineering Intern - Winter](https://jobright.ai/jobs/info/68fff6d3e04ac838fb5bdee4?utm_campaign=1079&utm_source=git)** | Lockport, NY | On Site | Oct 27 |
 | **[Cadence](https://www.cadence.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68fff511e0c73b3a111a0ee1?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Oct 27 |
 | **[Signify](https://www.signify.com)** | **[Software Engineering Intern, Cooper Lighting Solutions (Spring 2026)](https://jobright.ai/jobs/info/68fff38be04ac838fb5bdc5a?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Oct 27 |
@@ -108,9 +112,9 @@ For a complete list, click the following sortable link below:
 | **[Santander](https://www.santander.com/)** | **[Payments Technology Intern](https://jobright.ai/jobs/info/69003352e0c73b3a111a338a?utm_campaign=1079&utm_source=git)** | 1 Enterprise Drive-Quincy-Corp | On Site | Oct 27 |
 | **[Signify](https://www.signify.com)** | **[Firmware Engineering Intern, Cooper Lighting Solutions (Spring 2026)](https://jobright.ai/jobs/info/68ffc6c70ab3b222462add7e?utm_campaign=1079&utm_source=git)** | Peachtree City | On Site | Oct 27 |
 | **[JMP](https://www.jmp.com/en_ph/home.html)** | **[JMP 2026 Summer Intern; Design of Experiments & Reliability, R&D](https://jobright.ai/jobs/info/68ffde7be0c73b3a1119fa2a?utm_campaign=1079&utm_source=git)** | Cary, NC | Hybrid | Oct 27 |
-| **[Cadence](https://www.cadence.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68ffde5be04ac838fb5bc79f?utm_campaign=1079&utm_source=git)** | AUSTIN | On Site | Oct 27 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[Software Development Intern](https://jobright.ai/jobs/info/68ffde12e0c73b3a1119f98b?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Oct 27 |
-| ↳ | **[Web Development Intern](https://jobright.ai/jobs/info/68ffdbc30ab3b222462af1ce?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Oct 27 |
+| **[Cadence](https://www.cadence.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68ffdd500ab3b222462af43e?utm_campaign=1079&utm_source=git)** | AUSTIN | On Site | Oct 27 |
+| **[PTC](http://ptc.co/VLED30oHtEh)** | **[Web Development Intern](https://jobright.ai/jobs/info/68ffdbc30ab3b222462af1ce?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Oct 27 |
 | **[Akuna Capital](https://akunacapital.com)** | **[Software Engineer Intern - Python, Summer 2026](https://jobright.ai/jobs/info/68ffd9490ab3b222462aeed8?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Oct 27 |
 | **[GreenStone Farm Credit Services](http://greenstonefcs.com)** | **[Application Developer](https://jobright.ai/jobs/info/68ffef5f0ab3b222462b039a?utm_campaign=1079&utm_source=git)** | East Lansing, MI | On Site | Oct 27 |
 | **[Ilitch Companies](https://www.ilitchholdings.com)** | **[Mobile Engineering Intern](https://jobright.ai/jobs/info/68ffd7120ab3b222462aeb52?utm_campaign=1079&utm_source=git)** | Detroit, MI | Hybrid | Oct 27 |
@@ -136,8 +140,8 @@ For a complete list, click the following sortable link below:
 | **[RTX](http://www.raytheon.com)** | **[Summer 2026 Returning Intern: Jack Wei](https://jobright.ai/jobs/info/68ff99cfe0c73b3a1119c9d5?utm_campaign=1079&utm_source=git)** | MA105: BBN Headquarters 10 Moulton Street  , Cambridge, MA, 02138 USA | Hybrid | Oct 27 |
 | **[TYLin](http://www.tylin.com)** | **[Intern Technology Designer](https://jobright.ai/jobs/info/68ff96c5e04ac838fb5b97cf?utm_campaign=1079&utm_source=git)** | US | MO | St. Louis - 6 South Old Orchard | On Site | Oct 27 |
 | **[Direct Supply](http://www.directsupply.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68ccd836d11b445e0bee29c5?utm_campaign=1079&utm_source=git)** | Milwaukee, WI | On Site | Oct 27 |
+| **[Toshiba Global Commerce Solutions](https://commerce.toshiba.com)** | **[Innovation Development Intern](https://jobright.ai/jobs/info/68ff8c12e0c73b3a1119c396?utm_campaign=1079&utm_source=git)** | Frisco, TX | On Site | Oct 27 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer Intern – Digital Systems QA](https://jobright.ai/jobs/info/68ff8ab6e04ac838fb5b91b0?utm_campaign=1079&utm_source=git)** | Bridgewater, NJ | Hybrid | Oct 27 |
-| **[Toshiba Global Commerce Solutions](https://commerce.toshiba.com)** | **[Innovation Development Intern](https://jobright.ai/jobs/info/68ff8686e0c73b3a1119c014?utm_campaign=1079&utm_source=git)** | Frisco, TX | On Site | Oct 27 |
 | **[Al Warren Oil](https://www.alwarrenoil.com)** | **[Software Developer - Summer Internship 2026](https://jobright.ai/jobs/info/68ff8585e0c73b3a1119bf4b?utm_campaign=1079&utm_source=git)** | Bensenville, IL | On Site | Oct 27 |
 | **[State Street](http://www.statestreet.com)** | **[Electronic Trading Platform Software Engineer, Internship/CO-OP (Fulltime Jan - June 2026)](https://jobright.ai/jobs/info/68fc440b4129dd33cd13a39e?utm_campaign=1079&utm_source=git)** | Quincy, MA | On Site | Oct 27 |
 | **[Pella Corporation](http://www.pella.com)** | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/68e35e5db99ec3563b0df485?utm_campaign=1079&utm_source=git)** | Pella, IA | On Site | Oct 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Equity](http://www.american-equity.com)** | **[IT Intern, Digital Platforms](https://jobright.ai/jobs/info/68c05ce9702aa35207aac671?utm_campaign=1079&utm_source=git)** | West Des Moines, Iowa, United States | On Site | Oct 26 |
 | **[Okta](http://www.okta.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/68fef242e0c73b3a11198aaa?utm_campaign=1079&utm_source=git)** | Bellevue, Washington | On Site | Oct 26 |
 | ↳ | **[Software Engineer in Test Intern (Summer 2026) ](https://jobright.ai/jobs/info/68fef1e2e0c73b3a11198a95?utm_campaign=1079&utm_source=git)** | San Francisco, California | On Site | Oct 26 |
-| **[Music Jobs US ](https://www.music-jobs.com/usa/)** | **[Streaming Intern](https://jobright.ai/jobs/info/68ff8ae30ab3b222462abd34?utm_campaign=1079&utm_source=git)** | LA Metro Area | On Site | Oct 26 |
-| **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Infotainment Engineering Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/68feaf1b0ab3b222462a7533?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Oct 26 |
-| **[Froglet Games](http://www.froglet.games)** | **[Unpaid Game Development Intern](https://jobright.ai/jobs/info/68fe8e40e04ac838fb5b46c7?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 26 |
-| **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[IT Specialist (ERP Applications Software) FT – 6511](https://jobright.ai/jobs/info/68fe88860ab3b222462a726e?utm_campaign=1079&utm_source=git)** | Chesapeake, VA | On Site | Oct 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
