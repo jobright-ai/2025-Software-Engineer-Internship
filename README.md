@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RTX](http://www.raytheon.com)** | **[2026 Intern - Software Engineer Intern - Onsite (MA)](https://jobright.ai/jobs/info/69004efbe04ac838fb5c14da?utm_campaign=1079&utm_source=git)** | MA801: Marlborough, MA 1001 Boston Post Road Building 2, Marlborough, MA, 01752 USA | Hybrid | Oct 27 |
+| **[Solakair](www.solakair.com)** | **[Embedded Engineer C++ Aircraft/Drone Tech Internship (Unpaid)](https://jobright.ai/jobs/info/69004dc90ab3b222462b3d1d?utm_campaign=1079&utm_source=git)** | California, United States | Remote | Oct 27 |
+| **[Principal Financial Group](https://www.principalam.com/)** | **[COBOL Engineer Internship (Summer 2026)](https://jobright.ai/jobs/info/690047a3e0c73b3a111a3fde?utm_campaign=1079&utm_source=git)** | Des Moines, IA | On Site | Oct 27 |
 | **[General Dynamics](https://www.gd.com)** | **[Software Engineer - Intern](https://jobright.ai/jobs/info/69003a4ae0c73b3a111a38a2?utm_campaign=1079&utm_source=git)** | USA-AZ-Scottsdale | Hybrid | Oct 27 |
 | **[Ryan](http://ryan.com)** | **[Summer 2026 Intern, Full Stack Development](https://jobright.ai/jobs/info/69003a40e0c73b3a111a3899?utm_campaign=1079&utm_source=git)** | Plano, TX | On Site | Oct 27 |
 | **[KLA](https://www.kla.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/690037810ab3b222462b3035?utm_campaign=1079&utm_source=git)** | Milpitas, CA | On Site | Oct 27 |
@@ -76,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[JM Family Enterprises, Inc.](http://www.jmfamily.com/)** | **[Quality Engineering Intern](https://jobright.ai/jobs/info/69000f510ab3b222462b165a?utm_campaign=1079&utm_source=git)** | Miami-FTL Area | Hybrid | Oct 27 |
 | **[H15DEN](https://h15den.com)** | **[Bilingual Communication Associate](https://jobright.ai/jobs/info/69000cdbe04ac838fb5beb0d?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Oct 27 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Software Engineer (Undersea Warfare) - Intern](https://jobright.ai/jobs/info/690024a4e0c73b3a111a2904?utm_campaign=1079&utm_source=git)** | Possible | On Site | Oct 27 |
+| **[Unwrap](https://www.unwrap.ai/)** | **[Full Stack Engineer Intern](https://jobright.ai/jobs/info/69004d170ab3b222462b3cc0?utm_campaign=1079&utm_source=git)** | Santa Barbara | On Site | Oct 27 |
 | **[GreenStone Farm Credit Services](http://greenstonefcs.com)** | **[Quality Engineering Internship](https://jobright.ai/jobs/info/68fffb720ab3b222462b0ce0?utm_campaign=1079&utm_source=git)** | East Lansing, MI | On Site | Oct 27 |
 | **[Cadence](https://www.cadence.com)** | **[Product Engineering Intern](https://jobright.ai/jobs/info/68fff8d7e04ac838fb5be11a?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Oct 27 |
 | **[KLA](https://www.kla.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68fff8cfe04ac838fb5be10c?utm_campaign=1079&utm_source=git)** | Milpitas, CA | On Site | Oct 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Infotainment Engineering Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/68feaf1b0ab3b222462a7533?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Oct 26 |
 | **[Froglet Games](http://www.froglet.games)** | **[Unpaid Game Development Intern](https://jobright.ai/jobs/info/68fe8e40e04ac838fb5b46c7?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 26 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[IT Specialist (ERP Applications Software) FT – 6511](https://jobright.ai/jobs/info/68fe88860ab3b222462a726e?utm_campaign=1079&utm_source=git)** | Chesapeake, VA | On Site | Oct 26 |
-| **[MaintainX](https://www.getmaintainx.com)** | **[Web Production Intern](https://jobright.ai/jobs/info/68f7f241ec6dbe7073fcef69?utm_campaign=1079&utm_source=git)** | San Francisco | On Site | Oct 26 |
-| **[DNV](https://www.dnv.com/)** | **[Software Test Intern](https://jobright.ai/jobs/info/68fe5ee50ab3b222462a6cba?utm_campaign=1079&utm_source=git)** | Corvallis, OR | Hybrid | Oct 26 |
-| **[Montgomery Investment Technology, Inc.](http://www.fintools.com/)** | **[Computer Programming Internship Winter 2026](https://jobright.ai/jobs/info/68fe3ea10ab3b222462a69d8?utm_campaign=1079&utm_source=git)** | Cinnaminson, NJ | On Site | Oct 26 |
-| **[MongoDB](https://www.mongodb.com/)** | **[2026 - Software Engineering Intern, AMER](https://jobright.ai/jobs/info/68cc0da77342c7623ae5e299?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Oct 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
