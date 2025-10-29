@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PlayStation](https://www.playstation.com/)** | **[Online Programming Intern - Undergraduate](https://jobright.ai/jobs/info/68ef2b3820456578d5eb61b7?utm_campaign=1079&utm_source=git)** | United States of America | On Site | Oct 28 |
 | **[Hawaiian Electric](https://www.hawaiianelectric.com/)** | **[Summer Intern - Enterprise Functional Software Services - Finance Solution](https://jobright.ai/jobs/info/6901a8c74539ea1f214221d3?utm_campaign=1079&utm_source=git)** | Hawaii, United States | On Site | Oct 28 |
 | **[Textron](http://textron.com)** | **[2026 Intern - IT Application Development - Hunt Valley, MD](https://jobright.ai/jobs/info/6901313bd5259a1b3cff2b34?utm_campaign=1079&utm_source=git)** | Hunt Valley, MD | Hybrid | Oct 28 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Software Analyst Developer, Emerging Talent Intern](https://jobright.ai/jobs/info/69019a1a4539ea1f21421b50?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Oct 28 |
@@ -82,9 +83,10 @@ For a complete list, click the following sortable link below:
 | **[Tank Connection](http://tankconnection.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/69017949f8ce7a040fdc003d?utm_campaign=1079&utm_source=git)** | Parsons, KS, US | On Site | Oct 28 |
 | **[Textron](http://textron.com)** | **[2026 Intern - IT  Application Development - Hunt Valley, MD](https://jobright.ai/jobs/info/690128664539ea1f2141d48d?utm_campaign=1079&utm_source=git)** | Hunt Valley, MD | Hybrid | Oct 28 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Software Engineer](https://jobright.ai/jobs/info/69016d3cf8ce7a040fdbf967?utm_campaign=1079&utm_source=git)** | Lexington, KY | Hybrid | Oct 28 |
-| **[Marvell Technology](https://www.marvell.com/)** | **[Architecture ASIC / System Intern - Master's Degree](https://jobright.ai/jobs/info/690168164539ea1f2141fc7f?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Oct 28 |
 | **[Veryable](http://veryableops.com)** | **[Mobile Engineer Intern  - Unpaid](https://jobright.ai/jobs/info/69016729d5259a1b3cff4a8d?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Oct 28 |
+| **[Marvell Technology](https://www.marvell.com/)** | **[Architecture ASIC / System Intern - Master's Degree](https://jobright.ai/jobs/info/69016674f8ce7a040fdbf5ce?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Oct 28 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Software Analyst Developer, Emerging Talent Intern](https://jobright.ai/jobs/info/69018946d5259a1b3cff5f4b?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Oct 28 |
+| **[GitHub](https://github.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/690158974539ea1f2141f6ac?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (TikTok-Search) - 2026 Summer(BS/MS)](https://jobright.ai/jobs/info/69015628f8ce7a040fdbefaf?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Oct 28 |
 | **[QuEra Computing Inc.](https://www.quera.com)** | **[Internship - Scientific Software and Compilation](https://jobright.ai/jobs/info/69014cc8f8ce7a040fdbeaf4?utm_campaign=1079&utm_source=git)** | Boston, MA  USA | On Site | Oct 28 |
 | **[The New York Times](https://www.nytco.com/)** | **[Interactive News Engineering Intern](https://jobright.ai/jobs/info/69014a4df8ce7a040fdbe8e6?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Oct 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[VSP Vision Care](https://www.vsp.com/?utm_source=linkedin&utm_medium=social&utm_campaign=gcc_general)** | **[Internship, Software Engineer](https://jobright.ai/jobs/info/6900bff3f8ce7a040fdb909d?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 28 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Embedded Haskell Developer Intern](https://jobright.ai/jobs/info/68e488e1f758fe1f97e69489?utm_campaign=1079&utm_source=git)** | Costa Mesa, CA | On Site | Oct 28 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - OPIS Software Development Intern](https://jobright.ai/jobs/info/68e47b69f758fe1f97e68b68?utm_campaign=1079&utm_source=git)** | Gaithersburg, MD | On Site | Oct 28 |
-| **[Walt Disney Animation Studios](https://www.disneyanimation.com/)** | **[Walt Disney Animation Studios, Technology Internships, Summer 2026](https://jobright.ai/jobs/info/6900bcc94539ea1f2141953f?utm_campaign=1079&utm_source=git)** | Burbank, CA | On Site | Oct 28 |
-| **[The Walt Disney Studios](https://waltdisneystudios.com)** | **[The Walt Disney Studios, Software Engineering Intern, Summer 2026](https://jobright.ai/jobs/info/6900bc8ed5259a1b3cfee418?utm_campaign=1079&utm_source=git)** | Glendale, CA | On Site | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
