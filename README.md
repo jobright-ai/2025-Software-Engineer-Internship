@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Siemens](https://www.siemens.com)** | **[Application Center Intern](https://jobright.ai/jobs/info/69058d67ff462851feffe8b2?utm_campaign=1079&utm_source=git)** | Alpharetta, GA | Remote | Oct 31 |
+| **[ByteDance](http://bytedance.com)** | **[Software Engineer Intern (Traffic Infrastructure Product Management)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69058504ff462851feffe29a?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Oct 31 |
 | **[MasterControl](http://www.mastercontrol.com)** | **[Context Engineering Intern](https://jobright.ai/jobs/info/690582c8ff462851feffe0e7?utm_campaign=1079&utm_source=git)** | Salt Lake City, UT | On Site | Oct 31 |
 | **[Aurora](https://aurora.tech)** | **[Software Engineering Internship, Summer 2026](https://jobright.ai/jobs/info/69057556122e8474c78d91d8?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Oct 31 |
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[Spring 2026 - IT SAP Basis & Applications Internship/Co-Op](https://jobright.ai/jobs/info/68e96ea1f195760c354a9126?utm_campaign=1079&utm_source=git)** | Tampa, FL | On Site | Oct 31 |
@@ -79,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Sungrow Power Supply Co., Ltd.](https://sungrowpower.com/)** | **[ESS Application Engineering Internship](https://jobright.ai/jobs/info/69052ee763502c0aded7932e?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 31 |
 | **[BlueHalo, an AV company](https://www.bluehalo.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69052d82122e8474c78d71bd?utm_campaign=1079&utm_source=git)** | Fort Lauderdale, FL | On Site | Oct 31 |
 | **[Dollar Tree Stores](http://dollartree.com)** | **[IT Quality Assurance Intern](https://jobright.ai/jobs/info/69052c5e63502c0aded78fe7?utm_campaign=1079&utm_source=git)** | Chesapeake, VA | On Site | Oct 31 |
-| **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - Software Engineer](https://jobright.ai/jobs/info/69028c7100a1816c41e9f7d1?utm_campaign=1079&utm_source=git)** | Kennesaw, GA | On Site | Oct 31 |
 | **[Domo](http://www.domo.com)** | **[Intern - Software Engineer](https://jobright.ai/jobs/info/68fcb93ae04ac838fb5ac2cc?utm_campaign=1079&utm_source=git)** | American Fork, UT | Hybrid | Oct 31 |
 | **[MathWorks](http://www.mathworks.com)** | **[Multiple Openings-Engineering Development Group Internship](https://jobright.ai/jobs/info/69052910122e8474c78d6c7f?utm_campaign=1079&utm_source=git)** | Natick, MA | Hybrid | Oct 31 |
 | **[MasterControl](http://www.mastercontrol.com)** | **[Context Engineering Intern](https://jobright.ai/jobs/info/69052889ff462851feffb227?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 31 |
@@ -97,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[SuperIntro](https://superintro.me)** | **[Conversational AI Full-Stack Engineer (Unpaid Internship)](https://jobright.ai/jobs/info/6905078e122e8474c78d54f4?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 31 |
 | **[Dollar Tree Distribution, Inc.](https://www.linkedin.com/company/53969352)** | **[IT Quality Assurance Intern](https://jobright.ai/jobs/info/69052e02ff462851feffb6aa?utm_campaign=1079&utm_source=git)** | VA-Chesapeake | On Site | Oct 31 |
 | **[GNCO, Inc.](https://gncoinc.com)** | **[IT Business Technology Intern (Summer 2026)](https://jobright.ai/jobs/info/68ed89ea6335d33236129e71?utm_campaign=1079&utm_source=git)** | Brooklyn Heights, OH | On Site | Oct 31 |
-| **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Information Technology Engineer](https://jobright.ai/jobs/info/6904fdc0ff462851feff95a1?utm_campaign=1079&utm_source=git)** | Kentucky, United States | Hybrid | Oct 31 |
 | **[U.S. Hunger](https://ushunger.org/)** | **[Spring 2026 Software Engineering & Innovation Intern](https://jobright.ai/jobs/info/69051ccf122e8474c78d6297?utm_campaign=1079&utm_source=git)** | Longwood,FL,US | Remote | Oct 31 |
 | ↳ | **[Spring 2026 Front-End Developer Intern](https://jobright.ai/jobs/info/69052ae363502c0aded78e7b?utm_campaign=1079&utm_source=git)** | Longwood,FL,US | On Site | Oct 31 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Software Engineer](https://jobright.ai/jobs/info/6904fc1f63502c0aded76e63?utm_campaign=1079&utm_source=git)** | Kentucky, United States | Hybrid | Oct 31 |
@@ -125,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[Rhombus](https://www.rhombussystems.com)** | **[Summer Engineering Intern](https://jobright.ai/jobs/info/68e80f32cc49a84b7e1015f4?utm_campaign=1079&utm_source=git)** | Sacramento, CA | On Site | Oct 31 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Combination Product Development Engineering Intern](https://jobright.ai/jobs/info/68ccd9d0d11b445e0bee2ec9?utm_campaign=1079&utm_source=git)** | North Chicago, IL | On Site | Oct 31 |
 | **[Lunar Energy](https://www.lunarenergy.com)** | **[Embedded Software Engineer Intern](https://jobright.ai/jobs/info/68b775dff4e41a61efd99267?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Oct 31 |
-| **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Summer 2026 - IEF - Software Engineering College Intern](https://jobright.ai/jobs/info/68de96e209bda65a4b62b9a0?utm_campaign=1079&utm_source=git)** | Savannah, GA | On Site | Oct 31 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Software Engineering Intern, Summer 2026](https://jobright.ai/jobs/info/6904b1d4122e8474c78d294d?utm_campaign=1079&utm_source=git)** | Santa Monica, CA | On Site | Oct 31 |
 | **[Barry-Wehmiller](https://www.barrywehmiller.com)** | **[DI Software Development Intern](https://jobright.ai/jobs/info/68ccc151a77e5d7d744f4c85?utm_campaign=1079&utm_source=git)** | St Louis, MO | On Site | Oct 31 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Software Engineering Intern, Summer 2026](https://jobright.ai/jobs/info/6904ad48122e8474c78d281c?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Oct 31 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[bedrock](https://www.bookbedrock.com/)** | **[Internship 2026 Motion Planning and Controls Software Engineer](https://jobright.ai/jobs/info/69045c4063502c0aded72784?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Oct 30 |
 | ↳ | **[Internship 2026 Application / Interface Software Engineer](https://jobright.ai/jobs/info/690459a6ff462851feff4cc2?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Oct 30 |
 | **[Infinity Marketing](http://infinitymkt.com)** | **[Web Intern (Spring 2026)](https://jobright.ai/jobs/info/690473ba63502c0aded73082?utm_campaign=1079&utm_source=git)** | Greenville,SC,US | Hybrid | Oct 30 |
+| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Software Engineer Intern - Buffalo NY - R10212874](https://jobright.ai/jobs/info/6904325463502c0aded7170b?utm_campaign=1079&utm_source=git)** | Buffalo, NY | On Site | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
