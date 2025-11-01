@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SWAN Payment Technologies](https://www.swanpaytech.com)** | **[Innovation Engineering Intern](https://jobright.ai/jobs/info/69064878122e8474c78dfa85?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 01 |
+| **[Brown & Brown](http://www.bbrown.com)** | **[Technology Solutions Internship](https://jobright.ai/jobs/info/69062fc6ff462851fe003e48?utm_campaign=1079&utm_source=git)** | Daytona Beach, FL | On Site | Nov 01 |
+| **[Microsoft](https://www.microsoft.com)** | **[Software Engineer: PhD Intern Opportunities, Redmond](https://jobright.ai/jobs/info/68cda4c81ad6b16f0289ca8d?utm_campaign=1079&utm_source=git)** | Redmond, WA | Hybrid | Nov 01 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[AI Infrastructure Engineering Intern- Master's Degree](https://jobright.ai/jobs/info/69062a6cff462851fe003cb3?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Nov 01 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Cloud Engineer](https://jobright.ai/jobs/info/68e9b2ddfeeb0006c1a56b52?utm_campaign=1079&utm_source=git)** | Irving, TX | Hybrid | Nov 01 |
-| **[GenPark](https://genpark.ai)** | **[Front End Developer](https://jobright.ai/jobs/info/690626d9122e8474c78df2ac?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | On Site | Nov 01 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Design for Test Engineering Intern - Bachelors Degree](https://jobright.ai/jobs/info/6906265763502c0aded81655?utm_campaign=1079&utm_source=git)** | Westborough, MA | On Site | Nov 01 |
 | **[Veranex](https://www.veranexsolutions.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68e98d650930fe0bc4627168?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | On Site | Nov 01 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Firmware Engineer Intern - Master's Degree](https://jobright.ai/jobs/info/68e7935570315f028bcac415?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Nov 01 |
@@ -129,7 +131,6 @@ Job ID : 264957](https://jobright.ai/jobs/info/6905deb6ff462851fe00117b?utm_camp
 | **[BlueHalo, an AV company](https://www.bluehalo.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69052d82122e8474c78d71bd?utm_campaign=1079&utm_source=git)** | Fort Lauderdale, FL | On Site | Oct 31 |
 | **[Dollar Tree Stores](http://dollartree.com)** | **[IT Quality Assurance Intern](https://jobright.ai/jobs/info/69052c5e63502c0aded78fe7?utm_campaign=1079&utm_source=git)** | Chesapeake, VA | On Site | Oct 31 |
 | **[Domo](http://www.domo.com)** | **[Intern - Software Engineer](https://jobright.ai/jobs/info/68fcb93ae04ac838fb5ac2cc?utm_campaign=1079&utm_source=git)** | American Fork, UT | Hybrid | Oct 31 |
-| **[MathWorks](http://www.mathworks.com)** | **[Multiple Openings-Engineering Development Group Internship](https://jobright.ai/jobs/info/69052910122e8474c78d6c7f?utm_campaign=1079&utm_source=git)** | Natick, MA | Hybrid | Oct 31 |
 | **[MasterControl](http://www.mastercontrol.com)** | **[Context Engineering Intern](https://jobright.ai/jobs/info/69052889ff462851feffb227?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 31 |
 | **[Seagate Technology](http://www.seagate.com)** | **[Computer Science Engineering Team Internship - Summer 2026](https://jobright.ai/jobs/info/690527aeff462851feffb12d?utm_campaign=1079&utm_source=git)** | Shakopee, MN | On Site | Oct 31 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, Software Engineering](https://jobright.ai/jobs/info/690524a9ff462851feffaec0?utm_campaign=1079&utm_source=git)** | Torrance, CA | Hybrid | Oct 31 |
@@ -157,5 +158,4 @@ Job ID : 264957](https://jobright.ai/jobs/info/6905deb6ff462851fe00117b?utm_camp
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[2026 Software Engineering Summer Internship](https://jobright.ai/jobs/info/68cea9d0dbd9fb154ede1ef2?utm_campaign=1079&utm_source=git)** | Plantation, FL | Hybrid | Oct 31 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Test Engineer Intern - Bachelor's Degree](https://jobright.ai/jobs/info/6902e80898707b2b0fe73d2d?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Oct 31 |
 | **[Kiewit](http://www.kiewit.com)** | **[Integrative Engineer Intern - Kiewit Infrastructure Engineers (Summer 2026)](https://jobright.ai/jobs/info/68e852aec72beb74cb31d842?utm_campaign=1079&utm_source=git)** | Lone Tree, CO | On Site | Oct 31 |
-| **[Staples](http://www.staples.com)** | **[Full Stack Software Development Intern - June 2026](https://jobright.ai/jobs/info/6905045c122e8474c78d52b1?utm_campaign=1079&utm_source=git)** | Framingham, MA | On Site | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
