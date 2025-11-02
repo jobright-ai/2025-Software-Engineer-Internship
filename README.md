@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Esync Technologies](http://esynctechnologies.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/690760b0ff462851fe008db7?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Remote | Nov 02 |
+| **[Clarity](https://clarityapp.io)** | **[Internship - Software Engineering Intern](https://jobright.ai/jobs/info/687674c0ae2f413e4a5afd36?utm_campaign=1079&utm_source=git)** | Herndon, VA | On Site | Nov 02 |
+| **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Health Software Engineer Intern 2026](https://jobright.ai/jobs/info/68cd9711b2a74e1837ed9482?utm_campaign=1079&utm_source=git)** | Jupiter, FL | On Site | Nov 02 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Information Technology (Summer 2026)](https://jobright.ai/jobs/info/68b20bf01ade4306aa634160?utm_campaign=1079&utm_source=git)** | Findlay, OH | On Site | Nov 02 |
+| ↳ | **[Intern/Co-op - Information Technology (Summer 2026)](https://jobright.ai/jobs/info/68b20573f4e41a61efd81b58?utm_campaign=1079&utm_source=git)** | San Antonio, TX | On Site | Nov 02 |
 | **[Ramp](https://ramp.com)** | **[Software Engineer Internship / Android](https://jobright.ai/jobs/info/689530c873b3a600fe885a72?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Nov 02 |
 | **[MacLean-Fogg](https://macleanfogg.com)** | **[Information Technology (IT) Internship (Summer 2026)](https://jobright.ai/jobs/info/69075f0d63502c0aded86709?utm_campaign=1079&utm_source=git)** | Plymouth, MI | On Site | Nov 02 |
 | **[Notion](https://www.notion.so)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/68ceb3e6846f0b04af67c665?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Nov 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cirrus Logic](https://cirrus.com/)** | **[Summer Intern, Software Tools Engineer](https://jobright.ai/jobs/info/69055f7d122e8474c78d887e?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Oct 31 |
 | **[Aurora](https://aurora.tech)** | **[Software Engineering Internship, Summer 2026](https://jobright.ai/jobs/info/69055eddff462851feffd003?utm_campaign=1079&utm_source=git)** | Mountain View, California | On Site | Oct 31 |
 | **[Dorman Products](https://www.dormanproducts.com/)** | **[IT Intern, Applications](https://jobright.ai/jobs/info/69055b74122e8474c78d86aa?utm_campaign=1079&utm_source=git)** | Colmar, PA | Hybrid | Oct 31 |
-| ↳ | **[IT Intern - Automation and Application Developer](https://jobright.ai/jobs/info/69055a4b122e8474c78d864f?utm_campaign=1079&utm_source=git)** | Colmar, PA | Hybrid | Oct 31 |
-| **[JM Family Enterprises, Inc.](http://www.jmfamily.com/)** | **[Software Developer Analyst Intern](https://jobright.ai/jobs/info/6905593b63502c0aded7a736?utm_campaign=1079&utm_source=git)** | Miami-FTL Area | Hybrid | Oct 31 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Software Engineer, Maps & Self-Driving Navigation (Winter/Spring 2026)](https://jobright.ai/jobs/info/69054858122e8474c78d80bb?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
