@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Todd](https://toddagriscience.com)** | **[Fullstack Software Engineer Intern](https://jobright.ai/jobs/info/6906922f63502c0aded8276b?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Nov 01 |
+| **[Copeland](https://www.copeland.com)** | **[2026 Associate Agile Engineer Internship](https://jobright.ai/jobs/info/6906af2a63502c0aded829b1?utm_campaign=1079&utm_source=git)** | Remote US Ohio | Remote | Nov 01 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[AI Infrastructure Engineering Intern- Master's Degree](https://jobright.ai/jobs/info/6906736563502c0aded82514?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Nov 01 |
 | **[IBM Canada Software Lab - Toronto](https://research.ibm.com)** | **[Intern 2026: Fault-tolerant quantum algorithms](https://jobright.ai/jobs/info/6906679eff462851fe004835?utm_campaign=1079&utm_source=git)** | Yorktown Heights, NY | Hybrid | Nov 01 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Technology Solutions Internship](https://jobright.ai/jobs/info/69062fc6ff462851fe003e48?utm_campaign=1079&utm_source=git)** | Daytona Beach, FL | On Site | Nov 01 |
@@ -147,8 +147,8 @@ Job ID : 264957](https://jobright.ai/jobs/info/6905deb6ff462851fe00117b?utm_camp
 | **[SuperIntro](https://superintro.me)** | **[Conversational AI Full-Stack Engineer (Unpaid Internship)](https://jobright.ai/jobs/info/6905078e122e8474c78d54f4?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 31 |
 | **[Dollar Tree Distribution, Inc.](https://www.linkedin.com/company/53969352)** | **[IT Quality Assurance Intern](https://jobright.ai/jobs/info/69052e02ff462851feffb6aa?utm_campaign=1079&utm_source=git)** | VA-Chesapeake | On Site | Oct 31 |
 | **[GNCO, Inc.](https://gncoinc.com)** | **[IT Business Technology Intern (Summer 2026)](https://jobright.ai/jobs/info/68ed89ea6335d33236129e71?utm_campaign=1079&utm_source=git)** | Brooklyn Heights, OH | On Site | Oct 31 |
-| **[U.S. Hunger](https://ushunger.org/)** | **[Spring 2026 Front-End Developer Intern](https://jobright.ai/jobs/info/69052ae363502c0aded78e7b?utm_campaign=1079&utm_source=git)** | Longwood,FL,US | On Site | Oct 31 |
-| ↳ | **[Spring 2026 Software Engineering & Innovation Intern](https://jobright.ai/jobs/info/69051ccf122e8474c78d6297?utm_campaign=1079&utm_source=git)** | Longwood,FL,US | Remote | Oct 31 |
+| **[U.S. Hunger](https://ushunger.org/)** | **[Spring 2026 Software Engineering & Innovation Intern](https://jobright.ai/jobs/info/69051ccf122e8474c78d6297?utm_campaign=1079&utm_source=git)** | Longwood,FL,US | Remote | Oct 31 |
+| ↳ | **[Spring 2026 Front-End Developer Intern](https://jobright.ai/jobs/info/69052ae363502c0aded78e7b?utm_campaign=1079&utm_source=git)** | Longwood,FL,US | On Site | Oct 31 |
 | **[Point72](https://www.point72.com)** | **[Micro-Intern: Research Technology Developer (IAP)](https://jobright.ai/jobs/info/6904ee29ff462851feff8b98?utm_campaign=1079&utm_source=git)** | New York | On Site | Oct 31 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Software Development / Engineering Intern](https://jobright.ai/jobs/info/6904e945122e8474c78d4253?utm_campaign=1079&utm_source=git)** | Hillsboro, OR | On Site | Oct 31 |
 | **[Unisys](http://www.unisys.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6904e7a5ff462851feff86b3?utm_campaign=1079&utm_source=git)** | Eagan, MN, United States of America | On Site | Oct 31 |
