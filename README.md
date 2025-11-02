@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Integrate](https://integratebpd.com)** | **[Frontend Software Engineering Intern](https://jobright.ai/jobs/info/6906e25063502c0aded839ea?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 01 |
+| **[CR Equity Ai, Inc.](https://crequitypartnersinvestgrp.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/690708d1122e8474c78e210b?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 02 |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Software Engineer Intern - Fall 2025](https://jobright.ai/jobs/info/6906fc48122e8474c78e1cba?utm_campaign=1079&utm_source=git)** | Tampa, FL | On Site | Nov 01 |
 | **[Merge](https://merge.dev)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68f7a6005dc1be6012817f9c?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Nov 01 |
 | **[Copeland](https://www.copeland.com)** | **[2026 Associate Agile Engineer Internship](https://jobright.ai/jobs/info/6906d3bfff462851fe005920?utm_campaign=1079&utm_source=git)** | Ohio, United States | Remote | Nov 01 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6906ceb563502c0aded83292?utm_campaign=1079&utm_source=git)** | Chandler, AZ | On Site | Nov 01 |
 | **[Impressions In Ink](https://www.impressions.co)** | **[Dev Internship, @Portland's greatest company](https://jobright.ai/jobs/info/6906cd72122e8474c78e0f0b?utm_campaign=1079&utm_source=git)** | Portland, OR | On Site | Nov 01 |
-| **[Vector Performance Labs](Vplabs.ai)** | **[Software Engineer Internship](https://jobright.ai/jobs/info/6906edb9122e8474c78e19db?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | On Site | Nov 01 |
 | **[Klaviyo](http://www.klaviyo.com)** | **[Full-stack Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/68c922e3a0c52d598ea36139?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Nov 01 |
 | **[Copeland](https://www.copeland.com)** | **[2026 Associate Agile Engineer Internship](https://jobright.ai/jobs/info/6906af2a63502c0aded829b1?utm_campaign=1079&utm_source=git)** | Remote US Ohio | Remote | Nov 01 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[AI Infrastructure Engineering Intern- Master's Degree](https://jobright.ai/jobs/info/6906736563502c0aded82514?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Nov 01 |
