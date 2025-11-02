@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Copeland](https://www.copeland.com)** | **[2026 Associate Agile Engineer Internship](https://jobright.ai/jobs/info/6906d3bfff462851fe005920?utm_campaign=1079&utm_source=git)** | Ohio, United States | Remote | Nov 01 |
+| **[Garmin](https://www.garmin.com/en-US/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6906ceb563502c0aded83292?utm_campaign=1079&utm_source=git)** | Chandler, AZ | On Site | Nov 01 |
+| **[Impressions In Ink](https://www.impressions.co)** | **[Dev Internship, @Portland's greatest company](https://jobright.ai/jobs/info/6906cd72122e8474c78e0f0b?utm_campaign=1079&utm_source=git)** | Portland, OR | On Site | Nov 01 |
+| **[Klaviyo](http://www.klaviyo.com)** | **[Full-stack Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/68c922e3a0c52d598ea36139?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Nov 01 |
 | **[Copeland](https://www.copeland.com)** | **[2026 Associate Agile Engineer Internship](https://jobright.ai/jobs/info/6906af2a63502c0aded829b1?utm_campaign=1079&utm_source=git)** | Remote US Ohio | Remote | Nov 01 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[AI Infrastructure Engineering Intern- Master's Degree](https://jobright.ai/jobs/info/6906736563502c0aded82514?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Nov 01 |
 | **[IBM Canada Software Lab - Toronto](https://research.ibm.com)** | **[Intern 2026: Fault-tolerant quantum algorithms](https://jobright.ai/jobs/info/6906679eff462851fe004835?utm_campaign=1079&utm_source=git)** | Yorktown Heights, NY | Hybrid | Nov 01 |
@@ -104,8 +108,6 @@ For a complete list, click the following sortable link below:
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, 2026 Summer Games Software Developer Intern](https://jobright.ai/jobs/info/68ce768cdbd9fb154eddfdf2?utm_campaign=1079&utm_source=git)** | Annapolis Junction, MD | Hybrid | Nov 01 |
 | **[ABB](https://global.abb/group/en)** | **[firmware intern](https://jobright.ai/jobs/info/6905d277ff462851fe000a44?utm_campaign=1079&utm_source=git)** | Location, WV | On Site | Nov 01 |
 | **[Oracle](https://www.oracle.com/)** | **[Undergrad Software Engineer Intern - Oracle Cloud Infrastructure (OCI) - Austin, TX](https://jobright.ai/jobs/info/68e9901df195760c354aaafc?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Nov 01 |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[INTERN - INFORMATION SYSTEMS & COMMUNICATION TECHNOLOGY
-Job ID : 264957](https://jobright.ai/jobs/info/6905deb6ff462851fe00117b?utm_campaign=1079&utm_source=git)** | New York, United States | On Site | Nov 01 |
 | **[Wiss](http://www.wiss.com)** | **[Intern, Digital Technology (Fall 2025)](https://jobright.ai/jobs/info/6905b1ac63502c0aded7cfce?utm_campaign=1079&utm_source=git)** | Florham Park, NJ | On Site | Nov 01 |
 | **[Siemens](https://www.siemens.com)** | **[Application Center Intern](https://jobright.ai/jobs/info/69058d67ff462851feffe8b2?utm_campaign=1079&utm_source=git)** | Alpharetta, GA | Remote | Oct 31 |
 | **[ByteDance](http://bytedance.com)** | **[Software Engineer Intern (Traffic Infrastructure Product Management)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69058504ff462851feffe29a?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Oct 31 |
@@ -155,7 +157,4 @@ Job ID : 264957](https://jobright.ai/jobs/info/6905deb6ff462851fe00117b?utm_camp
 | **[Trihydro Corporation](https://www.trihydro.com)** | **[IT Digital Optimization Intern](https://jobright.ai/jobs/info/68e8318ac4895107182c3bf1?utm_campaign=1079&utm_source=git)** | Laramie, WY | On Site | Oct 31 |
 | ↳ | **[Digital Innovation Intern](https://jobright.ai/jobs/info/68e8208fc4895107182c286b?utm_campaign=1079&utm_source=git)** | Laramie, WY | On Site | Oct 31 |
 | **[Equifax](http://www.equifax.com)** | **[SIS/EDS Technology Intern](https://jobright.ai/jobs/info/68ccb7f67342c7623ae68a3a?utm_campaign=1079&utm_source=git)** | Boise, ID | On Site | Oct 31 |
-| **[Itron, Inc.](http://www.itron.com)** | **[Intern - Embedded Firmware (January 2026)](https://jobright.ai/jobs/info/68e8810bc72beb74cb31f5db?utm_campaign=1079&utm_source=git)** | West Union, SC | On Site | Oct 31 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[2026 Software Engineering Summer Internship](https://jobright.ai/jobs/info/68cea9d0dbd9fb154ede1ef2?utm_campaign=1079&utm_source=git)** | Plantation, FL | Hybrid | Oct 31 |
-| **[Marvell Technology](https://www.marvell.com/)** | **[Test Engineer Intern - Bachelor's Degree](https://jobright.ai/jobs/info/6902e80898707b2b0fe73d2d?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
