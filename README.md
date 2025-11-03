@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[GenPark](https://genpark.ai)** | **[Android Developer Intern](https://jobright.ai/jobs/info/690806e1ff462851fe00c13d?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Nov 02 |
-| **[POZzlePiece LLC](https://site-x8k6gsch1.godaddysites.com/)** | **[App Developer – AR/VR (Internship with Partnership Potential)](https://jobright.ai/jobs/info/6907f6be63502c0aded89af1?utm_campaign=1079&utm_source=git)** | Stanford University, CA | Remote | Nov 02 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Associate Infrastructure Engineer Intern](https://jobright.ai/jobs/info/6907a359ff462851fe00a623?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Nov 02 |
 | **[Medlaunch Concepts](medlaunchconcepts.com)** | **[Spring 2026 Internship- Frontend Developer](https://jobright.ai/jobs/info/690792d1ff462851fe00a3f3?utm_campaign=1079&utm_source=git)** | Clearwater, FL | Remote | Nov 02 |
 | **[Cboe Global Markets](http://www.cboe.com)** | **[Software Engineer Intern, FX Co-Op Intern](https://jobright.ai/jobs/info/68cd9848b2a74e1837ed979c?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Nov 02 |
@@ -87,8 +86,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[University, 2026 Summer Games Software Developer Intern](https://jobright.ai/jobs/info/68b2795dbc187f64e1bdbfcf?utm_campaign=1079&utm_source=git)** | Huntsville, AL | Hybrid | Nov 02 |
 | ↳ | **[University, 2026 Summer Games Software Developer Intern](https://jobright.ai/jobs/info/68b1e43d1ade4306aa632aaf?utm_campaign=1079&utm_source=git)** | Rome, NY | Hybrid | Nov 02 |
 | ↳ | **[University, 2026 Summer Games Software Developer Intern](https://jobright.ai/jobs/info/68cd52021ad6b16f02897bd4?utm_campaign=1079&utm_source=git)** | McLean, VA | Hybrid | Nov 02 |
-| ↳ | **[University, 2026 Summer Games Software Developer Intern](https://jobright.ai/jobs/info/68cd3bac1ad6b16f02896d3d?utm_campaign=1079&utm_source=git)** | Charleston, SC | Hybrid | Nov 02 |
 | ↳ | **[University, 2026 Summer Games Software Developer Intern](https://jobright.ai/jobs/info/68c6549fdb52c07d288475a4?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | Nov 02 |
+| ↳ | **[University, 2026 Summer Games Software Developer Intern](https://jobright.ai/jobs/info/68cd3bac1ad6b16f02896d3d?utm_campaign=1079&utm_source=git)** | Charleston, SC | Hybrid | Nov 02 |
 | ↳ | **[University, 2026 Summer Games Software Developer Intern](https://jobright.ai/jobs/info/68c7fee2f9c6ff7aedf09f23?utm_campaign=1079&utm_source=git)** | Panama City, FL | Hybrid | Nov 02 |
 | **[Oracle](https://www.oracle.com/)** | **[Undergrad Software Engineer Intern - Global Industries](https://jobright.ai/jobs/info/68ce5628dbd9fb154eddead4?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 02 |
 | **[Align Technology](http://www.aligntech.com)** | **[Software Engineer Intern - Fab](https://jobright.ai/jobs/info/68cd82531ad6b16f0289a9ee?utm_campaign=1079&utm_source=git)** | Morrisville, NC | On Site | Nov 02 |
@@ -100,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[Merge](https://merge.dev)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68f7a6005dc1be6012817f9c?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Nov 01 |
 | **[Copeland](https://www.copeland.com)** | **[2026 Associate Agile Engineer Internship](https://jobright.ai/jobs/info/6906d3bfff462851fe005920?utm_campaign=1079&utm_source=git)** | Ohio, United States | Remote | Nov 01 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6906ceb563502c0aded83292?utm_campaign=1079&utm_source=git)** | Chandler, AZ | On Site | Nov 01 |
-| **[Impressions In Ink](https://www.impressions.co)** | **[Dev Internship, @Portland's greatest company](https://jobright.ai/jobs/info/6906cd72122e8474c78e0f0b?utm_campaign=1079&utm_source=git)** | Portland, OR | On Site | Nov 01 |
 | **[Klaviyo](http://www.klaviyo.com)** | **[Full-stack Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/68c922e3a0c52d598ea36139?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Nov 01 |
 | **[Copeland](https://www.copeland.com)** | **[2026 Associate Agile Engineer Internship](https://jobright.ai/jobs/info/6906af2a63502c0aded829b1?utm_campaign=1079&utm_source=git)** | Remote US Ohio | Remote | Nov 01 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Design for Test Engineering Intern - Bachelor's Degree](https://jobright.ai/jobs/info/6906265763502c0aded81655?utm_campaign=1079&utm_source=git)** | Westborough, MA | On Site | Nov 01 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[MasterControl](http://www.mastercontrol.com)** | **[Context Engineering Intern](https://jobright.ai/jobs/info/690582c8ff462851feffe0e7?utm_campaign=1079&utm_source=git)** | Salt Lake City, UT | On Site | Oct 31 |
 | **[Aurora](https://aurora.tech)** | **[Software Engineering Internship, Summer 2026](https://jobright.ai/jobs/info/69057556122e8474c78d91d8?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Oct 31 |
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[Spring 2026 - IT SAP Basis & Applications Internship/Co-Op](https://jobright.ai/jobs/info/68e96ea1f195760c354a9126?utm_campaign=1079&utm_source=git)** | Tampa, FL | On Site | Oct 31 |
+| **[State Street](http://www.statestreet.com)** | **[Electronic Trading Platform Software Engineer, Internship (Fulltime Jan - June 2026)](https://jobright.ai/jobs/info/68fc440b4129dd33cd13a39e?utm_campaign=1079&utm_source=git)** | Quincy, MA | On Site | Oct 31 |
+| **[U.S. Hunger](https://ushunger.org/)** | **[Spring 2026 Front-End Developer Intern](https://jobright.ai/jobs/info/69056fd5ff462851feffd623?utm_campaign=1079&utm_source=git)** | Longwood, FL | On Site | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
