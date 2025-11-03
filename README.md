@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ecolab](http://www.ecolab.com)** | **[Digital Technology Intern](https://jobright.ai/jobs/info/69086d0a4a1b456627af4501?utm_campaign=1079&utm_source=git)** | Eagan, MN | Hybrid | Nov 03 |
+| ↳ | **[Digital Technology Intern](https://jobright.ai/jobs/info/69086a56e253473bb20f89f8?utm_campaign=1079&utm_source=git)** | Naperville, IL | Hybrid | Nov 03 |
+| **[Ecolab](http://www.ecolab.com)** | **[Digital Technology Intern](https://jobright.ai/jobs/info/690876abbcccf20de59cfa09?utm_campaign=1079&utm_source=git)** | St Paul, MN | Hybrid | Nov 02 |
 | **[PRIORIITY](https://www.prioriity.com)** | **[Prioriity Internship Program](https://jobright.ai/jobs/info/690840bfff462851fe00d78a?utm_campaign=1079&utm_source=git)** | New Jersey, United States | Remote | Nov 02 |
 | **[bedrock](https://www.bookbedrock.com/)** | **[Internship 2026 Application / Interface Software Engineer](https://jobright.ai/jobs/info/690459a6ff462851feff4cc2?utm_campaign=1079&utm_source=git)** | New York | On Site | Nov 02 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Associate Infrastructure Engineer Intern](https://jobright.ai/jobs/info/6907a359ff462851fe00a623?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Nov 02 |
@@ -83,7 +86,8 @@ For a complete list, click the following sortable link below:
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, 2026 Summer Games Software Developer Intern](https://jobright.ai/jobs/info/68b1e3491ade4306aa6329f1?utm_campaign=1079&utm_source=git)** | El Segundo, CA | Hybrid | Nov 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Business Integrity) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68ce86a6dbd9fb154ede0734?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Nov 02 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, 2026 Summer Games Software Developer Intern](https://jobright.ai/jobs/info/68c62dddc96a22563ecead45?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Hybrid | Nov 02 |
-| ↳ | **[University, 2026 Summer Games Software Developer Intern](https://jobright.ai/jobs/info/68b1e02d1ade4306aa632733?utm_campaign=1079&utm_source=git)** | Honolulu, HI | Hybrid | Nov 02 |
+| **[IBM](http://www.ibm.com)** | **[Intern 2026: Quantum Cloud Engineering](https://jobright.ai/jobs/info/690872574a1b456627af4dba?utm_campaign=1079&utm_source=git)** | Yorktown Heights, NY | On Site | Nov 02 |
+| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, 2026 Summer Games Software Developer Intern](https://jobright.ai/jobs/info/68b1e02d1ade4306aa632733?utm_campaign=1079&utm_source=git)** | Honolulu, HI | Hybrid | Nov 02 |
 | ↳ | **[University, 2026 Summer Games Software Developer Intern](https://jobright.ai/jobs/info/68b2795dbc187f64e1bdbfcf?utm_campaign=1079&utm_source=git)** | Huntsville, AL | Hybrid | Nov 02 |
 | ↳ | **[University, 2026 Summer Games Software Developer Intern](https://jobright.ai/jobs/info/68b1e43d1ade4306aa632aaf?utm_campaign=1079&utm_source=git)** | Rome, NY | Hybrid | Nov 02 |
 | ↳ | **[University, 2026 Summer Games Software Developer Intern](https://jobright.ai/jobs/info/68cd52021ad6b16f02897bd4?utm_campaign=1079&utm_source=git)** | McLean, VA | Hybrid | Nov 02 |
@@ -152,9 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, 2026 Summer Games Software Developer Intern](https://jobright.ai/jobs/info/68ce768cdbd9fb154eddfdf2?utm_campaign=1079&utm_source=git)** | Annapolis Junction, MD | Hybrid | Nov 01 |
 | **[ABB](https://global.abb/group/en)** | **[firmware intern](https://jobright.ai/jobs/info/6905d277ff462851fe000a44?utm_campaign=1079&utm_source=git)** | Location, WV | On Site | Nov 01 |
 | **[Oracle](https://www.oracle.com/)** | **[Undergrad Software Engineer Intern - Oracle Cloud Infrastructure (OCI) - Austin, TX](https://jobright.ai/jobs/info/68e9901df195760c354aaafc?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Nov 01 |
-| **[Wiss](http://www.wiss.com)** | **[Intern, Digital Technology (Fall 2025)](https://jobright.ai/jobs/info/6905b1ac63502c0aded7cfce?utm_campaign=1079&utm_source=git)** | Florham Park, NJ | On Site | Nov 01 |
-| **[Siemens](https://www.siemens.com)** | **[Application Center Intern](https://jobright.ai/jobs/info/69058d67ff462851feffe8b2?utm_campaign=1079&utm_source=git)** | Alpharetta, GA | Remote | Oct 31 |
-| **[ByteDance](http://bytedance.com)** | **[Software Engineer Intern (Traffic Infrastructure Product Management)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69058504ff462851feffe29a?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Oct 31 |
-| **[MasterControl](http://www.mastercontrol.com)** | **[Context Engineering Intern](https://jobright.ai/jobs/info/690582c8ff462851feffe0e7?utm_campaign=1079&utm_source=git)** | Salt Lake City, UT | On Site | Oct 31 |
-| **[Aurora](https://aurora.tech)** | **[Software Engineering Internship, Summer 2026](https://jobright.ai/jobs/info/69057556122e8474c78d91d8?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Oct 31 |
+| **[IBM](http://www.ibm.com)** | **[Solution Architect Intern - Entry Level Sales Program 2026](https://jobright.ai/jobs/info/69086cbc4a1b456627af44df?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
