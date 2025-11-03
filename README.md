@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GenPark](https://genpark.ai)** | **[Android Developer Intern](https://jobright.ai/jobs/info/690806e1ff462851fe00c13d?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Nov 02 |
+| **[PRIORIITY](https://www.prioriity.com)** | **[Prioriity Internship Program](https://jobright.ai/jobs/info/690840bfff462851fe00d78a?utm_campaign=1079&utm_source=git)** | New Jersey, United States | Remote | Nov 02 |
+| **[bedrock](https://www.bookbedrock.com/)** | **[Internship 2026 Application / Interface Software Engineer](https://jobright.ai/jobs/info/690459a6ff462851feff4cc2?utm_campaign=1079&utm_source=git)** | New York | On Site | Nov 02 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Associate Infrastructure Engineer Intern](https://jobright.ai/jobs/info/6907a359ff462851fe00a623?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Nov 02 |
 | **[Medlaunch Concepts](medlaunchconcepts.com)** | **[Spring 2026 Internship- Frontend Developer](https://jobright.ai/jobs/info/690792d1ff462851fe00a3f3?utm_campaign=1079&utm_source=git)** | Clearwater, FL | Remote | Nov 02 |
 | **[Cboe Global Markets](http://www.cboe.com)** | **[Software Engineer Intern, FX Co-Op Intern](https://jobright.ai/jobs/info/68cd9848b2a74e1837ed979c?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Nov 02 |
@@ -99,12 +100,14 @@ For a complete list, click the following sortable link below:
 | **[Merge](https://merge.dev)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68f7a6005dc1be6012817f9c?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Nov 01 |
 | **[Copeland](https://www.copeland.com)** | **[2026 Associate Agile Engineer Internship](https://jobright.ai/jobs/info/6906d3bfff462851fe005920?utm_campaign=1079&utm_source=git)** | Ohio, United States | Remote | Nov 01 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6906ceb563502c0aded83292?utm_campaign=1079&utm_source=git)** | Chandler, AZ | On Site | Nov 01 |
+| **[State Street](http://www.statestreet.com)** | **[Emerging Technology Governance, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/6902d719ff462851fefe6b4a?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Nov 01 |
 | **[Klaviyo](http://www.klaviyo.com)** | **[Full-stack Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/68c922e3a0c52d598ea36139?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Nov 01 |
 | **[Copeland](https://www.copeland.com)** | **[2026 Associate Agile Engineer Internship](https://jobright.ai/jobs/info/6906af2a63502c0aded829b1?utm_campaign=1079&utm_source=git)** | Remote US Ohio | Remote | Nov 01 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Design for Test Engineering Intern - Bachelor's Degree](https://jobright.ai/jobs/info/6906265763502c0aded81655?utm_campaign=1079&utm_source=git)** | Westborough, MA | On Site | Nov 01 |
 | ↳ | **[AI Infrastructure Engineering Intern- Master's Degree](https://jobright.ai/jobs/info/6906736563502c0aded82514?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Nov 01 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Technology Solutions Internship](https://jobright.ai/jobs/info/69062fc6ff462851fe003e48?utm_campaign=1079&utm_source=git)** | Daytona Beach, FL | On Site | Nov 01 |
 | **[Microsoft](https://www.microsoft.com)** | **[Software Engineer: PhD Intern Opportunities, Redmond](https://jobright.ai/jobs/info/68cda4c81ad6b16f0289ca8d?utm_campaign=1079&utm_source=git)** | Redmond, WA | Hybrid | Nov 01 |
+| **[State Street](http://www.statestreet.com)** | **[Software Engineer, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/690080990ab3b222462b4f58?utm_campaign=1079&utm_source=git)** | Quincy, MA | On Site | Nov 01 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[AI Infrastructure Engineering Intern- Master's Degree](https://jobright.ai/jobs/info/69062c1963502c0aded817ed?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Nov 01 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Cloud Engineer](https://jobright.ai/jobs/info/68e9b2ddfeeb0006c1a56b52?utm_campaign=1079&utm_source=git)** | Irving, TX | Hybrid | Nov 01 |
 | **[Veranex](https://www.veranexsolutions.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68e98d650930fe0bc4627168?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | On Site | Nov 01 |
@@ -126,7 +129,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineering Intern, Summer 2026](https://jobright.ai/jobs/info/6905fcaa63502c0aded7fc40?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Nov 01 |
 | ↳ | **[Software Engineering Intern, Summer 2026](https://jobright.ai/jobs/info/6905fb7b63502c0aded7fbb1?utm_campaign=1079&utm_source=git)** | Glendale, CA | On Site | Nov 01 |
 | **[Ramp](https://ramp.com)** | **[Software Engineer Internship / iOS](https://jobright.ai/jobs/info/68cd487d1ad6b16f02897620?utm_campaign=1079&utm_source=git)** | Queens County, NY | Hybrid | Nov 01 |
-| **[State Street](http://www.statestreet.com)** | **[Software Engineer, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/68ff166be04ac838fb5b638e?utm_campaign=1079&utm_source=git)** | Quincy, MA | On Site | Nov 01 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68cdff731ad6b16f028a0a55?utm_campaign=1079&utm_source=git)** | Tulsa, OK | On Site | Nov 01 |
 | **[Oracle](https://www.oracle.com/)** | **[Undergrad Software Engineer Intern - Oracle Health and Analytics](https://jobright.ai/jobs/info/68afd563b47fb001d688dcc9?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Nov 01 |
 | **[LaunchCapital](http://www.launchcapital.com)** | **[Senior iOS Engineer II, International Growth](https://jobright.ai/jobs/info/69075943ff462851fe008aa2?utm_campaign=1079&utm_source=git)** | Canada, NC | On Site | Nov 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MasterControl](http://www.mastercontrol.com)** | **[Context Engineering Intern](https://jobright.ai/jobs/info/690582c8ff462851feffe0e7?utm_campaign=1079&utm_source=git)** | Salt Lake City, UT | On Site | Oct 31 |
 | **[Aurora](https://aurora.tech)** | **[Software Engineering Internship, Summer 2026](https://jobright.ai/jobs/info/69057556122e8474c78d91d8?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Oct 31 |
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[Spring 2026 - IT SAP Basis & Applications Internship/Co-Op](https://jobright.ai/jobs/info/68e96ea1f195760c354a9126?utm_campaign=1079&utm_source=git)** | Tampa, FL | On Site | Oct 31 |
-| **[State Street](http://www.statestreet.com)** | **[Electronic Trading Platform Software Engineer, Internship (Fulltime Jan - June 2026)](https://jobright.ai/jobs/info/68fc440b4129dd33cd13a39e?utm_campaign=1079&utm_source=git)** | Quincy, MA | On Site | Oct 31 |
-| **[U.S. Hunger](https://ushunger.org/)** | **[Spring 2026 Front-End Developer Intern](https://jobright.ai/jobs/info/69056fd5ff462851feffd623?utm_campaign=1079&utm_source=git)** | Longwood, FL | On Site | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
