@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[dataing](https://www.dataing.io/)** | **[Software Developer Intern 🖥️](https://jobright.ai/jobs/info/690f7f44183be660d2675771?utm_campaign=1079&utm_source=git)** | LA Metro Area | Hybrid | Nov 08 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Software Development Engineer](https://jobright.ai/jobs/info/68f29dae76a51a4307bc5556?utm_campaign=1079&utm_source=git)** | Arlington, TX | Hybrid | Nov 08 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Enterprise Platform Engineering Services Center of Excellence)](https://jobright.ai/jobs/info/68bb792b6105227d118a6410?utm_campaign=1079&utm_source=git)** | Vienna, VA | Hybrid | Nov 08 |
 | ↳ | **[Summer Associate Internship (Digital Engineering)](https://jobright.ai/jobs/info/68bb7bfa8043103d4f228fc7?utm_campaign=1079&utm_source=git)** | Vienna, VA | Hybrid | Nov 08 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Jobgether](https://jobgether.com/)** | **[Website Designer/Developer Intern (WordPress)](https://jobright.ai/jobs/info/690ec5c544146d3b6ec57b05?utm_campaign=1079&utm_source=git)** | United States | Hybrid | Nov 07 |
 | **[O.C. Tanner](http://octanner.com)** | **[Test Engineer Internship](https://jobright.ai/jobs/info/690ee243221b890c278125c1?utm_campaign=1079&utm_source=git)** | USA - Utah-Salt Lake City-Headquarters | Hybrid | Nov 07 |
 | **[MetLife](http://www.metlife.com)** | **[METx Global Technology Intern](https://jobright.ai/jobs/info/690ebdf7221b890c27811411?utm_campaign=1079&utm_source=git)** | Cary, NC | Hybrid | Nov 07 |
+| **[BNSF Railway](http://www.bnsf.com/)** | **[Product, Platform & Enterprise Front End Sr/Staff Software Engineer (Remote - US)](https://jobright.ai/jobs/info/690eb483221b890c27810e34?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
