@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Todd](https://toddagriscience.com)** | **[Fullstack Software Developer Intern (Summer '26)](https://jobright.ai/jobs/info/69100a5e183be660d2677014?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Nov 08 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Software Engineer - Intern](https://jobright.ai/jobs/info/691006bf183be660d2676de2?utm_campaign=1079&utm_source=git)** | Scottsdale, AZ | Hybrid | Nov 08 |
 | **[Point72](https://www.point72.com)** | **[2026 Technology Internship – Software Engineer](https://jobright.ai/jobs/info/68b8734d07090163b6ba1c41?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Nov 08 |
 | **[Zoox](https://www.zoox.com/)** | **[Firmware and C++ Development Intern](https://jobright.ai/jobs/info/690ff324bb519377733e9fa6?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | Nov 08 |
@@ -103,6 +102,7 @@ For a complete list, click the following sortable link below:
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Software Engineering](https://jobright.ai/jobs/info/690c276c221b890c277fc042?utm_campaign=1079&utm_source=git)** | Bentonville, AR | On Site | Nov 08 |
 | **[Verkada](https://www.verkada.com)** | **[Frontend Software Engineer - University Graduate 2026](https://jobright.ai/jobs/info/68cd13bde23def7af55b4e52?utm_campaign=1079&utm_source=git)** | San Mateo, CA | On Site | Nov 08 |
 | **[Qualcomm](http://www.qualcomm.com)** | **[IT Infrastructure & Cloud Engineering Internship – Summer 2026](https://jobright.ai/jobs/info/68f300089a65fd3458582a99?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Nov 08 |
+| **[MacLean-Fogg](https://macleanfogg.com)** | **[Information Technology (IT) Internship (Summer 2026)](https://jobright.ai/jobs/info/69101e86988c2b7b4ec50294?utm_campaign=1079&utm_source=git)** | Chesterfield, MI | On Site | Nov 08 |
 | **[Pegasystems](http://www.pega.com)** | **[Software Engineering Intern, Next Best Action - Summer 2026](https://jobright.ai/jobs/info/68f2b3f79a63986de756b01f?utm_campaign=1079&utm_source=git)** | Waltham, MA | On Site | Nov 08 |
 | ↳ | **[Software Engineering Intern, Customer Decision Hub - Summer 2026](https://jobright.ai/jobs/info/68f2784b76a51a4307bc4087?utm_campaign=1079&utm_source=git)** | Waltham, MA | On Site | Nov 08 |
 | ↳ | **[Software Engineer Intern, Software Delivery Excellence Alliance - Summer 2026](https://jobright.ai/jobs/info/68f2685faf0b5a06b584cf2f?utm_campaign=1079&utm_source=git)** | Waltham, MA | On Site | Nov 08 |
