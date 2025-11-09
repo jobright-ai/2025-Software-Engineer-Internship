@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Todd](https://toddagriscience.com)** | **[Fullstack Software Developer Intern (Summer '26)](https://jobright.ai/jobs/info/690fe127bb519377733e9dda?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Nov 08 |
-| **[Zoox](https://www.zoox.com/)** | **[Firmware and C++ Development Intern](https://jobright.ai/jobs/info/690fc171988c2b7b4ec4f303?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | Nov 08 |
+| **[Todd](https://toddagriscience.com)** | **[Fullstack Software Developer Intern (Summer '26)](https://jobright.ai/jobs/info/69100a5e183be660d2677014?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Nov 08 |
+| **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Software Engineer - Intern](https://jobright.ai/jobs/info/691006bf183be660d2676de2?utm_campaign=1079&utm_source=git)** | Scottsdale, AZ | Hybrid | Nov 08 |
+| **[Point72](https://www.point72.com)** | **[2026 Technology Internship – Software Engineer](https://jobright.ai/jobs/info/68b8734d07090163b6ba1c41?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Nov 08 |
+| **[Zoox](https://www.zoox.com/)** | **[Firmware and C++ Development Intern](https://jobright.ai/jobs/info/690ff324bb519377733e9fa6?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | Nov 08 |
+| ↳ | **[Firmware and C++ Development Intern](https://jobright.ai/jobs/info/690fc171988c2b7b4ec4f303?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | Nov 08 |
 | **[empirical Foods](https://empiricalfoods.com/)** | **[Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/690fbb16183be660d267666c?utm_campaign=1079&utm_source=git)** | US-SD-Dakota Dunes | On Site | Nov 08 |
 | **[Norric](https://norric.ai/)** | **[Fall 2025 Intern — Frontend SWE (Alternative Investments)](https://jobright.ai/jobs/info/690fafa5988c2b7b4ec4f164?utm_campaign=1079&utm_source=git)** | NYC Metro Area | On Site | Nov 08 |
 | **[CYVL](https://cyvl.com)** | **[Summer Engineering Intern - SW, ML, DS](https://jobright.ai/jobs/info/690faeecbb519377733e9a1a?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Nov 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Epic Games](https://epicgames.com)** | **[Game Services Engineer Intern](https://jobright.ai/jobs/info/68e6a264e8daec61499ad00f?utm_campaign=1079&utm_source=git)** | Cary, NC | On Site | Nov 08 |
 | **[Oracle](https://www.oracle.com/)** | **[Advanced Degree Software Engineer Intern - Fusion](https://jobright.ai/jobs/info/68f8a1d86de2db04dc3e0f0b?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Nov 08 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Monetization Technology) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68f328e89a65fd3458584603?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Nov 08 |
-| **[Veryable](http://veryableops.com)** | **[Core Platform Engineer - Intern](https://jobright.ai/jobs/info/690f027ad046ab6061d02b47?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Nov 08 |
-| **[thyssenkrupp](https://www.thyssenkrupp.com)** | **[Solutions Intern](https://jobright.ai/jobs/info/690efad6d046ab6061d028ae?utm_campaign=1079&utm_source=git)** | Trenton, MI | On Site | Nov 08 |
-| **[Zoox](https://www.zoox.com/)** | **[Test Automation & QA Systems Intern](https://jobright.ai/jobs/info/690ecef644146d3b6ec57f8c?utm_campaign=1079&utm_source=git)** | Foster City, CA | Hybrid | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
