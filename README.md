@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Todd](https://toddagriscience.com)** | **[Fullstack Software Developer Intern (Summer '26)](https://jobright.ai/jobs/info/690fb473bb519377733e9b01?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Nov 08 |
+| **[Todd](https://toddagriscience.com)** | **[Fullstack Software Developer Intern (Summer '26)](https://jobright.ai/jobs/info/690fcb95988c2b7b4ec4f3af?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Nov 08 |
+| **[Zoox](https://www.zoox.com/)** | **[Firmware and C++ Development Intern](https://jobright.ai/jobs/info/690fc171988c2b7b4ec4f303?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | Nov 08 |
+| **[empirical Foods](https://empiricalfoods.com/)** | **[Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/690fbb16183be660d267666c?utm_campaign=1079&utm_source=git)** | US-SD-Dakota Dunes | On Site | Nov 08 |
 | **[Norric](https://norric.ai/)** | **[Fall 2025 Intern — Frontend SWE (Alternative Investments)](https://jobright.ai/jobs/info/690fafa5988c2b7b4ec4f164?utm_campaign=1079&utm_source=git)** | NYC Metro Area | On Site | Nov 08 |
 | **[CYVL](https://cyvl.com)** | **[Summer Engineering Intern - SW, ML, DS](https://jobright.ai/jobs/info/690faeecbb519377733e9a1a?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Nov 08 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[Integration and Application Development Intern – Summer 2026 – Onsite in Dallas, TX](https://jobright.ai/jobs/info/690faa30988c2b7b4ec4f05a?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Nov 08 |
@@ -91,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Verkada](https://www.verkada.com)** | **[Backend Software Engineer - University Graduate 2026](https://jobright.ai/jobs/info/68ccc259a77e5d7d744f4f1e?utm_campaign=1079&utm_source=git)** | San Mateo, CA | On Site | Nov 08 |
 | **[Zipline](http://flyzipline.com)** | **[Embedded Engineering Intern (Spring 2026)](https://jobright.ai/jobs/info/68d794be267b154f9a2dd6a9?utm_campaign=1079&utm_source=git)** | South San Francisco, CA | On Site | Nov 08 |
 | **[Rocket Lab](https://www.rocketlabusa.com)** | **[Flight Software Intern Spring 2026](https://jobright.ai/jobs/info/68d00577dbd9fb154edeccf9?utm_campaign=1079&utm_source=git)** | Littleton, CO | On Site | Nov 08 |
-| **[MacLean-Fogg](https://macleanfogg.com)** | **[Information Technology (IT) Internship (Summer 2026)](https://jobright.ai/jobs/info/690f4c9744146d3b6ec5b15f?utm_campaign=1079&utm_source=git)** | Chesterfield, MI | On Site | Nov 08 |
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Software Engineering](https://jobright.ai/jobs/info/690c27894a1b456627b168d1?utm_campaign=1079&utm_source=git)** | Miami, FL | On Site | Nov 08 |
 | **[Qualcomm](http://www.qualcomm.com)** | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/690f07b4d046ab6061d02e6e?utm_campaign=1079&utm_source=git)** | Boxborough, MA | On Site | Nov 08 |
 | **[Kensho Technologies](https://kensho.com)** | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68ce7746fb49c96ca6ea0ba2?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Nov 08 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Monetization Technology) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68f328e89a65fd3458584603?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Nov 08 |
 | **[Veryable](http://veryableops.com)** | **[Core Platform Engineer - Intern](https://jobright.ai/jobs/info/690f027ad046ab6061d02b47?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Nov 08 |
 | **[thyssenkrupp](https://www.thyssenkrupp.com)** | **[Solutions Intern](https://jobright.ai/jobs/info/690efad6d046ab6061d028ae?utm_campaign=1079&utm_source=git)** | Trenton, MI | On Site | Nov 08 |
-| **[Zoox](https://www.zoox.com/)** | **[Test Automation & QA Systems Intern](https://jobright.ai/jobs/info/690f1d1b44146d3b6ec5a373?utm_campaign=1079&utm_source=git)** | Foster City, CA | Hybrid | Nov 07 |
-| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: AI Cloud Software Engineer](https://jobright.ai/jobs/info/690ecdd2d046ab6061d01540?utm_campaign=1079&utm_source=git)** | Johnston, RI | Hybrid | Nov 07 |
+| **[Zoox](https://www.zoox.com/)** | **[Test Automation & QA Systems Intern](https://jobright.ai/jobs/info/690ecef644146d3b6ec57f8c?utm_campaign=1079&utm_source=git)** | Foster City, CA | Hybrid | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
