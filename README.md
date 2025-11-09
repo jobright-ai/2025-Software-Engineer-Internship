@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Todd](https://toddagriscience.com)** | **[Fullstack Software Developer Intern (Summer '26)](https://jobright.ai/jobs/info/690fcb95988c2b7b4ec4f3af?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Nov 08 |
+| **[Todd](https://toddagriscience.com)** | **[Fullstack Software Developer Intern (Summer '26)](https://jobright.ai/jobs/info/690fe127bb519377733e9dda?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Nov 08 |
 | **[Zoox](https://www.zoox.com/)** | **[Firmware and C++ Development Intern](https://jobright.ai/jobs/info/690fc171988c2b7b4ec4f303?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | Nov 08 |
 | **[empirical Foods](https://empiricalfoods.com/)** | **[Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/690fbb16183be660d267666c?utm_campaign=1079&utm_source=git)** | US-SD-Dakota Dunes | On Site | Nov 08 |
 | **[Norric](https://norric.ai/)** | **[Fall 2025 Intern — Frontend SWE (Alternative Investments)](https://jobright.ai/jobs/info/690fafa5988c2b7b4ec4f164?utm_campaign=1079&utm_source=git)** | NYC Metro Area | On Site | Nov 08 |
@@ -68,8 +68,8 @@ For a complete list, click the following sortable link below:
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Software Development Engineer](https://jobright.ai/jobs/info/68f29dae76a51a4307bc5556?utm_campaign=1079&utm_source=git)** | Arlington, TX | Hybrid | Nov 08 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Enterprise Platform Engineering Services Center of Excellence)](https://jobright.ai/jobs/info/68bb792b6105227d118a6410?utm_campaign=1079&utm_source=git)** | Vienna, VA | Hybrid | Nov 08 |
 | ↳ | **[Summer Associate Internship (Digital Engineering)](https://jobright.ai/jobs/info/68bb7bfa8043103d4f228fc7?utm_campaign=1079&utm_source=git)** | Vienna, VA | Hybrid | Nov 08 |
-| ↳ | **[Summer Associate Internship (Test Engineer)](https://jobright.ai/jobs/info/68cd78671ad6b16f02899e40?utm_campaign=1079&utm_source=git)** | Vienna, VA | Hybrid | Nov 08 |
 | ↳ | **[Summer Associate Internship (Application Engineer)](https://jobright.ai/jobs/info/68d802df7a37c712687d7b75?utm_campaign=1079&utm_source=git)** | Vienna, VA | Hybrid | Nov 08 |
+| ↳ | **[Summer Associate Internship (Test Engineer)](https://jobright.ai/jobs/info/68cd78671ad6b16f02899e40?utm_campaign=1079&utm_source=git)** | Vienna, VA | Hybrid | Nov 08 |
 | **[Arconic](https://www.arconic.com)** | **[IT Intern](https://jobright.ai/jobs/info/68d6ff6f45853d0e39ccbc98?utm_campaign=1079&utm_source=git)** | Pittsburgh, PA | On Site | Nov 08 |
 | **[Arch Mortgage Insurance Company (Arch MI)](https://mortgage.archgroup.com/us)** | **[Software Engineering Summer Intern](https://jobright.ai/jobs/info/68f2a8e69a63986de756a008?utm_campaign=1079&utm_source=git)** | Triad Area | Hybrid | Nov 08 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship ITS (Information Technology Solutions)](https://jobright.ai/jobs/info/68b59508f4e41a61efd904da?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Nov 08 |
