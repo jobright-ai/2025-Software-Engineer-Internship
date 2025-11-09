@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Octaura](https://www.octaura.com)** | **[Intern, Software Engineering](https://jobright.ai/jobs/info/6910ef01bb519377733edabe?utm_campaign=1079&utm_source=git)** | New York, United States | On Site | Nov 09 |
+| **[Leonardo DRS](https://www.leonardodrs.com)** | **[Embedded Software Engineer Intern](https://jobright.ai/jobs/info/6910e7dc183be660d267a339?utm_campaign=1079&utm_source=git)** | Bridgeton, MO | Hybrid | Nov 09 |
+| **[GoFundMe](http://www.gofundme.com)** | **[Frontend Software Engineering Intern](https://jobright.ai/jobs/info/68dc5b4fddc10244dd6748ce?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Nov 09 |
+| **[Talentix](https://thetalentix.com/)** | **[AI FullStack Engineer(Front-end)Intern - Talentix](https://jobright.ai/jobs/info/6910dbda988c2b7b4ec52c22?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Nov 09 |
+| **[GenPark](https://genpark.ai)** | **[Android Developer](https://jobright.ai/jobs/info/6910d868988c2b7b4ec52bed?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 09 |
+| **[Vevolution](http://www.vevolution.com)** | **[Mobile Developer](https://jobright.ai/jobs/info/6910d6d9bb519377733ed418?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 09 |
+| **[GenPark](https://genpark.ai)** | **[iOS Developer Intern](https://jobright.ai/jobs/info/6910d5ae988c2b7b4ec52b5e?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 09 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Security & Navy Federal Financial Group - Product Engineering and Delivery Services)](https://jobright.ai/jobs/info/68f4c9929a63986de7577981?utm_campaign=1079&utm_source=git)** | Vienna, VA | Hybrid | Nov 09 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Intern - Software Engineer (Fleet IT), Summer 2026](https://jobright.ai/jobs/info/68bb6a5f5f3832749186ef82?utm_campaign=1079&utm_source=git)** | St Louis, MO | Hybrid | Nov 09 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Application System Development Intern](https://jobright.ai/jobs/info/68ce70eb846f0b04af679e4a?utm_campaign=1079&utm_source=git)** | Niles, IL | Hybrid | Nov 09 |
@@ -66,7 +73,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Web Developer Intern](https://jobright.ai/jobs/info/68faef648d32c164778ccba9?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | Nov 09 |
 | ↳ | **[Customer Software Development Intern](https://jobright.ai/jobs/info/68fb28079e8e925ac6c89164?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | Nov 09 |
 | ↳ | **[Cloud Developer Intern](https://jobright.ai/jobs/info/68fa685e7959161d33e6304a?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | Nov 09 |
-| **[MacLean-Fogg](https://macleanfogg.com)** | **[Information Technology (IT) Internship (Summer 2026)](https://jobright.ai/jobs/info/69081d96122e8474c78e7fb5?utm_campaign=1079&utm_source=git)** | Buffalo, NY | On Site | Nov 09 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Hardware and Software Engineering Internship - Ditch Witch](https://jobright.ai/jobs/info/68bae8446105227d118a1515?utm_campaign=1079&utm_source=git)** | Noble County, OK | On Site | Nov 09 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Software Engineer](https://jobright.ai/jobs/info/68cd2d3de23def7af55b68fd?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Nov 09 |
 | **[RouteOne](https://www.routeone.com/)** | **[Software Engineer Intern - Java - Summer 2026](https://jobright.ai/jobs/info/6910667b183be660d2678d8c?utm_campaign=1079&utm_source=git)** | Farmington, MI | On Site | Nov 09 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern 2026: Software Engineer - Semiconductor](https://jobright.ai/jobs/info/68fee2ce0ab3b222462a7d9f?utm_campaign=1079&utm_source=git)** | Albany, NY | On Site | Nov 08 |
 | ↳ | **[2026 Intern: Hybrid Cloud and Quantum Research Scientist](https://jobright.ai/jobs/info/690d960e221b890c27807c98?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Nov 08 |
 | **[S&P Global](https://www.spglobal.com)** | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68ccdfac77add66568abb02d?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Nov 08 |
-| **[Southern Farm Bureau Life Insurance Company](http://www.sfbli.com)** | **[IT Cloud & Infrastructure Intern](https://jobright.ai/jobs/info/68d72b2a894705799a2f1267?utm_campaign=1079&utm_source=git)** | Jackson, MS | On Site | Nov 08 |
-| **[Oracle](https://www.oracle.com/)** | **[Advanced Degree Software Engineer Intern - Fusion](https://jobright.ai/jobs/info/68f31c019a63986de756f158?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 08 |
-| **[IBM](http://www.ibm.com)** | **[Intern 2026: Software Engineer - Semiconductor](https://jobright.ai/jobs/info/68fed47ee04ac838fb5b4cca?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Nov 08 |
-| **[DriveTime](https://www.drivetime.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/68cf5065fb49c96ca6ea73ef?utm_campaign=1079&utm_source=git)** | Tempe, AZ | On Site | Nov 08 |
-| **[IBM](http://www.ibm.com)** | **[Intern 2026: Software Developer - Security](https://jobright.ai/jobs/info/690f277ed046ab6061d03c9c?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Nov 08 |
-| ↳ | **[Intern 2026: Software Engineer - Semiconductor](https://jobright.ai/jobs/info/690951debcccf20de59d9ef9?utm_campaign=1079&utm_source=git)** | Yorktown Heights, NY | On Site | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
