@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Intern - Software Engineer (Fleet IT), Summer 2026](https://jobright.ai/jobs/info/68bb6a5f5f3832749186ef82?utm_campaign=1079&utm_source=git)** | St Louis, MO | Hybrid | Nov 09 |
+| **[Shure Incorporated](http://www.shure.com)** | **[Application System Development Intern](https://jobright.ai/jobs/info/68ce70eb846f0b04af679e4a?utm_campaign=1079&utm_source=git)** | Niles, IL | Hybrid | Nov 09 |
+| **[Integrate](https://integratebpd.com)** | **[Frontend Software Engineering Intern](https://jobright.ai/jobs/info/6910aa68bb519377733ecdf4?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 09 |
+| **[Copart](http://www.copart.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/690c2f324a1b456627b16c79?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Nov 09 |
+| **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Software Engineering](https://jobright.ai/jobs/info/690d51c6221b890c27805cd4?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Nov 09 |
 | **[Motion](https://www.motion.com)** | **[Mobile Software Development Intern](https://jobright.ai/jobs/info/6910928d988c2b7b4ec5214e?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | Nov 09 |
 | ↳ | **[Web Developer Intern](https://jobright.ai/jobs/info/68faef648d32c164778ccba9?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | Nov 09 |
 | ↳ | **[Customer Software Development Intern](https://jobright.ai/jobs/info/68fb28079e8e925ac6c89164?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | Nov 09 |
 | ↳ | **[Cloud Developer Intern](https://jobright.ai/jobs/info/68fa685e7959161d33e6304a?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | Nov 09 |
-| **[OptimHire](https://www.linkedin.com/company/82163104)** | **[Fullstack Intern](https://jobright.ai/jobs/info/69107fe7988c2b7b4ec51f69?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Nov 09 |
 | **[MacLean-Fogg](https://macleanfogg.com)** | **[Information Technology (IT) Internship (Summer 2026)](https://jobright.ai/jobs/info/69081d96122e8474c78e7fb5?utm_campaign=1079&utm_source=git)** | Buffalo, NY | On Site | Nov 09 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Hardware and Software Engineering Internship - Ditch Witch](https://jobright.ai/jobs/info/68bae8446105227d118a1515?utm_campaign=1079&utm_source=git)** | Noble County, OK | On Site | Nov 09 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Software Engineer](https://jobright.ai/jobs/info/68cd2d3de23def7af55b68fd?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Nov 09 |
@@ -80,8 +84,8 @@ For a complete list, click the following sortable link below:
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Software Development Engineer](https://jobright.ai/jobs/info/68f29dae76a51a4307bc5556?utm_campaign=1079&utm_source=git)** | Arlington, TX | Hybrid | Nov 08 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Enterprise Platform Engineering Services Center of Excellence)](https://jobright.ai/jobs/info/68bb792b6105227d118a6410?utm_campaign=1079&utm_source=git)** | Vienna, VA | Hybrid | Nov 08 |
 | ↳ | **[Summer Associate Internship (Digital Engineering)](https://jobright.ai/jobs/info/68bb7bfa8043103d4f228fc7?utm_campaign=1079&utm_source=git)** | Vienna, VA | Hybrid | Nov 08 |
-| ↳ | **[Summer Associate Internship (Application Engineer)](https://jobright.ai/jobs/info/68d802df7a37c712687d7b75?utm_campaign=1079&utm_source=git)** | Vienna, VA | Hybrid | Nov 08 |
 | ↳ | **[Summer Associate Internship (Test Engineer)](https://jobright.ai/jobs/info/68cd78671ad6b16f02899e40?utm_campaign=1079&utm_source=git)** | Vienna, VA | Hybrid | Nov 08 |
+| ↳ | **[Summer Associate Internship (Application Engineer)](https://jobright.ai/jobs/info/68d802df7a37c712687d7b75?utm_campaign=1079&utm_source=git)** | Vienna, VA | Hybrid | Nov 08 |
 | **[Arconic](https://www.arconic.com)** | **[IT Intern](https://jobright.ai/jobs/info/68d6ff6f45853d0e39ccbc98?utm_campaign=1079&utm_source=git)** | Pittsburgh, PA | On Site | Nov 08 |
 | **[Arch Mortgage Insurance Company (Arch MI)](https://mortgage.archgroup.com/us)** | **[Software Engineering Summer Intern](https://jobright.ai/jobs/info/68f2a8e69a63986de756a008?utm_campaign=1079&utm_source=git)** | Triad Area | Hybrid | Nov 08 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship ITS (Information Technology Solutions)](https://jobright.ai/jobs/info/68b59508f4e41a61efd904da?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Nov 08 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DriveTime](https://www.drivetime.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/68cf5065fb49c96ca6ea73ef?utm_campaign=1079&utm_source=git)** | Tempe, AZ | On Site | Nov 08 |
 | **[IBM](http://www.ibm.com)** | **[Intern 2026: Software Developer - Security](https://jobright.ai/jobs/info/690f277ed046ab6061d03c9c?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Nov 08 |
 | ↳ | **[Intern 2026: Software Engineer - Semiconductor](https://jobright.ai/jobs/info/690951debcccf20de59d9ef9?utm_campaign=1079&utm_source=git)** | Yorktown Heights, NY | On Site | Nov 08 |
-| **[Oracle](https://www.oracle.com/)** | **[Advanced Degree Software Engineer Intern - Fusion](https://jobright.ai/jobs/info/68f80461ec6dbe7073fd04ad?utm_campaign=1079&utm_source=git)** | Pleasanton, CA | On Site | Nov 08 |
-| **[IBM](http://www.ibm.com)** | **[Intern 2026: Software Developer - Security](https://jobright.ai/jobs/info/690f2709221b890c278143bb?utm_campaign=1079&utm_source=git)** | Yorktown Heights, NY | On Site | Nov 08 |
-| ↳ | **[2026 Intern: Hybrid Cloud and Quantum Research Scientist](https://jobright.ai/jobs/info/68f2b1fa9a63986de756ad24?utm_campaign=1079&utm_source=git)** | Albany, NY | Hybrid | Nov 08 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate QA Analyst](https://jobright.ai/jobs/info/68bb20cb6105227d118a3344?utm_campaign=1079&utm_source=git)** | Maryland Heights, MO | On Site | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
