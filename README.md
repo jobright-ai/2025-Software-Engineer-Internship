@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acutronic Group](http://www.acutronic.com/)** | **[Software Engineer Intern Summer '26](https://jobright.ai/jobs/info/691197a5bb519377733f00bc?utm_campaign=1079&utm_source=git)** | Pittsburgh, PA | On Site | Nov 09 |
+| **[Santander](https://www.santander.com/)** | **[IT Application Development Intern](https://jobright.ai/jobs/info/69118808988c2b7b4ec551c9?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Nov 09 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69115abe183be660d267b6e6?utm_campaign=1079&utm_source=git)** | Canonsburg, PA | Hybrid | Nov 09 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Design & Development Intern](https://jobright.ai/jobs/info/691167dfbb519377733ef07c?utm_campaign=1079&utm_source=git)** | Fort Collins Area | On Site | Nov 09 |
 | **[Seagate Technology](http://www.seagate.com)** | **[Computer Science Engineering Team Internship - Summer 2026](https://jobright.ai/jobs/info/690527aeff462851feffb12d?utm_campaign=1079&utm_source=git)** | Shakopee, MN | On Site | Nov 09 |
@@ -77,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Hardware and Software Engineering Internship - Ditch Witch](https://jobright.ai/jobs/info/68bae8446105227d118a1515?utm_campaign=1079&utm_source=git)** | Noble County, OK | On Site | Nov 09 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Software Engineer](https://jobright.ai/jobs/info/68cd2d3de23def7af55b68fd?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Nov 09 |
 | **[RouteOne](https://www.routeone.com/)** | **[Software Engineer Intern - Java - Summer 2026](https://jobright.ai/jobs/info/6910667b183be660d2678d8c?utm_campaign=1079&utm_source=git)** | Farmington, MI | On Site | Nov 09 |
+| **[Optiver](http://www.optiver.com)** | **[Software Engineer Intern (Summer 2026 - Austin)](https://jobright.ai/jobs/info/69118ee4bb519377733efccc?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Nov 08 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Software Engineer Intern - Spring 2026](https://jobright.ai/jobs/info/6910315a988c2b7b4ec507ea?utm_campaign=1079&utm_source=git)** | Tampa, FL | On Site | Nov 08 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Software Engineer - Intern](https://jobright.ai/jobs/info/691006bf183be660d2676de2?utm_campaign=1079&utm_source=git)** | Scottsdale, AZ | Hybrid | Nov 08 |
 | **[Point72](https://www.point72.com)** | **[2026 Technology Internship – Software Engineer](https://jobright.ai/jobs/info/68b8734d07090163b6ba1c41?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Nov 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Embedded Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68f2fd279a63986de756db2a?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Nov 08 |
 | ↳ | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68f2fe2476a51a4307bc9c88?utm_campaign=1079&utm_source=git)** | Bridgewater, NJ | On Site | Nov 08 |
 | ↳ | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68f302319a65fd3458582cb4?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Nov 08 |
-| **[IBM](http://www.ibm.com)** | **[Intern 2026: Software Developer - Security](https://jobright.ai/jobs/info/690d13514a1b456627b1d5c0?utm_campaign=1079&utm_source=git)** | Albany, NY | On Site | Nov 08 |
-| ↳ | **[Intern 2026: Software Engineer - Semiconductor](https://jobright.ai/jobs/info/68fee2ce0ab3b222462a7d9f?utm_campaign=1079&utm_source=git)** | Albany, NY | On Site | Nov 08 |
-| ↳ | **[2026 Intern: Hybrid Cloud and Quantum Research Scientist](https://jobright.ai/jobs/info/690d960e221b890c27807c98?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
