@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CR Equity Ai, Inc.](https://crequitypartnersinvestgrp.com)** | **[Full-stack Developer](https://jobright.ai/jobs/info/6911ea5cc98948514c4779fd?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 10 |
+| **[Cboe Global Markets](http://www.cboe.com)** | **[Software Engineer Intern, Web](https://jobright.ai/jobs/info/68cf73b4846f0b04af6823a2?utm_campaign=1079&utm_source=git)** | Kansas City, MO | Hybrid | Nov 10 |
+| ↳ | **[Software Engineer Intern, BIDS](https://jobright.ai/jobs/info/68ce7143dbd9fb154eddfaf6?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Nov 10 |
+| **[Sandhills Global](https://www.sandhills.com/)** | **[Software Development Intern](https://jobright.ai/jobs/info/66ca0a763673251f8b24f33d?utm_campaign=1079&utm_source=git)** | Lincoln, NE | On Site | Nov 10 |
+| **[Cboe Global Markets](http://www.cboe.com)** | **[Software Engineer Intern – Cboe Clear US](https://jobright.ai/jobs/info/68cfc56bdbd9fb154edeadc2?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Nov 10 |
+| **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Content Publishing 2026 Developer Intern](https://jobright.ai/jobs/info/6911f9e6ea9ab01b82beedab?utm_campaign=1079&utm_source=git)** | Cincinnati, OH (USA) | Hybrid | Nov 10 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Mobile Applications (iOS) Intern](https://jobright.ai/jobs/info/68fe22e9e0c73b3a11196a5c?utm_campaign=1079&utm_source=git)** | Niles, IL | Hybrid | Nov 10 |
 | ↳ | **[Mobile Applications (Android) Intern](https://jobright.ai/jobs/info/68ce41851ad6b16f028a35ea?utm_campaign=1079&utm_source=git)** | Niles, IL | Hybrid | Nov 10 |
 | **[ByteDance](http://bytedance.com)** | **[Software Engineer Intern (Relational Database) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68d95df8022fc803b487713a?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Nov 10 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pegasystems](http://www.pega.com)** | **[Software Engineering Intern, Next Best Action - Summer 2026](https://jobright.ai/jobs/info/68f2b3f79a63986de756b01f?utm_campaign=1079&utm_source=git)** | Waltham, MA | On Site | Nov 08 |
 | ↳ | **[Software Engineering Intern, Customer Decision Hub - Summer 2026](https://jobright.ai/jobs/info/68f2784b76a51a4307bc4087?utm_campaign=1079&utm_source=git)** | Waltham, MA | On Site | Nov 08 |
 | ↳ | **[Software Engineer Intern, Software Delivery Excellence Alliance - Summer 2026](https://jobright.ai/jobs/info/68f2685faf0b5a06b584cf2f?utm_campaign=1079&utm_source=git)** | Waltham, MA | On Site | Nov 08 |
-| **[Qualcomm](http://www.qualcomm.com)** | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68f2fb959a63986de756da0e?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Nov 08 |
-| **[Kensho Technologies](https://kensho.com)** | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68cd7b5fe23def7af55ba9da?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Nov 08 |
-| **[Pegasystems](http://www.pega.com)** | **[Software Engineering Intern, Internal Development Experience - Summer 2026](https://jobright.ai/jobs/info/68f2608865ce784c102f0738?utm_campaign=1079&utm_source=git)** | Waltham, MA | On Site | Nov 08 |
-| **[Qualcomm](http://www.qualcomm.com)** | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68f2fbdf76a51a4307bc9a85?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
