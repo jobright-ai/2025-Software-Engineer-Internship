@@ -57,7 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Benchling](https://www.benchling.com)** | **[Software Engineer, Intern (Summer 2026)](https://jobright.ai/jobs/info/6913e2b71465e02904e985f2?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Nov 11 |
+| **[Ludus](https://ludus.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6913e278e344172248f74ea3?utm_campaign=1079&utm_source=git)** | Grand Rapids, MI | Hybrid | Nov 11 |
+| **[Belden Inc.](http://belden.com)** | **[Software Engineering Coop](https://jobright.ai/jobs/info/6913e177e344172248f74e5b?utm_campaign=1079&utm_source=git)** | Rochester, NY | On Site | Nov 11 |
+| ↳ | **[Software Engineering Co-op](https://jobright.ai/jobs/info/6913e0afd1047e3565d06cd9?utm_campaign=1079&utm_source=git)** | Rochester, NY | On Site | Nov 11 |
+| **[Merge](https://merge.dev)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68f7a6005dc1be6012817f9c?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Nov 11 |
+| **[ASML](https://www.asml.com)** | **[Internship, Software Development Engineer Summer 2026](https://jobright.ai/jobs/info/6913df581465e02904e9843d?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Nov 11 |
 | **[Illumio](http://www.illumio.com)** | **[Engineering Intern, Architecture Platform](https://jobright.ai/jobs/info/68f14b87ef766b3f0fd0b5c5?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Nov 11 |
+| **[Todd](https://toddagriscience.com)** | **[Fullstack Software Developer Intern (Summer '26)](https://jobright.ai/jobs/info/6913e465d1047e3565d06e23?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Nov 11 |
 | **[Riot Games](http://www.riotgames.com)** | **[Research Scientist Intern, Next-Gen Gameplay - Summer 2026 (Remote)](https://jobright.ai/jobs/info/6908f83abcccf20de59d570f?utm_campaign=1079&utm_source=git)** | Los Angeles, USA | Remote | Nov 11 |
 | **[Westlake](http://www.westlake.com)** | **[Information Technology -Intern (Summer 2026)](https://jobright.ai/jobs/info/6913c2a2d1047e3565d05d79?utm_campaign=1079&utm_source=git)** | US - Calvert City, KY | On Site | Nov 11 |
 | **[ModMed](https://www.modmed.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6913b9e5e344172248f738e9?utm_campaign=1079&utm_source=git)** | Boca Raton, FL | Hybrid | Nov 11 |
@@ -69,14 +76,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer - Intern](https://jobright.ai/jobs/info/691006bf183be660d2676de2?utm_campaign=1079&utm_source=git)** | Scottsdale, AZ | Hybrid | Nov 11 |
 | **[BGC Group](https://www.bgcg.com)** | **[Development Intern](https://jobright.ai/jobs/info/6913b279d1047e3565d0544b?utm_campaign=1079&utm_source=git)** | NYC Metro Area | On Site | Nov 11 |
 | **[Whisker](https://www.litter-robot.com/)** | **[Web & CX Tools Development Intern (Summer 2026)](https://jobright.ai/jobs/info/6913aa5bd1047e3565d04f74?utm_campaign=1079&utm_source=git)** | Auburn Hills, MI | On Site | Nov 11 |
-| **[Nexus](https://www.loopmessaging.io/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6913c414d1047e3565d05ec1?utm_campaign=1079&utm_source=git)** | Knoxville, TN | On Site | Nov 11 |
 | **[Renesas Electronics](https://www.renesas.com)** | **[Applications Engineering Intern](https://jobright.ai/jobs/info/6913a671d1047e3565d04ce1?utm_campaign=1079&utm_source=git)** | Morrisville, NC | Hybrid | Nov 11 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Firmware Engineer Intern - Master's Degree](https://jobright.ai/jobs/info/6913a4e9e344172248f72e06?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Nov 11 |
 | **[Cognex Corporation](http://www.cognex.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6913a3751465e02904e963ee?utm_campaign=1079&utm_source=git)** | Wauwatosa, Wisconsin | On Site | Nov 11 |
 | **[Cisco](http://www.cisco.com)** | **[Quality Assurance I (Intern) - United States](https://jobright.ai/jobs/info/6913a319e344172248f72c95?utm_campaign=1079&utm_source=git)** | Durham, NC | On Site | Nov 11 |
 | **[Hypertherm Associates](http://www.hyperthermassociates.com)** | **[Co-op or Internship - Software Tester](https://jobright.ai/jobs/info/6913a2e21465e02904e96372?utm_campaign=1079&utm_source=git)** | California, United States | On Site | Nov 11 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Software Development Engineer](https://jobright.ai/jobs/info/6913a2b01465e02904e9634d?utm_campaign=1079&utm_source=git)** | Arlington, TX | Hybrid | Nov 11 |
-| **[MechSpire](https://www.linkedin.com/company/92823876)** | **[Co-op, Firmware Engineering (January to August 2026) - Milwaukee](https://jobright.ai/jobs/info/69139dcee344172248f72921?utm_campaign=1079&utm_source=git)** | Milwaukee, WI | Remote | Nov 11 |
 | **[IBM](http://www.ibm.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/69139d9b1465e02904e9602a?utm_campaign=1079&utm_source=git)** | Tucson, AZ | Hybrid | Nov 11 |
 | ↳ | **[Software Developer Intern](https://jobright.ai/jobs/info/6913bf90e344172248f73cf0?utm_campaign=1079&utm_source=git)** | Houston, TX | Hybrid | Nov 11 |
 | **[Metronome](https://metronome.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6913ba441465e02904e96fb6?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | Hybrid | Nov 11 |
@@ -119,12 +124,11 @@ For a complete list, click the following sortable link below:
 | **[Chatham Financial](http://www.chathamfinancial.com/)** | **[2026 Software Engineer Intern](https://jobright.ai/jobs/info/69040a5eff462851feff2065?utm_campaign=1079&utm_source=git)** | Kennett Square, PA | Hybrid | Nov 11 |
 | **[Scale AI](https://scale.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd5be6e23def7af55b8a86?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | Hybrid | Nov 11 |
 | **[Lids](https://www.lids.com)** | **[Summer 2026 - IT Intern](https://jobright.ai/jobs/info/68bf8d7d702aa35207aa7550?utm_campaign=1079&utm_source=git)** | Indianapolis, IN | On Site | Nov 11 |
-| **[ATI](https://www.atimaterials.com)** | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/68db0f410dffed6f83d2c485?utm_campaign=1079&utm_source=git)** | Monaca, PA | On Site | Nov 11 |
-| ↳ | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/68f4cd759a65fd345858c6e4?utm_campaign=1079&utm_source=git)** | Rochester, PA | On Site | Nov 11 |
+| **[ATI](https://www.atimaterials.com)** | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/68f4cd759a65fd345858c6e4?utm_campaign=1079&utm_source=git)** | Rochester, PA | On Site | Nov 11 |
 | **[Waymo](https://waymo.com)** | **[2026 Summer Intern, MS, Software Engineer, Quantitative](https://jobright.ai/jobs/info/68db38109f13662d20e48ac1?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Nov 11 |
 | **[Tenstorrent](http://tenstorrent.com)** | **[Software Intern - AI Compilers](https://jobright.ai/jobs/info/68cc6dcf7342c7623ae64a97?utm_campaign=1079&utm_source=git)** | Santa Clara, California, United States | On Site | Nov 11 |
 | **[Pegasystems](http://www.pega.com)** | **[Software Engineering Intern, Customer Decision Hub - Summer 2026](https://jobright.ai/jobs/info/68fc63e24129dd33cd13ba07?utm_campaign=1079&utm_source=git)** | Waltham, MA | On Site | Nov 11 |
-| **[ATI](https://www.atimaterials.com)** | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/68f4ce5676a51a4307bd3a84?utm_campaign=1079&utm_source=git)** | Washington, PA | On Site | Nov 11 |
+| **[ATI](https://www.atimaterials.com)** | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/68f493419a63986de75762bc?utm_campaign=1079&utm_source=git)** | Washington, PA | On Site | Nov 11 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - AI Hardware](https://jobright.ai/jobs/info/68f6f3e076a51a4307bdf8ff?utm_campaign=1079&utm_source=git)** | Redmond, WA | Hybrid | Nov 11 |
 | **[ByteDance](http://bytedance.com)** | **[Software Development Engineer Intern (Metadata Storage) - 2026 Start (PhD)](https://jobright.ai/jobs/info/68f65fd376a51a4307bd9cf4?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Nov 11 |
 | **[ATI](https://www.atimaterials.com)** | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/68f4cd739a65fd345858c6db?utm_campaign=1079&utm_source=git)** | Zelienople, PA | On Site | Nov 11 |
@@ -136,6 +140,7 @@ For a complete list, click the following sortable link below:
 | **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Business Operating System Intern](https://jobright.ai/jobs/info/68f6af719a65fd34585963bb?utm_campaign=1079&utm_source=git)** | Middleton, WI | On Site | Nov 11 |
 | **[Datadog](https://www.datadoghq.com)** | **[Software Engineering Intern (Summer)](https://jobright.ai/jobs/info/68cd9480e23def7af55bc0c0?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Nov 11 |
 | **[ATI](https://www.atimaterials.com)** | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/68db0c2ae9b48513789b172a?utm_campaign=1079&utm_source=git)** | Latrobe, PA | On Site | Nov 11 |
+| ↳ | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/68db077de9b48513789b13e3?utm_campaign=1079&utm_source=git)** | Monaca, PA | On Site | Nov 11 |
 | **[PURIS](https://puris.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69131d9fe344172248f6f846?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | On Site | Nov 11 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Software Engineering Intern, Summer 2026](https://jobright.ai/jobs/info/69136a251465e02904e94913?utm_campaign=1079&utm_source=git)** | Glendale, CA | On Site | Nov 11 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Firmware Validation Engineer](https://jobright.ai/jobs/info/68f7440baed0577b7e04f862?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Nov 11 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tenstorrent](http://tenstorrent.com)** | **[Intern, Scaleout Software (Fabric)](https://jobright.ai/jobs/info/6912de0dc98948514c47efed?utm_campaign=1079&utm_source=git)** | Santa Clara, California, United States | On Site | Nov 10 |
 | **[Circle](https://www.circle.com)** | **[Software Engineer, Intern, Summer 2026](https://jobright.ai/jobs/info/6912b077d1047e3565cfe2c3?utm_campaign=1079&utm_source=git)** | Greater Seattle Area | Remote | Nov 10 |
 | **[The Aerospace Corporation](http://www.aerospace.org)** | **[2026 Cloud Software Engineer Undergrad Intern](https://jobright.ai/jobs/info/6912efc3ea9ab01b82bf679e?utm_campaign=1079&utm_source=git)** | Chantilly, VA | On Site | Nov 10 |
-| **[Circle](https://www.circle.com)** | **[Software Engineer, Intern, Summer 2026](https://jobright.ai/jobs/info/6912a5f4d1047e3565cfdf32?utm_campaign=1079&utm_source=git)** | Atlanta - remote first in US | Remote | Nov 10 |
-| ↳ | **[Software Engineer, Intern, Summer 2026](https://jobright.ai/jobs/info/6912a5d2ea9ab01b82bf3f2e?utm_campaign=1079&utm_source=git)** | Seattle - remote first in US | Remote | Nov 10 |
-| **[Wing](https://www.wing.com/)** | **[Perception Software Engineering Intern, Summer 2026](https://jobright.ai/jobs/info/69133136e344172248f6fe9c?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Nov 10 |
-| **[KLA](https://www.kla.com)** | **[Software Intern](https://jobright.ai/jobs/info/6912c133d1047e3565cfe8b2?utm_campaign=1079&utm_source=git)** | Milpitas, CA | On Site | Nov 10 |
-| **[Parsons Corporation](http://www.parsons.com)** | **[Identity Solutions - Intern Summer 2026](https://jobright.ai/jobs/info/6912c677ea9ab01b82bf4ded?utm_campaign=1079&utm_source=git)** | Summit Point, WV | On Site | Nov 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
