@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Software Engineer Intern - Spring 2026](https://jobright.ai/jobs/info/691583ce286ccf0a1512ee01?utm_campaign=1079&utm_source=git)** | Tampa, FL | On Site | Nov 12 |
 | **[USAFacts](https://www.usafacts.org)** | **[Software Development Engineer Intern](https://jobright.ai/jobs/info/69156d98286ccf0a1512e20b?utm_campaign=1079&utm_source=git)** | Bellevue, WA | On Site | Nov 12 |
 | **[Lexcar](https://lexcar.us/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69156b736f36db06ef04e84c?utm_campaign=1079&utm_source=git)** | LA Metro Area | On Site | Nov 12 |
 | **[Oracle](https://www.oracle.com/)** | **[Software Engineer Intern - Oracle Retail](https://jobright.ai/jobs/info/69156ab99c388539cbdf3559?utm_campaign=1079&utm_source=git)** | Burlington, MA | On Site | Nov 12 |
@@ -74,14 +75,15 @@ For a complete list, click the following sortable link below:
 | **[Hudson Institute](http://www.hudson.org/)** | **[Research Internship, Computer Science, Spring 2026](https://jobright.ai/jobs/info/691535ad9c388539cbdf1844?utm_campaign=1079&utm_source=git)** | Washington,DC,US | On Site | Nov 12 |
 | **[Primer](https://www.primer.com/)** | **[Spring/Summer 2026 Engineering Intern](https://jobright.ai/jobs/info/691534f4286ccf0a1512c3c0?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Nov 12 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern - Information Technology](https://jobright.ai/jobs/info/69152d306f36db06ef04c6a1?utm_campaign=1079&utm_source=git)** | Memphis, TN | On Site | Nov 12 |
-| **[37degrees, Inc](www.37-degrees.com)** | **[Front-end mobile application developer - Volunteer / Internship](https://jobright.ai/jobs/info/691527d69c388539cbdf108e?utm_campaign=1079&utm_source=git)** | Illinois, United States | Remote | Nov 12 |
 | **[Riverside Research](http://riversideresearch.org)** | **[Formal Methods Research Intern](https://jobright.ai/jobs/info/691526db9c388539cbdf0fbe?utm_campaign=1079&utm_source=git)** | Lexington, MA | On Site | Nov 12 |
 | **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[IT Delivery: Foundational Integration - Summer 2026 Intern](https://jobright.ai/jobs/info/691525d1286ccf0a1512baec?utm_campaign=1079&utm_source=git)** | Wellesley, MA | On Site | Nov 12 |
 | **[Oracle](https://www.oracle.com/)** | **[Software Engineer Intern - Oracle Retail](https://jobright.ai/jobs/info/691521849c388539cbdf0c3f?utm_campaign=1079&utm_source=git)** | Burlington, MA, United States | On Site | Nov 12 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Software Engineer Intern - Oracle Retail](https://jobright.ai/jobs/info/6915406c286ccf0a1512c9aa?utm_campaign=1079&utm_source=git)** | Burlington, MA, United States | On Site | Nov 12 |
 | **[ADM](http://www.adm.com)** | **[ADMIS Software Development Intern - Chicago, IL](https://jobright.ai/jobs/info/69153fce286ccf0a1512c95e?utm_campaign=1079&utm_source=git)** | IL - Illinois | On Site | Nov 12 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[Corporate Software Development Intern (Summer)](https://jobright.ai/jobs/info/691519649c388539cbdf07c3?utm_campaign=1079&utm_source=git)** | Auburn Hills - Michigan - USA | On Site | Nov 12 |
+| **[SANMINA-SCI TECHNOLOGY INDIA PRIVATE LIMITED](http://www.sanmina.com)** | **[Engineering Intern (Fall 2025)](https://jobright.ai/jobs/info/6915176c9c388539cbdf0646?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Nov 12 |
 | **[Crane Payment Innovations](http://www.cranepi.com)** | **[Software Intern](https://jobright.ai/jobs/info/6914fbad9c388539cbdef3a5?utm_campaign=1079&utm_source=git)** | Malvern, PA | On Site | Nov 12 |
+| **[37degrees, Inc](www.37-degrees.com)** | **[Front-end mobile application application developer - Volunteer / Internship](https://jobright.ai/jobs/info/691527d69c388539cbdf108e?utm_campaign=1079&utm_source=git)** | Illinois, United States | On Site | Nov 12 |
 | **[Gyfr](https://gyfrapp.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69150b69286ccf0a1512aad8?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 12 |
 | **[Lumafield](https://www.lumafield.com)** | **[Engineering Intern, Frontend Software](https://jobright.ai/jobs/info/69011706f8ce7a040fdbbed6?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Nov 12 |
 | **[Sigma Defense Systems LLC](http://www.sigdef.com/)** | **[1442 - Software Engineering Intern](https://jobright.ai/jobs/info/691509b36f36db06ef04b0af?utm_campaign=1079&utm_source=git)** | Mt. Laurel, NJ | On Site | Nov 12 |
@@ -97,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Enterprise Architecture, Technology & Engineering Fellow](https://jobright.ai/jobs/info/69152c66286ccf0a1512bf41?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Nov 12 |
 | ↳ | **[Enterprise Strategy, Technology & Engineering Fellow](https://jobright.ai/jobs/info/691523129c388539cbdf0d52?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Nov 12 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Firmware Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/6914ffd5286ccf0a1512a30c?utm_campaign=1079&utm_source=git)** | Nashua, NH | On Site | Nov 12 |
-| **[SANMINA-SCI TECHNOLOGY INDIA PRIVATE LIMITED](http://www.sanmina.com)** | **[Engineering Intern (Fall 2025)](https://jobright.ai/jobs/info/691534399c388539cbdf177e?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Nov 12 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Software Engineer - Intern Conversion](https://jobright.ai/jobs/info/6914fd0b286ccf0a1512a0bf?utm_campaign=1079&utm_source=git)** | Scottsdale, AZ | Hybrid | Nov 12 |
 | **[Zoox](https://www.zoox.com/)** | **[Motion Planning Intern](https://jobright.ai/jobs/info/6914f8e46f36db06ef04a3a5?utm_campaign=1079&utm_source=git)** | Foster City, CA | Hybrid | Nov 12 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/691521996f36db06ef04bfc7?utm_campaign=1079&utm_source=git)** | Auburn Hills - Michigan - USA | Hybrid | Nov 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Discount Tire](http://www.discounttire.com/dtcs/home.do)** | **[Information Technology Intern - System Operations/AI](https://jobright.ai/jobs/info/6914849f6f36db06ef047a33?utm_campaign=1079&utm_source=git)** | Scottsdale, AZ | On Site | Nov 12 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern, Innovation - Extended Reality (XR) - (Summer 2026)](https://jobright.ai/jobs/info/68f7dee3ec6dbe7073fcd6da?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Nov 12 |
 | **[Figma](https://www.figma.com)** | **[PhD Intern, Software Engineer - Graphics (2026)](https://jobright.ai/jobs/info/68bf2648702aa35207aa37a0?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Nov 12 |
-| **[Stackora](https://www.linkedin.com/company/83497455)** | **[Research Development and Application](https://jobright.ai/jobs/info/69149e03286ccf0a151278b7?utm_campaign=1079&utm_source=git)** | Beloit, WI | Remote | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
