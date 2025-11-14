@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[XIRCLS](https://xircls.com/)** | **[Frontend Intern](https://jobright.ai/jobs/info/6917828015b41563671786ec?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 14 |
+| **[Weights & Biases](https://www.wandb.ai)** | **[Software Engineer II - Internal Developer Platforms](https://jobright.ai/jobs/info/69177799370fde633d080302?utm_campaign=1079&utm_source=git)** | Bellevue, WA | Hybrid | Nov 14 |
+| **[Agile Space Industries](http://agilespaceindustries.com)** | **[Software Engineer Intern- Summer 2026](https://jobright.ai/jobs/info/6917718fbcdbf3560c9c7c7c?utm_campaign=1079&utm_source=git)** | Durango, CO | On Site | Nov 14 |
 | **[Align Technology](http://www.aligntech.com)** | **[Mobile Engineering Intern](https://jobright.ai/jobs/info/68f0532d23b5702fba8c9fcd?utm_campaign=1079&utm_source=git)** | Morrisville, NC | On Site | Nov 14 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[DSP (Digital Signal Processing) Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68fa8fbbedd190144238e3ee?utm_campaign=1079&utm_source=git)** | Plantation, FL | Hybrid | Nov 14 |
 | **[DevPipeline](https://www.devpipeline.com)** | **[Web Developer](https://jobright.ai/jobs/info/69175ec1bcdbf3560c9c732d?utm_campaign=1079&utm_source=git)** | Vernal, UT | On Site | Nov 14 |
 | **[Arch Mortgage Insurance Company (Arch MI)](https://mortgage.archgroup.com/us)** | **[Platform Experience & Operations (PXO) Summer Intern](https://jobright.ai/jobs/info/68dfac26fe896042b0b7d235?utm_campaign=1079&utm_source=git)** | Triad Area | Hybrid | Nov 14 |
+| **[First Citizens Bank](http://www.firstcitizens.com)** | **[Summer 2026 Information Technology Intern  - Software Developer](https://jobright.ai/jobs/info/69176bae3ea85638ae1ca7c2?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Nov 14 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Software Engineer Intern (Winter/Spring 2026) - Austin, TX](https://jobright.ai/jobs/info/6916b4826f36db06ef059362?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Nov 14 |
 | **[Arch Mortgage Insurance Company (Arch MI)](https://mortgage.archgroup.com/us)** | **[Enterprise Document Management Systems (EDMS) Summer Intern](https://jobright.ai/jobs/info/68dfabf16be63b6ec997249f?utm_campaign=1079&utm_source=git)** | Triad Area | Hybrid | Nov 14 |
 | ↳ | **[Online Portals & Next Gen Platforms (OPNG) Summer Intern](https://jobright.ai/jobs/info/68deffaf44d32141e0c04ae2?utm_campaign=1079&utm_source=git)** | Triad Area | Hybrid | Nov 14 |
@@ -68,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Figma](https://www.figma.com)** | **[Software Engineer Intern (2026)](https://jobright.ai/jobs/info/68ce948afb49c96ca6ea1c8d?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Nov 14 |
 | **[Quantum Pulse Consulting](https://qpulse.tech/case-studies/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69172e6e3ea85638ae1c89d3?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 14 |
 | **[Hermeus](http://www.hermeus.com)** | **[Hardware-In-the-Loop Software Engineering Intern - Spring & Summer 2026](https://jobright.ai/jobs/info/68dee75744d32141e0c03b77?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Nov 14 |
+| **[Twitch](https://www.twitch.tv)** | **[Undergrad Software Engineering Intern](https://jobright.ai/jobs/info/68df2bff5ab4977c2e9512e7?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Nov 14 |
 | **[KLA](https://www.kla.com)** | **[Advanced Algorithm Intern](https://jobright.ai/jobs/info/68fa9920edd190144238ee3e?utm_campaign=1079&utm_source=git)** | Milpitas, CA | On Site | Nov 14 |
 | **[Epic Games](https://epicgames.com)** | **[Gameplay Systems Intern](https://jobright.ai/jobs/info/68fa8730edd190144238dc6f?utm_campaign=1079&utm_source=git)** | Cary, NC | On Site | Nov 14 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Embedded Software Developer, Network/Payload Software Intern (Winter 2026)](https://jobright.ai/jobs/info/68c9044895f5211cd2ced2d9?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Nov 14 |
@@ -82,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Backend Software Engineer Intern (TikTok-Global Live-Foundation) - 2026 Summer(BS/MS)](https://jobright.ai/jobs/info/68fb556393c49825ab1029b0?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Nov 14 |
 | ↳ | **[Frontend Engineer Intern (Trust and Safety-Engineering-Risk & Response) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cf6bfddbd9fb154ede7c00?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Nov 14 |
 | **[MAPFRE](https://www.mapfre.com)** | **[Intern - Product Engineering Distribution](https://jobright.ai/jobs/info/68cbe00befdec76df36c2c9f?utm_campaign=1079&utm_source=git)** | Webster, MA | On Site | Nov 14 |
-| **[AccelNode](https://AccelNode.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/691756fdbcdbf3560c9c6f87?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 14 |
 | **[ByteDance](http://bytedance.com)** | **[Software Development Engineer in Test Intern (Global E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/690d44b64a1b456627b1feb6?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Nov 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Tool Software Engineer Intern (TikTok-Intelligent Creation-Effect House) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68fb2312e154835f11ef9c94?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Nov 14 |
 | **[Ericsson](https://www.ericsson.com)** | **[Baseband Software Developer Intern](https://jobright.ai/jobs/info/68fb5bb44129dd33cd131c1c?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Nov 14 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Neuraci Labs](www.neuraci.com)** | **[Front-End Developer Intern](https://jobright.ai/jobs/info/69174be8bcdbf3560c9c6b50?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 13 |
 | **[Cintas](https://www.cintas.com)** | **[IT Intern - Customer Channels - Engineer](https://jobright.ai/jobs/info/69168d7c286ccf0a151374ed?utm_campaign=1079&utm_source=git)** | Mason, OH | Hybrid | Nov 13 |
 | **[Hootsuite](https://hootsuite.com/)** | **[Co-Op/Intern, Software Development - Winter 2026](https://jobright.ai/jobs/info/69170238370fde633d07c29b?utm_campaign=1079&utm_source=git)** | Greater Calgary Metropolitan Area | On Site | Nov 13 |
-| **[Cintas](https://www.cintas.com)** | **[IT Intern - SAP SCM](https://jobright.ai/jobs/info/69168be29c388539cbdfc7af?utm_campaign=1079&utm_source=git)** | Mason, OH | On Site | Nov 13 |
-| **[Keysight Technologies](https://www.keysight.com)** | **[R&D Software Engineering Internship- KAIDCB](https://jobright.ai/jobs/info/69168b739c388539cbdfc755?utm_campaign=1079&utm_source=git)** | Calabasas, CA | On Site | Nov 13 |
-| **[GetWebsite.dev](https://getwebsite.dev)** | **[Engineer Intern](https://jobright.ai/jobs/info/691733f9370fde633d07e49d?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Nov 13 |
-| **[Cintas](https://www.cintas.com)** | **[IT Intern - Customer Channels - Web Developer](https://jobright.ai/jobs/info/6916a35f6f36db06ef0588ea?utm_campaign=1079&utm_source=git)** | Mason, OH | Hybrid | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
