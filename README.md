@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Waymo](https://waymo.com)** | **[2026 Summer Intern, MS/PhD, Compute, Compiler](https://jobright.ai/jobs/info/68fc317d4129dd33cd139a82?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Nov 15 |
+| **[Sift](https://www.siftstack.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68f66f8a9a65fd345859336c?utm_campaign=1079&utm_source=git)** | El Segundo, CA | Hybrid | Nov 15 |
+| **[Rivian and Volkswagen Group Technologies](https://rivianvw.tech)** | **[Software Engineering Intern - Android Mobile Application Developer](https://jobright.ai/jobs/info/6918706015b41563671824ca?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Nov 15 |
+| **[Emerson](http://www.emerson.com)** | **[Graduate Software Engineering Intern](https://jobright.ai/jobs/info/68cbfe3c16d00d2beeb17dd1?utm_campaign=1079&utm_source=git)** | Round Rock, TX | On Site | Nov 15 |
+| **[Astrolab](https://astrolab.space)** | **[Spring 2026 Software Engineering Intern](https://jobright.ai/jobs/info/68e03e051852e62f007e94c2?utm_campaign=1079&utm_source=git)** | Hawthorne, CA | On Site | Nov 15 |
+| **[IBM](http://www.ibm.com)** | **[Intern 2026: Quantum Cloud Engineering](https://jobright.ai/jobs/info/69142e31e344172248f77b02?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Nov 15 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Lead Ads) - 2025 Fall (BS/MS)](https://jobright.ai/jobs/info/68ccff2f77add66568abd716?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Nov 15 |
 | **[ByteDance](http://bytedance.com)** | **[Research Intern (Infrastructure System Lab)- 2026 Start (PHD)](https://jobright.ai/jobs/info/68cfd1abfb49c96ca6eabc98?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Nov 15 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (TikTok-PGC) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6916d7089c388539cbdff0e7?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Nov 15 |
@@ -75,6 +81,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Development Engineer in Test Intern (TikTok-Privacy and Security-Business Risk Integrated Control)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cda07bb2a74e1837eda0e3?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Nov 15 |
 | ↳ | **[Software Engineer/Mobile Engineer Intern (Monetization Technology - Ads Core Demonstration) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cd65cbb2a74e1837ed6864?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Nov 15 |
 | **[IBM](http://www.ibm.com)** | **[Software Engineering Intern 2026](https://jobright.ai/jobs/info/6915bc926f36db06ef050ccf?utm_campaign=1079&utm_source=git)** | Poughkeepsie, AR | Hybrid | Nov 15 |
+| **[FieldAI](https://www.fieldai.com)** | **[2.95 Software Engineering Intern: Quality Assurance](https://jobright.ai/jobs/info/68e06abef758fe1f97e4cecf?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Nov 15 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Trust and Safety - Engineering-Core Safety) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68fb1599e154835f11ef98fe?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Nov 15 |
 | **[ByteDance](http://bytedance.com)** | **[Software Engineer Intern (Relational Database) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/690d944844146d3b6ec4de68?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Nov 15 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Recommendation Infrastructure) - 2026 Summer (Bachelor/Master)](https://jobright.ai/jobs/info/68ce38b31ad6b16f028a3347?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Nov 15 |
@@ -103,12 +110,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Software Engineering Intern](https://jobright.ai/jobs/info/68ccf6615954791a1d701caa?utm_campaign=1079&utm_source=git)** | Petaluma, CA | On Site | Nov 15 |
 | ↳ | **[Summer 2026 Software Engineering Intern](https://jobright.ai/jobs/info/68cf733a846f0b04af6822d5?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Nov 15 |
 | **[Red Hat](http://www.redhat.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69180ddabcdbf3560c9ce0c8?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Nov 15 |
+| **[Nintendo](http://nintendo.com)** | **[Intern - Software Engineer, Multimedia (NTD)](https://jobright.ai/jobs/info/68fbe1e893c49825ab106dd9?utm_campaign=1079&utm_source=git)** | Redmond, WA | On Site | Nov 15 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Software Engineer Intern  - Linthicum MD - R10214616](https://jobright.ai/jobs/info/6918480cbcdbf3560c9d105a?utm_campaign=1079&utm_source=git)** | Linthicum Heights, MD | On Site | Nov 15 |
 | **[AV](https://www.avinc.com/)** | **[Summer 2026 Software Engineering Intern](https://jobright.ai/jobs/info/68cccee4a77e5d7d744f5c31?utm_campaign=1079&utm_source=git)** | Annapolis Junction, MD | On Site | Nov 15 |
-| **[Medlaunch Concepts](medlaunchconcepts.com)** | **[Spring 2026 Internship- Backend Developer](https://jobright.ai/jobs/info/691842dc45fb6f5ead8a3dd7?utm_campaign=1079&utm_source=git)** | Clearwater, FL | On Site | Nov 15 |
-| **[AV](https://www.avinc.com/)** | **[Summer 2026 Embedded Software Engineering Intern](https://jobright.ai/jobs/info/68e59e40b99ec3563b0f7500?utm_campaign=1079&utm_source=git)** | Melbourne, FL | On Site | Nov 15 |
+| ↳ | **[Summer 2026 Embedded Software Engineering Intern](https://jobright.ai/jobs/info/68e59e40b99ec3563b0f7500?utm_campaign=1079&utm_source=git)** | Melbourne, FL | On Site | Nov 15 |
+| ↳ | **[Summer 2026 Software Engineering Intern](https://jobright.ai/jobs/info/68c9ca5ca0c52d598ea3b506?utm_campaign=1079&utm_source=git)** | Melbourne, FL | On Site | Nov 15 |
 | ↳ | **[Summer 2026 Embedded Software Engineering Intern](https://jobright.ai/jobs/info/68e59932b99ec3563b0f71ca?utm_campaign=1079&utm_source=git)** | Simi Valley, CA | On Site | Nov 15 |
 | **[Crane Payment Innovations](http://www.cranepi.com)** | **[Software Intern-Philadelphia metro](https://jobright.ai/jobs/info/69185a0515b4156367181b61?utm_campaign=1079&utm_source=git)** | Malvern, PA | On Site | Nov 15 |
+| **[Journal Technologies](http://journaltech.com/)** | **[Junior QA Intern](https://jobright.ai/jobs/info/6918707815b41563671824d5?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Nov 14 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Software Development Intern (Identity) - Summer 2026](https://jobright.ai/jobs/info/690e894bd046ab6061cfea51?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Nov 14 |
 | **[Docusign](http://www.docusign.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6918183845fb6f5ead8a1c20?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Nov 14 |
 | **[Trek Bicycle](https://www.trekbikes.com/)** | **[QA Engineer Intern](https://jobright.ai/jobs/info/6917e65945fb6f5ead89fa87?utm_campaign=1079&utm_source=git)** | Waterloo, WI | On Site | Nov 14 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Zoox](https://www.zoox.com/)** | **[Core Software Systems Intern](https://jobright.ai/jobs/info/6917a6f645fb6f5ead89d270?utm_campaign=1079&utm_source=git)** | Foster City, CA | Hybrid | Nov 14 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Technical Support (Supplier Quality Assurance Engineer)](https://jobright.ai/jobs/info/6917a552bcdbf3560c9c9c8a?utm_campaign=1079&utm_source=git)** | Lincoln, NE | On Site | Nov 14 |
 | **[IBM](http://www.ibm.com)** | **[SW Developer Intern](https://jobright.ai/jobs/info/6917a36b15b4156367179d5b?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Nov 14 |
-| ↳ | **[SW Developer Intern](https://jobright.ai/jobs/info/6917a123bcdbf3560c9c9957?utm_campaign=1079&utm_source=git)** | Durham, NC | Hybrid | Nov 14 |
-| **[UiPath](https://www.uipath.com)** | **[Front-End Software Engineer Intern](https://jobright.ai/jobs/info/6917a0fe45fb6f5ead89cccd?utm_campaign=1079&utm_source=git)** | Bellevue, WA | On Site | Nov 14 |
-| **[Lumentum](https://www.lumentum.com/en)** | **[Embedded Software Engineer Co-op/Intern](https://jobright.ai/jobs/info/69179fe2bcdbf3560c9c986d?utm_campaign=1079&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Nov 14 |
-| **[Achievers](http://www.achievers.com)** | **[Software Engineering Co-op](https://jobright.ai/jobs/info/69179fc245fb6f5ead89cbf1?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Remote | Nov 14 |
-| **[Southwest Research Institute](http://www.swri.org)** | **[STUDENT ANALYST - STUDENT ASSISTANT-R&D - STUDENT ENGINEER - Software Developer](https://jobright.ai/jobs/info/6917f41415b415636717d291?utm_campaign=1079&utm_source=git)** | San Antonio, TX | On Site | Nov 14 |
-| **[National Renewable Energy Laboratory](http://www.nrel.gov)** | **[Post-Undergraduate/Graduate (Year-Round) Software Engineering Intern for Grid Modeling Applications](https://jobright.ai/jobs/info/691794a8bcdbf3560c9c9111?utm_campaign=1079&utm_source=git)** | Golden, CO | On Site | Nov 14 |
-| **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Internship: Software Engineering (Summer 2026) - Franksville, WI](https://jobright.ai/jobs/info/6917b2a645fb6f5ead89db03?utm_campaign=1079&utm_source=git)** | Franksville, WI | On Site | Nov 14 |
-| **[Cadence](https://www.cadence.com)** | **[Software Intern, Summer (Synthesis)](https://jobright.ai/jobs/info/691793e915b4156367179274?utm_campaign=1079&utm_source=git)** | SAN JOSE | On Site | Nov 14 |
-| **[Two Sigma](https://www.twosigma.com/)** | **[Software Engineering Internship - NYC](https://jobright.ai/jobs/info/691793d945fb6f5ead89c3d0?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
