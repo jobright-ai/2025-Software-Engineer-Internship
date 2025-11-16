@@ -97,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[Swire Coca-Cola, USA](https://www.swirecc.com)** | **[Intern, Power Platform Engineer](https://jobright.ai/jobs/info/68db614834f2c406da6d769a?utm_campaign=1079&utm_source=git)** | Draper, UT | On Site | Nov 15 |
 | **[Waymo](https://waymo.com)** | **[2026 Summer Intern, MS/PhD, Compute, Compiler](https://jobright.ai/jobs/info/68fc317d4129dd33cd139a82?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Nov 15 |
 | **[Sift](https://www.siftstack.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68f66f8a9a65fd345859336c?utm_campaign=1079&utm_source=git)** | El Segundo, CA | Hybrid | Nov 15 |
-| **[Rivian and Volkswagen Group Technologies](https://rivianvw.tech)** | **[Software Engineering Intern - Android Mobile Application Developer](https://jobright.ai/jobs/info/6918706015b41563671824ca?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Nov 15 |
 | **[Nokia](http://www.nokia.com)** | **[Autonomous Net Fabric Co-op/Intern](https://jobright.ai/jobs/info/6918911d45fb6f5ead8a5e8c?utm_campaign=1079&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Nov 15 |
 | **[Emerson](http://www.emerson.com)** | **[Graduate Software Engineering Intern](https://jobright.ai/jobs/info/68cbfe3c16d00d2beeb17dd1?utm_campaign=1079&utm_source=git)** | Round Rock, TX | On Site | Nov 15 |
 | **[Astrolab](https://astrolab.space)** | **[Spring 2026 Software Engineering Intern](https://jobright.ai/jobs/info/68e03e051852e62f007e94c2?utm_campaign=1079&utm_source=git)** | Hawthorne, CA | On Site | Nov 15 |
@@ -153,8 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Nintendo](http://nintendo.com)** | **[Intern - Software Engineer, Multimedia (NTD)](https://jobright.ai/jobs/info/68fbe1e893c49825ab106dd9?utm_campaign=1079&utm_source=git)** | Redmond, WA | On Site | Nov 15 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Software Engineer Intern  - Linthicum MD - R10214616](https://jobright.ai/jobs/info/6918480cbcdbf3560c9d105a?utm_campaign=1079&utm_source=git)** | Linthicum Heights, MD | On Site | Nov 15 |
 | **[AV](https://www.avinc.com/)** | **[Summer 2026 Software Engineering Intern](https://jobright.ai/jobs/info/68cccee4a77e5d7d744f5c31?utm_campaign=1079&utm_source=git)** | Annapolis Junction, MD | On Site | Nov 15 |
-| ↳ | **[Summer 2026 Embedded Software Engineering Intern](https://jobright.ai/jobs/info/68e59e40b99ec3563b0f7500?utm_campaign=1079&utm_source=git)** | Melbourne, FL | On Site | Nov 15 |
 | ↳ | **[Summer 2026 Software Engineering Intern](https://jobright.ai/jobs/info/68c9ca5ca0c52d598ea3b506?utm_campaign=1079&utm_source=git)** | Melbourne, FL | On Site | Nov 15 |
+| ↳ | **[Summer 2026 Embedded Software Engineering Intern](https://jobright.ai/jobs/info/68e59e40b99ec3563b0f7500?utm_campaign=1079&utm_source=git)** | Melbourne, FL | On Site | Nov 15 |
 | ↳ | **[Summer 2026 Embedded Software Engineering Intern](https://jobright.ai/jobs/info/68e59932b99ec3563b0f71ca?utm_campaign=1079&utm_source=git)** | Simi Valley, CA | On Site | Nov 15 |
 | ↳ | **[Summer 2026 Embedded Software Engineering Intern](https://jobright.ai/jobs/info/68e59070ae2b894b1d711320?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Nov 15 |
+| **[Journal Technologies](http://journaltech.com/)** | **[Junior QA Intern](https://jobright.ai/jobs/info/6918707815b41563671824d5?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
