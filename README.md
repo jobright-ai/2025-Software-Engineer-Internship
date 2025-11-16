@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - Production](https://jobright.ai/jobs/info/68c7bdd7369c3763c743b304?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Nov 16 |
+| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Information Systems Assurance - Summer 2026 (Atlanta)](https://jobright.ai/jobs/info/68cb9623ba798c1a501d262d?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Hybrid | Nov 16 |
 | **[Keysight Technologies](https://www.keysight.com)** | **[R&D Software Engineering Internship- KAIDCB](https://jobright.ai/jobs/info/69168b739c388539cbdfc755?utm_campaign=1079&utm_source=git)** | Calabasas, CA | On Site | Nov 16 |
 | **[Deeplocal](http://deeplocal.com)** | **[Creative Technology Intern](https://jobright.ai/jobs/info/69194db4bcdbf3560c9d4d03?utm_campaign=1079&utm_source=git)** | Pittsburgh, PA | Hybrid | Nov 15 |
 | **[Medlaunch Concepts](medlaunchconcepts.com)** | **[Spring 2026 Internship- UI/UX Frontend Developer](https://jobright.ai/jobs/info/69195e2cbcdbf3560c9d5265?utm_campaign=1079&utm_source=git)** | Clearwater, FL | Remote | Nov 15 |
-| **[Egotechworld](https://egotechworld.com/)** | **[Freelance Software Developer](https://jobright.ai/jobs/info/691958f245fb6f5ead8a83f2?utm_campaign=1079&utm_source=git)** | Mobile, AL | Remote | Nov 15 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern in Micro-Computing](https://jobright.ai/jobs/info/6919400445fb6f5ead8a7c7a?utm_campaign=1079&utm_source=git)** | Varennes, Quebec, Canada | On Site | Nov 15 |
 | **[Scale AI](https://scale.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68bf2491702aa35207aa361b?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Nov 15 |
 | **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6918e15cbcdbf3560c9d3c2c?utm_campaign=1079&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Nov 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Embedded Software Engineering Intern](https://jobright.ai/jobs/info/68e59e40b99ec3563b0f7500?utm_campaign=1079&utm_source=git)** | Melbourne, FL | On Site | Nov 15 |
 | ↳ | **[Summer 2026 Software Engineering Intern](https://jobright.ai/jobs/info/68c9ca5ca0c52d598ea3b506?utm_campaign=1079&utm_source=git)** | Melbourne, FL | On Site | Nov 15 |
 | ↳ | **[Summer 2026 Embedded Software Engineering Intern](https://jobright.ai/jobs/info/68e59932b99ec3563b0f71ca?utm_campaign=1079&utm_source=git)** | Simi Valley, CA | On Site | Nov 15 |
-| ↳ | **[Summer 2026 Embedded Software Engineering Intern](https://jobright.ai/jobs/info/68e59070ae2b894b1d711320?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
