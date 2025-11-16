@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Todd](https://toddagriscience.com)** | **[Backend Software Developer Intern (Summer '26)](https://jobright.ai/jobs/info/691a01b215b4156367187cc7?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Nov 16 |
+| **[Raytheon](http://www.bbn.com)** | **[2026 Intern - Software Engineering Intern - Onsite (CA)](https://jobright.ai/jobs/info/691a290d45fb6f5ead8ab1c0?utm_campaign=1079&utm_source=git)** | Fullerton, CA | Hybrid | Nov 16 |
+| ↳ | **[2026 Intern - Software Engineer Intern - Onsite (CA)](https://jobright.ai/jobs/info/691a27f015b4156367188003?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | Nov 16 |
+| **[Oigetit AI Fact-Checker](https://oigetit.ai/)** | **[Quality Assurance Analyst Intern](https://jobright.ai/jobs/info/691a1e3c15b4156367187ee0?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 16 |
+| **[KBI Data](http://www.kbi-data.com)** | **[Software Development Intern (Unpaid)](https://jobright.ai/jobs/info/691a1741bcdbf3560c9d7c1e?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 16 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Software Engineering Intern, AMER](https://jobright.ai/jobs/info/68cc0da77342c7623ae5e299?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Nov 16 |
 | ↳ | **[2026 - Software Engineering Intern, AMER](https://jobright.ai/jobs/info/68cd4252b2a74e1837ed491f?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Nov 16 |
 | ↳ | **[2026 - Software Engineering Intern, AMER](https://jobright.ai/jobs/info/68cd5df71ad6b16f02898c6d?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Nov 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AV](https://www.avinc.com/)** | **[Summer 2026 Software Engineering Intern](https://jobright.ai/jobs/info/68ce220ce23def7af55c28e3?utm_campaign=1079&utm_source=git)** | Arlington, VA | On Site | Nov 15 |
 | **[Rambus](http://www.rambus.com/us)** | **[Intern Digital Verification](https://jobright.ai/jobs/info/68eb4b3a76a1db7c5985e824?utm_campaign=1079&utm_source=git)** | Alameda County, CA | Hybrid | Nov 15 |
 | **[AV](https://www.avinc.com/)** | **[Summer 2026 Embedded Software Engineering Intern](https://jobright.ai/jobs/info/68e5a5ff1852e62f0081349a?utm_campaign=1079&utm_source=git)** | Petaluma, CA | On Site | Nov 15 |
-| ↳ | **[Summer 2026 Software Engineering Intern](https://jobright.ai/jobs/info/68c9c9f2f9c6ff7aedf1da7a?utm_campaign=1079&utm_source=git)** | Germantown, MD | On Site | Nov 15 |
-| ↳ | **[Summer 2026 Software Engineering Intern](https://jobright.ai/jobs/info/68cef07ddbd9fb154ede3af0?utm_campaign=1079&utm_source=git)** | Lawrence, KS | On Site | Nov 15 |
-| ↳ | **[Summer 2026 Software Engineering Intern](https://jobright.ai/jobs/info/68ce416f1ad6b16f028a35bf?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | On Site | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
