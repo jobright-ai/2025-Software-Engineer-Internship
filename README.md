@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[dataing](https://www.dataing.io/)** | **[Software Developer Intern](https://jobright.ai/jobs/info/691a387a15b4156367188265?utm_campaign=1079&utm_source=git)** | LA Metro Area | Hybrid | Nov 16 |
 | **[Raytheon](http://www.bbn.com)** | **[2026 Intern - Software Engineering Intern - Onsite (CA)](https://jobright.ai/jobs/info/691a290d45fb6f5ead8ab1c0?utm_campaign=1079&utm_source=git)** | Fullerton, CA | Hybrid | Nov 16 |
 | ↳ | **[2026 Intern - Software Engineer Intern - Onsite (CA)](https://jobright.ai/jobs/info/691a27f015b4156367188003?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | Nov 16 |
 | **[Oigetit AI Fact-Checker](https://oigetit.ai/)** | **[Quality Assurance Analyst Intern](https://jobright.ai/jobs/info/691a1e3c15b4156367187ee0?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 16 |
-| **[KBI Data](http://www.kbi-data.com)** | **[Software Development Intern (Unpaid)](https://jobright.ai/jobs/info/691a1741bcdbf3560c9d7c1e?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 16 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Software Engineering Intern, AMER](https://jobright.ai/jobs/info/68cc0da77342c7623ae5e299?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Nov 16 |
 | ↳ | **[2026 - Software Engineering Intern, AMER](https://jobright.ai/jobs/info/68cd4252b2a74e1837ed491f?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Nov 16 |
 | ↳ | **[2026 - Software Engineering Intern, AMER](https://jobright.ai/jobs/info/68cd5df71ad6b16f02898c6d?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Nov 16 |
