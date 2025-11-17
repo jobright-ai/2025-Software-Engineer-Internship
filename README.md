@@ -58,9 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[BlueHalo, an AV company](https://www.bluehalo.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/691a97d015b4156367189256?utm_campaign=1079&utm_source=git)** | Fort Lauderdale, FL | On Site | Nov 16 |
-| **[Vibes Meet LLC](vibesmeet.com)** | **[React Native developer Intern – Remote (Unpaid to Paid)](https://jobright.ai/jobs/info/691a8a1945fb6f5ead8abc1b?utm_campaign=1079&utm_source=git)** | Canada | Remote | Nov 16 |
-| **[GenPark](https://genpark.ai)** | **[Android Developer Intern](https://jobright.ai/jobs/info/691a8919bcdbf3560c9d8871?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Nov 16 |
-| **[Northmere Solutions](https://www.linkedin.com/company/104898627)** | **[Co-op, Firmware Engineering](https://jobright.ai/jobs/info/691a84e5bcdbf3560c9d8658?utm_campaign=1079&utm_source=git)** | Milwaukee, WI | Remote | Nov 16 |
 | **[Framatome](http://www.framatome.com)** | **[Intern / Co - Op Software/Computer Science Engineer](https://jobright.ai/jobs/info/691a7ab245fb6f5ead8ab8d5?utm_campaign=1079&utm_source=git)** | Richland, WA | On Site | Nov 16 |
 | **[Riot Games](http://www.riotgames.com)** | **[Research Scientist Intern, Next-Gen Gameplay - Summer 2026 (Remote)](https://jobright.ai/jobs/info/6908f83abcccf20de59d570f?utm_campaign=1079&utm_source=git)** | Los Angeles, USA | Remote | Nov 16 |
 | **[Raytheon](http://www.bbn.com)** | **[2026 Intern - Software Engineer Intern - Onsite (CA)](https://jobright.ai/jobs/info/691a27f015b4156367188003?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | Nov 16 |
@@ -140,8 +137,8 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Trust and Safety - Engineering-Core Safety) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68fb1599e154835f11ef98fe?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Nov 15 |
 | **[ByteDance](http://bytedance.com)** | **[Software Engineer Intern (Relational Database) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/690d944844146d3b6ec4de68?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Nov 15 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Recommendation Infrastructure) - 2026 Summer (Bachelor/Master)](https://jobright.ai/jobs/info/68ce38b31ad6b16f028a3347?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Nov 15 |
-| ↳ | **[Backend Software Engineer Intern (TikTok-Social-Friend Interaction) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68faef7d8d32c164778ccc0f?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Nov 15 |
 | ↳ | **[Software Engineer Intern (Recommendation Infrastructure) - 2025 Summer/Fall (BS/ MS)](https://jobright.ai/jobs/info/688ee94e6a4aac5783cdb4f6?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Nov 15 |
+| ↳ | **[Backend Software Engineer Intern (TikTok-Social-Friend Interaction) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68faef7d8d32c164778ccc0f?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Nov 15 |
 | ↳ | **[Software Development Test Engineer Intern (Trust and Safety - QA)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cbfdb5128dc347fd91d020?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Nov 15 |
 | **[ByteDance](http://bytedance.com)** | **[Backend Software Engineer Intern (Global E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/690d880444146d3b6ec4d96b?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Nov 15 |
 | ↳ | **[Backend Software Engineer Intern (Global E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/690cf2a74a1b456627b1bbc1?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Nov 15 |
@@ -157,4 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Development Engineer Intern (Network Automation)- 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/690d44b64a1b456627b1feb7?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Nov 15 |
 | **[AV](https://www.avinc.com/)** | **[Summer 2026 Software Engineering Intern](https://jobright.ai/jobs/info/68ce220ce23def7af55c28e3?utm_campaign=1079&utm_source=git)** | Arlington, VA | On Site | Nov 15 |
 | **[Rambus](http://www.rambus.com/us)** | **[Intern Digital Verification](https://jobright.ai/jobs/info/68eb4b3a76a1db7c5985e824?utm_campaign=1079&utm_source=git)** | Alameda County, CA | Hybrid | Nov 15 |
+| **[AV](https://www.avinc.com/)** | **[Summer 2026 Embedded Software Engineering Intern](https://jobright.ai/jobs/info/68e5a5ff1852e62f0081349a?utm_campaign=1079&utm_source=git)** | Petaluma, CA | On Site | Nov 15 |
+| ↳ | **[Summer 2026 Software Engineering Intern](https://jobright.ai/jobs/info/68c9c9f2f9c6ff7aedf1da7a?utm_campaign=1079&utm_source=git)** | Germantown, MD | On Site | Nov 15 |
+| ↳ | **[Summer 2026 Software Engineering Intern](https://jobright.ai/jobs/info/68cef07ddbd9fb154ede3af0?utm_campaign=1079&utm_source=git)** | Lawrence, KS | On Site | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
