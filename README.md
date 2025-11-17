@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Raytheon](http://www.bbn.com)** | **[2026 Intern - Software Engineering Intern - Onsite (CA)](https://jobright.ai/jobs/info/691a290d45fb6f5ead8ab1c0?utm_campaign=1079&utm_source=git)** | Fullerton, CA | Hybrid | Nov 16 |
-| ↳ | **[2026 Intern - Software Engineer Intern - Onsite (CA)](https://jobright.ai/jobs/info/691a27f015b4156367188003?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | Nov 16 |
+| **[Framatome](http://www.framatome.com)** | **[Intern / Co - Op Software/Computer Science Engineer](https://jobright.ai/jobs/info/691a7ab245fb6f5ead8ab8d5?utm_campaign=1079&utm_source=git)** | Richland, WA | On Site | Nov 16 |
+| **[Riot Games](http://www.riotgames.com)** | **[Research Scientist Intern, Next-Gen Gameplay - Summer 2026 (Remote)](https://jobright.ai/jobs/info/6908f83abcccf20de59d570f?utm_campaign=1079&utm_source=git)** | Los Angeles, USA | Remote | Nov 16 |
+| **[Raytheon](http://www.bbn.com)** | **[2026 Intern - Software Engineer Intern - Onsite (CA)](https://jobright.ai/jobs/info/691a27f015b4156367188003?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | Nov 16 |
 | ↳ | **[2026 Intern - Software Engineering Intern - Onsite (CA)](https://jobright.ai/jobs/info/691a279f15b4156367187fe9?utm_campaign=1079&utm_source=git)** | Fullerton, CA | Hybrid | Nov 16 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Software Engineering Intern, AMER](https://jobright.ai/jobs/info/68cc0da77342c7623ae5e299?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Nov 16 |
 | ↳ | **[2026 - Software Engineering Intern, AMER](https://jobright.ai/jobs/info/68cd4252b2a74e1837ed491f?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Nov 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AV](https://www.avinc.com/)** | **[Summer 2026 Embedded Software Engineering Intern](https://jobright.ai/jobs/info/68e5a5ff1852e62f0081349a?utm_campaign=1079&utm_source=git)** | Petaluma, CA | On Site | Nov 15 |
 | ↳ | **[Summer 2026 Software Engineering Intern](https://jobright.ai/jobs/info/68c9c9f2f9c6ff7aedf1da7a?utm_campaign=1079&utm_source=git)** | Germantown, MD | On Site | Nov 15 |
 | ↳ | **[Summer 2026 Software Engineering Intern](https://jobright.ai/jobs/info/68cef07ddbd9fb154ede3af0?utm_campaign=1079&utm_source=git)** | Lawrence, KS | On Site | Nov 15 |
-| ↳ | **[Summer 2026 Software Engineering Intern](https://jobright.ai/jobs/info/68ce416f1ad6b16f028a35bf?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | On Site | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
