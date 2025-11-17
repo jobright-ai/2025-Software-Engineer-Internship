@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - AI Software Engineer (Memphis, TN)](https://jobright.ai/jobs/info/691acc4445fb6f5ead8adc88?utm_campaign=1079&utm_source=git)** | Memphis, TN | On Site | Nov 16 |
-| ↳ | **[Summer 2026 Intern - Web Software Engineer (Memphis, TN)](https://jobright.ai/jobs/info/691ac8ab15b415636718a8d1?utm_campaign=1079&utm_source=git)** | Memphis, TN | On Site | Nov 16 |
+| **[RTX](http://www.raytheon.com)** | **[2026 Intern - Software Engineering Intern - Onsite (CA)](https://jobright.ai/jobs/info/691aeae845fb6f5ead8aef18?utm_campaign=1079&utm_source=git)** | CA550: Fullerton, CA Bldg 675 1801 West Hughes Drive Building 675, Fullerton, CA, 92834 USA | Hybrid | Nov 17 |
+| ↳ | **[2026 Intern - Software Engineering Intern - Onsite (CA)](https://jobright.ai/jobs/info/691ae69ebcdbf3560c9db636?utm_campaign=1079&utm_source=git)** | CA550: Fullerton, CA Bldg 675 1801 West Hughes Drive Building 675, Fullerton, CA, 92834 USA | Hybrid | Nov 17 |
+| **[The Applied Research Laboratory at Penn State University](https://www.arl.psu.edu)** | **[Agile Methods Management Intern](https://jobright.ai/jobs/info/691addd515b415636718b592?utm_campaign=1079&utm_source=git)** | University Park, PA | On Site | Nov 17 |
+| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - IT](https://jobright.ai/jobs/info/691ad743bcdbf3560c9dafc1?utm_campaign=1079&utm_source=git)** | Memphis, TN | On Site | Nov 17 |
+| ↳ | **[Summer 2026 Intern - AI Software Engineer (Memphis, TN)](https://jobright.ai/jobs/info/691ad66545fb6f5ead8ae2e6?utm_campaign=1079&utm_source=git)** | Memphis, TN | On Site | Nov 17 |
+| ↳ | **[Summer 2026 Intern - Web Software Engineer (Memphis, TN)](https://jobright.ai/jobs/info/691ad62d15b415636718b1aa?utm_campaign=1079&utm_source=git)** | Memphis, TN | On Site | Nov 17 |
 | **[BlueHalo, an AV company](https://www.bluehalo.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/691a97d015b4156367189256?utm_campaign=1079&utm_source=git)** | Fort Lauderdale, FL | On Site | Nov 16 |
 | **[Framatome](http://www.framatome.com)** | **[Intern / Co - Op Software/Computer Science Engineer](https://jobright.ai/jobs/info/691a7ab245fb6f5ead8ab8d5?utm_campaign=1079&utm_source=git)** | Richland, WA | On Site | Nov 16 |
 | **[Riot Games](http://www.riotgames.com)** | **[Research Scientist Intern, Next-Gen Gameplay - Summer 2026 (Remote)](https://jobright.ai/jobs/info/6908f83abcccf20de59d570f?utm_campaign=1079&utm_source=git)** | Los Angeles, USA | Remote | Nov 16 |
@@ -78,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Timing AI](sparkingtiming.com)** | **[Frontend engineer intern](https://jobright.ai/jobs/info/6919cb3215b4156367187586?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | Remote | Nov 15 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern in Micro-Computing](https://jobright.ai/jobs/info/6919400445fb6f5ead8a7c7a?utm_campaign=1079&utm_source=git)** | Varennes, Quebec, Canada | On Site | Nov 15 |
 | **[Scale AI](https://scale.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68bf2491702aa35207aa361b?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Nov 15 |
-| **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6918e15cbcdbf3560c9d3c2c?utm_campaign=1079&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Nov 15 |
 | **[The Aerospace Corporation](http://www.aerospace.org)** | **[2026 Enterprise Performance Modeling and Simulation Graduate Intern](https://jobright.ai/jobs/info/6918d3c5bcdbf3560c9d3a3a?utm_campaign=1079&utm_source=git)** | Colorado Springs, CO | On Site | Nov 15 |
 | ↳ | **[2026 Enterprise Performance Modeling and Simulation Graduate Intern](https://jobright.ai/jobs/info/6918cfb845fb6f5ead8a6cf5?utm_campaign=1079&utm_source=git)** | Colorado Springs, CO | On Site | Nov 15 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2026 Full Stack Engineering Intern](https://jobright.ai/jobs/info/68fc017393c49825ab10891f?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Nov 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Dev Ops Engineer](https://jobright.ai/jobs/info/68cd181db2a74e1837ed228d?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Nov 15 |
 | **[ByteDance](http://bytedance.com)** | **[Software Engineer Intern (NoSQL Databases) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68c786757d0db4114273cb73?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Nov 15 |
 | ↳ | **[Software Development Engineer Intern (Network Automation)- 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/690d44b64a1b456627b1feb7?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Nov 15 |
-| **[AV](https://www.avinc.com/)** | **[Summer 2026 Software Engineering Intern](https://jobright.ai/jobs/info/68ce220ce23def7af55c28e3?utm_campaign=1079&utm_source=git)** | Arlington, VA | On Site | Nov 15 |
-| **[Rambus](http://www.rambus.com/us)** | **[Intern Digital Verification](https://jobright.ai/jobs/info/68eb4b3a76a1db7c5985e824?utm_campaign=1079&utm_source=git)** | Alameda County, CA | Hybrid | Nov 15 |
-| **[AV](https://www.avinc.com/)** | **[Summer 2026 Embedded Software Engineering Intern](https://jobright.ai/jobs/info/68e5a5ff1852e62f0081349a?utm_campaign=1079&utm_source=git)** | Petaluma, CA | On Site | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
