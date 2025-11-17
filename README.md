@@ -57,10 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[dataing](https://www.dataing.io/)** | **[Software Developer Intern](https://jobright.ai/jobs/info/691a387a15b4156367188265?utm_campaign=1079&utm_source=git)** | LA Metro Area | Hybrid | Nov 16 |
 | **[Raytheon](http://www.bbn.com)** | **[2026 Intern - Software Engineering Intern - Onsite (CA)](https://jobright.ai/jobs/info/691a290d45fb6f5ead8ab1c0?utm_campaign=1079&utm_source=git)** | Fullerton, CA | Hybrid | Nov 16 |
 | ↳ | **[2026 Intern - Software Engineer Intern - Onsite (CA)](https://jobright.ai/jobs/info/691a27f015b4156367188003?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | Nov 16 |
-| **[Oigetit AI Fact-Checker](https://oigetit.ai/)** | **[Quality Assurance Analyst Intern](https://jobright.ai/jobs/info/691a1e3c15b4156367187ee0?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 16 |
+| ↳ | **[2026 Intern - Software Engineering Intern - Onsite (CA)](https://jobright.ai/jobs/info/691a279f15b4156367187fe9?utm_campaign=1079&utm_source=git)** | Fullerton, CA | Hybrid | Nov 16 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Software Engineering Intern, AMER](https://jobright.ai/jobs/info/68cc0da77342c7623ae5e299?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Nov 16 |
 | ↳ | **[2026 - Software Engineering Intern, AMER](https://jobright.ai/jobs/info/68cd4252b2a74e1837ed491f?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Nov 16 |
 | ↳ | **[2026 - Software Engineering Intern, AMER](https://jobright.ai/jobs/info/68cd5df71ad6b16f02898c6d?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Nov 16 |
@@ -72,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Information Systems Assurance - Summer 2026 (Atlanta)](https://jobright.ai/jobs/info/68cb9623ba798c1a501d262d?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Hybrid | Nov 16 |
 | **[Keysight Technologies](https://www.keysight.com)** | **[R&D Software Engineering Internship- KAIDCB](https://jobright.ai/jobs/info/69168b739c388539cbdfc755?utm_campaign=1079&utm_source=git)** | Calabasas, CA | On Site | Nov 16 |
 | **[Deeplocal](http://deeplocal.com)** | **[Creative Technology Intern](https://jobright.ai/jobs/info/69194db4bcdbf3560c9d4d03?utm_campaign=1079&utm_source=git)** | Pittsburgh, PA | Hybrid | Nov 15 |
-| **[Medlaunch Concepts](medlaunchconcepts.com)** | **[Spring 2026 Internship- UI/UX Frontend Developer](https://jobright.ai/jobs/info/69195e2cbcdbf3560c9d5265?utm_campaign=1079&utm_source=git)** | Clearwater, FL | Remote | Nov 15 |
 | **[Timing AI](sparkingtiming.com)** | **[Frontend engineer intern](https://jobright.ai/jobs/info/6919cb3215b4156367187586?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | Remote | Nov 15 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern in Micro-Computing](https://jobright.ai/jobs/info/6919400445fb6f5ead8a7c7a?utm_campaign=1079&utm_source=git)** | Varennes, Quebec, Canada | On Site | Nov 15 |
 | **[Scale AI](https://scale.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68bf2491702aa35207aa361b?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Nov 15 |
@@ -82,8 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Intuit](https://www.intuit.com)** | **[Summer 2026 Full Stack Engineering Intern](https://jobright.ai/jobs/info/68fc017393c49825ab10891f?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Nov 15 |
 | ↳ | **[Summer 2026 Backend Engineering Intern](https://jobright.ai/jobs/info/68fc0a8c93c49825ab10915a?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Nov 15 |
 | ↳ | **[Summer 2026 Front End Engineering Intern](https://jobright.ai/jobs/info/68fbfefcf55bb021a889f33f?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Nov 15 |
-| **[Medlaunch Concepts](medlaunchconcepts.com)** | **[Spring 2026 Internship- Backend Developer](https://jobright.ai/jobs/info/6918cfa245fb6f5ead8a6ce8?utm_campaign=1079&utm_source=git)** | Clearwater, FL | Remote | Nov 15 |
-| **[Intuit](https://www.intuit.com)** | **[Summer 2026 Front End Engineering Intern](https://jobright.ai/jobs/info/68fc018e93c49825ab10893f?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Nov 15 |
+| ↳ | **[Summer 2026 Front End Engineering Intern](https://jobright.ai/jobs/info/68fc018e93c49825ab10893f?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Nov 15 |
 | ↳ | **[Summer 2026 Full Stack Engineering Intern](https://jobright.ai/jobs/info/690d539dd046ab6061cf55a8?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Nov 15 |
 | ↳ | **[Summer 2026 Backend Engineering Intern](https://jobright.ai/jobs/info/68fc16c3f55bb021a88a059d?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Nov 15 |
 | ↳ | **[Summer 2026 Mobile(iOS/Android) Intern](https://jobright.ai/jobs/info/68fc11d8f55bb021a88a02de?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Nov 15 |
@@ -157,4 +154,7 @@ For a complete list, click the following sortable link below:
 | **[AV](https://www.avinc.com/)** | **[Summer 2026 Software Engineering Intern](https://jobright.ai/jobs/info/68ce220ce23def7af55c28e3?utm_campaign=1079&utm_source=git)** | Arlington, VA | On Site | Nov 15 |
 | **[Rambus](http://www.rambus.com/us)** | **[Intern Digital Verification](https://jobright.ai/jobs/info/68eb4b3a76a1db7c5985e824?utm_campaign=1079&utm_source=git)** | Alameda County, CA | Hybrid | Nov 15 |
 | **[AV](https://www.avinc.com/)** | **[Summer 2026 Embedded Software Engineering Intern](https://jobright.ai/jobs/info/68e5a5ff1852e62f0081349a?utm_campaign=1079&utm_source=git)** | Petaluma, CA | On Site | Nov 15 |
+| ↳ | **[Summer 2026 Software Engineering Intern](https://jobright.ai/jobs/info/68c9c9f2f9c6ff7aedf1da7a?utm_campaign=1079&utm_source=git)** | Germantown, MD | On Site | Nov 15 |
+| ↳ | **[Summer 2026 Software Engineering Intern](https://jobright.ai/jobs/info/68cef07ddbd9fb154ede3af0?utm_campaign=1079&utm_source=git)** | Lawrence, KS | On Site | Nov 15 |
+| ↳ | **[Summer 2026 Software Engineering Intern](https://jobright.ai/jobs/info/68ce416f1ad6b16f028a35bf?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | On Site | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
