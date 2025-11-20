@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cloudflare](http://www.cloudflare.com)** | **[Research Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/691ea3b2a49a885af9a2a19e?utm_campaign=1079&utm_source=git)** | In-Office | On Site | Nov 19 |
+| **[Blue Seagull Group](https://www.linkedin.com/company/106038611)** | **[Frontend Development Internship (Unpaid)](https://jobright.ai/jobs/info/691e9d723f782d2f1afb618b?utm_campaign=1079&utm_source=git)** | Texas, United States | Remote | Nov 19 |
+| **[General Dynamics](https://www.gd.com)** | **[Software Intern Engineer - Tactical Radios](https://jobright.ai/jobs/info/691e93cb3f782d2f1afb5f3b?utm_campaign=1079&utm_source=git)** | USA-AZ-Scottsdale | Hybrid | Nov 19 |
+| **[Tencent](https://www.tencent.com/)** | **[Hunyuan AIGC Algorithm Researcher intern (World Model Foundation Direction)](https://jobright.ai/jobs/info/691e9305a49a885af9a29c1d?utm_campaign=1079&utm_source=git)** | US-California-Palo Alto | On Site | Nov 19 |
+| **[General Dynamics](https://www.gd.com)** | **[Intern Software Engineer](https://jobright.ai/jobs/info/691e92d0a49a885af9a29c0e?utm_campaign=1079&utm_source=git)** | USA-FL-Orlando | Hybrid | Nov 19 |
+| **[Balance Now](https://www.balance.ca)** | **[WordPress Programmer/Designer Team Member](https://jobright.ai/jobs/info/691e916ea49a885af9a29bc9?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 19 |
 | **[Todd](https://toddagriscience.com)** | **[Fullstack Software Developer Intern (Summer '26)](https://jobright.ai/jobs/info/691e857d09cc522e8773aad7?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Nov 19 |
-| **[Talentix](https://thetalentix.com/)** | **[UI Engineer – Product Build Team - Internship](https://jobright.ai/jobs/info/691e7ff3a49a885af9a2939e?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Nov 19 |
 | **[IMC Trading](https://www.imc.com/us/imc-investments/)** | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/691e7de43f782d2f1afb54a4?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Nov 19 |
 | **[Oracle](https://www.oracle.com/)** | **[ONA AI Agent Intern (Logistics Focus) - OVIP](https://jobright.ai/jobs/info/691e7b9f3f782d2f1afb5219?utm_campaign=1079&utm_source=git)** | Austin, TX, United States | On Site | Nov 19 |
 | **[MediaTek](http://www.mediatek.com)** | **[[2026 Summer] CAD engineer](https://jobright.ai/jobs/info/691e7b26a49a885af9a28f1d?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Nov 19 |
@@ -78,7 +83,9 @@ For a complete list, click the following sortable link below:
 | **[Kwaza Games LLC](http://etwaves.online)** | **[(Internship/Unpaid) Unity Programmer/3D Modeling/ AI prompting](https://jobright.ai/jobs/info/691e61e509cc522e87739693?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 19 |
 | **[SYSTRA Canada](https://www.systracanada.com/en/)** | **[IT Developer Intern – OLSC](https://jobright.ai/jobs/info/691e5fac3f782d2f1afb4380?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 19 |
 | **[NinjaTrader](http://www.ninjatrader.com)** | **[Software Engineer Intern, FCM - Summer 2026](https://jobright.ai/jobs/info/691e5d283f782d2f1afb4283?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Nov 19 |
-| **[Oracle](https://www.oracle.com/)** | **[OCI Software Engineer Intern - OVIP](https://jobright.ai/jobs/info/691e569a09cc522e877391d3?utm_campaign=1079&utm_source=git)** | Nashville, TN | On Site | Nov 19 |
+| **[DatologyAI](https://www.datologyai.com/)** | **[Software Engineer Intern, Infrastructure](https://jobright.ai/jobs/info/691e9a2f3f782d2f1afb610e?utm_campaign=1079&utm_source=git)** | Redwood City | On Site | Nov 19 |
+| **[Oracle](https://www.oracle.com/)** | **[OCI Software Engineer Intern - OVIP](https://jobright.ai/jobs/info/691e57ad09cc522e877392bf?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Nov 19 |
+| ↳ | **[OCI Software Engineer Intern - OVIP](https://jobright.ai/jobs/info/691e569a09cc522e877391d3?utm_campaign=1079&utm_source=git)** | Nashville, TN | On Site | Nov 19 |
 | ↳ | **[OCI Software Engineer Intern - OVIP](https://jobright.ai/jobs/info/691e565909cc522e8773919e?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 19 |
 | **[Volaris Group](http://www.volarisgroup.com/)** | **[Junior Quality Assurance Test Intern](https://jobright.ai/jobs/info/691e55463f782d2f1afb3e6f?utm_campaign=1079&utm_source=git)** | United, TX | On Site | Nov 19 |
 | **[NinjaTrader](http://www.ninjatrader.com)** | **[Software Engineer in Test Intern - Summer 2026](https://jobright.ai/jobs/info/691e542809cc522e87739061?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Nov 19 |
@@ -101,8 +108,8 @@ For a complete list, click the following sortable link below:
 | **[Oracle](https://www.oracle.com/)** | **[Java Software Engineer Intern - Oracle Health & Analytics](https://jobright.ai/jobs/info/691e44d8a49a885af9a26fce?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Nov 19 |
 | ↳ | **[OCI Software Engineer Intern - OVIP](https://jobright.ai/jobs/info/691e444609cc522e877383fb?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 19 |
 | **[Tencent](https://www.tencent.com/)** | **[Game Operations Intern](https://jobright.ai/jobs/info/691e43863f782d2f1afb30ec?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Nov 19 |
-| **[Oracle](https://www.oracle.com/)** | **[OCI Software Engineer Intern - OVIP](https://jobright.ai/jobs/info/691e620509cc522e877396a0?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Nov 19 |
-| ↳ | **[Java Software Engineer Intern - Oracle Health & Analytics](https://jobright.ai/jobs/info/691e5e4a3f782d2f1afb42ff?utm_campaign=1079&utm_source=git)** | Pleasanton, CA | On Site | Nov 19 |
+| **[Oracle](https://www.oracle.com/)** | **[Java Software Engineer Intern - Oracle Health & Analytics](https://jobright.ai/jobs/info/691e5e4a3f782d2f1afb42ff?utm_campaign=1079&utm_source=git)** | Pleasanton, CA | On Site | Nov 19 |
+| ↳ | **[OCI Software Engineer Intern - OVIP](https://jobright.ai/jobs/info/691e620509cc522e877396a0?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Nov 19 |
 | ↳ | **[Java Software Engineer Intern - Oracle Health & Analytics](https://jobright.ai/jobs/info/691e5e043f782d2f1afb42eb?utm_campaign=1079&utm_source=git)** | Redwood City, CA | On Site | Nov 19 |
 | **[Cisco](http://www.cisco.com)** | **[Software Engineer Backend/Platform Systems I (Intern) – United States](https://jobright.ai/jobs/info/691e3be709cc522e87737f04?utm_campaign=1079&utm_source=git)** | Alpharetta, GA | On Site | Nov 19 |
 | ↳ | **[Software Engineer Embedded/Network Systems I (Intern) - United States](https://jobright.ai/jobs/info/691e3b84a49a885af9a26a08?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Nov 19 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Geotab](http://www.geotab.com/)** | **[Software Developer Intern, Altitude (Winter/January 2026, 8+ Months)](https://jobright.ai/jobs/info/691e12bb3f782d2f1afb094e?utm_campaign=1079&utm_source=git)** | Oakville, Ontario - Canada | On Site | Nov 19 |
 | **[York Space Systems LLC](http://www.yorkspacesystems.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/691d72c40b7dff73415038c7?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO | On Site | Nov 19 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Software Engineer](https://jobright.ai/jobs/info/69054f30ff462851feffc995?utm_campaign=1079&utm_source=git)** | Lexington, KY | Hybrid | Nov 19 |
-| **[Kiewit](http://www.kiewit.com)** | **[Integrative Engineering (IETS) Intern - Kiewit Infrastructure Engineers (Summer 2026) - Oakville, ON](https://jobright.ai/jobs/info/691dc03f748c4e1301ec8385?utm_campaign=1079&utm_source=git)** | Oakville, Ontario, Canada | On Site | Nov 19 |
-| **[RTX](http://www.raytheon.com)** | **[Summer 2026 Intern - Full Stack Developer (Onsite)](https://jobright.ai/jobs/info/691de39b748c4e1301ec9e5b?utm_campaign=1079&utm_source=git)** | MA105: BBN Headquarters 10 Moulton Street  , Cambridge, MA, 02138 USA | On Site | Nov 19 |
-| **[SageSure](https://www.sagesure.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6902234398707b2b0fe6cafd?utm_campaign=1079&utm_source=git)** | Jersey City, NJ | On Site | Nov 19 |
-| **[Ciena](http://www.ciena.com)** | **[Solutions Engineer & Introduction Intern - Winter 2026](https://jobright.ai/jobs/info/691db1e061dc50590a649315?utm_campaign=1079&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Nov 19 |
-| **[Thorlabs](http://www.thorlabs.com)** | **[Summer 2026 Information Technology Internship](https://jobright.ai/jobs/info/691dfd4609cc522e87734850?utm_campaign=1079&utm_source=git)** | Jessup, MD | On Site | Nov 19 |
-| **[Ciena](http://www.ciena.com)** | **[Solutions Engineer & Introduction Intern - Winter 2026](https://jobright.ai/jobs/info/691e03943f782d2f1afafc1f?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Nov 19 |
-| **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Infotainment Software Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/691e02ab3f782d2f1afafb4d?utm_campaign=1079&utm_source=git)** | Superior, MI | Hybrid | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
