@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Altera](https://www.altera.com)** | **[PEY Software Engineer Intern](https://jobright.ai/jobs/info/6920355d3f782d2f1afc3ae0?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 21 |
+| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - CXL Memory](https://jobright.ai/jobs/info/69201e2f09cc522e87748320?utm_campaign=1079&utm_source=git)** | Mountain View, CA | Hybrid | Nov 21 |
 | **[Ciena](http://www.ciena.com)** | **[Software Engineering Intern (Winter 2026)](https://jobright.ai/jobs/info/69200172a49a885af9a35d81?utm_campaign=1079&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Nov 20 |
 | **[Radix Trading LLC](https://radix.trade)** | **[Quantitative Technologist (C++ Intern - Summer 2026)](https://jobright.ai/jobs/info/6897ea211b9e81727f1a2fd0?utm_campaign=1079&utm_source=git)** | Chicago | On Site | Nov 20 |
 | **[Tactile Medical](https://tactilemedical.com)** | **[Digital Software Engineer Intern](https://jobright.ai/jobs/info/691ff2c509cc522e87746f42?utm_campaign=1079&utm_source=git)** | St Paul, MN | Hybrid | Nov 20 |
@@ -76,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Connex AI](www.connexai.org)** | **[Frontend & Mobile App Developers Internship](https://jobright.ai/jobs/info/691fc97009cc522e877455d3?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 20 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - System Software Engineering](https://jobright.ai/jobs/info/691fc36a09cc522e87745328?utm_campaign=1079&utm_source=git)** | Richardson, TX | On Site | Nov 20 |
 | **[OTTO Engineering, Inc.](http://www.ottoexcellence.com)** | **[Firmware/Embedded Engineer Internship - Communications](https://jobright.ai/jobs/info/692004123f782d2f1afc22e9?utm_campaign=1079&utm_source=git)** | Carpentersville, IL | On Site | Nov 20 |
-| **[Biogen](https://www.biogen.com/en_us/home.html)** | **[Intern, Information Technology](https://jobright.ai/jobs/info/69200e5909cc522e877479f1?utm_campaign=1079&utm_source=git)** | Triangle, NC | On Site | Nov 20 |
 | **[Western Governors University](http://www.wgu.edu/)** | **[Software Engineer Internship (10-15 hrs/week)](https://jobright.ai/jobs/info/691fbd42a49a885af9a33956?utm_campaign=1079&utm_source=git)** | Nashville, TN | On Site | Nov 20 |
 | **[Tepa Companies](https://www.tepa.com/)** | **[Innovation Intern - Summer 2026](https://jobright.ai/jobs/info/691fdd85a49a885af9a34ded?utm_campaign=1079&utm_source=git)** | Maitland, FL | Hybrid | Nov 20 |
 | **[RTX](http://www.raytheon.com)** | **[2026 Intern - Software Engineer Intern - Onsite (MA)](https://jobright.ai/jobs/info/691fad48a49a885af9a33145?utm_campaign=1079&utm_source=git)** | MA801: Marlborough, MA 1001 Boston Post Road Building 2, Marlborough, MA, 01752 USA | Hybrid | Nov 20 |
@@ -145,16 +146,15 @@ For a complete list, click the following sortable link below:
 | **[Tencent](https://www.tencent.com/)** | **[Hunyuan AIGC Algorithm Researcher intern (World Model Foundation Direction)](https://jobright.ai/jobs/info/691f1beaa49a885af9a2c3d1?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Nov 20 |
 | **[Verkada](https://www.verkada.com)** | **[Frontend Software Engineering Intern 2026](https://jobright.ai/jobs/info/68cd5e8d1ad6b16f02898dba?utm_campaign=1079&utm_source=git)** | San Mateo, CA | On Site | Nov 20 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Design Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68acf031d627244576e49fc8?utm_campaign=1079&utm_source=git)** | Fort Lauderdale, FL | On Site | Nov 20 |
-| ↳ | **[Design Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac9ae1daf1431824c96542?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Nov 20 |
 | **[Labatt Breweries of Canada](http://www.labattjobs.com/)** | **[Technology Internship](https://jobright.ai/jobs/info/691dc7fe748c4e1301ec8a42?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 20 |
 | **[Apex Fintech Solutions](https://apexfintechsolutions.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68cf487cdbd9fb154ede6078?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Nov 20 |
 | **[Dyson Benelux](http://www.dyson.com)** | **[Cloud Software Engineering Intern](https://jobright.ai/jobs/info/691f36c43f782d2f1afb937b?utm_campaign=1079&utm_source=git)** | St James, NY | On Site | Nov 20 |
 | **[Garner Health](https://www.getgarner.com/)** | **[Full Stack Engineering Intern](https://jobright.ai/jobs/info/68e69823ae2b894b1d71ba15?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Nov 20 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Design Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68ccf5a777add66568abca07?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Nov 20 |
 | **[OpenHands](https://all-hands.dev)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/691fd09209cc522e87745b9a?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 20 |
 | **[IBM](http://www.ibm.com)** | **[Z Infrastructure Solutions Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/691c04b7bcdbf3560c9e4f5b?utm_campaign=1079&utm_source=git)** | Armonk, NY | Hybrid | Nov 20 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Test Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68cfc239846f0b04af684bcd?utm_campaign=1079&utm_source=git)** | Fort Lauderdale, FL | On Site | Nov 20 |
 | **[Lila Sciences](https://www.lila.ai)** | **[Intern, Security & Cloud Engineering](https://jobright.ai/jobs/info/68e6822aae2b894b1d71ae6e?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Nov 20 |
+| **[Rivian and Volkswagen Group Technologies](https://rivianvw.tech)** | **[Software Engineering Intern - Software Automation, Connected Systems](https://jobright.ai/jobs/info/692027a23f782d2f1afc337e?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Nov 20 |
 | **[IBM](http://www.ibm.com)** | **[Back End Developer Intern 2026](https://jobright.ai/jobs/info/690d6773221b890c278065b7?utm_campaign=1079&utm_source=git)** | Rochester, MN | Hybrid | Nov 20 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Software Developer](https://jobright.ai/jobs/info/68cf2d04dbd9fb154ede56e8?utm_campaign=1079&utm_source=git)** | Maryland Heights, MO | On Site | Nov 20 |
-| **[IBM](http://www.ibm.com)** | **[Z Infrastructure Solutions Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/691ef7663f782d2f1afb7bbc?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
