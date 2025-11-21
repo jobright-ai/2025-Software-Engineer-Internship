@@ -57,7 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Software Engineer/Architect - Python Graduate Intern](https://jobright.ai/jobs/info/6914239a1465e02904e9aa61?utm_campaign=1079&utm_source=git)** | Erie-Meadville Area | On Site | Nov 21 |
+| **[Altec](https://www.altec.com/altec-capital/)** | **[Information Services Quality Assurance Internship Summer 2026](https://jobright.ai/jobs/info/68ce6d13846f0b04af679c99?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | Nov 21 |
+| **[Epic Games](https://epicgames.com)** | **[Tools Programmer Intern](https://jobright.ai/jobs/info/69204f24a49a885af9a38585?utm_campaign=1079&utm_source=git)** | Montreal,Quebec,Canada | On Site | Nov 21 |
+| ↳ | **[Ecosec Programmer Intern](https://jobright.ai/jobs/info/6903c47eff462851fefee85e?utm_campaign=1079&utm_source=git)** | Cary, NC | On Site | Nov 21 |
+| **[IBM](http://www.ibm.com)** | **[Solution Architect Intern - Entry Level Sales Program 2026](https://jobright.ai/jobs/info/69086cbc4a1b456627af44df?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Nov 21 |
+| **[Oracle](https://www.oracle.com/)** | **[Undergrad Software Engineer Intern - Oracle Health and Analytics](https://jobright.ai/jobs/info/6920465fa49a885af9a37e33?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 21 |
+| **[Epic Games](https://epicgames.com)** | **[Tools Programmer Intern](https://jobright.ai/jobs/info/68f5cfe89a63986de757a4c8?utm_campaign=1079&utm_source=git)** | Cary, NC | On Site | Nov 21 |
+| **[Altera](https://www.altera.com)** | **[PEY Software Engineer Intern](https://jobright.ai/jobs/info/69203e5aa49a885af9a37b7d?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 21 |
+| **[Axient Labs](https://axientlabs.carrd.co/)** | **[Startup Interns - Tech and Business](https://jobright.ai/jobs/info/69203a6600c9ee50eaec077f?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 21 |
 | **[Altera](https://www.altera.com)** | **[PEY Software Engineer Intern](https://jobright.ai/jobs/info/6920355d3f782d2f1afc3ae0?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 21 |
+| **[Lillup](https://www.lillup.com/)** | **[Software Engineering Intern - Voice to Voice (Remote, Unpaid)](https://jobright.ai/jobs/info/69204ed500c9ee50eaec1468?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 21 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - CXL Memory](https://jobright.ai/jobs/info/69201e2f09cc522e87748320?utm_campaign=1079&utm_source=git)** | Mountain View, CA | Hybrid | Nov 21 |
 | **[Ciena](http://www.ciena.com)** | **[Software Engineering Intern (Winter 2026)](https://jobright.ai/jobs/info/69200172a49a885af9a35d81?utm_campaign=1079&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Nov 20 |
 | **[Radix Trading LLC](https://radix.trade)** | **[Quantitative Technologist (C++ Intern - Summer 2026)](https://jobright.ai/jobs/info/6897ea211b9e81727f1a2fd0?utm_campaign=1079&utm_source=git)** | Chicago | On Site | Nov 20 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Verkada](https://www.verkada.com)** | **[Frontend Software Engineering Intern 2026](https://jobright.ai/jobs/info/68cd5e8d1ad6b16f02898dba?utm_campaign=1079&utm_source=git)** | San Mateo, CA | On Site | Nov 20 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Design Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68acf031d627244576e49fc8?utm_campaign=1079&utm_source=git)** | Fort Lauderdale, FL | On Site | Nov 20 |
 | **[Labatt Breweries of Canada](http://www.labattjobs.com/)** | **[Technology Internship](https://jobright.ai/jobs/info/691dc7fe748c4e1301ec8a42?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 20 |
-| **[Apex Fintech Solutions](https://apexfintechsolutions.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68cf487cdbd9fb154ede6078?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Nov 20 |
-| **[Dyson Benelux](http://www.dyson.com)** | **[Cloud Software Engineering Intern](https://jobright.ai/jobs/info/691f36c43f782d2f1afb937b?utm_campaign=1079&utm_source=git)** | St James, NY | On Site | Nov 20 |
-| **[Garner Health](https://www.getgarner.com/)** | **[Full Stack Engineering Intern](https://jobright.ai/jobs/info/68e69823ae2b894b1d71ba15?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Nov 20 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Design Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68ccf5a777add66568abca07?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Nov 20 |
-| **[OpenHands](https://all-hands.dev)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/691fd09209cc522e87745b9a?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 20 |
-| **[IBM](http://www.ibm.com)** | **[Z Infrastructure Solutions Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/691c04b7bcdbf3560c9e4f5b?utm_campaign=1079&utm_source=git)** | Armonk, NY | Hybrid | Nov 20 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Test Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68cfc239846f0b04af684bcd?utm_campaign=1079&utm_source=git)** | Fort Lauderdale, FL | On Site | Nov 20 |
-| **[Lila Sciences](https://www.lila.ai)** | **[Intern, Security & Cloud Engineering](https://jobright.ai/jobs/info/68e6822aae2b894b1d71ae6e?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Nov 20 |
-| **[Rivian and Volkswagen Group Technologies](https://rivianvw.tech)** | **[Software Engineering Intern - Software Automation, Connected Systems](https://jobright.ai/jobs/info/692027a23f782d2f1afc337e?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Nov 20 |
-| **[IBM](http://www.ibm.com)** | **[Back End Developer Intern 2026](https://jobright.ai/jobs/info/690d6773221b890c278065b7?utm_campaign=1079&utm_source=git)** | Rochester, MN | Hybrid | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
