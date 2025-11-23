@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6922d8437795cd460c8377e2?utm_campaign=1079&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Nov 23 |
+| **[Dhirajinfotech](https://dhirajinfo.tech)** | **[Google Cloud Engineer Internship Program](https://jobright.ai/jobs/info/6922bcfd38cd5478a8d54eec?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 22 |
 | **[Brady Corporation](https://www.bradyid.com/)** | **[Software Development Intern](https://jobright.ai/jobs/info/69226d393f782d2f1afd51f2?utm_campaign=1079&utm_source=git)** | Milwaukee, WI | On Site | Nov 22 |
 | **[Medlaunch Concepts](medlaunchconcepts.com)** | **[Spring 2026 Internship - Frontend Developer](https://jobright.ai/jobs/info/6922302ca49a885af9a48943?utm_campaign=1079&utm_source=git)** | Arlington, VA | On Site | Nov 22 |
 | **[Hackensack Meridian Health](https://www.hackensackmeridianhealth.org)** | **[IT Summer Intern, Cloud & Systems Engineering](https://jobright.ai/jobs/info/692221703f782d2f1afd4ab5?utm_campaign=1079&utm_source=git)** | Edison, NJ | On Site | Nov 22 |
@@ -133,8 +135,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[iOS Intern](https://jobright.ai/jobs/info/6920f2fd3f782d2f1afcd551?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | Hybrid | Nov 21 |
 | **[Civil Design, Inc.](http://civildesigninc.com/)** | **[2026 Summer Internship - Computer Science](https://jobright.ai/jobs/info/6920c5fea49a885af9a3f0a5?utm_campaign=1079&utm_source=git)** | Effingham,IL,US | On Site | Nov 21 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Software Engineering Graduate Internship - Summer 2026](https://jobright.ai/jobs/info/6920ea3ea49a885af9a40962?utm_campaign=1079&utm_source=git)** | CT - Hartford | Hybrid | Nov 21 |
-| ↳ | **[Software Engineering Graduate Internship - Summer 2026](https://jobright.ai/jobs/info/6920eb433f782d2f1afccd01?utm_campaign=1079&utm_source=git)** | TX - Irving | Hybrid | Nov 21 |
 | ↳ | **[Software Engineering Graduate Internship - Summer 2026](https://jobright.ai/jobs/info/6920e8593f782d2f1afccb4e?utm_campaign=1079&utm_source=git)** | NY - New York | Hybrid | Nov 21 |
+| ↳ | **[Software Engineering Graduate Internship - Summer 2026](https://jobright.ai/jobs/info/6920eb433f782d2f1afccd01?utm_campaign=1079&utm_source=git)** | TX - Irving | Hybrid | Nov 21 |
 | ↳ | **[Software Engineering Graduate Internship - Summer 2026](https://jobright.ai/jobs/info/6920ef8100c9ee50eaec9881?utm_campaign=1079&utm_source=git)** | MA - Wellesley | Hybrid | Nov 21 |
 | **[Federal Reserve Bank of Dallas](http://www.dallasfed.org/)** | **[Summer Internship - Mac/Mobile](https://jobright.ai/jobs/info/6917cef415b415636717bba2?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Nov 21 |
 | **[Raytheon](http://www.bbn.com)** | **[2026 Intern - Software Engineer Intern - Onsite (RI)](https://jobright.ai/jobs/info/6920e3a500c9ee50eaec9283?utm_campaign=1079&utm_source=git)** | Portsmouth, RI | Hybrid | Nov 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Peraton](https://www.peraton.com/)** | **[Summer 2026 Computer Engineering Intern- Topeka, KS](https://jobright.ai/jobs/info/68cce0e9d11b445e0bee38c5?utm_campaign=1079&utm_source=git)** | Topeka, KS | On Site | Nov 21 |
 | **[Ninth Wave](https://ninth-wave.com/)** | **[Jr. Java Software Developer Internship](https://jobright.ai/jobs/info/691fff363f782d2f1afc1ea1?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Nov 21 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Software Development Engineer](https://jobright.ai/jobs/info/68e80ce9cc49a84b7e10123f?utm_campaign=1079&utm_source=git)** | Arlington, TX | Hybrid | Nov 21 |
-| **[Orange Trail](https://www.orangetrail.io)** | **[Software Engineer Internship (Remote)](https://jobright.ai/jobs/info/6920ace33f782d2f1afca0bc?utm_campaign=1079&utm_source=git)** | California, United States | Remote | Nov 21 |
-| **[Marvell Technology](https://www.marvell.com/)** | **[Test Engineer Intern - Bachelor's Degree](https://jobright.ai/jobs/info/68e82fe9c4895107182c39d5?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
