@@ -127,10 +127,10 @@ For a complete list, click the following sortable link below:
 | **[Tinder](http://www.tinder.com)** | **[iOS Intern](https://jobright.ai/jobs/info/6920f325a49a885af9a4107a?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 21 |
 | ↳ | **[iOS Intern](https://jobright.ai/jobs/info/6920f2fd3f782d2f1afcd551?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | Hybrid | Nov 21 |
 | **[Civil Design, Inc.](http://civildesigninc.com/)** | **[2026 Summer Internship - Computer Science](https://jobright.ai/jobs/info/6920c5fea49a885af9a3f0a5?utm_campaign=1079&utm_source=git)** | Effingham,IL,US | On Site | Nov 21 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Software Engineering Graduate Internship - Summer 2026](https://jobright.ai/jobs/info/6920eb433f782d2f1afccd01?utm_campaign=1079&utm_source=git)** | TX - Irving | Hybrid | Nov 21 |
-| ↳ | **[Software Engineering Graduate Internship - Summer 2026](https://jobright.ai/jobs/info/6920ef8100c9ee50eaec9881?utm_campaign=1079&utm_source=git)** | MA - Wellesley | Hybrid | Nov 21 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Software Engineering Graduate Internship - Summer 2026](https://jobright.ai/jobs/info/6920ef8100c9ee50eaec9881?utm_campaign=1079&utm_source=git)** | MA - Wellesley | Hybrid | Nov 21 |
 | ↳ | **[Software Engineering Graduate Internship - Summer 2026](https://jobright.ai/jobs/info/6920ea3ea49a885af9a40962?utm_campaign=1079&utm_source=git)** | CT - Hartford | Hybrid | Nov 21 |
 | ↳ | **[Software Engineering Graduate Internship - Summer 2026](https://jobright.ai/jobs/info/6920e8593f782d2f1afccb4e?utm_campaign=1079&utm_source=git)** | NY - New York | Hybrid | Nov 21 |
+| ↳ | **[Software Engineering Graduate Internship - Summer 2026](https://jobright.ai/jobs/info/6920eb433f782d2f1afccd01?utm_campaign=1079&utm_source=git)** | TX - Irving | Hybrid | Nov 21 |
 | **[Federal Reserve Bank of Dallas](http://www.dallasfed.org/)** | **[Summer Internship - Mac/Mobile](https://jobright.ai/jobs/info/6917cef415b415636717bba2?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Nov 21 |
 | **[Raytheon](http://www.bbn.com)** | **[2026 Intern - Software Engineer Intern - Onsite (RI)](https://jobright.ai/jobs/info/6920e3a500c9ee50eaec9283?utm_campaign=1079&utm_source=git)** | Portsmouth, RI | Hybrid | Nov 21 |
 | **[Civil Science](http://civilscience.com)** | **[Infrastructure Engineering Internship Summer 2026](https://jobright.ai/jobs/info/6920bf463f782d2f1afcaf08?utm_campaign=1079&utm_source=git)** | Richfield, UT | On Site | Nov 21 |
