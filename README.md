@@ -57,8 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GenPark](https://genpark.ai)** | **[Full Stack Developer](https://jobright.ai/jobs/info/69242510c0cefa13343dd79d?utm_campaign=1079&utm_source=git)** | LA Metro Area | Hybrid | Nov 24 |
-| **[DC Info Tech Pvt Ltd](https://dcinfotech.org.in)** | **[Google Cloud Engineer Internship Program](https://jobright.ai/jobs/info/69241dc838cd5478a8d59342?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 24 |
+| **[AXENTRA OS](https://www.xircls.com/)** | **[Full Stack Developer - Remote](https://jobright.ai/jobs/info/6924408d38cd5478a8d59bca?utm_campaign=1079&utm_source=git)** | United States | Hybrid | Nov 24 |
+| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Business Integrity) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/691596d4286ccf0a1512f584?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Nov 24 |
+| **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69243b1538cd5478a8d5995d?utm_campaign=1079&utm_source=git)** | 1 Life Way, Pittsburgh, PA, 15205, US | On Site | Nov 24 |
+| **[ByteDance](http://bytedance.com)** | **[Student Researcher(Multimedia Streaming) - 2026 Start (PhD)](https://jobright.ai/jobs/info/68d04d33fb49c96ca6eaeded?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Nov 24 |
+| **[Align Technology](http://www.aligntech.com)** | **[Software Engineer Intern - Fab](https://jobright.ai/jobs/info/68cd82531ad6b16f0289a9ee?utm_campaign=1079&utm_source=git)** | Morrisville, NC | On Site | Nov 24 |
+| **[The Toro Company](https://www.thetorocompany.com)** | **[Software Engineering Intern - The Toro Company](https://jobright.ai/jobs/info/68d053d3dbd9fb154edee639?utm_campaign=1079&utm_source=git)** | Hennepin County, MN | On Site | Nov 24 |
+| **[SkipQ](http://www.skiptq.com)** | **[Full Stack Engineer](https://jobright.ai/jobs/info/69242abfc0cefa13343dd9a4?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 24 |
+| **[DC Info Tech Pvt Ltd](https://dcinfotech.org.in)** | **[Google Cloud Engineer Internship](https://jobright.ai/jobs/info/69242a727795cd460c83b6e0?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 24 |
+| ↳ | **[Google Cloud Engineer Internship Program](https://jobright.ai/jobs/info/69241dc838cd5478a8d59342?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 24 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Software Engineer Intern (Summer 2026) - Austin, TX](https://jobright.ai/jobs/info/69241dc17795cd460c83b345?utm_campaign=1079&utm_source=git)** | In-Office | On Site | Nov 24 |
 | **[LinkedIn](https://www.linkedin.com)** | **[Software Engineer Intern (First Play) – Summer 2026 (Mountain View, CA)](https://jobright.ai/jobs/info/69241af838cd5478a8d592b1?utm_campaign=1079&utm_source=git)** | Mountain View, CA | Hybrid | Nov 24 |
 | **[TetraMem - Accelerate The World](https://www.tetramem.com/)** | **[US 2026 Functional Testing Intern](https://jobright.ai/jobs/info/69240b9dc0cefa13343dcfee?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Nov 23 |
@@ -125,7 +132,6 @@ For a complete list, click the following sortable link below:
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - Game Engineering](https://jobright.ai/jobs/info/68ea01dccfc08e490891461b?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Nov 22 |
 | **[Howmet Aerospace](https://www.howmet.com/)** | **[Intern - Applications](https://jobright.ai/jobs/info/6922dcc67795cd460c837872?utm_campaign=1079&utm_source=git)** | Pittsburgh, PA | On Site | Nov 22 |
 | **[Honeywell](http://www.honeywell.com)** | **[Future IT Leaders - Summer 2026 Intern (US Person Required)](https://jobright.ai/jobs/info/6922b8f97795cd460c836d8f?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 21 |
-| **[Rivian and Volkswagen Group Technologies](https://rivianvw.tech)** | **[Software Engineering Intern - Infotainment Platform](https://jobright.ai/jobs/info/692408b0c0cefa13343dceef?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Nov 21 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern in Micro-Computing](https://jobright.ai/jobs/info/69213f853f782d2f1afd08d6?utm_campaign=1079&utm_source=git)** | Varennes, Quebec, Canada | On Site | Nov 21 |
 | **[Honeywell](http://www.honeywell.com)** | **[Future IT Leaders - Summer 2026 Intern](https://jobright.ai/jobs/info/692288b838cd5478a8d54079?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 21 |
 | **[Keysight Technologies](https://www.keysight.com)** | **[R&D Software Engineering Internship](https://jobright.ai/jobs/info/692117ef00c9ee50eaecba34?utm_campaign=1079&utm_source=git)** | Loveland, CO | On Site | Nov 21 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineering Undergraduate Internship - Summer 2026](https://jobright.ai/jobs/info/6920d5f200c9ee50eaec886d?utm_campaign=1079&utm_source=git)** | MA - Wellesley | Hybrid | Nov 21 |
 | **[JFK Johnson Rehabilitation Institute](http://JFKJohnson.org)** | **[IT SUMMER INTERN, CLOUD & SYSTEMS ENGINEERING](https://jobright.ai/jobs/info/6920d57700c9ee50eaec87f6?utm_campaign=1079&utm_source=git)** | Edison, NJ | On Site | Nov 21 |
 | **[Bessemer Trust](http://www.bessemertrust.com/)** | **[Enterprise Platform Engineering Intern](https://jobright.ai/jobs/info/6920d4d700c9ee50eaec876a?utm_campaign=1079&utm_source=git)** | Woodbridge, NJ | On Site | Nov 21 |
-| **[Tinder](http://www.tinder.com)** | **[Backend Engineer Intern](https://jobright.ai/jobs/info/6920d3883f782d2f1afcbe69?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 21 |
-| **[IRA Financial](https://www.irafinancialgroup.com/)** | **[Development Intern (Summer 2026)](https://jobright.ai/jobs/info/6920d066a49a885af9a3f8d1?utm_campaign=1079&utm_source=git)** | Sioux Falls, SD | On Site | Nov 21 |
-| **[Appian](http://www.appian.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68cd5dc7b2a74e1837ed6246?utm_campaign=1079&utm_source=git)** | McLean, VA | On Site | Nov 21 |
-| **[New Harbor](https://newharbor.co)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6921c3dad1ec2c3565c45e22?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 21 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Full Stack Developer, Cloud Development](https://jobright.ai/jobs/info/6920fb8f00c9ee50eaeca5f1?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Nov 21 |
-| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Innovation Platform Software Engineer](https://jobright.ai/jobs/info/6920e5863f782d2f1afcc982?utm_campaign=1079&utm_source=git)** | Milwaukee, WI | Hybrid | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
