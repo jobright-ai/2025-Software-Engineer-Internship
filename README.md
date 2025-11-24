@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Raytheon](http://www.bbn.com)** | **[2026 Intern - Software Engineer Intern - Onsite (AZ)](https://jobright.ai/jobs/info/6923b8577795cd460c839067?utm_campaign=1079&utm_source=git)** | Tucson, AZ | Hybrid | Nov 23 |
+| **[NISC](http://www.nisc.coop/)** | **[Intern - Business & Technology Innovation](https://jobright.ai/jobs/info/68d2bac717554c2d9eee9426?utm_campaign=1079&utm_source=git)** | Lake Saint Louis, MO | On Site | Nov 23 |
 | **[KMC Technologies](https://kmctechnologiesgroup.com/)** | **[IT Intern - Azure Developer](https://jobright.ai/jobs/info/6923978438cd5478a8d56cd5?utm_campaign=1079&utm_source=git)** | Milwaukee, WI | On Site | Nov 23 |
 | **[Lightmatter](https://lightmatter.co)** | **[API and Database, Intern](https://jobright.ai/jobs/info/691e303e3f782d2f1afb20ec?utm_campaign=1079&utm_source=git)** | Boston, MA | Hybrid | Nov 23 |
 | **[metalenz](https://www.metalenz.com/)** | **[Camera Software Intern](https://jobright.ai/jobs/info/69235afb7795cd460c838787?utm_campaign=1079&utm_source=git)** | Boston, MA | Hybrid | Nov 23 |
-| **[Carboncopies Foundation](https://carboncopies.org)** | **[C++  spring 2026 Internship](https://jobright.ai/jobs/info/69233fb0c0cefa13343da6ca?utm_campaign=1079&utm_source=git)** | United States | Hybrid | Nov 23 |
 | **[Desjardins](https://www.desjardins.com)** | **[Internship, IT sector, Winter 2026](https://jobright.ai/jobs/info/691dc97761dc50590a64a4a8?utm_campaign=1079&utm_source=git)** | Montréal-Ouest, Quebec, Canada | Hybrid | Nov 23 |
 | **[Copeland](https://www.copeland.com)** | **[2026 Associate Agile Engineer Internship](https://jobright.ai/jobs/info/6906d3bfff462851fe005920?utm_campaign=1079&utm_source=git)** | Ohio, United States | Remote | Nov 23 |
 | **[MacLean-Fogg](https://macleanfogg.com)** | **[Information Technology (IT) Internship (Summer 2026)](https://jobright.ai/jobs/info/6923911ec0cefa13343daec8?utm_campaign=1079&utm_source=git)** | Whitewater, WI | On Site | Nov 23 |
@@ -79,7 +80,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[University, 2026 Summer Games Software Developer Intern](https://jobright.ai/jobs/info/691ce0afff7024498416b46f?utm_campaign=1079&utm_source=git)** | McLean, VA | Hybrid | Nov 23 |
 | ↳ | **[University, 2026 Summer Games Software Developer Intern](https://jobright.ai/jobs/info/691f5876a49a885af9a2e767?utm_campaign=1079&utm_source=git)** | Charleston, SC | Hybrid | Nov 23 |
 | **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6922d8437795cd460c8377e2?utm_campaign=1079&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Nov 23 |
-| **[DC Info Tech Pvt Ltd](https://dcinfotech.org.in)** | **[Google Cloud Engineer Internship Program](https://jobright.ai/jobs/info/6922bcfd38cd5478a8d54eec?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 22 |
 | **[Brady Corporation](https://www.bradyid.com/)** | **[Software Development Intern](https://jobright.ai/jobs/info/69226d393f782d2f1afd51f2?utm_campaign=1079&utm_source=git)** | Milwaukee, WI | On Site | Nov 22 |
 | **[Medlaunch Concepts](medlaunchconcepts.com)** | **[Spring 2026 Internship - Frontend Developer](https://jobright.ai/jobs/info/6922302ca49a885af9a48943?utm_campaign=1079&utm_source=git)** | Arlington, VA | On Site | Nov 22 |
 | **[Hackensack Meridian Health](https://www.hackensackmeridianhealth.org)** | **[IT Summer Intern, Cloud & Systems Engineering](https://jobright.ai/jobs/info/692221703f782d2f1afd4ab5?utm_campaign=1079&utm_source=git)** | Edison, NJ | On Site | Nov 22 |
@@ -154,7 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Tinder](http://www.tinder.com)** | **[iOS Intern](https://jobright.ai/jobs/info/6920f325a49a885af9a4107a?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 21 |
 | ↳ | **[iOS Intern](https://jobright.ai/jobs/info/6920f2fd3f782d2f1afcd551?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | Hybrid | Nov 21 |
 | **[Civil Design, Inc.](http://civildesigninc.com/)** | **[2026 Summer Internship - Computer Science](https://jobright.ai/jobs/info/6920c5fea49a885af9a3f0a5?utm_campaign=1079&utm_source=git)** | Effingham,IL,US | On Site | Nov 21 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Software Engineering Graduate Internship - Summer 2026](https://jobright.ai/jobs/info/6920ef8100c9ee50eaec9881?utm_campaign=1079&utm_source=git)** | MA - Wellesley | Hybrid | Nov 21 |
-| ↳ | **[Software Engineering Graduate Internship - Summer 2026](https://jobright.ai/jobs/info/6920eb433f782d2f1afccd01?utm_campaign=1079&utm_source=git)** | TX - Irving | Hybrid | Nov 21 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Software Engineering Graduate Internship - Summer 2026](https://jobright.ai/jobs/info/6920e8593f782d2f1afccb4e?utm_campaign=1079&utm_source=git)** | NY - New York | Hybrid | Nov 21 |
 | ↳ | **[Software Engineering Graduate Internship - Summer 2026](https://jobright.ai/jobs/info/6920ea3ea49a885af9a40962?utm_campaign=1079&utm_source=git)** | CT - Hartford | Hybrid | Nov 21 |
+| ↳ | **[Software Engineering Graduate Internship - Summer 2026](https://jobright.ai/jobs/info/6920eb433f782d2f1afccd01?utm_campaign=1079&utm_source=git)** | TX - Irving | Hybrid | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
