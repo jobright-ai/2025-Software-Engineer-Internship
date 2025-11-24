@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[AXENTRA OS](https://www.xircls.com/)** | **[Full Stack Developer - Remote](https://jobright.ai/jobs/info/6924408d38cd5478a8d59bca?utm_campaign=1079&utm_source=git)** | United States | Hybrid | Nov 24 |
+| **[MacLean-Fogg](https://macleanfogg.com)** | **[Information Technology (IT) Internship (Summer 2026)](https://jobright.ai/jobs/info/691eac1ca49a885af9a2a344?utm_campaign=1079&utm_source=git)** | Plymouth, MI | On Site | Nov 24 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Design Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68b18e58f4e41a61efd7e440?utm_campaign=1079&utm_source=git)** | Westerville, OH | On Site | Nov 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Business Integrity) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/691596d4286ccf0a1512f584?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Nov 24 |
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69243b1538cd5478a8d5995d?utm_campaign=1079&utm_source=git)** | 1 Life Way, Pittsburgh, PA, 15205, US | On Site | Nov 24 |
 | **[ByteDance](http://bytedance.com)** | **[Student Researcher(Multimedia Streaming) - 2026 Start (PhD)](https://jobright.ai/jobs/info/68d04d33fb49c96ca6eaeded?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Nov 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Software Engineering Undergraduate Internship - Summer 2026](https://jobright.ai/jobs/info/6920d6953f782d2f1afcc079?utm_campaign=1079&utm_source=git)** | NY - New York | Hybrid | Nov 21 |
 | ↳ | **[Software Engineering Undergraduate Internship - Summer 2026](https://jobright.ai/jobs/info/6920d5f200c9ee50eaec886d?utm_campaign=1079&utm_source=git)** | MA - Wellesley | Hybrid | Nov 21 |
 | **[JFK Johnson Rehabilitation Institute](http://JFKJohnson.org)** | **[IT SUMMER INTERN, CLOUD & SYSTEMS ENGINEERING](https://jobright.ai/jobs/info/6920d57700c9ee50eaec87f6?utm_campaign=1079&utm_source=git)** | Edison, NJ | On Site | Nov 21 |
-| **[Bessemer Trust](http://www.bessemertrust.com/)** | **[Enterprise Platform Engineering Intern](https://jobright.ai/jobs/info/6920d4d700c9ee50eaec876a?utm_campaign=1079&utm_source=git)** | Woodbridge, NJ | On Site | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
