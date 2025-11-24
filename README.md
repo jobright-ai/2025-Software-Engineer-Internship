@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark](https://genpark.ai)** | **[Full Stack Developer](https://jobright.ai/jobs/info/69242510c0cefa13343dd79d?utm_campaign=1079&utm_source=git)** | LA Metro Area | Hybrid | Nov 24 |
+| **[DC Info Tech Pvt Ltd](https://dcinfotech.org.in)** | **[Google Cloud Engineer Internship Program](https://jobright.ai/jobs/info/69241dc838cd5478a8d59342?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 24 |
+| **[Cloudflare](http://www.cloudflare.com)** | **[Software Engineer Intern (Summer 2026) - Austin, TX](https://jobright.ai/jobs/info/69241dc17795cd460c83b345?utm_campaign=1079&utm_source=git)** | In-Office | On Site | Nov 24 |
+| **[LinkedIn](https://www.linkedin.com)** | **[Software Engineer Intern (First Play) – Summer 2026 (Mountain View, CA)](https://jobright.ai/jobs/info/69241af838cd5478a8d592b1?utm_campaign=1079&utm_source=git)** | Mountain View, CA | Hybrid | Nov 24 |
 | **[TetraMem - Accelerate The World](https://www.tetramem.com/)** | **[US 2026 Functional Testing Intern](https://jobright.ai/jobs/info/69240b9dc0cefa13343dcfee?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Nov 23 |
 | **[RTX](http://www.raytheon.com)** | **[2026 Intern - Software Engineer Intern - Onsite (AZ)](https://jobright.ai/jobs/info/6924089dc0cefa13343dce81?utm_campaign=1079&utm_source=git)** | AZ802: RMS AP Bldg 802 1151 East Hermans Road Building 802, Tucson, AZ, 85756 USA | Hybrid | Nov 23 |
-| **[GenPark](https://genpark.ai)** | **[Back End Developer](https://jobright.ai/jobs/info/692405af38cd5478a8d58b13?utm_campaign=1079&utm_source=git)** | LA Metro Area | Hybrid | Nov 23 |
 | **[Copart](http://www.copart.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6923f5d638cd5478a8d5841b?utm_campaign=1079&utm_source=git)** | Dallas, TX | Hybrid | Nov 23 |
 | **[Argmax, Inc.](https://www.takeargmax.com/)** | **[On-device AI Frameworks Engineer (Intern)](https://jobright.ai/jobs/info/6923ec0f7795cd460c83a05d?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | Hybrid | Nov 23 |
 | **[Ciena](http://www.ciena.com)** | **[WaveLogic Software Intern (Winter 2026)](https://jobright.ai/jobs/info/691ca48422a2cb4b9bd1be4f?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Hybrid | Nov 23 |
@@ -123,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[Howmet Aerospace](https://www.howmet.com/)** | **[Intern - Applications](https://jobright.ai/jobs/info/6922dcc67795cd460c837872?utm_campaign=1079&utm_source=git)** | Pittsburgh, PA | On Site | Nov 22 |
 | **[Honeywell](http://www.honeywell.com)** | **[Future IT Leaders - Summer 2026 Intern (US Person Required)](https://jobright.ai/jobs/info/6922b8f97795cd460c836d8f?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 21 |
 | **[Rivian and Volkswagen Group Technologies](https://rivianvw.tech)** | **[Software Engineering Intern - Infotainment Platform](https://jobright.ai/jobs/info/692408b0c0cefa13343dceef?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Nov 21 |
-| **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Software Engineer, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/692299eac0cefa13343d86e7?utm_campaign=1079&utm_source=git)** | Quincy, MA | On Site | Nov 21 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern in Micro-Computing](https://jobright.ai/jobs/info/69213f853f782d2f1afd08d6?utm_campaign=1079&utm_source=git)** | Varennes, Quebec, Canada | On Site | Nov 21 |
 | **[Honeywell](http://www.honeywell.com)** | **[Future IT Leaders - Summer 2026 Intern](https://jobright.ai/jobs/info/692288b838cd5478a8d54079?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 21 |
 | **[Keysight Technologies](https://www.keysight.com)** | **[R&D Software Engineering Internship](https://jobright.ai/jobs/info/692117ef00c9ee50eaecba34?utm_campaign=1079&utm_source=git)** | Loveland, CO | On Site | Nov 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[New Harbor](https://newharbor.co)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6921c3dad1ec2c3565c45e22?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 21 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Full Stack Developer, Cloud Development](https://jobright.ai/jobs/info/6920fb8f00c9ee50eaeca5f1?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Nov 21 |
 | **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Innovation Platform Software Engineer](https://jobright.ai/jobs/info/6920e5863f782d2f1afcc982?utm_campaign=1079&utm_source=git)** | Milwaukee, WI | Hybrid | Nov 21 |
-| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, R&D Undergraduate Summer - TITANS SW, Onsite](https://jobright.ai/jobs/info/691654259c388539cbdf9fc1?utm_campaign=1079&utm_source=git)** | Albuquerque, NM | Hybrid | Nov 21 |
-| **[Tinder](http://www.tinder.com)** | **[iOS Intern](https://jobright.ai/jobs/info/6920f325a49a885af9a4107a?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
