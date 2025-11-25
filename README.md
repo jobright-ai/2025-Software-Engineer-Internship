@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Expedition Technology](https://www.exptechinc.com)** | **[Summer 2026 Internship in Software Engineering](https://jobright.ai/jobs/info/68ed18fd81fdd1626d398d5c?utm_campaign=1079&utm_source=git)** | Herndon, VA | On Site | Nov 25 |
+| **[Waymo](https://waymo.com)** | **[2026 Summer Intern, BS/MS, Positioning, Software Engineer](https://jobright.ai/jobs/info/69095a164a1b456627aff9a2?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Nov 25 |
+| **[KLA](https://www.kla.com)** | **[Software Quality Control Internship](https://jobright.ai/jobs/info/6908c87bbcccf20de59d3b39?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Nov 25 |
+| **[PTC](http://ptc.co/VLED30oHtEh)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68ed72986335d33236128f85?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Nov 25 |
+| **[Shop Online New York](https://www.topofny.com)** | **[GitHub Administrator](https://jobright.ai/jobs/info/6925996027bf2f41a2c3f6ed?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 25 |
 | **[Kyowa Kirin, Inc.- U.S.](https://kkna.kyowakirin.com/)** | **[Quality Assurance Intern (Summer 2026)](https://jobright.ai/jobs/info/6909227ed046ab6061cd1e61?utm_campaign=1079&utm_source=git)** | Princeton, NJ | Hybrid | Nov 25 |
 | **[WebFX](https://www.webfx.com)** | **[Web Developer Internship](https://jobright.ai/jobs/info/6880c9ca16ea5743a373314a?utm_campaign=1079&utm_source=git)** | Harrisburg, PA | On Site | Nov 25 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[IS/Development Intern - Summer 2026 (Dalton, Georgia, United States)](https://jobright.ai/jobs/info/6925422ed47de4798eccedfd?utm_campaign=1079&utm_source=git)** | Dalton, GA | On Site | Nov 25 |
@@ -148,13 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern 2026: Fault-tolerant quantum algorithms](https://jobright.ai/jobs/info/691592849c388539cbdf4760?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Nov 24 |
 | ↳ | **[Intern 2026: Software Engineer - Semiconductor](https://jobright.ai/jobs/info/691e4e7f09cc522e87738bb2?utm_campaign=1079&utm_source=git)** | Albany, NY | On Site | Nov 24 |
 | ↳ | **[Intern 2026: Quantum Cloud Engineering](https://jobright.ai/jobs/info/691fe2e109cc522e8774655d?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Nov 24 |
-| ↳ | **[Z Infrastructure Solutions Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/691d3a780b7dff7341501089?utm_campaign=1079&utm_source=git)** | Durham, NC | Hybrid | Nov 24 |
-| ↳ | **[2026 Intern: Hybrid Cloud and Quantum Research Scientist](https://jobright.ai/jobs/info/6920032d09cc522e8774737e?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Nov 24 |
 | ↳ | **[Intern 2026: Fault-tolerant quantum algorithms](https://jobright.ai/jobs/info/690de737221b890c2780a3f2?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Nov 24 |
+| ↳ | **[2026 Intern: Hybrid Cloud and Quantum Research Scientist](https://jobright.ai/jobs/info/6920032d09cc522e8774737e?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Nov 24 |
+| ↳ | **[Z Infrastructure Solutions Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/691d3a780b7dff7341501089?utm_campaign=1079&utm_source=git)** | Durham, NC | Hybrid | Nov 24 |
 | ↳ | **[Intern 2026: Software Engineer - Semiconductor](https://jobright.ai/jobs/info/691d5fce0b7dff7341502f54?utm_campaign=1079&utm_source=git)** | Yorktown Heights, NY | On Site | Nov 24 |
-| ↳ | **[Intern 2026: Fault-tolerant quantum algorithms](https://jobright.ai/jobs/info/690ddc89221b890c2780a05b?utm_campaign=1079&utm_source=git)** | Albany, NY | On Site | Nov 24 |
-| ↳ | **[2026 Intern: Hybrid Cloud and Quantum Research Scientist](https://jobright.ai/jobs/info/69202d1609cc522e8774888c?utm_campaign=1079&utm_source=git)** | Albany, NY | Hybrid | Nov 24 |
-| ↳ | **[Z Infrastructure Solutions Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/691c04b7bcdbf3560c9e4f5b?utm_campaign=1079&utm_source=git)** | Armonk, NY | Hybrid | Nov 24 |
-| ↳ | **[AI-Centric Solution Architecting for Global IT Intern - Entry Level Sales Program 2026](https://jobright.ai/jobs/info/69131d9ad1047e3565d01732?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Nov 24 |
-| ↳ | **[Solution Architect Intern - Entry Level Sales Program 2026](https://jobright.ai/jobs/info/69086cbc4a1b456627af44df?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
