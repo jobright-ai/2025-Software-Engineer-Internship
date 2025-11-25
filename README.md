@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kyowa Kirin, Inc.- U.S.](https://kkna.kyowakirin.com/)** | **[Quality Assurance Intern (Summer 2026)](https://jobright.ai/jobs/info/6909227ed046ab6061cd1e61?utm_campaign=1079&utm_source=git)** | Princeton, NJ | Hybrid | Nov 25 |
+| **[WebFX](https://www.webfx.com)** | **[Web Developer Internship](https://jobright.ai/jobs/info/6880c9ca16ea5743a373314a?utm_campaign=1079&utm_source=git)** | Harrisburg, PA | On Site | Nov 25 |
+| **[Mohawk Industries](http://www.mohawkind.com/)** | **[IS/Development Intern - Summer 2026 (Dalton, Georgia, United States)](https://jobright.ai/jobs/info/6925422ed47de4798eccedfd?utm_campaign=1079&utm_source=git)** | Dalton, GA | On Site | Nov 25 |
+| **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Software Engineering Intern (Neenah, WI) - Summer 2026](https://jobright.ai/jobs/info/690925aebcccf20de59d7ea3?utm_campaign=1079&utm_source=git)** | Neenah, WI | Hybrid | Nov 25 |
+| **[Micron Technology](http://www.micron.com)** | **[Intern - Product Engineering, HBM](https://jobright.ai/jobs/info/68ed441c6335d33236126f94?utm_campaign=1079&utm_source=git)** | Boise, ID | On Site | Nov 25 |
+| **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Software Engineering Intern (Raleigh, NC) - Summer 2026](https://jobright.ai/jobs/info/690929b7d046ab6061cd2572?utm_campaign=1079&utm_source=git)** | Raleigh, NC | Hybrid | Nov 25 |
+| **[Oracle](https://www.oracle.com/)** | **[Undergrad Software Engineer Intern - Global Industries](https://jobright.ai/jobs/info/692589f3f0beb0723261dfd8?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 25 |
+| **[Trimble Inc.](http://www.trimble.com)** | **[Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68f205ac28898614d8b1a0c3?utm_campaign=1079&utm_source=git)** | Dayton, OH | On Site | Nov 25 |
+| **[SK hynix memory solutions America Inc.](http://www.skhms.com)** | **[Engineer Intern - Fall 2025](https://jobright.ai/jobs/info/6925859b27bf2f41a2c3f32b?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Nov 25 |
+| **[Micron Technology](http://www.micron.com)** | **[Intern - HBM Software Engineer](https://jobright.ai/jobs/info/69181560bcdbf3560c9ce56f?utm_campaign=1079&utm_source=git)** | Richardson, TX | On Site | Nov 25 |
+| **[Nutanix](http://www.nutanix.com)** | **[Software Engineering Intern (C++, Linux, Multithreading) U.S. undergrads ONLY 12/2026 or 05/2027](https://jobright.ai/jobs/info/69257d8527bf2f41a2c3f1b5?utm_campaign=1079&utm_source=git)** | Durham, NC | Hybrid | Nov 25 |
 | **[ID Projetos Educacionais](http://www.venturing.com.br)** | **[Programmer/Analyst Intern](https://jobright.ai/jobs/info/6925684427bf2f41a2c3e99b?utm_campaign=1079&utm_source=git)** | Palm Harbor, FL | On Site | Nov 25 |
 | **[Nutanix](http://www.nutanix.com)** | **[Software Engineering Intern (C++, Linux, Multithreading) U.S. undergrads ONLY 12/2026 or 05/2027](https://jobright.ai/jobs/info/69256147f0beb0723261d376?utm_campaign=1079&utm_source=git)** | Durham, North Carolina | Hybrid | Nov 24 |
 | **[Calfus Inc.](https://www.calfus.com/)** | **[Oracle Financial Functional Intern](https://jobright.ai/jobs/info/69255f1bd47de4798eccf896?utm_campaign=1079&utm_source=git)** | Langley, British Columbia, Canada | On Site | Nov 24 |
@@ -135,26 +146,15 @@ For a complete list, click the following sortable link below:
 | **[Emerson](http://www.emerson.com)** | **[Cloud Developer Intern](https://jobright.ai/jobs/info/6924adb238cd5478a8d5c7a3?utm_campaign=1079&utm_source=git)** | 1100 W Louis Henna Boulevard Building 1, Round Rock, TX, 78681, US | On Site | Nov 24 |
 | **[IBM](http://www.ibm.com)** | **[Intern 2026: Quantum Cloud Engineering](https://jobright.ai/jobs/info/69202da509cc522e87748998?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Nov 24 |
 | ↳ | **[Intern 2026: Fault-tolerant quantum algorithms](https://jobright.ai/jobs/info/691592849c388539cbdf4760?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Nov 24 |
-| ↳ | **[Intern 2026: Quantum Cloud Engineering](https://jobright.ai/jobs/info/691fe2e109cc522e8774655d?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Nov 24 |
 | ↳ | **[Intern 2026: Software Engineer - Semiconductor](https://jobright.ai/jobs/info/691e4e7f09cc522e87738bb2?utm_campaign=1079&utm_source=git)** | Albany, NY | On Site | Nov 24 |
+| ↳ | **[Intern 2026: Quantum Cloud Engineering](https://jobright.ai/jobs/info/691fe2e109cc522e8774655d?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Nov 24 |
 | ↳ | **[Z Infrastructure Solutions Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/691d3a780b7dff7341501089?utm_campaign=1079&utm_source=git)** | Durham, NC | Hybrid | Nov 24 |
-| ↳ | **[Intern 2026: Fault-tolerant quantum algorithms](https://jobright.ai/jobs/info/690de737221b890c2780a3f2?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Nov 24 |
 | ↳ | **[2026 Intern: Hybrid Cloud and Quantum Research Scientist](https://jobright.ai/jobs/info/6920032d09cc522e8774737e?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Nov 24 |
+| ↳ | **[Intern 2026: Fault-tolerant quantum algorithms](https://jobright.ai/jobs/info/690de737221b890c2780a3f2?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Nov 24 |
 | ↳ | **[Intern 2026: Software Engineer - Semiconductor](https://jobright.ai/jobs/info/691d5fce0b7dff7341502f54?utm_campaign=1079&utm_source=git)** | Yorktown Heights, NY | On Site | Nov 24 |
 | ↳ | **[Intern 2026: Fault-tolerant quantum algorithms](https://jobright.ai/jobs/info/690ddc89221b890c2780a05b?utm_campaign=1079&utm_source=git)** | Albany, NY | On Site | Nov 24 |
 | ↳ | **[2026 Intern: Hybrid Cloud and Quantum Research Scientist](https://jobright.ai/jobs/info/69202d1609cc522e8774888c?utm_campaign=1079&utm_source=git)** | Albany, NY | Hybrid | Nov 24 |
 | ↳ | **[Z Infrastructure Solutions Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/691c04b7bcdbf3560c9e4f5b?utm_campaign=1079&utm_source=git)** | Armonk, NY | Hybrid | Nov 24 |
 | ↳ | **[AI-Centric Solution Architecting for Global IT Intern - Entry Level Sales Program 2026](https://jobright.ai/jobs/info/69131d9ad1047e3565d01732?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Nov 24 |
 | ↳ | **[Solution Architect Intern - Entry Level Sales Program 2026](https://jobright.ai/jobs/info/69086cbc4a1b456627af44df?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Nov 24 |
-| ↳ | **[Intern 2026: Software Engineer - Semiconductor](https://jobright.ai/jobs/info/691e1b5ca49a885af9a250af?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Nov 24 |
-| **[Intact](http://www.intactfc.com)** | **[BFUTR Exclusive – 2026 Internship & New Grad Opportunities (Confidential)](https://jobright.ai/jobs/info/6924c5f1ec574f4265bb6d44?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Nov 24 |
-| **[IBM](http://www.ibm.com)** | **[Intern 2026: Quantum Cloud Engineering](https://jobright.ai/jobs/info/691fdb48a49a885af9a34bfb?utm_campaign=1079&utm_source=git)** | Yorktown Heights, NY | On Site | Nov 24 |
-| ↳ | **[Software Engineering Intern 2026](https://jobright.ai/jobs/info/6915bc926f36db06ef050ccf?utm_campaign=1079&utm_source=git)** | Poughkeepsie, AR | Hybrid | Nov 24 |
-| **[DigiKey](https://www.digikey.ca)** | **[Application Engineering, Intern Embedded Systems](https://jobright.ai/jobs/info/6924a215ec574f4265bb5325?utm_campaign=1079&utm_source=git)** | Thief River Falls, MN | On Site | Nov 24 |
-| **[IBM](http://www.ibm.com)** | **[AI Driven Skills Growth Development Intern (May 2026 – 16 months)](https://jobright.ai/jobs/info/69185ad415b4156367181be3?utm_campaign=1079&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Nov 24 |
-| **[Geographic Solutions, Inc.](http://www.geographicsolutions.com/)** | **[Programmer/Analyst Intern](https://jobright.ai/jobs/info/6924d789ec574f4265bb7b2e?utm_campaign=1079&utm_source=git)** | Palm Harbor,FL,US | On Site | Nov 24 |
-| **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers – Associate Infrastructure Service Delivery Analyst Intern](https://jobright.ai/jobs/info/69249ca7ec574f4265bb4f4d?utm_campaign=1079&utm_source=git)** | IL - Chicago | Hybrid | Nov 24 |
-| **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Digital Functional Verification Methodology](https://jobright.ai/jobs/info/6908ae094a1b456627af810c?utm_campaign=1079&utm_source=git)** | Lexington, KY | On Site | Nov 24 |
-| **[Hermeus](http://www.hermeus.com)** | **[Hardware-In-the-Loop Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/6924c37338cd5478a8d5d7b4?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Nov 24 |
-| ↳ | **[Modeling & Simulation Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/6924b33ec0cefa13343e0e70?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
