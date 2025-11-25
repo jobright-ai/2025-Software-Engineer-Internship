@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ID Projetos Educacionais](http://www.venturing.com.br)** | **[Programmer/Analyst Intern](https://jobright.ai/jobs/info/6925684427bf2f41a2c3e99b?utm_campaign=1079&utm_source=git)** | Palm Harbor, FL | On Site | Nov 25 |
+| **[Nutanix](http://www.nutanix.com)** | **[Software Engineering Intern (C++, Linux, Multithreading) U.S. undergrads ONLY 12/2026 or 05/2027](https://jobright.ai/jobs/info/69256147f0beb0723261d376?utm_campaign=1079&utm_source=git)** | Durham, North Carolina | Hybrid | Nov 24 |
 | **[Calfus Inc.](https://www.calfus.com/)** | **[Oracle Financial Functional Intern](https://jobright.ai/jobs/info/69255f1bd47de4798eccf896?utm_campaign=1079&utm_source=git)** | Langley, British Columbia, Canada | On Site | Nov 24 |
 | **[The Trade Desk](http://thetradedesk.com)** | **[Summer 2026 Toronto Software Engineering Internship](https://jobright.ai/jobs/info/6925546b27bf2f41a2c3e21f?utm_campaign=1079&utm_source=git)** | Toronto | On Site | Nov 24 |
 | **[InnovatorX](https://www.innovatorx.io/)** | **[Spring 2026 iOS Intern (SwiftUI)](https://jobright.ai/jobs/info/69253c7ad47de4798eccea90?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Nov 24 |
@@ -129,14 +131,15 @@ For a complete list, click the following sortable link below:
 | **[Evident Industrial](https://ims.evidentscientific.com/en/)** | **[SW Development Efficiency Engineering Intern](https://jobright.ai/jobs/info/6924cf59c0cefa13343e23cb?utm_campaign=1079&utm_source=git)** | Center Valley, PA | On Site | Nov 24 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Oracle Application Developer](https://jobright.ai/jobs/info/6924b0dc38cd5478a8d5c9e2?utm_campaign=1079&utm_source=git)** | 220 E Las Colinas blvd, Irving, TX, 75039, US | Hybrid | Nov 24 |
 | **[IBM](http://www.ibm.com)** | **[Intern 2026: Fault-tolerant quantum algorithms](https://jobright.ai/jobs/info/68f95abdcadb2e5a06a644c4?utm_campaign=1079&utm_source=git)** | Yorktown Heights, NY | On Site | Nov 24 |
+| ↳ | **[AI-Centric Solution Architecting for Global IT Intern - Entry Level Sales Program 2026](https://jobright.ai/jobs/info/691322f71465e02904e931df?utm_campaign=1079&utm_source=git)** | Armonk, NY | On Site | Nov 24 |
 | **[Emerson](http://www.emerson.com)** | **[Cloud Developer Intern](https://jobright.ai/jobs/info/6924adb238cd5478a8d5c7a3?utm_campaign=1079&utm_source=git)** | 1100 W Louis Henna Boulevard Building 1, Round Rock, TX, 78681, US | On Site | Nov 24 |
 | **[IBM](http://www.ibm.com)** | **[Intern 2026: Quantum Cloud Engineering](https://jobright.ai/jobs/info/69202da509cc522e87748998?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Nov 24 |
 | ↳ | **[Intern 2026: Fault-tolerant quantum algorithms](https://jobright.ai/jobs/info/691592849c388539cbdf4760?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Nov 24 |
 | ↳ | **[Intern 2026: Quantum Cloud Engineering](https://jobright.ai/jobs/info/691fe2e109cc522e8774655d?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Nov 24 |
 | ↳ | **[Intern 2026: Software Engineer - Semiconductor](https://jobright.ai/jobs/info/691e4e7f09cc522e87738bb2?utm_campaign=1079&utm_source=git)** | Albany, NY | On Site | Nov 24 |
+| ↳ | **[Z Infrastructure Solutions Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/691d3a780b7dff7341501089?utm_campaign=1079&utm_source=git)** | Durham, NC | Hybrid | Nov 24 |
 | ↳ | **[Intern 2026: Fault-tolerant quantum algorithms](https://jobright.ai/jobs/info/690de737221b890c2780a3f2?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Nov 24 |
 | ↳ | **[2026 Intern: Hybrid Cloud and Quantum Research Scientist](https://jobright.ai/jobs/info/6920032d09cc522e8774737e?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Nov 24 |
-| ↳ | **[Z Infrastructure Solutions Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/691d3a780b7dff7341501089?utm_campaign=1079&utm_source=git)** | Durham, NC | Hybrid | Nov 24 |
 | ↳ | **[Intern 2026: Software Engineer - Semiconductor](https://jobright.ai/jobs/info/691d5fce0b7dff7341502f54?utm_campaign=1079&utm_source=git)** | Yorktown Heights, NY | On Site | Nov 24 |
 | ↳ | **[Intern 2026: Fault-tolerant quantum algorithms](https://jobright.ai/jobs/info/690ddc89221b890c2780a05b?utm_campaign=1079&utm_source=git)** | Albany, NY | On Site | Nov 24 |
 | ↳ | **[2026 Intern: Hybrid Cloud and Quantum Research Scientist](https://jobright.ai/jobs/info/69202d1609cc522e8774888c?utm_campaign=1079&utm_source=git)** | Albany, NY | Hybrid | Nov 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Digital Functional Verification Methodology](https://jobright.ai/jobs/info/6908ae094a1b456627af810c?utm_campaign=1079&utm_source=git)** | Lexington, KY | On Site | Nov 24 |
 | **[Hermeus](http://www.hermeus.com)** | **[Hardware-In-the-Loop Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/6924c37338cd5478a8d5d7b4?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Nov 24 |
 | ↳ | **[Modeling & Simulation Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/6924b33ec0cefa13343e0e70?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Nov 24 |
-| **[Cboe Global Markets](http://www.cboe.com)** | **[Software Engineer Intern, FX Co-Op Intern](https://jobright.ai/jobs/info/68cd9848b2a74e1837ed979c?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Nov 24 |
-| **[MongoDB](https://www.mongodb.com/)** | **[2026 - Software Engineering Intern, AMER](https://jobright.ai/jobs/info/68ce340f24dd5209002f0733?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Nov 24 |
-| **[Firefly Aerospace](https://fireflyspace.com)** | **[Internship - Software Engineering - Summer 2026](https://jobright.ai/jobs/info/69248be2ec574f4265bb455b?utm_campaign=1079&utm_source=git)** | Cedar Park, TX | On Site | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
