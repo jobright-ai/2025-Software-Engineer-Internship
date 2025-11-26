@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark](https://genpark.ai)** | **[Back End Engineer Intern](https://jobright.ai/jobs/info/6926c8ff27bf2f41a2c47a47?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Nov 26 |
+| ↳ | **[Project Engineering Intern](https://jobright.ai/jobs/info/6926bf4d27bf2f41a2c4780b?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Nov 26 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - Software Engineer](https://jobright.ai/jobs/info/6926b001d47de4798ecd8711?utm_campaign=1079&utm_source=git)** | North Carolina, United States | Remote | Nov 25 |
 | ↳ | **[Intern - Software Engineer](https://jobright.ai/jobs/info/6926aefef0beb072326260d8?utm_campaign=1079&utm_source=git)** | Durham, NC | On Site | Nov 25 |
 | **[ALSO.](https://ridealso.com)** | **[Software Engineering Test & Automation Intern](https://jobright.ai/jobs/info/69269936f0beb07232625d90?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Nov 25 |
 | **[DC Info Tech Pvt Ltd](https://dcinfotech.org.in)** | **[Google Cloud Engineer Internship Program](https://jobright.ai/jobs/info/69268f15f0beb07232625b5f?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 25 |
 | **[Integration Innovation, Inc.](https://i3-corps.com/)** | **[Software Developer Internship](https://jobright.ai/jobs/info/69268edf27bf2f41a2c46fa9?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Nov 25 |
-| **[Oigetit AI Fact-Checker](https://oigetit.ai/)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69268d71f0beb07232625ae2?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 25 |
 | **[ByteDance](http://bytedance.com)** | **[Research Intern (AI-Native Databases) - 2026 Summer (PhD)](https://jobright.ai/jobs/info/692685ccf0beb072326258dc?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Nov 25 |
 | **[Notion](https://www.notion.so)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/690b72b1d046ab6061ce468c?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Nov 25 |
 | **[OSF HealthCare](https://www.osfhealthcare.org/locations/medical-group/)** | **[Innovation Internship](https://jobright.ai/jobs/info/69266aa327bf2f41a2c45f6f?utm_campaign=1079&utm_source=git)** | Peoria, IL | On Site | Nov 25 |
@@ -101,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[Altera](https://www.altera.com)** | **[High Level Synthesis (HLS) Compiler Intern](https://jobright.ai/jobs/info/69263958d47de4798ecd5ae6?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 25 |
 | **[Seagate Technology](http://www.seagate.com)** | **[Firmware/Software Internship - Summer 2026](https://jobright.ai/jobs/info/69261b3df0beb07232622167?utm_campaign=1079&utm_source=git)** | Shakopee, MN | On Site | Nov 25 |
 | **[KLA](https://www.kla.com)** | **[VC++ Software Developer Intern](https://jobright.ai/jobs/info/692617cbf0beb07232621ee2?utm_campaign=1079&utm_source=git)** | Totowa, NJ | On Site | Nov 25 |
-| **[Allegion](https://www.allegion.com)** | **[Summer Intern – Firmware Engineer (Advanced Development)](https://jobright.ai/jobs/info/691f89a13f782d2f1afbd7de?utm_campaign=1079&utm_source=git)** | Greater Indianapolis | On Site | Nov 25 |
 | **[iA Financial Group (Industrial Alliance)](http://ia.ca)** | **[Analyst, Quality Assurance Intern (Summer 2026)](https://jobright.ai/jobs/info/6926126727bf2f41a2c431bc?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 25 |
 | **[KLA](https://www.kla.com)** | **[VC++ Software Developer Intern](https://jobright.ai/jobs/info/6926311d27bf2f41a2c44387?utm_campaign=1079&utm_source=git)** | Totowa, NJ | On Site | Nov 25 |
 | **[Ultra Maritime](https://www.umaritime.com)** | **[Graduate Engineer](https://jobright.ai/jobs/info/69260c1cd47de4798ecd3f0f?utm_campaign=1079&utm_source=git)** | Dartmouth, Nova Scotia, Canada | Hybrid | Nov 25 |
