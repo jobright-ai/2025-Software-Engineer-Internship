@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PTC](http://ptc.co/VLED30oHtEh)** | **[Software Development Intern](https://jobright.ai/jobs/info/6928b9bff0beb07232631295?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Nov 27 |
+| **[IBM](http://www.ibm.com)** | **[Software Developer Intern 2026 - Poughkeepsie NY](https://jobright.ai/jobs/info/691b5aa9bcdbf3560c9de1e8?utm_campaign=1079&utm_source=git)** | Poughkeepsie, NY | Hybrid | Nov 27 |
+| **[Career Launch Recruitment Solutions](https://www.linkedin.com/company/104165626)** | **[Intern, Innovation Platform Software Engineer](https://jobright.ai/jobs/info/6928abcd91ceeb2e8a54616c?utm_campaign=1079&utm_source=git)** | Milwaukee, WI | On Site | Nov 27 |
 | **[Hypergiant](https://www.hypergiant.com/sensory-sciences/)** | **[Front-End Engineer - Skillbridge Internship](https://jobright.ai/jobs/info/6928989ff0beb07232630d48?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 27 |
 | ↳ | **[SkillBridge Internship (Frontend Engineer)](https://jobright.ai/jobs/info/68ccc3aea77e5d7d744f5214?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 27 |
 | **[Valmont Industries, Inc.](http://www.valmont.com)** | **[Software Engineering Web Intern](https://jobright.ai/jobs/info/68f0601b2e327452a0a4c68c?utm_campaign=1079&utm_source=git)** | Omaha, NE | Hybrid | Nov 27 |
@@ -117,9 +120,9 @@ For a complete list, click the following sortable link below:
 | **[Ticketmaster](https://www.ticketmaster.com)** | **[Software Developer Internship](https://jobright.ai/jobs/info/6927924191ceeb2e8a541501?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 26 |
 | ↳ | **[Software Developer Internship](https://jobright.ai/jobs/info/692791e391ceeb2e8a5414af?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Nov 26 |
 | ↳ | **[Software Quality Engineer Internship](https://jobright.ai/jobs/info/69278fc191ceeb2e8a54127d?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 26 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Software Developer Internship](https://jobright.ai/jobs/info/69278e27d47de4798ecde74f?utm_campaign=1079&utm_source=git)** | Toronto, ON, CAN | Remote | Nov 26 |
-| ↳ | **[Software Quality Engineer Internship](https://jobright.ai/jobs/info/69278e18d47de4798ecde73a?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 26 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Software Quality Engineer Internship](https://jobright.ai/jobs/info/69278e18d47de4798ecde73a?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 26 |
 | ↳ | **[Software Developer Internship](https://jobright.ai/jobs/info/69278b04d47de4798ecde3e3?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 26 |
+| ↳ | **[Software Developer Internship](https://jobright.ai/jobs/info/6927883b91ceeb2e8a540c0e?utm_campaign=1079&utm_source=git)** | Toronto, ON, CAN | Remote | Nov 26 |
 | ↳ | **[Software Developer Internship](https://jobright.ai/jobs/info/692786e2f0beb0723262ba5d?utm_campaign=1079&utm_source=git)** | Vancouver, BC, CAN | Remote | Nov 26 |
 | ↳ | **[Software Quality Engineer Internship](https://jobright.ai/jobs/info/69278663d47de4798ecddff6?utm_campaign=1079&utm_source=git)** | Toronto, ON, CA | Remote | Nov 26 |
 | ↳ | **[Software Developer Internship](https://jobright.ai/jobs/info/69278466d47de4798ecddcdb?utm_campaign=1079&utm_source=git)** | Toronto, ON, CA | Remote | Nov 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tinder](http://www.tinder.com)** | **[iOS Intern](https://jobright.ai/jobs/info/6920f325a49a885af9a4107a?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 26 |
 | **[Suno](https://www.suno.com)** | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/692757e091ceeb2e8a53e3b4?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Nov 26 |
 | **[Farm Credit Bank of Texas](https://www.farmcreditbank.com/)** | **[IT Software Development Intern](https://jobright.ai/jobs/info/690a6c49d046ab6061cdc571?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Nov 26 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Agile Test Developer [Vancouver]](https://jobright.ai/jobs/info/691e033c3f782d2f1afafbd5?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Nov 26 |
-| **[Nokia](http://www.nokia.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6927318cd47de4798ecda9af?utm_campaign=1079&utm_source=git)** | 520 Almanor Avenue, Sunnyvale, California, 94085, US | On Site | Nov 26 |
-| **[MongoDB](https://www.mongodb.com/)** | **[2026 - Software Engineering Intern, Toronto](https://jobright.ai/jobs/info/691daef5748c4e1301ec7705?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
