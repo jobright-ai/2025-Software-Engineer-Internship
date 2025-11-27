@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark](https://genpark.ai)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6927fbc9f0beb0723262f05d?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Nov 26 |
+| ↳ | **[Digital Media Intern](https://jobright.ai/jobs/info/6927fbc4d47de4798ece171b?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Nov 26 |
+| **[Oigetit AI Fact-Checker](https://oigetit.ai/)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/6927faf4d47de4798ece16bc?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 26 |
 | **[Tinder](http://www.tinder.com)** | **[Backend Engineer Intern](https://jobright.ai/jobs/info/6920d3883f782d2f1afcbe69?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 26 |
 | ↳ | **[Backend Engineer Intern](https://jobright.ai/jobs/info/6920df1600c9ee50eaec8f95?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | Hybrid | Nov 26 |
 | ↳ | **[Android Engineer Intern](https://jobright.ai/jobs/info/6920ebe93f782d2f1afccd4f?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | Hybrid | Nov 26 |
 | ↳ | **[Cloud Infrastructure Engineer Intern](https://jobright.ai/jobs/info/6920e52a3f782d2f1afcc93f?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 26 |
 | ↳ | **[Android Engineer Intern](https://jobright.ai/jobs/info/6920d69b00c9ee50eaec890c?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 26 |
-| **[GenPark](https://genpark.ai)** | **[Project Engineering Intern](https://jobright.ai/jobs/info/6927dc3af0beb0723262e925?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Nov 26 |
 | **[Activision Blizzard](https://activisionblizzard.com)** | **[2026 Canada Summer Co-Op - Cloud Engineering- Central Technology](https://jobright.ai/jobs/info/6927ca14f0beb0723262dfc8?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Nov 26 |
 | **[Skydio](https://www.skydio.com)** | **[Cloud Software Engineer Intern](https://jobright.ai/jobs/info/6927a35b91ceeb2e8a541cec?utm_campaign=1079&utm_source=git)** | San Mateo, CA | On Site | Nov 26 |
 | **[Groq](http://groq.com)** | **[ASIC Formal Verification Intern](https://jobright.ai/jobs/info/6927b737f0beb0723262d708?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Remote | Nov 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineering Intern, Web (Summer 2026)](https://jobright.ai/jobs/info/68d1a161cece431f8b5862cf?utm_campaign=1079&utm_source=git)** | Menlo Park, CA | On Site | Nov 26 |
 | **[ByteDance](http://bytedance.com)** | **[Research Intern (AI-Native Databases) - 2026 Summer (PhD)](https://jobright.ai/jobs/info/690d7da7d046ab6061cf695f?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Nov 26 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68ed705c81fdd1626d39c7a0?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Nov 26 |
-| **[Robinhood](https://www.robinhood.com)** | **[Software Engineering Intern, Backend (Summer 2026)](https://jobright.ai/jobs/info/68d1a081cece431f8b586195?utm_campaign=1079&utm_source=git)** | Menlo Park, CA | On Site | Nov 26 |
-| **[Ciena](http://www.ciena.com)** | **[Software Engineering Intern (Winter 2026)](https://jobright.ai/jobs/info/69200172a49a885af9a35d81?utm_campaign=1079&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
