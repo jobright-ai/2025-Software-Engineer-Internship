@@ -57,22 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ReplyQuickAI](https://www.replyquick.ai)** | **[Backend Software Engineer Internship](https://jobright.ai/jobs/info/6929f926fa28370be2695ed0?utm_campaign=1079&utm_source=git)** | Sarasota, FL | On Site | Nov 28 |
+| **[Cadence](https://www.cadence.com)** | **[Software Intern](https://jobright.ai/jobs/info/690d7dd24a1b456627b21c94?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Nov 28 |
+| **[Deutsche Bank](https://www.db.com)** | **[Deutsche Bank Internship Programme - Technology, Data and Innovation (TDI) – Cary 2026](https://jobright.ai/jobs/info/690df66cd046ab6061cf9f87?utm_campaign=1079&utm_source=git)** | Cary, NC | Hybrid | Nov 28 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Software Engineering Intern - Internal Engineering, NYC](https://jobright.ai/jobs/info/690d03e5221b890c27801f07?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Nov 28 |
 | **[OnePay](https://www.onepay.com)** | **[Software Engineer, Intern](https://jobright.ai/jobs/info/68d5b28663d77d6f6f3f1999?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 28 |
 | **[Uline](http://www.uline.com)** | **[Software Developer Internship - Summer 2026](https://jobright.ai/jobs/info/68f135f4f462172a5a7d4537?utm_campaign=1079&utm_source=git)** | Milwaukee, WI | On Site | Nov 28 |
 | **[Impact Advisors](https://www.impact-advisors.com)** | **[Cloud ERP Implementation Intern - Summer 2026](https://jobright.ai/jobs/info/68ba40c06105227d1189c5e9?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Nov 28 |
 | **[Electrify America](https://www.electrifyamerica.com)** | **[Software Engineering Intern (Spring 2026)](https://jobright.ai/jobs/info/691aa2d215b4156367189846?utm_campaign=1079&utm_source=git)** | Ashburn, VA | On Site | Nov 28 |
 | **[SWIVEL](https://www.getswivel.io)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68fe1b95e0c73b3a1119679c?utm_campaign=1079&utm_source=git)** | Grand Rapids, MI | On Site | Nov 28 |
-| **[GenPark](https://genpark.ai)** | **[Head of Growth](https://jobright.ai/jobs/info/6929c34366796e3028f8d0fe?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Nov 28 |
 | **[NBME](http://www.nbme.org/)** | **[Drexel Co-Op: Software Engineer](https://jobright.ai/jobs/info/690d0ab14a1b456627b1cea2?utm_campaign=1079&utm_source=git)** | Philadelphia, PA | On Site | Nov 28 |
 | **[Deutsche Bank](https://www.db.com)** | **[Deutsche Bank Internship Program - Technology, Data and Innovation (TDI) - New York 2026](https://jobright.ai/jobs/info/690df52ad046ab6061cf9f5d?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Nov 28 |
 | **[Jobgether](https://jobgether.com/)** | **[Express Solutions Development Intern](https://jobright.ai/jobs/info/6929bd6066796e3028f8d047?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 28 |
 | **[GEA Group](http://www.gea.com/)** | **[Application Development Internship](https://jobright.ai/jobs/info/68ba32055f38327491864a45?utm_campaign=1079&utm_source=git)** | Woodcliff Lake, NJ | On Site | Nov 28 |
-| **[GenPark](https://genpark.ai)** | **[Assistant Project Engineer](https://jobright.ai/jobs/info/6929bbe1fa28370be26951e8?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Nov 28 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Information Technology (Summer 2026)](https://jobright.ai/jobs/info/690d40174a1b456627b1fba5?utm_campaign=1079&utm_source=git)** | Garyville, LA | On Site | Nov 28 |
 | **[Uline](http://www.uline.com)** | **[Software Developer Internship - Summer 2026](https://jobright.ai/jobs/info/68f13306f462172a5a7d414f?utm_campaign=1079&utm_source=git)** | Glenview, IL | On Site | Nov 28 |
 | **[Tyler Technologies](https://www.tylertech.com)** | **[Software Development Intern, Summer 2026](https://jobright.ai/jobs/info/68ccf832d11b445e0bee545e?utm_campaign=1079&utm_source=git)** | Plano, TX | On Site | Nov 28 |
 | **[Copart](http://www.copart.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/690dc847d046ab6061cf90ed?utm_campaign=1079&utm_source=git)** | Dallas, TX | Hybrid | Nov 28 |
+| **[Stripe](https://stripe.com)** | **[Software Engineer, Intern](https://jobright.ai/jobs/info/6929e23466796e3028f8d785?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 28 |
 | **[Whatnot](https://www.whatnot.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/6929b0ad4c474121999ca0fe?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Nov 28 |
 | **[Skydio](https://www.skydio.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68f19adaf462172a5a7da80e?utm_campaign=1079&utm_source=git)** | San Mateo, CA | On Site | Nov 28 |
 | **[Neuralink](https://www.neuralink.com)** | **[Embedded Software Engineer Intern, Implant Embedded Systems](https://jobright.ai/jobs/info/68d5f0051f7fb2169ab14c97?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Nov 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[Software Engineer Intern (CDN Platform)- 2026 Start (PhD)](https://jobright.ai/jobs/info/68d49c26fcd3367e8df161b5?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Nov 27 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68f22381af0b5a06b584a334?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Nov 27 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate QA Analyst](https://jobright.ai/jobs/info/68b7d3480514b74d7c3eada8?utm_campaign=1079&utm_source=git)** | Maryland Heights, MO | On Site | Nov 27 |
-| **[Ascend Learning](http://www.ascendlearning.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/690bc5d9221b890c277f7f07?utm_campaign=1079&utm_source=git)** | Leawood, KS | Hybrid | Nov 27 |
-| **[CNH](http://www.cnhindustrial.com)** | **[Embedded Software Engineer Intern](https://jobright.ai/jobs/info/691a10c045fb6f5ead8aaf0d?utm_campaign=1079&utm_source=git)** | Goodfield, IL | Hybrid | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
