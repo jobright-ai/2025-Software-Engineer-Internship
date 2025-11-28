@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GPTZero](https://gptzero.me)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/692962cb66796e3028f8c2bb?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Remote | Nov 28 |
+| **[Olive (YC W25)](https://fromolive.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69295f3a66796e3028f8c222?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 28 |
+| **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[GMA - MC Enterprise Solutions - (INTERNSHIP), May 2026](https://jobright.ai/jobs/info/6929553666796e3028f8c009?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 27 |
 | **[GenPark](https://genpark.ai)** | **[Associate Project Engineer](https://jobright.ai/jobs/info/692946e2d78b2b1b420d38c0?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Nov 27 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern in Micro-Computing](https://jobright.ai/jobs/info/69291db991ceeb2e8a547025?utm_campaign=1079&utm_source=git)** | Varennes, Quebec, Canada | On Site | Nov 27 |
 | **[fusionSpan](https://www.fusionspan.com/)** | **[Software Developer - Internship](https://jobright.ai/jobs/info/6928fc61d47de4798ece409e?utm_campaign=1079&utm_source=git)** | Rocville, MD | Hybrid | Nov 27 |
@@ -127,10 +130,10 @@ For a complete list, click the following sortable link below:
 | **[ALSO.](https://ridealso.com)** | **[Software Engineering Intern, Backend - Summer 2026](https://jobright.ai/jobs/info/692797e191ceeb2e8a5417b3?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Nov 26 |
 | **[Ticketmaster](https://www.ticketmaster.com)** | **[Software Developer Internship](https://jobright.ai/jobs/info/692791e391ceeb2e8a5414af?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Nov 26 |
 | ↳ | **[Software Quality Engineer Internship](https://jobright.ai/jobs/info/69278fc191ceeb2e8a54127d?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 26 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Software Developer Internship](https://jobright.ai/jobs/info/69278e27d47de4798ecde74f?utm_campaign=1079&utm_source=git)** | Toronto, ON, CAN | Remote | Nov 26 |
-| ↳ | **[Software Quality Engineer Internship](https://jobright.ai/jobs/info/69278e18d47de4798ecde73a?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 26 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Software Quality Engineer Internship](https://jobright.ai/jobs/info/69278e18d47de4798ecde73a?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 26 |
 | **[Ticketmaster](https://www.ticketmaster.com)** | **[Software Developer Internship](https://jobright.ai/jobs/info/69278c86f0beb0723262be6d?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 26 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Software Developer Internship](https://jobright.ai/jobs/info/69278b04d47de4798ecde3e3?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 26 |
+| ↳ | **[Software Developer Internship](https://jobright.ai/jobs/info/6927883b91ceeb2e8a540c0e?utm_campaign=1079&utm_source=git)** | Toronto, ON, CAN | Remote | Nov 26 |
 | ↳ | **[Software Developer Internship](https://jobright.ai/jobs/info/692786e2f0beb0723262ba5d?utm_campaign=1079&utm_source=git)** | Vancouver, BC, CAN | Remote | Nov 26 |
 | ↳ | **[Software Quality Engineer Internship](https://jobright.ai/jobs/info/69278663d47de4798ecddff6?utm_campaign=1079&utm_source=git)** | Toronto, ON, CA | Remote | Nov 26 |
 | ↳ | **[Software Developer Internship](https://jobright.ai/jobs/info/69278466d47de4798ecddcdb?utm_campaign=1079&utm_source=git)** | Toronto, ON, CA | Remote | Nov 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[General Atomics](http://www.ga.com)** | **[Intern - Software Engineering](https://jobright.ai/jobs/info/69275b7391ceeb2e8a53e5d7?utm_campaign=1079&utm_source=git)** | Herndon Virginia | Hybrid | Nov 26 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[IT Software Developer Intern](https://jobright.ai/jobs/info/68ef0d63230ae70a14c3f50a?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Nov 26 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Software Engineering/ Developer](https://jobright.ai/jobs/info/69275501d47de4798ecdb8e2?utm_campaign=1079&utm_source=git)** | Charlottesville Virginia | On Site | Nov 26 |
-| **[Suno](https://www.suno.com)** | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/692753c5d47de4798ecdb7d3?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Nov 26 |
-| **[General Atomics](http://www.ga.com)** | **[Intern - Software Engineering](https://jobright.ai/jobs/info/692751f1f0beb07232628f4b?utm_campaign=1079&utm_source=git)** | No | Hybrid | Nov 26 |
-| **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Research Engineering Intern - 2026](https://jobright.ai/jobs/info/69274844d47de4798ecdb2c7?utm_campaign=1079&utm_source=git)** | Wright-Patterson Air Force Base, OH | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
