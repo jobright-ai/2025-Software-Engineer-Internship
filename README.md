@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GenPark](https://genpark.ai)** | **[Full Stack Developer Intern](https://jobright.ai/jobs/info/6929185591ceeb2e8a546f46?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Nov 27 |
-| ↳ | **[Engineer Intern](https://jobright.ai/jobs/info/69291128f0beb07232631cad?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Nov 27 |
+| **[BALANX-Bio](https://www.linkedin.com/company/107409415)** | **[Software Engineer Intern (unpaid)](https://jobright.ai/jobs/info/692925fe91ceeb2e8a5470fa?utm_campaign=1079&utm_source=git)** | Michigan, United States | Remote | Nov 27 |
+| **[Metro Inc.](https://www.metro.ca/en)** | **[Intern in Micro-Computing](https://jobright.ai/jobs/info/69291db991ceeb2e8a547025?utm_campaign=1079&utm_source=git)** | Varennes, Quebec, Canada | On Site | Nov 27 |
 | **[fusionSpan](https://www.fusionspan.com/)** | **[Software Developer - Internship](https://jobright.ai/jobs/info/6928fc61d47de4798ece409e?utm_campaign=1079&utm_source=git)** | Rocville, MD | Hybrid | Nov 27 |
 | **[TraceRoot.AI (YC S25)](https://traceroot.ai)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6928f9bbf0beb072326319bc?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Nov 27 |
 | **[Attimet (YC F24)](https://attimet.com/)** | **[Software Engineer, Backend (Co-op / internship)](https://jobright.ai/jobs/info/6928f44df0beb072326318ca?utm_campaign=1079&utm_source=git)** | Remote (CA) | Remote | Nov 27 |
