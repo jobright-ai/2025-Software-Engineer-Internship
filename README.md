@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark](https://genpark.ai)** | **[Full Stack Developer Intern](https://jobright.ai/jobs/info/6929185591ceeb2e8a546f46?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Nov 27 |
+| ↳ | **[Engineer Intern](https://jobright.ai/jobs/info/69291128f0beb07232631cad?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Nov 27 |
 | **[fusionSpan](https://www.fusionspan.com/)** | **[Software Developer - Internship](https://jobright.ai/jobs/info/6928fc61d47de4798ece409e?utm_campaign=1079&utm_source=git)** | Rocville, MD | Hybrid | Nov 27 |
 | **[TraceRoot.AI (YC S25)](https://traceroot.ai)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6928f9bbf0beb072326319bc?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Nov 27 |
 | **[Attimet (YC F24)](https://attimet.com/)** | **[Software Engineer, Backend (Co-op / internship)](https://jobright.ai/jobs/info/6928f44df0beb072326318ca?utm_campaign=1079&utm_source=git)** | Remote (CA) | Remote | Nov 27 |
@@ -126,9 +128,9 @@ For a complete list, click the following sortable link below:
 | **[Ticketmaster](https://www.ticketmaster.com)** | **[Software Developer Internship](https://jobright.ai/jobs/info/6927924191ceeb2e8a541501?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 26 |
 | ↳ | **[Software Developer Internship](https://jobright.ai/jobs/info/692791e391ceeb2e8a5414af?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Nov 26 |
 | ↳ | **[Software Quality Engineer Internship](https://jobright.ai/jobs/info/69278fc191ceeb2e8a54127d?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 26 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Software Developer Internship](https://jobright.ai/jobs/info/69278e27d47de4798ecde74f?utm_campaign=1079&utm_source=git)** | Toronto, ON, CAN | Remote | Nov 26 |
-| ↳ | **[Software Quality Engineer Internship](https://jobright.ai/jobs/info/69278e18d47de4798ecde73a?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 26 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Software Quality Engineer Internship](https://jobright.ai/jobs/info/69278e18d47de4798ecde73a?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 26 |
 | ↳ | **[Software Developer Internship](https://jobright.ai/jobs/info/69278b04d47de4798ecde3e3?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 26 |
+| ↳ | **[Software Developer Internship](https://jobright.ai/jobs/info/6927883b91ceeb2e8a540c0e?utm_campaign=1079&utm_source=git)** | Toronto, ON, CAN | Remote | Nov 26 |
 | ↳ | **[Software Developer Internship](https://jobright.ai/jobs/info/692786e2f0beb0723262ba5d?utm_campaign=1079&utm_source=git)** | Vancouver, BC, CAN | Remote | Nov 26 |
 | ↳ | **[Software Developer Internship](https://jobright.ai/jobs/info/69278466d47de4798ecddcdb?utm_campaign=1079&utm_source=git)** | Toronto, ON, CA | Remote | Nov 26 |
 | ↳ | **[Software Quality Engineer Internship](https://jobright.ai/jobs/info/69278431d47de4798ecddc98?utm_campaign=1079&utm_source=git)** | Toronto, ON, CA | Remote | Nov 26 |
@@ -154,7 +156,5 @@ For a complete list, click the following sortable link below:
 | **[General Atomics](http://www.ga.com)** | **[Intern - Software Engineering/ Developer](https://jobright.ai/jobs/info/69275501d47de4798ecdb8e2?utm_campaign=1079&utm_source=git)** | Charlottesville Virginia | On Site | Nov 26 |
 | **[Suno](https://www.suno.com)** | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/692753c5d47de4798ecdb7d3?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Nov 26 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Software Engineering](https://jobright.ai/jobs/info/692751f1f0beb07232628f4b?utm_campaign=1079&utm_source=git)** | No | Hybrid | Nov 26 |
-| **[ASML](https://www.asml.com)** | **[Internship - CDO Data / Visualization / Cloud / AI Engineer Intern](https://jobright.ai/jobs/info/69274f48d47de4798ecdb49f?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | Nov 26 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Research Engineering Intern - 2026](https://jobright.ai/jobs/info/69274844d47de4798ecdb2c7?utm_campaign=1079&utm_source=git)** | Wright-Patterson Air Force Base, OH | On Site | Nov 26 |
-| **[Forterra](http://www.forterra.com)** | **[2026 Intern - Software](https://jobright.ai/jobs/info/69274609f0beb07232628aac?utm_campaign=1079&utm_source=git)** | Clarksburg, MD | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
