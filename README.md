@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Todd](https://toddagriscience.com)** | **[Backend Software Developer Intern (Summer '26)](https://jobright.ai/jobs/info/692a2f32fa28370be2696933?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Nov 28 |
+| **[Leavoda](https://leavoda.com)** | **[Quality Assurance Intern (unpaid)](https://jobright.ai/jobs/info/692a484466796e3028f8eb67?utm_campaign=1079&utm_source=git)** | Canada | Remote | Nov 28 |
 | **[Manulife](http://www.manulife.com/)** | **[Summer Intern/Co-op 2026 - Software Engineering](https://jobright.ai/jobs/info/692a103066796e3028f8e324?utm_campaign=1079&utm_source=git)** | Toronto, Ontario | Hybrid | Nov 28 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Backend Software Engineer Intern](https://jobright.ai/jobs/info/68dc5fe2accfd24b67e54eb4?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Nov 28 |
 | **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/692a04ab66796e3028f8e03c?utm_campaign=1079&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Nov 28 |
@@ -113,7 +113,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Backend Software Engineer Intern](https://jobright.ai/jobs/info/691f5f9509cc522e87740404?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 28 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - ENG - DEG EMBEDDED - PE](https://jobright.ai/jobs/info/68d4e32d8c62e63bc7feda90?utm_campaign=1079&utm_source=git)** | Manassas, VA | On Site | Nov 28 |
 | **[Teradata](https://www.teradata.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/690d1f1ed046ab6061cf3144?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | Nov 28 |
-| **[Neuvays](http://neuvays.com)** | **[SAP Joules & AI Intern - Edison NJ](https://jobright.ai/jobs/info/692963e666796e3028f8c354?utm_campaign=1079&utm_source=git)** | Edison, NJ | On Site | Nov 28 |
 | **[GPTZero](https://gptzero.me)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/692962cb66796e3028f8c2bb?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Remote | Nov 28 |
 | **[Olive (YC W25)](https://fromolive.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69295f3a66796e3028f8c222?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 28 |
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[GMA - MC Enterprise Solutions - (INTERNSHIP), May 2026](https://jobright.ai/jobs/info/6929553666796e3028f8c009?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 27 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, IT Enterprise Technology (RAISE) - ATL (Summer 2026)](https://jobright.ai/jobs/info/68d4ada2fcd3367e8df169a1?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Hybrid | Nov 27 |
 | ↳ | **[Intern, IT Enterprise Technology (RAISE) - MSP (Summer 2026)](https://jobright.ai/jobs/info/68d61b0c1f7fb2169ab17426?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 27 |
 | **[Arvato](https://arvato.com/)** | **[Werkstudent IT - SAP (m/w/x)](https://jobright.ai/jobs/info/69283c79d47de4798ece2332?utm_campaign=1079&utm_source=git)** | St Georges, DE | Hybrid | Nov 27 |
+| **[Persistent Systems, LLC](https://www.persistentsystems.com/)** | **[Intern - Embedded Software Engineer (Fall 2025)](https://jobright.ai/jobs/info/691fd3253f782d2f1afc0997?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
