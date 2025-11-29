@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Todd](https://toddagriscience.com)** | **[Backend Software Developer Intern (Summer '26)](https://jobright.ai/jobs/info/692a2f32fa28370be2696933?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Nov 28 |
 | **[Manulife](http://www.manulife.com/)** | **[Summer Intern/Co-op 2026 - Software Engineering](https://jobright.ai/jobs/info/692a103066796e3028f8e324?utm_campaign=1079&utm_source=git)** | Toronto, Ontario | Hybrid | Nov 28 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Backend Software Engineer Intern](https://jobright.ai/jobs/info/68dc5fe2accfd24b67e54eb4?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Nov 28 |
 | **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/692a04ab66796e3028f8e03c?utm_campaign=1079&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Nov 28 |
 | **[Medlaunch Concepts](medlaunchconcepts.com)** | **[Spring 2026 - QA Engineering Internship](https://jobright.ai/jobs/info/6929fd5ffa28370be2695fb0?utm_campaign=1079&utm_source=git)** | Clearwater, FL | Remote | Nov 28 |
-| **[The Bean Code](https://thebeancode.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6929fcc2fa28370be2695f7a?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 28 |
 | **[Cadence](https://www.cadence.com)** | **[Software Intern](https://jobright.ai/jobs/info/690d7dd24a1b456627b21c94?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Nov 28 |
 | **[Deutsche Bank](https://www.db.com)** | **[Deutsche Bank Internship Programme - Technology, Data and Innovation (TDI) – Cary 2026](https://jobright.ai/jobs/info/690df66cd046ab6061cf9f87?utm_campaign=1079&utm_source=git)** | Cary, NC | Hybrid | Nov 28 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Software Engineering Intern - Internal Engineering, NYC](https://jobright.ai/jobs/info/690d03e5221b890c27801f07?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Nov 28 |
@@ -77,6 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Information Technology (Summer 2026)](https://jobright.ai/jobs/info/690d40174a1b456627b1fba5?utm_campaign=1079&utm_source=git)** | Garyville, LA | On Site | Nov 28 |
 | **[Uline](http://www.uline.com)** | **[Software Developer Internship - Summer 2026](https://jobright.ai/jobs/info/68f13306f462172a5a7d414f?utm_campaign=1079&utm_source=git)** | Glenview, IL | On Site | Nov 28 |
 | **[Tyler Technologies](https://www.tylertech.com)** | **[Software Development Intern, Summer 2026](https://jobright.ai/jobs/info/68ccf832d11b445e0bee545e?utm_campaign=1079&utm_source=git)** | Plano, TX | On Site | Nov 28 |
+| **[MacLean-Fogg](https://macleanfogg.com)** | **[Information Technology (IT) Internship (Summer 2026)](https://jobright.ai/jobs/info/692a2bda4c474121999cb9a3?utm_campaign=1079&utm_source=git)** | Maquoketa, IA | On Site | Nov 28 |
 | **[Copart](http://www.copart.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/690dc847d046ab6061cf90ed?utm_campaign=1079&utm_source=git)** | Dallas, TX | Hybrid | Nov 28 |
 | **[Stripe](https://stripe.com)** | **[Software Engineer, Intern](https://jobright.ai/jobs/info/6929e23466796e3028f8d785?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 28 |
 | **[Whatnot](https://www.whatnot.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/6929b0ad4c474121999ca0fe?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Nov 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, IT Enterprise Technology (RAISE) - ATL (Summer 2026)](https://jobright.ai/jobs/info/68d4ada2fcd3367e8df169a1?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Hybrid | Nov 27 |
 | ↳ | **[Intern, IT Enterprise Technology (RAISE) - MSP (Summer 2026)](https://jobright.ai/jobs/info/68d61b0c1f7fb2169ab17426?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 27 |
 | **[Arvato](https://arvato.com/)** | **[Werkstudent IT - SAP (m/w/x)](https://jobright.ai/jobs/info/69283c79d47de4798ece2332?utm_campaign=1079&utm_source=git)** | St Georges, DE | Hybrid | Nov 27 |
-| **[Persistent Systems, LLC](https://www.persistentsystems.com/)** | **[Intern - Embedded Software Engineer (Fall 2025)](https://jobright.ai/jobs/info/691fd3253f782d2f1afc0997?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
