@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern in Micro-Computing](https://jobright.ai/jobs/info/692bbde3fa28370be26994f6?utm_campaign=1079&utm_source=git)** | Varennes, Quebec, Canada | On Site | Nov 29 |
-| **[Todd](https://toddagriscience.com)** | **[Backend Software Developer Intern (Summer '26)](https://jobright.ai/jobs/info/692bb1d3fa28370be2699065?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Nov 29 |
 | **[NISC](http://www.nisc.coop/)** | **[Intern - Business & Technology Innovation](https://jobright.ai/jobs/info/68d2bac717554c2d9eee9426?utm_campaign=1079&utm_source=git)** | Lake Saint Louis, MO | On Site | Nov 29 |
 | **[Scale AI](https://scale.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68bf2491702aa35207aa361b?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Nov 29 |
 | **[Ciena](http://www.ciena.com)** | **[QA Engineer Intern - Winter 2026](https://jobright.ai/jobs/info/6926f461f0beb07232626cb8?utm_campaign=1079&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Nov 29 |
@@ -133,9 +132,9 @@ For a complete list, click the following sortable link below:
 | **[Datadog](https://www.datadoghq.com)** | **[Software Engineering Intern, SRE](https://jobright.ai/jobs/info/690e5ec344146d3b6ec53713?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Nov 29 |
 | **[Oracle](https://www.oracle.com/)** | **[Advanced Degree Software Engineer Intern - Fusion](https://jobright.ai/jobs/info/68f8a1d86de2db04dc3e0f0b?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Nov 29 |
 | ↳ | **[Advanced Degree Software Engineer Intern - Fusion](https://jobright.ai/jobs/info/692175dbd1ec2c3565c44517?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 29 |
-| **[Epic Games](https://epicgames.com)** | **[Engine Programmer Intern](https://jobright.ai/jobs/info/68f1a070f462172a5a7dab76?utm_campaign=1079&utm_source=git)** | Cary, NC | On Site | Nov 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Monetization Technology) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68f328e89a65fd3458584603?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Nov 29 |
-| **[Epic Games](https://epicgames.com)** | **[Technical Design in Animation Intern](https://jobright.ai/jobs/info/690ea7c9d046ab6061cffcbc?utm_campaign=1079&utm_source=git)** | Cary, NC | On Site | Nov 29 |
+| **[Epic Games](https://epicgames.com)** | **[Engine Programmer Intern](https://jobright.ai/jobs/info/68f1a14fe6870116b1f5b3d6?utm_campaign=1079&utm_source=git)** | Cary, NC | On Site | Nov 29 |
+| ↳ | **[Technical Design in Animation Intern](https://jobright.ai/jobs/info/690ea7c9d046ab6061cffcbc?utm_campaign=1079&utm_source=git)** | Cary, NC | On Site | Nov 29 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Full Year Intern-Information Technology](https://jobright.ai/jobs/info/6914f51f6f36db06ef049ffb?utm_campaign=1079&utm_source=git)** | Detroit, MI | Hybrid | Nov 29 |
 | **[SolarVue AI™](https://solarvue.ai)** | **[Digital Marketplace Architect Intern: B2B E-commerce Build](https://jobright.ai/jobs/info/692ac206fa28370be2697a92?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | Hybrid | Nov 29 |
 | **[ABB](https://global.abb/group/en)** | **[Software Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/69088aadbcccf20de59d13db?utm_campaign=1079&utm_source=git)** | Location, WV | On Site | Nov 29 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[GEA Group](http://www.gea.com/)** | **[Application Development Internship](https://jobright.ai/jobs/info/68ba32055f38327491864a45?utm_campaign=1079&utm_source=git)** | Woodcliff Lake, NJ | On Site | Nov 28 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Information Technology (Summer 2026)](https://jobright.ai/jobs/info/690d40174a1b456627b1fba5?utm_campaign=1079&utm_source=git)** | Garyville, LA | On Site | Nov 28 |
 | **[Uline](http://www.uline.com)** | **[Software Developer Internship - Summer 2026](https://jobright.ai/jobs/info/68f13306f462172a5a7d414f?utm_campaign=1079&utm_source=git)** | Glenview, IL | On Site | Nov 28 |
+| **[Tyler Technologies](https://www.tylertech.com)** | **[Software Development Intern, Summer 2026](https://jobright.ai/jobs/info/68ccf832d11b445e0bee545e?utm_campaign=1079&utm_source=git)** | Plano, TX | On Site | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
