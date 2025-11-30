@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Todd](https://toddagriscience.com)** | **[Backend Software Developer Intern (Summer '26)](https://jobright.ai/jobs/info/692b95a04c474121999cdef4?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Nov 29 |
+| **[Scale AI](https://scale.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68bf2491702aa35207aa361b?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Nov 29 |
 | **[Ciena](http://www.ciena.com)** | **[QA Engineer Intern - Winter 2026](https://jobright.ai/jobs/info/6926f461f0beb07232626cb8?utm_campaign=1079&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Nov 29 |
 | **[MetLife](http://www.metlife.com)** | **[METx Global Technology Intern](https://jobright.ai/jobs/info/690ebdf7221b890c27811411?utm_campaign=1079&utm_source=git)** | Cary, NC | Hybrid | Nov 29 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Digital Engineering)](https://jobright.ai/jobs/info/68bb7bfa8043103d4f228fc7?utm_campaign=1079&utm_source=git)** | Vienna, VA | Hybrid | Nov 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Software Developer Internship - Summer 2026](https://jobright.ai/jobs/info/68f13306f462172a5a7d414f?utm_campaign=1079&utm_source=git)** | Glenview, IL | On Site | Nov 28 |
 | **[Tyler Technologies](https://www.tylertech.com)** | **[Software Development Intern, Summer 2026](https://jobright.ai/jobs/info/68ccf832d11b445e0bee545e?utm_campaign=1079&utm_source=git)** | Plano, TX | On Site | Nov 28 |
 | **[Copart](http://www.copart.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/690dc847d046ab6061cf90ed?utm_campaign=1079&utm_source=git)** | Dallas, TX | Hybrid | Nov 28 |
-| **[Stripe](https://stripe.com)** | **[Software Engineer, Intern](https://jobright.ai/jobs/info/6929e23466796e3028f8d785?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 28 |
-| **[Whatnot](https://www.whatnot.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/6929b0ad4c474121999ca0fe?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
