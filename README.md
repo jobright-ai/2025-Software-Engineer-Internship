@@ -75,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Kensho Technologies](https://kensho.com)** | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68ce7746fb49c96ca6ea0ba2?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Nov 30 |
 | **[Verkada](https://www.verkada.com)** | **[Frontend Software Engineer - University Graduate 2026](https://jobright.ai/jobs/info/68cd13bde23def7af55b4e52?utm_campaign=1079&utm_source=git)** | San Mateo, CA | On Site | Nov 30 |
 | ↳ | **[Backend Software Engineer - University Graduate 2026](https://jobright.ai/jobs/info/68ccc259a77e5d7d744f4f1e?utm_campaign=1079&utm_source=git)** | San Mateo, CA | On Site | Nov 30 |
+| **[MacLean-Fogg](https://macleanfogg.com)** | **[Information Technology (IT) Internship (Summer 2026)](https://jobright.ai/jobs/info/692cce924c474121999d08b1?utm_campaign=1079&utm_source=git)** | Farmington Hills, MI | On Site | Nov 30 |
 | **[Pegasystems](http://www.pega.com)** | **[Software Engineering Intern, Internal Development Experience - Summer 2026](https://jobright.ai/jobs/info/68f2608865ce784c102f0738?utm_campaign=1079&utm_source=git)** | Waltham, MA | On Site | Nov 30 |
 | **[Qualcomm](http://www.qualcomm.com)** | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68f2fb959a63986de756da0e?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Nov 30 |
 | **[Motion](http://www.dragosupply.com/)** | **[Cloud Developer Intern](https://jobright.ai/jobs/info/68fa685e7959161d33e6304a?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | Nov 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Qualcomm](http://www.qualcomm.com)** | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68f2fd499a63986de756db4a?utm_campaign=1079&utm_source=git)** | Louisville, KY | On Site | Nov 29 |
 | **[Waymo](https://waymo.com)** | **[2026 Summer Intern, PhD, Software Engineer, Strategic Selection](https://jobright.ai/jobs/info/68f2f5e876a51a4307bc97ba?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Nov 29 |
 | **[Qualcomm](http://www.qualcomm.com)** | **[Embedded Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68f2fd279a63986de756db2a?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Nov 29 |
-| **[American Equity](http://www.american-equity.com)** | **[IT Intern, SAP Development](https://jobright.ai/jobs/info/68c1e62f233c7d3e64d05bef?utm_campaign=1079&utm_source=git)** | West Des Moines, Iowa, United States | On Site | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
