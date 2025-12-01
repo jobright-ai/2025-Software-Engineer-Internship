@@ -57,13 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Software Engineering (Airborne Radar &amp; Converged Sensors) - Intern](https://jobright.ai/jobs/info/692debc1fa28370be269f5d0?utm_campaign=1079&utm_source=git)** | Possible | On Site | Dec 01 |
+| **[Apera AI](https://apera.ai)** | **[Software Developer – Vision & Robotics (C++)](https://jobright.ai/jobs/info/691df23b3f782d2f1afaeeb7?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Dec 01 |
+| **[Shamrock Foods Company](http://www.shamrockfoods.com)** | **[Summer 2026 - Software Engineering Intern](https://jobright.ai/jobs/info/692ddd3efa28370be269ef8a?utm_campaign=1079&utm_source=git)** | Phoenix, AZ | On Site | Dec 01 |
+| **[PACSUN](http://www.pacsun.com/)** | **[ERP Analyst Intern](https://jobright.ai/jobs/info/692ddc614c474121999d3e16?utm_campaign=1079&utm_source=git)** | Anaheim, CA | On Site | Dec 01 |
+| **[Shure Incorporated](http://www.shure.com)** | **[Mobile Applications (Android) Intern](https://jobright.ai/jobs/info/68ce41851ad6b16f028a35ea?utm_campaign=1079&utm_source=git)** | Niles, IL | Hybrid | Dec 01 |
 | **[London Computer Systems](https://www.lcs.com/)** | **[Software Developer Co-op/Intern](https://jobright.ai/jobs/info/692dd0774c474121999d3920?utm_campaign=1079&utm_source=git)** | Cincinnati, OH, US | On Site | Dec 01 |
+| **[Haystack](https://www.haystackapp.io)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/692dee6866796e3028f975c5?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Dec 01 |
 | **[Amazon](https://amazon.com)** | **[Software Development Engineer Internship - Summer 2026 (US)](https://jobright.ai/jobs/info/69008c0fe0c73b3a111a5b44?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Dec 01 |
 | **[Spartan Controls](https://www.spartancontrols.com)** | **[Co-op/Intern Student - Engineering Practice](https://jobright.ai/jobs/info/692dbc9c66796e3028f95f02?utm_campaign=1079&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 01 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Software Development Intern](https://jobright.ai/jobs/info/66ca0a763673251f8b24f33d?utm_campaign=1079&utm_source=git)** | Lincoln, NE | On Site | Dec 01 |
 | **[Clark National Accounts](https://www.clarknationalaccounts.com/)** | **[Platform Internship (Summer 2026)](https://jobright.ai/jobs/info/692db00f4c474121999d2c5a?utm_campaign=1079&utm_source=git)** | Lititz, PA | Hybrid | Dec 01 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Intern - Software Engineer (Fleet IT), Summer 2026](https://jobright.ai/jobs/info/68bb6a5f5f3832749186ef82?utm_campaign=1079&utm_source=git)** | St Louis, MO | Hybrid | Dec 01 |
 | **[We Insure](https://weinsuregroup.com/)** | **[SWE Intern (Accounts)](https://jobright.ai/jobs/info/692dcf984c474121999d38b6?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Dec 01 |
+| **[PEAK6](https://www.peak6.com)** | **[SWE Intern (Accounts)](https://jobright.ai/jobs/info/692de02efa28370be269f119?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Dec 01 |
 | **[Sight & Sound](https://www.sight-sound.com/)** | **[Summer Internship - Software Development](https://jobright.ai/jobs/info/692daa254c474121999d2ab6?utm_campaign=1079&utm_source=git)** | Gordonville, PA | On Site | Dec 01 |
 | **[London Computer Systems](https://www.lcs.com/)** | **[Software Developer Co-op/Intern](https://jobright.ai/jobs/info/692dc1a14c474121999d32e9?utm_campaign=1079&utm_source=git)** | Cincinnati, OH | On Site | Dec 01 |
 | **[Motion](https://www.motion.com)** | **[Mobile Software Development Intern](https://jobright.ai/jobs/info/6910928d988c2b7b4ec5214e?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | Dec 01 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ServiceNow](http://www.servicenow.com)** | **[UTG - Software Engineer Internships - Summer 2026](https://jobright.ai/jobs/info/68e6490e1852e62f0081a58a?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | Nov 29 |
 | **[Horrocks](http://www.horrocksengineers.com)** | **[Transportation/Community Infrastructure Engineering Intern](https://jobright.ai/jobs/info/690e5c1d221b890c2780d24f?utm_campaign=1079&utm_source=git)** | Spokane, WA | On Site | Nov 29 |
 | **[Uline](http://www.uline.com)** | **[Software Developer Internship - Summer 2026](https://jobright.ai/jobs/info/68f12a01ef766b3f0fd09378?utm_campaign=1079&utm_source=git)** | Kenosha, WI | On Site | Nov 29 |
-| **[DRB](https://drb.com)** | **[QA Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/690e661f221b890c2780d85e?utm_campaign=1079&utm_source=git)** | Akron, OH | Hybrid | Nov 29 |
-| **[Moloco](http://www.moloco.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68d714d045853d0e39cccc52?utm_campaign=1079&utm_source=git)** | Redwood City, CA | On Site | Nov 29 |
-| **[Kemin Industries](http://www.kemin.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/690e6a1dd046ab6061cfd45f?utm_campaign=1079&utm_source=git)** | Verona, MO | On Site | Nov 29 |
-| **[ABB](https://global.abb/group/en)** | **[Internship / Master Thesis in Industrial Software Systems (80-100%)](https://jobright.ai/jobs/info/692b0a5d4c474121999cd288?utm_campaign=1079&utm_source=git)** | Location, WV | Hybrid | Nov 29 |
-| **[CNH](http://www.cnhindustrial.com)** | **[Embedded Software Engineer Intern](https://jobright.ai/jobs/info/692db8774c474121999d2ee9?utm_campaign=1079&utm_source=git)** | Burr Ridge, IL | On Site | Nov 29 |
-| **[Glean](https://www.glean.com)** | **[Software Engineer, Intern (Summer 2026)](https://jobright.ai/jobs/info/68c840b695f5211cd2ce2e2c?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | Hybrid | Nov 29 |
-| **[Radix Trading LLC](https://radix.trade)** | **[Quantitative Technologist (C++ Intern - Summer 2026)](https://jobright.ai/jobs/info/6897ea211b9e81727f1a2fd0?utm_campaign=1079&utm_source=git)** | Chicago | On Site | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
