@@ -57,13 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[London Computer Systems](https://www.lcs.com/)** | **[Software Developer Co-op/Intern](https://jobright.ai/jobs/info/692dd0774c474121999d3920?utm_campaign=1079&utm_source=git)** | Cincinnati, OH, US | On Site | Dec 01 |
+| **[Amazon](https://amazon.com)** | **[Software Development Engineer Internship - Summer 2026 (US)](https://jobright.ai/jobs/info/69008c0fe0c73b3a111a5b44?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Dec 01 |
+| **[Spartan Controls](https://www.spartancontrols.com)** | **[Co-op/Intern Student - Engineering Practice](https://jobright.ai/jobs/info/692dbc9c66796e3028f95f02?utm_campaign=1079&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 01 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Software Development Intern](https://jobright.ai/jobs/info/66ca0a763673251f8b24f33d?utm_campaign=1079&utm_source=git)** | Lincoln, NE | On Site | Dec 01 |
 | **[Clark National Accounts](https://www.clarknationalaccounts.com/)** | **[Platform Internship (Summer 2026)](https://jobright.ai/jobs/info/692db00f4c474121999d2c5a?utm_campaign=1079&utm_source=git)** | Lititz, PA | Hybrid | Dec 01 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Intern - Software Engineer (Fleet IT), Summer 2026](https://jobright.ai/jobs/info/68bb6a5f5f3832749186ef82?utm_campaign=1079&utm_source=git)** | St Louis, MO | Hybrid | Dec 01 |
+| **[We Insure](https://weinsuregroup.com/)** | **[SWE Intern (Accounts)](https://jobright.ai/jobs/info/692dcf984c474121999d38b6?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Dec 01 |
 | **[Sight & Sound](https://www.sight-sound.com/)** | **[Summer Internship - Software Development](https://jobright.ai/jobs/info/692daa254c474121999d2ab6?utm_campaign=1079&utm_source=git)** | Gordonville, PA | On Site | Dec 01 |
+| **[London Computer Systems](https://www.lcs.com/)** | **[Software Developer Co-op/Intern](https://jobright.ai/jobs/info/692dc1a14c474121999d32e9?utm_campaign=1079&utm_source=git)** | Cincinnati, OH | On Site | Dec 01 |
 | **[Motion](https://www.motion.com)** | **[Mobile Software Development Intern](https://jobright.ai/jobs/info/6910928d988c2b7b4ec5214e?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | Dec 01 |
-| **[MacLean-Fogg](https://macleanfogg.com)** | **[Information Technology (IT) Internship (Summer 2026)](https://jobright.ai/jobs/info/692d94b0fa28370be269d548?utm_campaign=1079&utm_source=git)** | Savanna, IL | On Site | Dec 01 |
-| **[Motion](https://www.motion.com)** | **[Customer Software Development Intern](https://jobright.ai/jobs/info/692d93a34c474121999d24c2?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | Dec 01 |
+| ↳ | **[Customer Software Development Intern](https://jobright.ai/jobs/info/692d93a34c474121999d24c2?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | Dec 01 |
 | **[Applied Policy and Economics Simulation ("APES") Lab](https://www.linkedin.com/company/110089254)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/692d92e966796e3028f951c2?utm_campaign=1079&utm_source=git)** | Berkeley, CA | On Site | Dec 01 |
 | **[Labatt Breweries of Canada](http://www.labattjobs.com/)** | **[Technology Internship](https://jobright.ai/jobs/info/692d8f58fa28370be269d41a?utm_campaign=1079&utm_source=git)** | Moncton, New Brunswick, Canada | On Site | Dec 01 |
 | **[Motion](https://www.motion.com)** | **[Web Developer Intern](https://jobright.ai/jobs/info/692d8f41fa28370be269d416?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | Dec 01 |
@@ -90,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Sungrow Power Supply Co., Ltd.](https://sungrowpower.com/)** | **[ESS Application Engineering Internship](https://jobright.ai/jobs/info/69052ee763502c0aded7932e?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 30 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Test Engineer)](https://jobright.ai/jobs/info/6922be75c0cefa13343d9190?utm_campaign=1079&utm_source=git)** | Vienna, VA | Hybrid | Nov 30 |
 | **[Copart](http://www.copart.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/690c2f324a1b456627b16c79?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Nov 30 |
-| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Software Development Engineer](https://jobright.ai/jobs/info/68f29dae76a51a4307bc5556?utm_campaign=1079&utm_source=git)** | Arlington, TX | Hybrid | Nov 30 |
 | **[Coinbase](https://www.coinbase.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68f2b87f9a65fd34585800d9?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Nov 30 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Proof of Concept Software Development Intern](https://jobright.ai/jobs/info/68ccdaed77add66568abac5a?utm_campaign=1079&utm_source=git)** | Niles, IL | Hybrid | Nov 30 |
 | **[Samsung Semiconductor](https://www.samsung.com/us/samsungsemiconductor)** | **[Intern, System Software Engineer - CXL](https://jobright.ai/jobs/info/68d71b0945853d0e39cccf17?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Nov 30 |
@@ -98,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Intern - Software Engineer (Enterprise Mobility IT), Summer 2026](https://jobright.ai/jobs/info/68d12e31cece431f8b581e2e?utm_campaign=1079&utm_source=git)** | St Louis, MO | Hybrid | Nov 30 |
 | **[Clarity](https://clarityapp.io)** | **[Internship - Software Engineering Intern](https://jobright.ai/jobs/info/687674c0ae2f413e4a5afd36?utm_campaign=1079&utm_source=git)** | Herndon, VA | On Site | Nov 30 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Software Development Intern (Identity) - Summer 2026](https://jobright.ai/jobs/info/690e894bd046ab6061cfea51?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Nov 30 |
-| **[MacLean-Fogg](https://macleanfogg.com)** | **[Information Technology (IT) Internship (Summer 2026)](https://jobright.ai/jobs/info/692d1df866796e3028f93dc4?utm_campaign=1079&utm_source=git)** | Saegertown, PA | On Site | Nov 30 |
 | **[Base Power Company](https://www.basepowercompany.com)** | **[Quantitative Developer Intern](https://jobright.ai/jobs/info/692c4ab0fa28370be269ae63?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Nov 30 |
 | ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/692c4a6a66796e3028f92c0f?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Nov 30 |
 | **[MacLean-Fogg](https://macleanfogg.com)** | **[Information Technology (IT) Internship (Summer 2026)](https://jobright.ai/jobs/info/692d774d4c474121999d1fe0?utm_campaign=1079&utm_source=git)** | Farmington Hills, MI | On Site | Nov 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CNH](http://www.cnhindustrial.com)** | **[Embedded Software Engineer Intern](https://jobright.ai/jobs/info/692db8774c474121999d2ee9?utm_campaign=1079&utm_source=git)** | Burr Ridge, IL | On Site | Nov 29 |
 | **[Glean](https://www.glean.com)** | **[Software Engineer, Intern (Summer 2026)](https://jobright.ai/jobs/info/68c840b695f5211cd2ce2e2c?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | Hybrid | Nov 29 |
 | **[Radix Trading LLC](https://radix.trade)** | **[Quantitative Technologist (C++ Intern - Summer 2026)](https://jobright.ai/jobs/info/6897ea211b9e81727f1a2fd0?utm_campaign=1079&utm_source=git)** | Chicago | On Site | Nov 29 |
-| **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Software Development Intern (Messaging)  - Summer 2026](https://jobright.ai/jobs/info/690e7d77d046ab6061cfe2d3?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Nov 29 |
-| **[Braze](https://www.braze.com)** | **[Intern, Software Engineering](https://jobright.ai/jobs/info/690e6964d046ab6061cfd3a3?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
