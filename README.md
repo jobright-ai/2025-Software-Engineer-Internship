@@ -57,10 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Motion](https://www.motion.com)** | **[Mobile Software Development Intern](https://jobright.ai/jobs/info/6910928d988c2b7b4ec5214e?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | Dec 01 |
+| **[MacLean-Fogg](https://macleanfogg.com)** | **[Information Technology (IT) Internship (Summer 2026)](https://jobright.ai/jobs/info/692d94b0fa28370be269d548?utm_campaign=1079&utm_source=git)** | Savanna, IL | On Site | Dec 01 |
+| **[Motion](https://www.motion.com)** | **[Customer Software Development Intern](https://jobright.ai/jobs/info/692d93a34c474121999d24c2?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | Dec 01 |
+| **[Labatt Breweries of Canada](http://www.labattjobs.com/)** | **[Technology Internship](https://jobright.ai/jobs/info/692d8f58fa28370be269d41a?utm_campaign=1079&utm_source=git)** | Moncton, New Brunswick, Canada | On Site | Dec 01 |
+| **[Motion](https://www.motion.com)** | **[Web Developer Intern](https://jobright.ai/jobs/info/692d8f41fa28370be269d416?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | Dec 01 |
+| **[Lightmatter](https://lightmatter.co)** | **[Chip Firmware & Data Analytics, Intern](https://jobright.ai/jobs/info/6917989a15b4156367179645?utm_campaign=1079&utm_source=git)** | Boston, MA | Hybrid | Dec 01 |
 | **[Simular](https://simular.ai)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/692d813966796e3028f94f3c?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 01 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - IT - Quality Assurance](https://jobright.ai/jobs/info/6911b5d5bb519377733f0e2a?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | On Site | Dec 01 |
-| **[GenPark](https://genpark.ai)** | **[Backend Intern](https://jobright.ai/jobs/info/692d6edf66796e3028f94b41?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 01 |
-| **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Regulatory Affairs - ICX/IDEP/Innovation Developer](https://jobright.ai/jobs/info/6911bc29988c2b7b4ec56709?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | On Site | Dec 01 |
+| ↳ | **[Intern - Regulatory Affairs - ICX/IDEP/Innovation Developer](https://jobright.ai/jobs/info/6911bc29988c2b7b4ec56709?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | On Site | Dec 01 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Hardware and Software Engineering Internship - Ditch Witch](https://jobright.ai/jobs/info/68bae8446105227d118a1515?utm_campaign=1079&utm_source=git)** | Noble County, OK | On Site | Dec 01 |
 | **[Amazon](https://amazon.com)** | **[Software Development Engineer Test Intern (Summer)](https://jobright.ai/jobs/info/692d6a51fa28370be269cd11?utm_campaign=1079&utm_source=git)** | Los Gatos, CA | On Site | Dec 01 |
 | ↳ | **[Software Development Engineer Test Intern (Summer)](https://jobright.ai/jobs/info/692d61e6fa28370be269cac4?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Dec 01 |
@@ -98,7 +103,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Backend Software Engineer - University Graduate 2026](https://jobright.ai/jobs/info/68ccc259a77e5d7d744f4f1e?utm_campaign=1079&utm_source=git)** | San Mateo, CA | On Site | Nov 30 |
 | **[Pegasystems](http://www.pega.com)** | **[Software Engineering Intern, Internal Development Experience - Summer 2026](https://jobright.ai/jobs/info/68f2608865ce784c102f0738?utm_campaign=1079&utm_source=git)** | Waltham, MA | On Site | Nov 30 |
 | **[Qualcomm](http://www.qualcomm.com)** | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68f2fb959a63986de756da0e?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Nov 30 |
-| **[Motion](http://www.dragosupply.com/)** | **[Cloud Developer Intern](https://jobright.ai/jobs/info/68fa685e7959161d33e6304a?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | Nov 30 |
+| **[Motion](https://www.motion.com)** | **[Cloud Developer Intern](https://jobright.ai/jobs/info/68fa685e7959161d33e6304a?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | Nov 30 |
 | **[Pegasystems](http://www.pega.com)** | **[Software Engineer Intern, Software Delivery Excellence Alliance - Summer 2026](https://jobright.ai/jobs/info/68f2685faf0b5a06b584cf2f?utm_campaign=1079&utm_source=git)** | Waltham, MA | On Site | Nov 30 |
 | ↳ | **[Technology Architect Intern - Summer 2026](https://jobright.ai/jobs/info/68f281c39a63986de75686f9?utm_campaign=1079&utm_source=git)** | Waltham, MA | On Site | Nov 30 |
 | **[Qualcomm](http://www.qualcomm.com)** | **[Information Technology (IT) Internship – Summer 2026](https://jobright.ai/jobs/info/68f2fbd49a63986de756da36?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Nov 30 |
@@ -113,9 +118,7 @@ For a complete list, click the following sortable link below:
 | **[Zoox](https://www.zoox.com/)** | **[Firmware & C++ Development Intern](https://jobright.ai/jobs/info/690ff324bb519377733e9fa6?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Nov 30 |
 | **[DriveTime](https://www.drivetime.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/68cf5065fb49c96ca6ea73ef?utm_campaign=1079&utm_source=git)** | Tempe, AZ | On Site | Nov 30 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate QA Analyst](https://jobright.ai/jobs/info/68bb20cb6105227d118a3344?utm_campaign=1079&utm_source=git)** | Maryland Heights, MO | On Site | Nov 30 |
-| **[Conifer Health Solutions](http://coniferhealth.com/)** | **[Integration and Application Development Intern – Summer 2026 – Onsite in Dallas, TX](https://jobright.ai/jobs/info/69202e01a49a885af9a37334?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Nov 30 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Software Engineer](https://jobright.ai/jobs/info/68cd2d3de23def7af55b68fd?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Nov 30 |
-| **[Conifer Health Solutions](http://coniferhealth.com/)** | **[Software Developer Intern – Summer 2026 – Onsite in Dallas, TX](https://jobright.ai/jobs/info/691fe2e009cc522e87746558?utm_campaign=1079&utm_source=git)** | Frisco, TX | On Site | Nov 30 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Software Intern](https://jobright.ai/jobs/info/692c064d66796e3028f92653?utm_campaign=1079&utm_source=git)** | Pleasanton, CA | On Site | Nov 30 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/692d41bdfa28370be269c36c?utm_campaign=1079&utm_source=git)** | Greater Phoenix Area | On Site | Nov 29 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern in Micro-Computing](https://jobright.ai/jobs/info/692bbde3fa28370be26994f6?utm_campaign=1079&utm_source=git)** | Varennes, Quebec, Canada | On Site | Nov 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pegasystems](http://www.pega.com)** | **[Software Engineering Intern, Customer Decision Hub - Summer 2026](https://jobright.ai/jobs/info/68f2784b76a51a4307bc4087?utm_campaign=1079&utm_source=git)** | Waltham, MA | On Site | Nov 29 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Software Development Intern (Identity) - Summer 2026](https://jobright.ai/jobs/info/690e69a444146d3b6ec53ec9?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Nov 29 |
 | **[Pegasystems](http://www.pega.com)** | **[Cloud Development Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68f2c6d89a65fd3458580f23?utm_campaign=1079&utm_source=git)** | Waltham, MA | On Site | Nov 29 |
-| **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Software Development Intern (Numbers) - Summer 2026](https://jobright.ai/jobs/info/690e62d644146d3b6ec5389e?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Nov 29 |
-| ↳ | **[Software Development Intern (Emergency Services) - Summer 2026](https://jobright.ai/jobs/info/690e798b44146d3b6ec54ad5?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Nov 29 |
-| **[Chatham Financial](http://www.chathamfinancial.com/)** | **[2026 Software Engineer Intern](https://jobright.ai/jobs/info/6903b67fd64a22104aa91fac?utm_campaign=1079&utm_source=git)** | Centennial, CO | Hybrid | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
