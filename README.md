@@ -57,13 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arcade](https://www.arcade.ai)** | **[Software Engineer Intern, Frontend - Winter 2025](https://jobright.ai/jobs/info/692e0a96ef4b48533d13bf0a?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Dec 01 |
+| **[Pegasystems](http://www.pega.com)** | **[Associate Software Engineer Intern, Services Engineering - Summer 2026](https://jobright.ai/jobs/info/692e06dd4c474121999d56d7?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | Hybrid | Dec 01 |
+| **[STMicroelectronics](https://www.st.com)** | **[Software Algorithm Embedded Intern](https://jobright.ai/jobs/info/692e0651ef4b48533d13bbd9?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | Hybrid | Dec 01 |
+| **[Cadence](https://www.cadence.com)** | **[Software Engineering Intern - Circuit Simulation infrastructure](https://jobright.ai/jobs/info/692e0126ef4b48533d13b902?utm_campaign=1079&utm_source=git)** | SAN JOSE | On Site | Dec 01 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Software Engineering (Airborne Radar &amp; Converged Sensors) - Intern](https://jobright.ai/jobs/info/692debc1fa28370be269f5d0?utm_campaign=1079&utm_source=git)** | Possible | On Site | Dec 01 |
+| **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Software Engineering Intern (Summer 2026) (Onsite)](https://jobright.ai/jobs/info/692e085fef4b48533d13bdaa?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 01 |
+| **[AXENTRA OS](https://www.xircls.com/)** | **[Internship - Python and FastAPI/Django](https://jobright.ai/jobs/info/692e07fbfa28370be26a0820?utm_campaign=1079&utm_source=git)** | California, United States | Remote | Dec 01 |
 | **[Apera AI](https://apera.ai)** | **[Software Developer – Vision & Robotics (C++)](https://jobright.ai/jobs/info/691df23b3f782d2f1afaeeb7?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Dec 01 |
 | **[Shamrock Foods Company](http://www.shamrockfoods.com)** | **[Summer 2026 - Software Engineering Intern](https://jobright.ai/jobs/info/692ddd3efa28370be269ef8a?utm_campaign=1079&utm_source=git)** | Phoenix, AZ | On Site | Dec 01 |
 | **[PACSUN](http://www.pacsun.com/)** | **[ERP Analyst Intern](https://jobright.ai/jobs/info/692ddc614c474121999d3e16?utm_campaign=1079&utm_source=git)** | Anaheim, CA | On Site | Dec 01 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Mobile Applications (Android) Intern](https://jobright.ai/jobs/info/68ce41851ad6b16f028a35ea?utm_campaign=1079&utm_source=git)** | Niles, IL | Hybrid | Dec 01 |
 | **[London Computer Systems](https://www.lcs.com/)** | **[Software Developer Co-op/Intern](https://jobright.ai/jobs/info/692dd0774c474121999d3920?utm_campaign=1079&utm_source=git)** | Cincinnati, OH, US | On Site | Dec 01 |
-| **[Haystack](https://www.haystackapp.io)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/692dee6866796e3028f975c5?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Dec 01 |
+| **[Cisco](http://www.cisco.com)** | **[Software Developer (Intern) I - Canada](https://jobright.ai/jobs/info/692e07ddef4b48533d13bd2a?utm_campaign=1079&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Dec 01 |
 | **[Amazon](https://amazon.com)** | **[Software Development Engineer Internship - Summer 2026 (US)](https://jobright.ai/jobs/info/69008c0fe0c73b3a111a5b44?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Dec 01 |
 | **[Spartan Controls](https://www.spartancontrols.com)** | **[Co-op/Intern Student - Engineering Practice](https://jobright.ai/jobs/info/692dbc9c66796e3028f95f02?utm_campaign=1079&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 01 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Software Development Intern](https://jobright.ai/jobs/info/66ca0a763673251f8b24f33d?utm_campaign=1079&utm_source=git)** | Lincoln, NE | On Site | Dec 01 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Industry Solutions Intern, Austin](https://jobright.ai/jobs/info/690e60edd046ab6061cfcdc2?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Nov 29 |
 | ↳ | **[2026 - UI Engineering Intern, NYC](https://jobright.ai/jobs/info/690ea860d046ab6061cffd67?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Nov 29 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Software Engineering Intern 3 - 2026](https://jobright.ai/jobs/info/691aaa6d15b4156367189c28?utm_campaign=1079&utm_source=git)** | Greater Roanoke Area | Hybrid | Nov 29 |
-| **[Uline](http://www.uline.com)** | **[Software Developer Internship - Summer 2026](https://jobright.ai/jobs/info/68f13504f462172a5a7d4497?utm_campaign=1079&utm_source=git)** | Pleasant Prairie, WI | On Site | Nov 29 |
-| **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Software Development Intern (Billing) - Summer 2026](https://jobright.ai/jobs/info/690e659b44146d3b6ec53b72?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Nov 29 |
-| **[Uline](http://www.uline.com)** | **[Software Developer Internship - Summer 2026](https://jobright.ai/jobs/info/68f13264ef766b3f0fd099f6?utm_campaign=1079&utm_source=git)** | Waukegan, IL | On Site | Nov 29 |
-| **[ServiceNow](http://www.servicenow.com)** | **[UTG - Software Engineer Internships - Summer 2026](https://jobright.ai/jobs/info/68e6490e1852e62f0081a58a?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | Nov 29 |
-| **[Horrocks](http://www.horrocksengineers.com)** | **[Transportation/Community Infrastructure Engineering Intern](https://jobright.ai/jobs/info/690e5c1d221b890c2780d24f?utm_campaign=1079&utm_source=git)** | Spokane, WA | On Site | Nov 29 |
-| **[Uline](http://www.uline.com)** | **[Software Developer Internship - Summer 2026](https://jobright.ai/jobs/info/68f12a01ef766b3f0fd09378?utm_campaign=1079&utm_source=git)** | Kenosha, WI | On Site | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
