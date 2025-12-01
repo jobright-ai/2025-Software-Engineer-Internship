@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[Software Development Engineer Test Intern (Summer)](https://jobright.ai/jobs/info/692d5fe466796e3028f94750?utm_campaign=1079&utm_source=git)** | Cupertino, CA | On Site | Dec 01 |
+| ↳ | **[Software Development Engineer Test Intern (Summer)](https://jobright.ai/jobs/info/692d5d1566796e3028f9470a?utm_campaign=1079&utm_source=git)** | New York, United States | On Site | Dec 01 |
+| ↳ | **[Software Development Engineer Test Intern (Summer)](https://jobright.ai/jobs/info/692d5b944c474121999d18d8?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Dec 01 |
+| **[Horizon Blue Cross Blue Shield of New Jersey](http://www.horizonblue.com)** | **[IT Intern (Application Development)](https://jobright.ai/jobs/info/692d4c4466796e3028f94284?utm_campaign=1079&utm_source=git)** | Newark, NJ | Hybrid | Dec 01 |
 | **[Horizon Blue Cross Blue Shield of New Jersey](http://www.horizonblue.com)** | **[IT Intern (Application Development)](https://jobright.ai/jobs/info/692d2e14fa28370be269c18a?utm_campaign=1079&utm_source=git)** | Newark, NJ - Hybrid | Hybrid | Nov 30 |
 | **[NavigateIO](https://www.navigateio.com/)** | **[Student Researcher](https://jobright.ai/jobs/info/692d28e74c474121999d1124?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 30 |
 | **[Lumafield](https://www.lumafield.com)** | **[Engineering Intern, Embedded Software](https://jobright.ai/jobs/info/692d19dbfa28370be269c040?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Nov 30 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Skydio](https://www.skydio.com)** | **[Cloud Software Engineer Intern](https://jobright.ai/jobs/info/68f1970de6870116b1f5ad68?utm_campaign=1079&utm_source=git)** | San Mateo, CA | On Site | Nov 29 |
 | **[Merge](https://merge.dev)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68f7a6005dc1be6012817f9c?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Nov 29 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Embedded Software Engineer Intern](https://jobright.ai/jobs/info/692af1ee66796e3028f8fca5?utm_campaign=1079&utm_source=git)** | Goodfield, IL | On Site | Nov 29 |
-| **[Garmin](https://www.garmin.com/en-US/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68cf471b846f0b04af68033c?utm_campaign=1079&utm_source=git)** | Yarmouth, ME | On Site | Nov 29 |
-| **[Brown & Brown](http://www.bbrown.com)** | **[Technology Solutions Internship](https://jobright.ai/jobs/info/692af1aa66796e3028f8fc9d?utm_campaign=1079&utm_source=git)** | Daytona Beach, FL | On Site | Nov 29 |
-| **[Rocket Lab](https://rocketlabcorp.com)** | **[Flight Software Intern Summer 2026](https://jobright.ai/jobs/info/68cccf70a77e5d7d744f5dbe?utm_campaign=1079&utm_source=git)** | Littleton, CO | On Site | Nov 29 |
-| **[Qualcomm](http://www.qualcomm.com)** | **[Embedded Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68f2ff6a9a63986de756dda2?utm_campaign=1079&utm_source=git)** | Boxborough, MA | On Site | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
