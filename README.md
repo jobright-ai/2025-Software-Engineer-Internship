@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[GPU/AI Application System Software Engineer Intern (System Technologies and Engineering) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/692e7f5a4c474121999d9dde?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 01 |
+| **[GenPark](https://genpark.ai)** | **[Product Engineer Intern](https://jobright.ai/jobs/info/692e7edefa28370be26a4f89?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Dec 01 |
 | **[Altanova - Sustainable Strategy & Innovation](https://altanova.io)** | **[Software Development Intern](https://jobright.ai/jobs/info/692e7d4eef4b48533d14033d?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Dec 01 |
 | **[Cadence](https://www.cadence.com)** | **[Software Intern](https://jobright.ai/jobs/info/692e738dfa28370be26a4b09?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 01 |
 | ↳ | **[Software Engineering Intern - Circuit Simulation](https://jobright.ai/jobs/info/692e7281ef4b48533d13ff45?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Dec 01 |
@@ -73,10 +75,10 @@ For a complete list, click the following sortable link below:
 | **[Dominion Energy](http://www.dominionenergy.com/)** | **[Intern - IT Technology Domain COE](https://jobright.ai/jobs/info/69276394d47de4798ecdc0ed?utm_campaign=1079&utm_source=git)** | Cayce, SC | Hybrid | Dec 01 |
 | **[Wind River](http://www.windriver.com)** | **[Embedded Software Engineering - College Intern](https://jobright.ai/jobs/info/692e5a4cfa28370be26a3d2c?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Dec 01 |
 | **[edgetrace](https://www.edgetrace.ai)** | **[AI Full-Stack Engineering Intern (Winter '26)](https://jobright.ai/jobs/info/692e5988fa28370be26a3c7e?utm_campaign=1079&utm_source=git)** | San Mateo, CA | On Site | Dec 01 |
+| **[Nokia](http://www.nokia.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/692e5863fa28370be26a3b7d?utm_campaign=1079&utm_source=git)** | New Providence, NJ | Hybrid | Dec 01 |
 | **[Moody's Corporation](http://www.moodys.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/692e55984c474121999d8816?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 01 |
 | ↳ | **[Digital Workplace Intern](https://jobright.ai/jobs/info/692e5505fa28370be26a3925?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Dec 01 |
 | **[OpenTable](http://opentable.com)** | **[Software Engineer Internship (Hybrid, Toronto)](https://jobright.ai/jobs/info/692e54c24c474121999d877d?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 01 |
-| **[Nokia](http://www.nokia.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/692e532afa28370be26a3840?utm_campaign=1079&utm_source=git)** | New Providence, NJ | Hybrid | Dec 01 |
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[2026 Internship ITS (Information Technology Solutions)](https://jobright.ai/jobs/info/68caa621efdec76df36b4c12?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Dec 01 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern in Micro-Computing](https://jobright.ai/jobs/info/692e6fc0ef4b48533d13fd90?utm_campaign=1079&utm_source=git)** | Varennes, Quebec, Canada | On Site | Dec 01 |
 | **[CliquePrize - Local Giveaway Marketing for Small Businesses](https://www.cliqueprize.com)** | **[iOS Swift Developer & GitHub Intern](https://jobright.ai/jobs/info/692e715cef4b48533d13fe8b?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 01 |
@@ -88,9 +90,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Developer Intern](https://jobright.ai/jobs/info/692e4790ef4b48533d13e546?utm_campaign=1079&utm_source=git)** | 600-700 Mountain Avenue, Murray Hill, New Jersey, 07974-0636, US | Hybrid | Dec 01 |
 | **[ASML](https://www.asml.com)** | **[Internship - Software Engineer - Summer 2026 (GEM)](https://jobright.ai/jobs/info/692e433cef4b48533d13e19c?utm_campaign=1079&utm_source=git)** | Wilton Center, CT | On Site | Dec 01 |
 | **[Altanova - Sustainable Strategy & Innovation](https://altanova.io)** | **[Software Development Intern](https://jobright.ai/jobs/info/692e423f4c474121999d7ad3?utm_campaign=1079&utm_source=git)** | Long Island City, NY | Hybrid | Dec 01 |
+| **[Cadence](https://www.cadence.com)** | **[Software Engineering Intern - Circuit Simulation](https://jobright.ai/jobs/info/692e40b1fa28370be26a2cee?utm_campaign=1079&utm_source=git)** | AUSTIN | On Site | Dec 01 |
 | **[DeBra-Kuempel](https://dkemcor.com/)** | **[Automation Graphics Designer Co-Op](https://jobright.ai/jobs/info/692e5dd24c474121999d8dba?utm_campaign=1079&utm_source=git)** | Columbus, OH | On Site | Dec 01 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Application Solutions, Operations Improvement](https://jobright.ai/jobs/info/692e398ffa28370be26a27f4?utm_campaign=1079&utm_source=git)** | Boise, ID | On Site | Dec 01 |
-| **[Cadence](https://www.cadence.com)** | **[Software Engineering Intern - Circuit Simulation](https://jobright.ai/jobs/info/692e386efa28370be26a26fa?utm_campaign=1079&utm_source=git)** | AUSTIN | On Site | Dec 01 |
 | **[Nordson Corporation](http://www.nordson.com)** | **[Intern (Computer Engineering)](https://jobright.ai/jobs/info/692e5913ef4b48533d13f0d0?utm_campaign=1079&utm_source=git)** | Duluth, GA | On Site | Dec 01 |
 | **[Carrier](https://www.corporate.carrier.com)** | **[Digital Software Developer Intern - Summer](https://jobright.ai/jobs/info/692e35d9fa28370be26a24ce?utm_campaign=1079&utm_source=git)** | CAM60: Sensitech, Inc., 800 Cummings Center, Beverly, MA, 01915 USA | On Site | Dec 01 |
 | **[Church Mutual Insurance Company, S.I.](http://www.churchmutual.com)** | **[Intern-IT Application Developer](https://jobright.ai/jobs/info/692e3195ef4b48533d13d6ae?utm_campaign=1079&utm_source=git)** | Milwaukee, WI | On Site | Dec 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Development Engineer Test Intern (Summer)](https://jobright.ai/jobs/info/692d61e6fa28370be269cac4?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Dec 01 |
 | ↳ | **[Software Development Engineer Test Intern (Summer)](https://jobright.ai/jobs/info/692d613afa28370be269ca85?utm_campaign=1079&utm_source=git)** | Bellevue, WA | On Site | Dec 01 |
 | ↳ | **[Software Development Engineer Test Intern (Summer)](https://jobright.ai/jobs/info/692d5fe466796e3028f94750?utm_campaign=1079&utm_source=git)** | Cupertino, CA | On Site | Dec 01 |
-| ↳ | **[Software Development Engineer Test Intern (Summer)](https://jobright.ai/jobs/info/692d5d1566796e3028f9470a?utm_campaign=1079&utm_source=git)** | New York, United States | On Site | Dec 01 |
-| ↳ | **[Software Development Engineer Test Intern (Summer)](https://jobright.ai/jobs/info/692d5b944c474121999d18d8?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Dec 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
