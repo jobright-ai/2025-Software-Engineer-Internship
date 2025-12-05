@@ -57,17 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[SW Engineering Intern (Summer 2026 - Lakewood)](https://jobright.ai/jobs/info/6932042ed0010831497be37f?utm_campaign=1079&utm_source=git)** | Lakewood, OH | Hybrid | Dec 04 |
+| **[Cognizant](https://www.cognizant.com)** | **[Intern](https://jobright.ai/jobs/info/693202fd4c474121999f5ac9?utm_campaign=1079&utm_source=git)** | Teaneck, NJ | Hybrid | Dec 04 |
 | **[Trinidad Benham](https://www.trinidadbenham.com/)** | **[Intern, Information Technology (Software Engineer 1 - ERP Development)](https://jobright.ai/jobs/info/6932005c4c474121999f57ee?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO | On Site | Dec 04 |
 | ↳ | **[Intern, Information Technology (IT Business Analyst)](https://jobright.ai/jobs/info/6931fcf3fa28370be26c03dd?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO | On Site | Dec 04 |
 | **[Texas Instruments](http://www.ti.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6931fb854c474121999f52e7?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Dec 04 |
-| **[Cognizant](https://www.cognizant.com)** | **[Intern](https://jobright.ai/jobs/info/6931f083fa28370be26bf7f7?utm_campaign=1079&utm_source=git)** | Teaneck, NJ | Hybrid | Dec 04 |
+| **[AXENTRA OS](https://www.xircls.com/)** | **[Remote Internship - Python Django/FastAPI Development](https://jobright.ai/jobs/info/693203d6fa28370be26c0b53?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 04 |
+| **[Veryable](http://veryableops.com)** | **[Core Platform Engineer - Intern](https://jobright.ai/jobs/info/693202af4c474121999f5a63?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Dec 04 |
 | **[Powell](http://www.powellind.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/6931f7094c474121999f4e9c?utm_campaign=1079&utm_source=git)** | 7232 Airport Blvd - Dock A, Houston, TX, 77061, US | On Site | Dec 04 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Software Development Intern](https://jobright.ai/jobs/info/68cbb7f7ba798c1a501d4532?utm_campaign=1079&utm_source=git)** | Scottsdale, AZ | On Site | Dec 04 |
-| **[Performance Food Group](http://www.pfgc.com)** | **[IT Intern (Web + React)](https://jobright.ai/jobs/info/6931ef52d0010831497bd1a2?utm_campaign=1079&utm_source=git)** | Colorado | On Site | Dec 04 |
+| **[Performance Food Group](http://www.pfgc.com)** | **[IT Intern (Web + React)](https://jobright.ai/jobs/info/693203254c474121999f5afa?utm_campaign=1079&utm_source=git)** | Englewood, Colorado (CO) | On Site | Dec 04 |
 | ↳ | **[IT Intern (Web + React)](https://jobright.ai/jobs/info/6931ee4ffa28370be26bf620?utm_campaign=1079&utm_source=git)** | 188 Inverness Drive West | On Site | Dec 04 |
+| ↳ | **[IT Intern (Web + React)](https://jobright.ai/jobs/info/6931ef52d0010831497bd1a2?utm_campaign=1079&utm_source=git)** | Colorado | On Site | Dec 04 |
 | **[Trinidad Benham](https://www.trinidadbenham.com/)** | **[Intern, Information Technology (Software Engineer - Reporting)](https://jobright.ai/jobs/info/6931efce4c474121999f4910?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO | On Site | Dec 04 |
+| **[NISC](http://www.nisc.coop/)** | **[Intern - Business & Technology Innovation](https://jobright.ai/jobs/info/68d2bac717554c2d9eee9426?utm_campaign=1079&utm_source=git)** | Lake Saint Louis, MO | On Site | Dec 04 |
 | **[Acumatica](https://www.acumatica.com)** | **[Intern QA](https://jobright.ai/jobs/info/6931ce0cfa28370be26be380?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 04 |
 | **[GoDaddy](https://www.godaddy.com)** | **[Intern - Software Development Engineer](https://jobright.ai/jobs/info/6931f2cffa28370be26bfa29?utm_campaign=1079&utm_source=git)** | United States | Hybrid | Dec 04 |
+| **[ASML](https://www.asml.com)** | **[Internship - Software Engineering](https://jobright.ai/jobs/info/693204c8fa28370be26c0c5f?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Dec 04 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Software Engineer- Intern](https://jobright.ai/jobs/info/6931fc84d0010831497bdd4f?utm_campaign=1079&utm_source=git)** | Pennsylvania | On Site | Dec 04 |
 | ↳ | **[Software Engineer- Intern](https://jobright.ai/jobs/info/6931f6744c474121999f4dfa?utm_campaign=1079&utm_source=git)** | Possible | On Site | Dec 04 |
 | **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Computer Engineer Intern - Beavercreek OH](https://jobright.ai/jobs/info/6931cb99fa28370be26be171?utm_campaign=1079&utm_source=git)** | United States-Ohio-Beavercreek | On Site | Dec 04 |
@@ -79,8 +85,8 @@ For a complete list, click the following sortable link below:
 | **[BMO](http://www.bmo.com)** | **[Software Developer, Winter 2026 (Co-op/Internship) - 8 months](https://jobright.ai/jobs/info/6931ea424c474121999f448f?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 04 |
 | **[Dialpad Japan](http://dialpad.com/jp)** | **[Co-op Software Engineer, Fullstack](https://jobright.ai/jobs/info/6931e92dd0010831497bcd81?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Dec 04 |
 | ↳ | **[Co-op Software Engineer, Backend](https://jobright.ai/jobs/info/6931f8e8d0010831497bd9d3?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Dec 04 |
-| ↳ | **[Co-op Software Engineer, Fullstack](https://jobright.ai/jobs/info/6931d9d6fa28370be26bea76?utm_campaign=1079&utm_source=git)** | Kitchener, Ontario, Canada | On Site | Dec 04 |
 | ↳ | **[Co-op Software Engineer, Backend](https://jobright.ai/jobs/info/6931e7c24c474121999f4361?utm_campaign=1079&utm_source=git)** | Kitchener, Ontario, Canada | On Site | Dec 04 |
+| ↳ | **[Co-op Software Engineer, Fullstack](https://jobright.ai/jobs/info/6931d9d6fa28370be26bea76?utm_campaign=1079&utm_source=git)** | Kitchener, Ontario, Canada | On Site | Dec 04 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer Intern – Digital Systems QA](https://jobright.ai/jobs/info/6931af07fa28370be26bd52b?utm_campaign=1079&utm_source=git)** | Bridgewater, NJ | Hybrid | Dec 04 |
 | **[Twitch](https://www.twitch.tv)** | **[Undergrad Solutions Architect Intern](https://jobright.ai/jobs/info/68f98ac76de2db04dc3e9f66?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Dec 04 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Performance Testing Engineering Intern, ATX](https://jobright.ai/jobs/info/69150953286ccf0a1512a92e?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Dec 04 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineering Intern - Summer](https://jobright.ai/jobs/info/6931b036d0010831497bb0b8?utm_campaign=1079&utm_source=git)** | East Syracuse, NY | On Site | Dec 03 |
 | **[The Aerospace Corporation](http://www.aerospace.org)** | **[2026 UI and Advanced Visualization Development Undergrad Intern](https://jobright.ai/jobs/info/69315baffa28370be26b8629?utm_campaign=1079&utm_source=git)** | El Segundo, CA | On Site | Dec 03 |
 | ↳ | **[2026 UI and Advanced Visualization Development Undergrad Intern](https://jobright.ai/jobs/info/69315a53fa28370be26b859c?utm_campaign=1079&utm_source=git)** | Chantilly, VA | On Site | Dec 03 |
-| **[GoFundMe](http://www.gofundme.com)** | **[Frontend Software Engineering Intern](https://jobright.ai/jobs/info/68dc5b4fddc10244dd6748ce?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Dec 03 |
-| **[NimbleRx](https://www.nimblerx.com/)** | **[Software Engineer Intern - Summer Session (Summer 2026)](https://jobright.ai/jobs/info/693123004c474121999ec4cb?utm_campaign=1079&utm_source=git)** | Redwood City, CA | Hybrid | Dec 03 |
-| **[KION Group](http://www.kiongroup.com/)** | **[Software Development in Test Intern](https://jobright.ai/jobs/info/693113634c474121999ebd41?utm_campaign=1079&utm_source=git)** | DEMATIC Dallas, TX | On Site | Dec 03 |
-| ↳ | **[Software Development in Test Intern](https://jobright.ai/jobs/info/69311348fa28370be26b6b42?utm_campaign=1079&utm_source=git)** | Wauwatosa, WI, United States | On Site | Dec 03 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Firmware Engineer, New Programs Engineering (Summer 2026)](https://jobright.ai/jobs/info/6931116b4c474121999ebbe0?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Dec 03 |
-| **[The Aerospace Corporation](http://www.aerospace.org)** | **[2026 UI and Advanced Visualization Development Undergrad Intern](https://jobright.ai/jobs/info/6931116afa28370be26b6a1a?utm_campaign=1079&utm_source=git)** | Chantilly, VA | On Site | Dec 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
