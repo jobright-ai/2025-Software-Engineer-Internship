@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Intuit](https://www.intuit.com)** | **[Summer 2026 Front End Engineering Intern](https://jobright.ai/jobs/info/68fc0a464129dd33cd138065?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Dec 06 |
+| ↳ | **[Summer 2026 Full Stack Engineering Intern](https://jobright.ai/jobs/info/68fc041f4129dd33cd137bf3?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Dec 06 |
+| **[Exaquant](https://exaquant.com/)** | **[Blockchain Developer Intern](https://jobright.ai/jobs/info/69347a2a764507023d1bd25a?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 06 |
+| **[National Renewable Energy Laboratory](http://www.nrel.gov)** | **[Post-Undergraduate/Graduate (Year-Round) Software Engineering Intern for Grid Modeling Applications](https://jobright.ai/jobs/info/6933a59ef131d96e48465620?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 06 |
+| **[Intuit](https://www.intuit.com)** | **[Summer 2026 Backend Engineering Intern](https://jobright.ai/jobs/info/68fc16c3f55bb021a88a059d?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Dec 06 |
+| ↳ | **[Summer 2026 Backend Engineering Intern](https://jobright.ai/jobs/info/68fc02d9f55bb021a889f6b9?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Dec 06 |
+| **[Docusign](http://www.docusign.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6918183845fb6f5ead8a1c20?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Dec 06 |
+| **[Cadence](https://www.cadence.com)** | **[Software Intern](https://jobright.ai/jobs/info/6917b69215b415636717ac4b?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 06 |
 | **[Powell](http://www.powellind.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69346b29f131d96e4846aa1e?utm_campaign=1079&utm_source=git)** | Greater Chicago Area | On Site | Dec 06 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2026 Backend Engineering Intern](https://jobright.ai/jobs/info/68fc0127f55bb021a889f544?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Dec 06 |
 | **[Powell](http://www.powellind.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69345e57f131d96e4846a808?utm_campaign=1079&utm_source=git)** | 515 Railroad Ave., Northlake, IL, 60164, US | On Site | Dec 06 |
@@ -116,7 +124,6 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[Research Intern (RDMA/High Speed Network) - 2026 Start (PhD)](https://jobright.ai/jobs/info/68a3cdad37d3cc6b0d579b45?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Dec 06 |
 | **[Epic Games](https://epicgames.com)** | **[Gameplay Systems Intern](https://jobright.ai/jobs/info/68fa8730edd190144238dc6f?utm_campaign=1079&utm_source=git)** | Cary, NC | On Site | Dec 06 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[IT Quality Assurance Analyst Intern](https://jobright.ai/jobs/info/689501198c6d6b442677673f?utm_campaign=1079&utm_source=git)** | Strongsville, OH | On Site | Dec 06 |
-| **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Internship: Software Engineering (Summer 2026) - Franksville, WI](https://jobright.ai/jobs/info/6930c32c4c474121999e887f?utm_campaign=1079&utm_source=git)** | Franksville, WI | On Site | Dec 06 |
 | **[Epic Games](https://epicgames.com)** | **[Gameplay Programmer Intern](https://jobright.ai/jobs/info/68e4bcb4b99ec3563b0ed625?utm_campaign=1079&utm_source=git)** | Cary, NC | On Site | Dec 06 |
 | **[ByteDance](http://bytedance.com)** | **[Infrastructure Engineer Intern (Compute Infrastructure - Cloud-Native )- 2026 Summer (MS/BS)](https://jobright.ai/jobs/info/68cb8e95ba798c1a501d1921?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 06 |
 | **[Rambus](http://www.rambus.com/us)** | **[Intern Digital Verification](https://jobright.ai/jobs/info/69200da309cc522e8774788b?utm_campaign=1079&utm_source=git)** | Alameda County, CA | Hybrid | Dec 06 |
@@ -145,16 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Cloud Support Engineer Internship - 2026 (US)](https://jobright.ai/jobs/info/6933afdfa0dde7020e2f08d7?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Dec 05 |
 | **[Cisco](http://www.cisco.com)** | **[Software Engineer Full Stack & Application Development I (Intern) – United States](https://jobright.ai/jobs/info/6933918bf131d96e48464728?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Dec 05 |
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/69210a2900c9ee50eaecb099?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 05 |
-| **[Cisco](http://www.cisco.com)** | **[Software Engineer Full Stack & Application Development I (Intern) – United States](https://jobright.ai/jobs/info/6933adcaa0dde7020e2f071c?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Dec 05 |
-| ↳ | **[Software Engineer Full Stack & Application Development I (Intern) – United States](https://jobright.ai/jobs/info/6933ae4bf131d96e48465d7f?utm_campaign=1079&utm_source=git)** | Fulton, MD | On Site | Dec 05 |
+| **[Cisco](http://www.cisco.com)** | **[Software Engineer Full Stack & Application Development I (Intern) – United States](https://jobright.ai/jobs/info/6933ae4bf131d96e48465d7f?utm_campaign=1079&utm_source=git)** | Fulton, MD | On Site | Dec 05 |
+| ↳ | **[Software Engineer Full Stack & Application Development I (Intern) – United States](https://jobright.ai/jobs/info/6933adcaa0dde7020e2f071c?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Dec 05 |
 | **[Waymo](https://waymo.com)** | **[2026 Summer Intern, PhD, Software Engineer, Release Evaluation](https://jobright.ai/jobs/info/68d340a8f0d9af73038e0422?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Dec 05 |
 | **[Engrain](http://engrain.com/)** | **[Salesforce QA & Systems Intern](https://jobright.ai/jobs/info/693386e2a0dde7020e2eee4c?utm_campaign=1079&utm_source=git)** | Greenwood Village,CO,US | Hybrid | Dec 05 |
 | **[OpenTable](http://opentable.com)** | **[Software Engineer Internship - iOS (Hybrid, Toronto)](https://jobright.ai/jobs/info/692e1f454c474121999d6593?utm_campaign=1079&utm_source=git)** | Toronto, ON | Hybrid | Dec 05 |
-| **[Kiewit](http://www.kiewit.com)** | **[Environmental Engineer Intern - Kiewit Infrastructure Engineers (Summer 2026)](https://jobright.ai/jobs/info/69337daca0dde7020e2ee87c?utm_campaign=1079&utm_source=git)** | Lone Tree, CO | On Site | Dec 05 |
-| **[Zoox](https://www.zoox.com/)** | **[Firmware Engineer Intern](https://jobright.ai/jobs/info/69339663a0dde7020e2ef6f2?utm_campaign=1079&utm_source=git)** | Foster City, CA | Hybrid | Dec 05 |
-| **[API - American Petroleum Institute](http://www.api.org)** | **[Monogram & APIQR Intern](https://jobright.ai/jobs/info/693398c9f131d96e48464bd4?utm_campaign=1079&utm_source=git)** | Washington, DC, US | On Site | Dec 05 |
-| **[Engrain](http://engrain.com/)** | **[Salesforce QA & Systems Intern](https://jobright.ai/jobs/info/693398abf131d96e48464bc2?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO | On Site | Dec 05 |
-| **[Duck Creek Technologies](http://www.duckcreek.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69337008f131d96e48463548?utm_campaign=1079&utm_source=git)** | Remote, OH | Hybrid | Dec 05 |
-| **[Ciena](http://www.ciena.com)** | **[WaveLogic Software Intern (Winter 2026)](https://jobright.ai/jobs/info/69336722764507023d1b53bc?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Hybrid | Dec 05 |
-| **[Simons Foundation](https://www.simonsfoundation.org)** | **[Scientific Visual Exploration Software Intern](https://jobright.ai/jobs/info/693366a3a0dde7020e2ed7de?utm_campaign=1079&utm_source=git)** | 162 Fifth Avenue, New York, NY | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
