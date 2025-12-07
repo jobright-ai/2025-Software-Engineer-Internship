@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GenPark](https://genpark.ai)** | **[Front End Engineer](https://jobright.ai/jobs/info/6934f86ca0dde7020e2f6ddd?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Dec 06 |
+| **[Egotechworld](https://egotechworld.com/)** | **[Software Intern](https://jobright.ai/jobs/info/693524c5764507023d1bf365?utm_campaign=1079&utm_source=git)** | Mobile, AL | Remote | Dec 06 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2026 Front End Engineering Intern](https://jobright.ai/jobs/info/68fc0a464129dd33cd138065?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Dec 06 |
 | ↳ | **[Summer 2026 Full Stack Engineering Intern](https://jobright.ai/jobs/info/68fc041f4129dd33cd137bf3?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Dec 06 |
 | **[National Renewable Energy Laboratory](http://www.nrel.gov)** | **[Post-Undergraduate/Graduate (Year-Round) Software Engineering Intern for Grid Modeling Applications](https://jobright.ai/jobs/info/6933a59ef131d96e48465620?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 06 |
@@ -88,8 +88,8 @@ For a complete list, click the following sortable link below:
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - AI Frameworks (Network Systems and Tools)](https://jobright.ai/jobs/info/69343149f131d96e48469eb9?utm_campaign=1079&utm_source=git)** | Redmond, WA | On Site | Dec 06 |
 | **[HP IQ](https://www.hp-iq.com/join-us)** | **[Software Engineer Intern, Cloud Services (Summer 2026)](https://jobright.ai/jobs/info/69343029f131d96e48469e7a?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Dec 06 |
 | **[Cintas](https://www.cintas.com)** | **[IT Intern - Cloud Engineering](https://jobright.ai/jobs/info/69342dfa764507023d1bc398?utm_campaign=1079&utm_source=git)** | Mason, OH | On Site | Dec 06 |
-| ↳ | **[IT Intern Middleware - Integrations](https://jobright.ai/jobs/info/69342d25f131d96e48469dd9?utm_campaign=1079&utm_source=git)** | Mason, OH | On Site | Dec 06 |
 | ↳ | **[IT Intern - Middleware Mobility](https://jobright.ai/jobs/info/69342d25f131d96e48469dd8?utm_campaign=1079&utm_source=git)** | Mason, OH | On Site | Dec 06 |
+| ↳ | **[IT Intern Middleware - Integrations](https://jobright.ai/jobs/info/69342d25f131d96e48469dd9?utm_campaign=1079&utm_source=git)** | Mason, OH | On Site | Dec 06 |
 | **[Waymo](https://waymo.com)** | **[2026 Summer Intern, MS/PhD, Compute, Compiler](https://jobright.ai/jobs/info/68fc317d4129dd33cd139a82?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Dec 06 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Software Research & Development Intern - Summer 2026](https://jobright.ai/jobs/info/6934274bf131d96e48469c74?utm_campaign=1079&utm_source=git)** | Emeryville, CA | On Site | Dec 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern(Live Service) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689e8f3183d13d1f5b6bdb12?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 06 |
@@ -137,9 +137,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Intern: Associate QA Analyst](https://jobright.ai/jobs/info/6933ec94764507023d1bac0e?utm_campaign=1079&utm_source=git)** | Maryland Heights, MO | On Site | Dec 06 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - Software Engineer](https://jobright.ai/jobs/info/6933de51a0dde7020e2f29fb?utm_campaign=1079&utm_source=git)** | Durham, NC | On Site | Dec 05 |
 | **[Oceaneering](http://www.oceaneering.com/)** | **[IT Integration Developer Intern](https://jobright.ai/jobs/info/6933d3f8f131d96e484678a7?utm_campaign=1079&utm_source=git)** | Greater Houston | Hybrid | Dec 05 |
-| **[Rivian and Volkswagen Group Technologies](https://rivianvw.tech)** | **[Software Engineering Intern, Embedded Platforms - Summer 2026](https://jobright.ai/jobs/info/693514b9a0dde7020e2f7556?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Dec 05 |
 | **[Itron, Inc.](http://www.itron.com)** | **[Intern - Embedded Firmware (Summer 2026)](https://jobright.ai/jobs/info/6933b447f131d96e48466200?utm_campaign=1079&utm_source=git)** | West Union, SC | On Site | Dec 05 |
 | **[Intact Insurance Specialty Solutions](http://www.intactspecialty.com)** | **[Software Developer Intern - Dewar (Hybrid)](https://jobright.ai/jobs/info/6933b209f131d96e484660a4?utm_campaign=1079&utm_source=git)** | Quincy, MA | Hybrid | Dec 05 |
+| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, R&D Undergraduate Summer - TITANS SW, Onsite](https://jobright.ai/jobs/info/691654259c388539cbdf9fc1?utm_campaign=1079&utm_source=git)** | Albuquerque, NM | Hybrid | Dec 05 |
 | **[Cisco](http://www.cisco.com)** | **[Software Engineer Full Stack & Application Development I (Intern) – United States](https://jobright.ai/jobs/info/6933a617764507023d1b7a90?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Dec 05 |
 | ↳ | **[Software Engineer Full Stack & Application Development I (Intern) – United States](https://jobright.ai/jobs/info/6933a5b8a0dde7020e2f0193?utm_campaign=1079&utm_source=git)** | Hillsboro, OR | On Site | Dec 05 |
 | ↳ | **[Software Engineer Full Stack & Application Development I (Intern) – United States](https://jobright.ai/jobs/info/6933a55c764507023d1b7a1a?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Dec 05 |
