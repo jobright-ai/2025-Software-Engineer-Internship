@@ -57,9 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GenPark](https://genpark.ai)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6934f8f2f131d96e4846c56b?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | Hybrid | Dec 06 |
-| ↳ | **[Front End Engineer](https://jobright.ai/jobs/info/6934f86ca0dde7020e2f6ddd?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Dec 06 |
-| **[TechX](https://techx.dev/)** | **[Software Engineer – TechX Engineering Internship (Unpaid, Remote)](https://jobright.ai/jobs/info/6934d691a0dde7020e2f6647?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 06 |
+| **[GenPark](https://genpark.ai)** | **[Front End Engineer](https://jobright.ai/jobs/info/6934f86ca0dde7020e2f6ddd?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Dec 06 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2026 Front End Engineering Intern](https://jobright.ai/jobs/info/68fc0a464129dd33cd138065?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Dec 06 |
 | ↳ | **[Summer 2026 Full Stack Engineering Intern](https://jobright.ai/jobs/info/68fc041f4129dd33cd137bf3?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Dec 06 |
 | **[National Renewable Energy Laboratory](http://www.nrel.gov)** | **[Post-Undergraduate/Graduate (Year-Round) Software Engineering Intern for Grid Modeling Applications](https://jobright.ai/jobs/info/6933a59ef131d96e48465620?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 06 |
@@ -139,6 +137,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Intern: Associate QA Analyst](https://jobright.ai/jobs/info/6933ec94764507023d1bac0e?utm_campaign=1079&utm_source=git)** | Maryland Heights, MO | On Site | Dec 06 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - Software Engineer](https://jobright.ai/jobs/info/6933de51a0dde7020e2f29fb?utm_campaign=1079&utm_source=git)** | Durham, NC | On Site | Dec 05 |
 | **[Oceaneering](http://www.oceaneering.com/)** | **[IT Integration Developer Intern](https://jobright.ai/jobs/info/6933d3f8f131d96e484678a7?utm_campaign=1079&utm_source=git)** | Greater Houston | Hybrid | Dec 05 |
+| **[Rivian and Volkswagen Group Technologies](https://rivianvw.tech)** | **[Software Engineering Intern, Embedded Platforms - Summer 2026](https://jobright.ai/jobs/info/693514b9a0dde7020e2f7556?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Dec 05 |
 | **[Itron, Inc.](http://www.itron.com)** | **[Intern - Embedded Firmware (Summer 2026)](https://jobright.ai/jobs/info/6933b447f131d96e48466200?utm_campaign=1079&utm_source=git)** | West Union, SC | On Site | Dec 05 |
 | **[Intact Insurance Specialty Solutions](http://www.intactspecialty.com)** | **[Software Developer Intern - Dewar (Hybrid)](https://jobright.ai/jobs/info/6933b209f131d96e484660a4?utm_campaign=1079&utm_source=git)** | Quincy, MA | Hybrid | Dec 05 |
 | **[Cisco](http://www.cisco.com)** | **[Software Engineer Full Stack & Application Development I (Intern) – United States](https://jobright.ai/jobs/info/6933a617764507023d1b7a90?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Dec 05 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Cisco](http://www.cisco.com)** | **[Software Engineer Full Stack & Application Development I (Intern) – United States](https://jobright.ai/jobs/info/6933918bf131d96e48464728?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Dec 05 |
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/69210a2900c9ee50eaecb099?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 05 |
 | **[Cisco](http://www.cisco.com)** | **[Software Engineer Full Stack & Application Development I (Intern) – United States](https://jobright.ai/jobs/info/6933adcaa0dde7020e2f071c?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Dec 05 |
+| ↳ | **[Software Engineer Full Stack & Application Development I (Intern) – United States](https://jobright.ai/jobs/info/6933ae4bf131d96e48465d7f?utm_campaign=1079&utm_source=git)** | Fulton, MD | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
