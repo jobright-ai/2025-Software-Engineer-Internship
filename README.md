@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark](https://genpark.ai)** | **[Front End Developer](https://jobright.ai/jobs/info/6936b549a0dde7020e2fce2e?utm_campaign=1079&utm_source=git)** | LA Metro Area | Hybrid | Dec 08 |
 | **[RTX](http://www.raytheon.com)** | **[2026 Intern - Software Engineer Intern - Onsite  (CA)](https://jobright.ai/jobs/info/693694511c1c2161c13edcda?utm_campaign=1079&utm_source=git)** | CA601: Goleta (EW) Bldg H01 6380 Hollister Avenue Building H01, Goleta, CA, 93117 USA | Hybrid | Dec 08 |
 | **[Raytheon](http://www.bbn.com)** | **[2026 Intern - Software Engineer Intern - Onsite  (CA)](https://jobright.ai/jobs/info/69368e541c1c2161c13edb25?utm_campaign=1079&utm_source=git)** | Goleta, CA | Hybrid | Dec 08 |
 | **[Ingersoll Rand](https://www.irco.com/en-us/)** | **[IT Architecture / Research Internship 2026](https://jobright.ai/jobs/info/69368e2644eb324fb785c6ed?utm_campaign=1079&utm_source=git)** | Davidson, NC | On Site | Dec 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[[Online Assessment]Backend Development Engineer Intern (Infrastructure Platform Delivery)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cea6f7846f0b04af67c097?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Lead Ads) - 2025 Fall (BS/MS)](https://jobright.ai/jobs/info/68ccff2f77add66568abd716?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 06 |
 | **[ByteDance](http://bytedance.com)** | **[Backend Software Engineer Intern (Global E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/690d880444146d3b6ec4d96b?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Dec 06 |
-| ↳ | **[[Online Assessment]Software Development Engineer Intern (Network Automation)- 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/690d44b64a1b456627b1feb7?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
