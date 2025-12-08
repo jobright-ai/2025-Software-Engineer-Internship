@@ -57,10 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - AI Software Engineer (Memphis, TN)](https://jobright.ai/jobs/info/6933dda4764507023d1ba463?utm_campaign=1079&utm_source=git)** | Memphis, TN | On Site | Dec 08 |
+| **[Ciena](http://www.ciena.com)** | **[WaveLogic Software Intern (Winter 2026)](https://jobright.ai/jobs/info/69336722764507023d1b53bc?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Hybrid | Dec 08 |
+| **[AutoComply](autocomply.ca)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69370984a0dde7020e2fe855?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 08 |
+| **[The Bank of Tampa](http://bankoftampa.com)** | **[Digital Banking Intern](https://jobright.ai/jobs/info/693704911c1c2161c13f0043?utm_campaign=1079&utm_source=git)** | Armenia, Tampa, FL, US | On Site | Dec 08 |
+| **[MongoDB](https://www.mongodb.com/)** | **[2026 - Software Engineering Intern, AMER](https://jobright.ai/jobs/info/68cd4252b2a74e1837ed491f?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Dec 08 |
+| **[Axiom Space](http://www.axiomspace.com)** | **[Space Station Computer Science and Computer Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6936f457a0dde7020e2fdfbe?utm_campaign=1079&utm_source=git)** | Houston | On Site | Dec 08 |
 | **[Serco](https://www.serco.com)** | **[Software Engineering Intern - Orlando, FL](https://jobright.ai/jobs/info/6936e9b3a0dde7020e2fdc5b?utm_campaign=1079&utm_source=git)** | Orlando, FL | Hybrid | Dec 08 |
 | **[Sparrow](https://www.sparrowup.com)** | **[Full Stack Intern](https://jobright.ai/jobs/info/6936e6dc1c1c2161c13ef4a7?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 08 |
 | **[Ciena](http://www.ciena.com)** | **[Verification Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/6936e36da0dde7020e2fda54?utm_campaign=1079&utm_source=git)** | Atlanta | Hybrid | Dec 08 |
 | **[Peraton](https://www.peraton.com/)** | **[Summer 2026 Software Engineer Intern](https://jobright.ai/jobs/info/692004e1a49a885af9a35f9a?utm_campaign=1079&utm_source=git)** | Herndon, VA | Hybrid | Dec 08 |
+| **[Craze Inc.](joincraze.com)** | **[SWE Intern](https://jobright.ai/jobs/info/693707c71c1c2161c13f01a1?utm_campaign=1079&utm_source=git)** | Miami, FL | Hybrid | Dec 08 |
 | **[ADM](http://www.adm.com)** | **[COBOL Developer Intern - Erlanger, KY](https://jobright.ai/jobs/info/692295fe38cd5478a8d542c7?utm_campaign=1079&utm_source=git)** | Erlanger, KY | On Site | Dec 08 |
 | **[RTX](http://www.raytheon.com)** | **[2026 Intern - Software Engineer Intern - Onsite  (CA)](https://jobright.ai/jobs/info/693694511c1c2161c13edcda?utm_campaign=1079&utm_source=git)** | CA601: Goleta (EW) Bldg H01 6380 Hollister Avenue Building H01, Goleta, CA, 93117 USA | Hybrid | Dec 08 |
 | **[Raytheon](http://www.bbn.com)** | **[2026 Intern - Software Engineer Intern - Onsite  (CA)](https://jobright.ai/jobs/info/69368e541c1c2161c13edb25?utm_campaign=1079&utm_source=git)** | Goleta, CA | Hybrid | Dec 08 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Software Engineer Intern - Aviation Web Development](https://jobright.ai/jobs/info/68cd102de23def7af55b482d?utm_campaign=1079&utm_source=git)** | Middlebury, CT | On Site | Dec 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Recommendation Infrastructure) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/68cb8203ba798c1a501d0d01?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 06 |
 | **[Epic Games](https://epicgames.com)** | **[Gameplay Systems Intern](https://jobright.ai/jobs/info/6917252cbcdbf3560c9c58b1?utm_campaign=1079&utm_source=git)** | Greater Montreal Metropolitan Area | On Site | Dec 06 |
-| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Capital Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68ccd10cb274cd205ab4f749?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 06 |
-| **[ByteDance](http://bytedance.com)** | **[[Online Assessment] Software Engineer Intern (NoSQL Databases) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68c8b2c5983e6768bc5507f6?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Dec 06 |
-| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Recommendation Infrastructure) - 2025 Summer/Fall (BS/ MS)](https://jobright.ai/jobs/info/688ee94e6a4aac5783cdb4f6?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Dec 06 |
-| ↳ | **[Software Development Engineer in Test Intern (TikTok-PGC)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cce33a5954791a1d700a5c?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 06 |
-| **[Performance Contracting, Inc. (PCI)](http://www.performancecontracting.com)** | **[IT Software Development Intern](https://jobright.ai/jobs/info/691d55babcdbf3560c9efe6d?utm_campaign=1079&utm_source=git)** | Lenexa, KS | On Site | Dec 06 |
-| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Experimentation & Evaluation, Data Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68fb1da53c99cc1d96028c84?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 06 |
-| **[ByteDance](http://bytedance.com)** | **[Software Engineer Intern (NoSQL Databases) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68c786757d0db4114273cb73?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
