@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark](https://genpark.ai)** | **[Web Application Engineer](https://jobright.ai/jobs/info/693644bba0dde7020e2fa7f9?utm_campaign=1079&utm_source=git)** | LA Metro Area | Hybrid | Dec 07 |
+| ↳ | **[Android Developer](https://jobright.ai/jobs/info/693642a8f131d96e4847044d?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 07 |
+| **[AECOM](http://www.aecom.com/)** | **[Digital & Engineering Technology Intern](https://jobright.ai/jobs/info/69363776764507023d1c1d4c?utm_campaign=1079&utm_source=git)** | Roanoke, VA | On Site | Dec 07 |
+| ↳ | **[Digital & Engineering Technology Intern](https://jobright.ai/jobs/info/693630d1a0dde7020e2fa0aa?utm_campaign=1079&utm_source=git)** | Roanoke, VA | On Site | Dec 07 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Software Engineering Intern, AMER](https://jobright.ai/jobs/info/68cc0da77342c7623ae5e299?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Dec 07 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Software Engineer (SkillBridge Intern) - 23875](https://jobright.ai/jobs/info/68cce080d11b445e0bee3779?utm_campaign=1079&utm_source=git)** | Greater Roanoke Area | On Site | Dec 07 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Software Engineering Intern, AMER](https://jobright.ai/jobs/info/68cd5df71ad6b16f02898c6d?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Dec 07 |
@@ -118,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - AI Frameworks (Network Systems and Tools)](https://jobright.ai/jobs/info/69343149f131d96e48469eb9?utm_campaign=1079&utm_source=git)** | Redmond, WA | On Site | Dec 06 |
 | **[HP IQ](https://www.hp-iq.com/join-us)** | **[Software Engineer Intern, Cloud Services (Summer 2026)](https://jobright.ai/jobs/info/69343029f131d96e48469e7a?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Dec 06 |
 | **[Cintas](https://www.cintas.com)** | **[IT Intern - Cloud Engineering](https://jobright.ai/jobs/info/69342dfa764507023d1bc398?utm_campaign=1079&utm_source=git)** | Mason, OH | On Site | Dec 06 |
-| ↳ | **[IT Intern Middleware - Integrations](https://jobright.ai/jobs/info/69342d25f131d96e48469dd9?utm_campaign=1079&utm_source=git)** | Mason, OH | On Site | Dec 06 |
 | ↳ | **[IT Intern - Middleware Mobility](https://jobright.ai/jobs/info/69342d25f131d96e48469dd8?utm_campaign=1079&utm_source=git)** | Mason, OH | On Site | Dec 06 |
+| ↳ | **[IT Intern Middleware - Integrations](https://jobright.ai/jobs/info/69342d25f131d96e48469dd9?utm_campaign=1079&utm_source=git)** | Mason, OH | On Site | Dec 06 |
 | **[Waymo](https://waymo.com)** | **[2026 Summer Intern, MS/PhD, Compute, Compiler](https://jobright.ai/jobs/info/68fc317d4129dd33cd139a82?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Dec 06 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Software Research & Development Intern - Summer 2026](https://jobright.ai/jobs/info/6934274bf131d96e48469c74?utm_campaign=1079&utm_source=git)** | Emeryville, CA | On Site | Dec 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern(Live Service) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689e8f3183d13d1f5b6bdb12?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 06 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[IT Third Party Application Intern](https://jobright.ai/jobs/info/6895052e4ed2ea559ca52b6f?utm_campaign=1079&utm_source=git)** | Strongsville, OH | On Site | Dec 06 |
 | **[ByteDance](http://bytedance.com)** | **[Research Intern (RDMA/High Speed Network) - 2026 Start (PhD)](https://jobright.ai/jobs/info/68a3cdad37d3cc6b0d579b45?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Dec 06 |
 | **[Epic Games](https://epicgames.com)** | **[Gameplay Systems Intern](https://jobright.ai/jobs/info/68fa8730edd190144238dc6f?utm_campaign=1079&utm_source=git)** | Cary, NC | On Site | Dec 06 |
-| **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[IT Quality Assurance Analyst Intern](https://jobright.ai/jobs/info/689501198c6d6b442677673f?utm_campaign=1079&utm_source=git)** | Strongsville, OH | On Site | Dec 06 |
-| **[Epic Games](https://epicgames.com)** | **[Gameplay Programmer Intern](https://jobright.ai/jobs/info/68e4bcb4b99ec3563b0ed625?utm_campaign=1079&utm_source=git)** | Cary, NC | On Site | Dec 06 |
-| **[ByteDance](http://bytedance.com)** | **[Infrastructure Engineer Intern (Compute Infrastructure - Cloud-Native )- 2026 Summer (MS/BS)](https://jobright.ai/jobs/info/68cb8e95ba798c1a501d1921?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 06 |
-| **[Rambus](http://www.rambus.com/us)** | **[Intern Digital Verification](https://jobright.ai/jobs/info/69200da309cc522e8774788b?utm_campaign=1079&utm_source=git)** | Alameda County, CA | Hybrid | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
