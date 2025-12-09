@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Simons Foundation](https://www.simonsfoundation.org)** | **[Database and Automated Testing Intern (for High Performance Computing and Machine Learning Benchmarks)](https://jobright.ai/jobs/info/6937c447aabec14a727ccece?utm_campaign=1079&utm_source=git)** | 162 Fifth Avenue, New York, NY | On Site | Dec 08 |
+| **[Stuller, Inc.](http://stuller.com)** | **[Digital Development Intern](https://jobright.ai/jobs/info/6937bdb4a0dde7020e30797f?utm_campaign=1079&utm_source=git)** | Lafayette, Louisiana Metropolitan Area | On Site | Dec 08 |
 | **[Panasonic Avionics Corporation](http://www.panasonic.aero)** | **[Software Developer Intern](https://jobright.ai/jobs/info/6937adc2aabec14a727cb267?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Dec 08 |
 | **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Digital Engineer Intern - Manhattan Beach CA](https://jobright.ai/jobs/info/6937acff1c1c2161c13f7212?utm_campaign=1079&utm_source=git)** | United States-California-Manhattan Beach | On Site | Dec 08 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[SW Engineering Intern (Summer 2026 - Lakewood)](https://jobright.ai/jobs/info/6932042ed0010831497be37f?utm_campaign=1079&utm_source=git)** | Lakewood, OH | Hybrid | Dec 08 |
@@ -78,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Williams-Sonoma Corporate Internship - Technology Software Engineering](https://jobright.ai/jobs/info/693795d8a0dde7020e304706?utm_campaign=1079&utm_source=git)** | 3250 Van Ness Ave, San Francisco, CA, 94109, US | On Site | Dec 08 |
 | **[NAVY EXCHANGE SERVICE COMMAND (NEXCOM)](https://www.mynavyexchange.com)** | **[INTERN (INFORMATION TECHNOLOGY - APPLICATIONS)](https://jobright.ai/jobs/info/69378b171c1c2161c13f58f6?utm_campaign=1079&utm_source=git)** | United States-Virginia-Virginia Beach | On Site | Dec 08 |
 | **[NextGen Coding Company](https://www.nextgencodingcompany.com/)** | **[Junior / Intern Full-Stack Developer](https://jobright.ai/jobs/info/693765e5aabec14a727c7728?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 08 |
-| **[Figure](https://www.figure.ai)** | **[Full-Stack Developer Intern - Winter 2026](https://jobright.ai/jobs/info/69375e26a0dde7020e301f0b?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 08 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Fullstack C++ Engineer, Vehicle User Interface (Summer 2026)](https://jobright.ai/jobs/info/69377ddaa0dde7020e3036f6?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Dec 08 |
 | ↳ | **[Internship, Embedded Software Engineer, Firmware Platforms (Summer 2026)](https://jobright.ai/jobs/info/6937859baabec14a727c8ec9?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Dec 08 |
 | ↳ | **[Internship, Fullstack Software Engineer, Fleetnet (Summer 2026)](https://jobright.ai/jobs/info/69377d45aabec14a727c8989?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Dec 08 |
@@ -90,8 +91,8 @@ For a complete list, click the following sortable link below:
 | **[Moody's Corporation](http://www.moodys.com)** | **[Moody's Technology Rotation Program - Software Engineering](https://jobright.ai/jobs/info/69373eeeaabec14a727c577b?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Dec 08 |
 | **[NVIDIA](https://www.nvidia.com)** | **[AI Compiler Intern - Summer 2026](https://jobright.ai/jobs/info/693763201c1c2161c13f3b81?utm_campaign=1079&utm_source=git)** | US, CA, Santa Clara | On Site | Dec 08 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Software Development Intern - Summer 2026 Internship](https://jobright.ai/jobs/info/69375eaba0dde7020e301f90?utm_campaign=1079&utm_source=git)** | St. Petersburg Business Center | On Site | Dec 08 |
-| **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69321586fa28370be26c19de?utm_campaign=1079&utm_source=git)** | Dedham, MA | Hybrid | Dec 08 |
-| ↳ | **[SW Engineering Intern (CWL Summer 2026)](https://jobright.ai/jobs/info/6932128dfa28370be26c1738?utm_campaign=1079&utm_source=git)** | Manassas, VA | Hybrid | Dec 08 |
+| **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[SW Engineering Intern (CWL Summer 2026)](https://jobright.ai/jobs/info/6932128dfa28370be26c1738?utm_campaign=1079&utm_source=git)** | Manassas, VA | Hybrid | Dec 08 |
+| ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/69321586fa28370be26c19de?utm_campaign=1079&utm_source=git)** | Dedham, MA | Hybrid | Dec 08 |
 | **[Ubie](https://ubie.life)** | **[Software Engineering Intern (AI x HealthTech)](https://jobright.ai/jobs/info/693768b71c1c2161c13f407b?utm_campaign=1079&utm_source=git)** | Manhattan, NY | Hybrid | Dec 08 |
 | **[SelectQuote Insurance Services](http://www.selectquote.com)** | **[Intern - IT Finance Technology](https://jobright.ai/jobs/info/69317c3afa28370be26bc0ba?utm_campaign=1079&utm_source=git)** | KC Metro Area | On Site | Dec 08 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern in Micro-Computing / Stagiaire, en micro-informatique](https://jobright.ai/jobs/info/69376e741c1c2161c13f45af?utm_campaign=1079&utm_source=git)** | Varennes, Quebec, Canada | On Site | Dec 08 |
@@ -104,6 +105,7 @@ For a complete list, click the following sortable link below:
 | **[CommScope](http://www.commscope.com)** | **[Intern, IMS Software Engineering](https://jobright.ai/jobs/info/69372728aabec14a727c47ce?utm_campaign=1079&utm_source=git)** | Catawba, NC | On Site | Dec 08 |
 | **[STMicroelectronics](https://www.st.com)** | **[Imaging Application Intern](https://jobright.ai/jobs/info/693753de1c1c2161c13f2d40?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | Hybrid | Dec 08 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Software Development Engineer in Test Intern](https://jobright.ai/jobs/info/693752ad1c1c2161c13f2cd4?utm_campaign=1079&utm_source=git)** | US - OR, Lake Oswego | On Site | Dec 08 |
+| **[Figure](https://www.figure.ai)** | **[Full-Stack Developer Intern - Winter 2026](https://jobright.ai/jobs/info/693720d7a0dde7020e2ff388?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 08 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Enterprise Architecture](https://jobright.ai/jobs/info/69373fe1a0dde7020e300760?utm_campaign=1079&utm_source=git)** | Arlington, TX | Hybrid | Dec 08 |
 | **[American Foods Group](https://www.americanfoodsgroup.com)** | **[Network Infrastructure Engineer Intern](https://jobright.ai/jobs/info/693740feaabec14a727c5934?utm_campaign=1079&utm_source=git)** | Green Bay, WI | On Site | Dec 08 |
 | **[Calfus Inc.](https://www.calfus.com/)** | **[Oracle Financial Technical Intern](https://jobright.ai/jobs/info/693742d8aabec14a727c5ad2?utm_campaign=1079&utm_source=git)** | Langley, British Columbia, Canada | On Site | Dec 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Front End Engineering Intern](https://jobright.ai/jobs/info/68fbfefcf55bb021a889f33f?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Dec 07 |
 | **[Constellation](https://www.constellationenergy.com/)** | **[2026 Summer Information Technology Intern](https://jobright.ai/jobs/info/68cd3ff5b2a74e1837ed456f?utm_campaign=1079&utm_source=git)** | Baltimore, MD | Hybrid | Dec 07 |
 | **[Copart](http://www.copart.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/691ee05ba49a885af9a2b33c?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Dec 07 |
-| **[Ramp](https://ramp.com)** | **[Software Engineer Internship / iOS](https://jobright.ai/jobs/info/691889fe45fb6f5ead8a5cd3?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Dec 07 |
-| ↳ | **[Software Engineer Internship / Frontend](https://jobright.ai/jobs/info/69188a7d45fb6f5ead8a5cfa?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Dec 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
