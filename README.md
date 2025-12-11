@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MML 360](https://mml360.co)** | **[Paid Intern](https://jobright.ai/jobs/info/693a779dac80bb5492bcf8a0?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Dec 10 |
 | **[Oceaneering](http://www.oceaneering.com/)** | **[Software Engineering Intern AUV](https://jobright.ai/jobs/info/693a73c456b68f3dc4e7cdb6?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Dec 10 |
 | **[Intapp](http://www.intapp.com)** | **[Implementation Services Intern](https://jobright.ai/jobs/info/693a715b48a8ce22990e71ba?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Dec 10 |
 | **[Uber](http://www.uber.com)** | **[2026 PhD Software Engineer Intern (Kafka), United States](https://jobright.ai/jobs/info/693a714bac80bb5492bcf6fb?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Dec 10 |
@@ -66,6 +67,8 @@ For a complete list, click the following sortable link below:
 | **[SMUD](https://www.smud.org/en)** | **[IT Infrastructure Platform Service Intern - Year Round](https://jobright.ai/jobs/info/693a6c1eac80bb5492bcf1de?utm_campaign=1079&utm_source=git)** | Sacramento, CA | On Site | Dec 10 |
 | **[Docusign](http://www.docusign.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/693a62af56b68f3dc4e7c5b2?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Dec 10 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Software Development Intern (LCS, Summer 2026)](https://jobright.ai/jobs/info/693a5e9cac80bb5492bcee2d?utm_campaign=1079&utm_source=git)** | Milford, OH | Hybrid | Dec 10 |
+| **[Uber](http://www.uber.com)** | **[2026 PhD Software Engineer Intern (Observability Data Platform), United States](https://jobright.ai/jobs/info/693a79e356b68f3dc4e7cf69?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Dec 10 |
+| **[Intapp](http://www.intapp.com)** | **[Implementation Services Intern](https://jobright.ai/jobs/info/693a78f948a8ce22990e73a1?utm_campaign=1079&utm_source=git)** | Charlotte, NC | Hybrid | Dec 10 |
 | **[Zurich North America](https://www.zurichna.com)** | **[IT Internship (Summer 2026)](https://jobright.ai/jobs/info/693a551aac80bb5492bce8fb?utm_campaign=1079&utm_source=git)** | Schaumburg, IL | Hybrid | Dec 10 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/693a4e6a56b68f3dc4e7a46b?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | Hybrid | Dec 10 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern in Micro-Computing / Stagiaire, en micro-informatique](https://jobright.ai/jobs/info/693a4c7b56b68f3dc4e7a362?utm_campaign=1079&utm_source=git)** | Varennes, Quebec, Canada | On Site | Dec 10 |
@@ -77,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Dominion Energy](http://www.dominionenergy.com/)** | **[Intern - IT Microsoft Center of Excellence (Richmond, VA / Cayce, SC)](https://jobright.ai/jobs/info/693a39fdac80bb5492bcbee0?utm_campaign=1079&utm_source=git)** | Richmond, VA | Hybrid | Dec 10 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Software Development Intern (Identity) - Summer 2026](https://jobright.ai/jobs/info/690e894bd046ab6061cfea51?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Dec 10 |
 | **[Zurich Insurance](http://www.zurich.com)** | **[IT Internship (Summer 2026)](https://jobright.ai/jobs/info/693a58fd56b68f3dc4e7c052?utm_campaign=1079&utm_source=git)** | Schaumburg, IL | Hybrid | Dec 10 |
-| **[Intapp](http://www.intapp.com)** | **[Implementation Services Intern](https://jobright.ai/jobs/info/693a351248a8ce22990e2d35?utm_campaign=1079&utm_source=git)** | Charlotte, NC | Hybrid | Dec 10 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/693a561b56b68f3dc4e7bf15?utm_campaign=1079&utm_source=git)** | Scottsdale, AZ | Hybrid | Dec 10 |
 | **[Intapp](http://www.intapp.com)** | **[Implementation Services Intern](https://jobright.ai/jobs/info/693a328c48a8ce22990e28bf?utm_campaign=1079&utm_source=git)** | US NY New York | Hybrid | Dec 10 |
 | **[Sandisk](https://www.sandisk.com/en-in)** | **[Intern - System Design Verification Engineering](https://jobright.ai/jobs/info/693a2a6548a8ce22990e2384?utm_campaign=1079&utm_source=git)** | 951 Sandisk Dr, Milpitas, CA | On Site | Dec 10 |
@@ -96,8 +98,8 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics](https://www.gd.com)** | **[Intern Engineer - (Co-Op - May 2026 Start)](https://jobright.ai/jobs/info/693a2abaac80bb5492bcafeb?utm_campaign=1079&utm_source=git)** | USA-IN-Ft. Wayne | Hybrid | Dec 10 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/693a283056b68f3dc4e77b7c?utm_campaign=1079&utm_source=git)** | Possible | On Site | Dec 10 |
 | ↳ | **[Engineering Intern](https://jobright.ai/jobs/info/693a2e3fac80bb5492bcb527?utm_campaign=1079&utm_source=git)** | Alabama | On Site | Dec 10 |
-| ↳ | **[Engineering Intern](https://jobright.ai/jobs/info/693a2dfe48a8ce22990e2663?utm_campaign=1079&utm_source=git)** | Possible | On Site | Dec 10 |
 | ↳ | **[Engineering Intern](https://jobright.ai/jobs/info/693a2da756b68f3dc4e77f6c?utm_campaign=1079&utm_source=git)** | Alabama | On Site | Dec 10 |
+| ↳ | **[Engineering Intern](https://jobright.ai/jobs/info/693a2dfe48a8ce22990e2663?utm_campaign=1079&utm_source=git)** | Possible | On Site | Dec 10 |
 | **[Ulta Beauty](https://www.ulta.com)** | **[Intern - SAP Engineering](https://jobright.ai/jobs/info/693a280a48a8ce22990e2204?utm_campaign=1079&utm_source=git)** | Bolingbrook, IL | On Site | Dec 10 |
 | **[Caddi](https://www.trycaddi.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/693a2427ac80bb5492bca76e?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Dec 10 |
 | **[Wisk](https://wisk.aero)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/693a2c7448a8ce22990e2544?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Dec 10 |
@@ -106,7 +108,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6939f2f656b68f3dc4e74215?utm_campaign=1079&utm_source=git)** | El Segundo, CA | Hybrid | Dec 10 |
 | **[Cohesity](https://www.cohesity.com/)** | **[Salesforce Developer Intern](https://jobright.ai/jobs/info/6939f2e956b68f3dc4e74208?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Dec 10 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Backend Software Engineer Intern](https://jobright.ai/jobs/info/68dc5fe2accfd24b67e54eb4?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Dec 10 |
-| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: 3DEXPERIENCE Simulation Apps Test Automation Developer (JavaScript) Onsite RI 2026](https://jobright.ai/jobs/info/693a19d1ac80bb5492bc99cd?utm_campaign=1079&utm_source=git)** | Johnston, RI | Hybrid | Dec 10 |
+| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: 3DEXPERIENCE Simulation Apps Test Automation Developer (JavaScript) Onsite RI 2026](https://jobright.ai/jobs/info/693a19d1ac80bb5492bc99cd?utm_campaign=1079&utm_source=git)** | Johnston, RI | On Site | Dec 10 |
 | ↳ | **[INTERNSHIP - Software Engineer (Start May/June '26)](https://jobright.ai/jobs/info/693a135456b68f3dc4e76f6f?utm_campaign=1079&utm_source=git)** | Waltham, MA | Hybrid | Dec 10 |
 | **[IBM](http://www.ibm.com)** | **[Intern 2026: Software Engineer - Semiconductor](https://jobright.ai/jobs/info/6939ee0c56b68f3dc4e73e1e?utm_campaign=1079&utm_source=git)** | Albany, NY | On Site | Dec 10 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Application Delivery Internship (Summer 2026)](https://jobright.ai/jobs/info/693a128d48a8ce22990e1428?utm_campaign=1079&utm_source=git)** | Schaumburg, IL | Hybrid | Dec 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Centene Corporation](http://www.centene.com)** | **[Scripting & Automation, Technology Intern (Operations), Undergraduate - Summer 2026](https://jobright.ai/jobs/info/6939a21eac80bb5492bc1fb3?utm_campaign=1079&utm_source=git)** | Pennsylvania, United States | Remote | Dec 10 |
 | ↳ | **[Scripting & Automation, Technology Intern (Operations), Undergraduate - Summer 2026](https://jobright.ai/jobs/info/6939a20656b68f3dc4e6fafb?utm_campaign=1079&utm_source=git)** | Louisiana, United States | Remote | Dec 10 |
 | ↳ | **[Scripting & Automation, Technology Intern (Operations), Undergraduate - Summer 2026](https://jobright.ai/jobs/info/6939a1d9ac80bb5492bc1f9a?utm_campaign=1079&utm_source=git)** | Utah, United States | Remote | Dec 10 |
-| ↳ | **[Scripting & Automation, Technology Intern (Operations), Undergraduate - Summer 2026](https://jobright.ai/jobs/info/6939a1d156b68f3dc4e6fae2?utm_campaign=1079&utm_source=git)** | Iowa, United States | Remote | Dec 10 |
-| ↳ | **[Scripting & Automation, Technology Intern (Operations), Undergraduate - Summer 2026](https://jobright.ai/jobs/info/6939a1acac80bb5492bc1f8b?utm_campaign=1079&utm_source=git)** | Alabama, United States | Remote | Dec 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
