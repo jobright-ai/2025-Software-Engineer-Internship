@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[Intern 2026: Software Engineer - Semiconductor](https://jobright.ai/jobs/info/6939ee0c56b68f3dc4e73e1e?utm_campaign=1079&utm_source=git)** | Albany, NY | On Site | Dec 10 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Fullstack Engineer, AI Tooling (Summer 2026)](https://jobright.ai/jobs/info/6939e6d448a8ce22990ddf77?utm_campaign=1079&utm_source=git)** | Palo Alto, California | On Site | Dec 10 |
 | ↳ | **[Internship, Software Engineer, Autonomy Telemetry (Summer 2026)](https://jobright.ai/jobs/info/6939dcc0ac80bb5492bc5a30?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Dec 10 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Software Engineer Intern](https://jobright.ai/jobs/info/6893a548a9199876488ded96?utm_campaign=1079&utm_source=git)** | San Mateo, CA, United States | On Site | Dec 10 |
@@ -64,6 +65,7 @@ For a complete list, click the following sortable link below:
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Computational Sciences Center of Excellence - Agentic tool for Optical Pooled Screens](https://jobright.ai/jobs/info/6939d8b648a8ce22990dd62f?utm_campaign=1079&utm_source=git)** | South San Francisco, CA | On Site | Dec 10 |
 | **[Wellmark Blue Cross and Blue Shield](http://www.wellmark.com)** | **[Cloud Analyst Internship](https://jobright.ai/jobs/info/6939d1bbac80bb5492bc5233?utm_campaign=1079&utm_source=git)** | Des Moines, IA, USA | Hybrid | Dec 10 |
 | **[General Dynamics](https://www.gd.com)** | **[Software Engineering Intern – C++ Development](https://jobright.ai/jobs/info/6939cd91ac80bb5492bc4f83?utm_campaign=1079&utm_source=git)** | USA-TX-San Antonio | Hybrid | Dec 10 |
+| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 - Investment Management, Fixed Income Platform Engineering](https://jobright.ai/jobs/info/6939ee3556b68f3dc4e73e48?utm_campaign=1079&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Dec 10 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Software Engineer, Connectivity C++, Optimus (Summer 2026)](https://jobright.ai/jobs/info/6939ca9956b68f3dc4e72867?utm_campaign=1079&utm_source=git)** | Palo Alto, California | On Site | Dec 10 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Software Engineer (Manufacturing Digital Transformation) - Intern](https://jobright.ai/jobs/info/6939c8efac80bb5492bc4c9b?utm_campaign=1079&utm_source=git)** | Texas | On Site | Dec 10 |
 | **[TJP Partners](tjp.org)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6939c06fac80bb5492bc4802?utm_campaign=1079&utm_source=git)** | New York, United States | Remote | Dec 10 |
@@ -124,8 +126,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Scripting & Automation, Technology Intern (Operations), Undergraduate - Summer 2026](https://jobright.ai/jobs/info/69398c54ac80bb5492bc1739?utm_campaign=1079&utm_source=git)** | Texas, United States | Remote | Dec 10 |
 | ↳ | **[Scripting & Automation, Technology Intern (Operations), Undergraduate - Summer 2026](https://jobright.ai/jobs/info/69398c49ac80bb5492bc1734?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 10 |
 | ↳ | **[Scripting & Automation, Technology Intern (Operations), Undergraduate - Summer 2026](https://jobright.ai/jobs/info/69398c4556b68f3dc4e6f26c?utm_campaign=1079&utm_source=git)** | Connecticut, United States | Remote | Dec 10 |
-| ↳ | **[Scripting & Automation, Technology Intern (Operations), Undergraduate - Summer 2026](https://jobright.ai/jobs/info/69398c2f56b68f3dc4e6f255?utm_campaign=1079&utm_source=git)** | Florida, United States | Remote | Dec 10 |
 | ↳ | **[Scripting & Automation, Technology Intern (Operations), Undergraduate - Summer 2026](https://jobright.ai/jobs/info/69398c2f56b68f3dc4e6f256?utm_campaign=1079&utm_source=git)** | West Virginia, United States | Remote | Dec 10 |
+| ↳ | **[Scripting & Automation, Technology Intern (Operations), Undergraduate - Summer 2026](https://jobright.ai/jobs/info/69398c2f56b68f3dc4e6f255?utm_campaign=1079&utm_source=git)** | Florida, United States | Remote | Dec 10 |
 | ↳ | **[Scripting & Automation, Technology Intern (Operations), Undergraduate - Summer 2026](https://jobright.ai/jobs/info/69398c0dac80bb5492bc1718?utm_campaign=1079&utm_source=git)** | Nebraska, United States | Remote | Dec 10 |
 | ↳ | **[Scripting & Automation, Technology Intern (Operations), Undergraduate - Summer 2026](https://jobright.ai/jobs/info/69398c0656b68f3dc4e6f239?utm_campaign=1079&utm_source=git)** | Providence County, RI | Remote | Dec 10 |
 | ↳ | **[Scripting & Automation, Technology Intern (Operations), Undergraduate - Summer 2026](https://jobright.ai/jobs/info/69398bffac80bb5492bc1713?utm_campaign=1079&utm_source=git)** | Colorado, United States | Remote | Dec 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[Researcher Intern (Vision and Graphics)- 2026 Start (PhD)](https://jobright.ai/jobs/info/690145fe4539ea1f2141ecaa?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 10 |
 | **[Apex Fintech Solutions](https://apexfintechsolutions.com)** | **[SWE Intern (Business Automation)](https://jobright.ai/jobs/info/691d3c810b7dff7341501371?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Dec 10 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Design Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68acefe0d627244576e49f86?utm_campaign=1079&utm_source=git)** | Fort Lauderdale, FL | On Site | Dec 10 |
-| ↳ | **[Design Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68acf4b4758f2e4ac3009e09?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Dec 10 |
-| **[HP](http://www.hp.com)** | **[Software Developer Internship](https://jobright.ai/jobs/info/69366dc4a0dde7020e2fb921?utm_campaign=1079&utm_source=git)** | Corvallis, OR | Hybrid | Dec 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
