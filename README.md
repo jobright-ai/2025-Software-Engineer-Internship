@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Vibes Meet LLC](vibesmeet.com)** | **[React Native developer Intern – Remote (Unpaid to Paid)](https://jobright.ai/jobs/info/693db70549a7695fbd042f00?utm_campaign=1079&utm_source=git)** | Ontario, Canada | Remote | Dec 13 |
+| **[International Institute of New England](https://iine.org/)** | **[Quality Assurance Intern (IINE Boston)](https://jobright.ai/jobs/info/693ddb8d50bbaf765050c54a?utm_campaign=1079&utm_source=git)** | Boston, MA | Hybrid | Dec 13 |
+| **[Princess Cruises](http://www.princess.com)** | **[Intern, eCommerce Engineering](https://jobright.ai/jobs/info/693dd78e49a7695fbd044bd0?utm_campaign=1079&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Dec 13 |
+| **[Career Launch Recruitment Solutions](https://www.linkedin.com/company/104165626)** | **[Intern, Innovation Platform Software Engineer](https://jobright.ai/jobs/info/693dd260aa598a08c3ee534b?utm_campaign=1079&utm_source=git)** | Milwaukee, WI | On Site | Dec 13 |
+| **[DC Info Tech Pvt Ltd](https://dcinfotech.org.in)** | **[Google Cloud Engineer Internship Program](https://jobright.ai/jobs/info/693dcd41aa598a08c3ee48cb?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 13 |
+| **[Todd](https://toddagriscience.com)** | **[Frontend Software Developer Intern (Summer '26)](https://jobright.ai/jobs/info/693dccbc50bbaf765050aa9c?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Dec 13 |
 | **[Applied Policy and Economics Simulation ("APES") Lab](https://www.linkedin.com/company/110089254)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/693db36950bbaf765050a6ef?utm_campaign=1079&utm_source=git)** | Berkeley, CA | Remote | Dec 13 |
-| **[Rosie & Company Global](https://www.rosiecoglobal.com/)** | **[Technology Intern](https://jobright.ai/jobs/info/693daf16aa598a08c3ee44d0?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Dec 13 |
 | **[VSP Vision Care](https://www.vsp.com/?utm_source=linkedin&utm_medium=social&utm_campaign=gcc_general)** | **[Internship, Software Engineer](https://jobright.ai/jobs/info/693d9ec450bbaf765050a3f9?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 13 |
 | **[Full Circle Studio](https://www.ea.com/ea-studios/full-circle)** | **[Software Development Intern](https://jobright.ai/jobs/info/691dc187ad5a517034796148?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Dec 13 |
 | **[Kiewit](http://www.kiewit.com)** | **[Integrative Engineer Intern - Kiewit Infrastructure Engineers (Summer 2026)](https://jobright.ai/jobs/info/68e852aec72beb74cb31d842?utm_campaign=1079&utm_source=git)** | Lone Tree, CO | On Site | Dec 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Intern – Software Engineer, Autonomous Driving (Bachelor's Degree)](https://jobright.ai/jobs/info/693c8d1150bbaf76504fc38a?utm_campaign=1079&utm_source=git)** | Sunnyvale, California, United States of America | Hybrid | Dec 12 |
 | ↳ | **[2026 Summer Intern – Software Engineer,  Autonomous Driving (Master's Degree)](https://jobright.ai/jobs/info/693c8d09aa598a08c3ed606f?utm_campaign=1079&utm_source=git)** | Mountain View, California, United States of America | Hybrid | Dec 12 |
 | ↳ | **[2026 Summer Intern – Software Engineer,  Autonomous Driving (Master's Degree)](https://jobright.ai/jobs/info/693c8cfa50bbaf76504fc374?utm_campaign=1079&utm_source=git)** | Milford, Michigan, United States of America | Hybrid | Dec 12 |
-| ↳ | **[2026 Summer Intern – Software Engineer, Autonomous Driving (Bachelor's Degree)](https://jobright.ai/jobs/info/693c8cbfaa598a08c3ed6035?utm_campaign=1079&utm_source=git)** | Milford, Michigan, United States of America | Hybrid | Dec 12 |
-| ↳ | **[2026 Summer Intern – Software Engineer, Autonomous Driving (Bachelor's Degree)](https://jobright.ai/jobs/info/693c8c57aa598a08c3ed5fdd?utm_campaign=1079&utm_source=git)** | Milford, MI | Hybrid | Dec 12 |
-| **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Health QA Engineer Intern 2026](https://jobright.ai/jobs/info/693c8c2950bbaf76504fc2d4?utm_campaign=1079&utm_source=git)** | Jupiter, FL | On Site | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
