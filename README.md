@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BEClub](https://bereaentrepreneurshipclub.my.canva.site/)** | **[Web Development Intern](https://jobright.ai/jobs/info/693d2dbbaa598a08c3edf961?utm_campaign=1079&utm_source=git)** | Lexington, KY | Hybrid | Dec 12 |
 | **[GenPark](https://genpark.ai)** | **[Web Developement Intern](https://jobright.ai/jobs/info/693d0f0aaa598a08c3edd5df?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Dec 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Researcher Intern (Vision and Graphics)- 2026 Start (PhD)](https://jobright.ai/jobs/info/693cfbbf50bbaf7650502f93?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 12 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Frontend Software Engineering Intern](https://jobright.ai/jobs/info/68dc5b4fddc10244dd6748ce?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Dec 12 |
@@ -88,6 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Software Engineer](https://jobright.ai/jobs/info/693cafe7aa598a08c3ed8e4d?utm_campaign=1079&utm_source=git)** | Marlborough, MA | On Site | Dec 12 |
 | **[Cisco](http://www.cisco.com)** | **[Software Engineer Backend/Platform Systems I (Intern)](https://jobright.ai/jobs/info/693caed6aa598a08c3ed8db8?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Dec 12 |
 | **[Airbus](https://us.airbus.com)** | **[Summer Internship - Information Technology & Digital](https://jobright.ai/jobs/info/693ccd69aa598a08c3ed9bd7?utm_campaign=1079&utm_source=git)** | Herndon, VA | On Site | Dec 12 |
+| **[DatologyAI](https://www.datologyai.com/)** | **[Software Engineer Intern, Infrastructure](https://jobright.ai/jobs/info/693d297849a7695fbd03d4c7?utm_campaign=1079&utm_source=git)** | Redwood City | On Site | Dec 12 |
 | **[Skydio](https://www.skydio.com)** | **[Software Engineer Intern - Boston](https://jobright.ai/jobs/info/693cab9150bbaf76504fee44?utm_campaign=1079&utm_source=git)** | San Mateo, California, United States | On Site | Dec 12 |
 | **[USF College of Nursing](http://health.usf.edu/nursing)** | **[IAE Software Engineering Intern - Spring 2026 (Student Assistant Role)](https://jobright.ai/jobs/info/693ca85850bbaf76504febde?utm_campaign=1079&utm_source=git)** | Tampa, FL, United States | On Site | Dec 12 |
 | **[Evolv Technology](http://www.evolvtechnology.com)** | **[Expedite C++ Software Engineering Intern (Summer 26')](https://jobright.ai/jobs/info/693ca7e250bbaf76504feb8c?utm_campaign=1079&utm_source=git)** | Waltham, MA | On Site | Dec 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ciena](http://www.ciena.com)** | **[WaveLogic Software Intern (Winter 2026)](https://jobright.ai/jobs/info/69336722764507023d1b53bc?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Hybrid | Dec 12 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Software Engineering and Data Operator](https://jobright.ai/jobs/info/68cca87a16d00d2beeb227f3?utm_campaign=1079&utm_source=git)** | Wichita, KS | On Site | Dec 12 |
 | **[Tepa Companies](https://www.tepa.com/)** | **[Innovation Intern - Summer 2026](https://jobright.ai/jobs/info/691fdd85a49a885af9a34ded?utm_campaign=1079&utm_source=git)** | Maitland, FL | Hybrid | Dec 12 |
-| **[Dialpad Japan](http://dialpad.com/jp)** | **[Software Engineer Coop](https://jobright.ai/jobs/info/693c6013aa598a08c3ed477a?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Dec 12 |
-| **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - Autonomous Vehicle, Sensor Hardware and Technology Development  (Bachelors Degree)](https://jobright.ai/jobs/info/693c3d9d49a7695fbd0307fc?utm_campaign=1079&utm_source=git)** | Warren, Michigan, United States of America | Hybrid | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
