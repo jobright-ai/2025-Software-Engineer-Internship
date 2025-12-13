@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Skydio](https://www.skydio.com)** | **[Software Engineer Intern - Boston](https://jobright.ai/jobs/info/693cab9150bbaf76504fee44?utm_campaign=1079&utm_source=git)** | San Mateo, California, United States | On Site | Dec 12 |
+| **[USF College of Nursing](http://health.usf.edu/nursing)** | **[IAE Software Engineering Intern - Spring 2026 (Student Assistant Role)](https://jobright.ai/jobs/info/693ca85850bbaf76504febde?utm_campaign=1079&utm_source=git)** | Tampa, FL, United States | On Site | Dec 12 |
+| **[Evolv Technology](http://www.evolvtechnology.com)** | **[Expedite C++ Software Engineering Intern (Summer 26')](https://jobright.ai/jobs/info/693ca7e250bbaf76504feb8c?utm_campaign=1079&utm_source=git)** | Waltham, MA | On Site | Dec 12 |
+| **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Software Engineering](https://jobright.ai/jobs/info/693ca7a550bbaf76504feb61?utm_campaign=1079&utm_source=git)** | San Diego, CA, United States | On Site | Dec 12 |
 | **[Ayar Labs](https://ayarlabs.com)** | **[Intern, Digital Verification Engineer](https://jobright.ai/jobs/info/693ca5d8aa598a08c3ed891f?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 12 |
 | **[Realtor.com](https://www.realtor.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/693ca3f550bbaf76504fe94e?utm_campaign=1079&utm_source=git)** | Austin, Texas, United States | Hybrid | Dec 12 |
 | **[Palantir Technologies](http://www.palantir.com)** | **[Forward Deployed Software Engineer, Internship - US Government](https://jobright.ai/jobs/info/693ca10850bbaf76504fe775?utm_campaign=1079&utm_source=git)** | Honolulu, HI | On Site | Dec 12 |
 | **[Rolls-Royce](http://www.rolls-royce.com)** | **[SAP Intern](https://jobright.ai/jobs/info/693ca022aa598a08c3ed8541?utm_campaign=1079&utm_source=git)** | Novi | On Site | Dec 12 |
-| **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Software Engineering](https://jobright.ai/jobs/info/693c9fb4aa598a08c3ed84f3?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Dec 12 |
 | **[Realtor.com](https://www.realtor.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/693c9df2aa598a08c3ed83a1?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Dec 12 |
 | **[Rolls-Royce](http://www.rolls-royce.com)** | **[SAP Intern](https://jobright.ai/jobs/info/693c9c4350bbaf76504fe4d3?utm_campaign=1079&utm_source=git)** | Novi | On Site | Dec 12 |
 | **[Rivian and Volkswagen Group Technologies](https://rivianvw.tech)** | **[Software Engineering Intern, Applications - Summer 2026](https://jobright.ai/jobs/info/693c99c050bbaf76504fe2fb?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Dec 12 |
@@ -77,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Software Engineer](https://jobright.ai/jobs/info/693c92db49a7695fbd034e1b?utm_campaign=1079&utm_source=git)** | Marlborough, MA | On Site | Dec 12 |
 | **[Medra](https://www.medra.ai/)** | **[Full Stack Software Engineer - Winter 2026 Internship](https://jobright.ai/jobs/info/693c92c7aa598a08c3ed678c?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Dec 12 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Software Engineer, Autonomous Driving (Master's Degree)](https://jobright.ai/jobs/info/693c927daa598a08c3ed660e?utm_campaign=1079&utm_source=git)** | Milford, MI | Hybrid | Dec 12 |
-| **[Talentix](https://thetalentix.com/)** | **[Software Engineering Intern – Front-End](https://jobright.ai/jobs/info/693c927349a7695fbd034d54?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Dec 12 |
 | **[Voloridge Health](https://www.voloridge.com/health)** | **[Health QA Engineer Intern 2026](https://jobright.ai/jobs/info/693c91b749a7695fbd034ce2?utm_campaign=1079&utm_source=git)** | Jupiter, FL | On Site | Dec 12 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Software Engineer, Autonomous Driving (Bachelor's Degree)](https://jobright.ai/jobs/info/693c9033aa598a08c3ed632b?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Dec 12 |
 | **[Palantir Technologies](http://www.palantir.com)** | **[Forward Deployed Software Engineer, Internship - US Government](https://jobright.ai/jobs/info/693c9019aa598a08c3ed6315?utm_campaign=1079&utm_source=git)** | Honolulu, HI | On Site | Dec 12 |
@@ -99,6 +101,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Intern – Backend Software Engineer, Fleet Tooling (Bachelor's Degree)](https://jobright.ai/jobs/info/693c88aa50bbaf76504fbfc5?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | Hybrid | Dec 12 |
 | ↳ | **[2026 Summer Intern – Software Engineer, Autonomous Driving (Bachelor's Degree)](https://jobright.ai/jobs/info/693c87eb49a7695fbd03460d?utm_campaign=1079&utm_source=git)** | Mountain View, California, United States of America | Hybrid | Dec 12 |
 | **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Software Engineer](https://jobright.ai/jobs/info/693c86c850bbaf76504fbe7b?utm_campaign=1079&utm_source=git)** | Marlborough, MA, United States | On Site | Dec 12 |
+| **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Software Engineer, Autonomous Driving (Master's Degree)](https://jobright.ai/jobs/info/693ca92aaa598a08c3ed8ba2?utm_campaign=1079&utm_source=git)** | Warren, MI | Hybrid | Dec 12 |
 | **[Airbus](https://us.airbus.com)** | **[Summer Internship - Information Technology & Digital](https://jobright.ai/jobs/info/693c806050bbaf76504fb94b?utm_campaign=1079&utm_source=git)** | Herndon, VA | On Site | Dec 12 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Software Engineer, Autonomous Driving (Master's Degree)](https://jobright.ai/jobs/info/693c9ba950bbaf76504fe455?utm_campaign=1079&utm_source=git)** | Mountain View, CA | Hybrid | Dec 12 |
 | **[Rolls-Royce](http://www.rolls-royce.com)** | **[Application Engineering Intern](https://jobright.ai/jobs/info/693c7b5249a7695fbd033d06?utm_campaign=1079&utm_source=git)** | Novi | On Site | Dec 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Researcher Intern (Intelligent Creation-Vision and Graphics)- 2026 Start (PhD)](https://jobright.ai/jobs/info/691f73b809cc522e87741700?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Dec 12 |
 | ↳ | **[Online Architecture Research Intern (TikTok-Generalized Arch)- 2026 Start (PhD)](https://jobright.ai/jobs/info/691f797909cc522e87741b77?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Dec 12 |
 | ↳ | **[[Online Assessment] Software Engineer Intern (Recommendation Infrastructure) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/691f65013f782d2f1afbb5ac?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Dec 12 |
-| **[Oracle](https://www.oracle.com/)** | **[Undergrad Software Engineer Intern - Oracle Health and Analytics](https://jobright.ai/jobs/info/6920465fa49a885af9a37e33?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 12 |
-| **[TikTok](https://www.tiktok.com)** | **[Online Architecture Engineer Intern (TikTok-Generalized Arch)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/691f65213f782d2f1afbb5d2?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 12 |
-| ↳ | **[Frontend Engineer Intern (Trust and Safety-Engineering-Risk & Response) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/691f5d6d09cc522e877401ef?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
