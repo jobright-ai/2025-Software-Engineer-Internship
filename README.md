@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Waystar](http://www.waystar.com)** | **[Application Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68c28b728753a565272fb2ac?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Dec 14 |
+| **[Westfield Specialty Insurance](https://www.westfieldspecialty.com/)** | **[WSP IT Intern, Berkeley Heights Office (2026 Summer)](https://jobright.ai/jobs/info/68e9a9eb0930fe0bc4627fe4?utm_campaign=1079&utm_source=git)** | Berkeley Heights, NJ | On Site | Dec 14 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Information Technology (Fall 2026)](https://jobright.ai/jobs/info/68b406d0bc187f64e1be2e4b?utm_campaign=1079&utm_source=git)** | San Antonio, TX | On Site | Dec 14 |
+| **[MongoDB](https://www.mongodb.com/)** | **[2026 - Software Engineering Intern, AMER](https://jobright.ai/jobs/info/68cd0bf61ad6b16f02893f85?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Dec 14 |
+| **[Veranex](https://www.veranexsolutions.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/691d61febcdbf3560c9f063d?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | On Site | Dec 14 |
+| **[Waystar](http://www.waystar.com)** | **[Application Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68cce9da5954791a1d701206?utm_campaign=1079&utm_source=git)** | Duluth, GA | On Site | Dec 14 |
+| **[Westfield Specialty Insurance](https://www.westfieldspecialty.com/)** | **[WSP IT Intern, Chicago Office (2026 Summer)](https://jobright.ai/jobs/info/68e9aadd0930fe0bc4628094?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Dec 14 |
+| **[Waystar](http://www.waystar.com)** | **[Application Engineer: Co-Op](https://jobright.ai/jobs/info/68cfdbb3dbd9fb154edeb548?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Hybrid | Dec 14 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Information Technology (Fall 2026)](https://jobright.ai/jobs/info/68b403141ade4306aa63daf0?utm_campaign=1079&utm_source=git)** | Findlay, OH | On Site | Dec 14 |
+| **[SingleStore](http://www.singlestore.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68e95848f195760c354a7b5a?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Dec 14 |
 | **[Tektronix](http://www.tek.com)** | **[Services Business Systems Intern (Summer 2006)](https://jobright.ai/jobs/info/68e9859165768b6412b1d0ce?utm_campaign=1079&utm_source=git)** | Beaverton, OR | Hybrid | Dec 14 |
 | **[Oracle](https://www.oracle.com/)** | **[Undergrad Software Engineer Intern - Oracle Health and Analytics](https://jobright.ai/jobs/info/690ed2cc44146d3b6ec580ad?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Dec 14 |
 | **[Truveta](https://www.truveta.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68d1efa117554c2d9eee15b2?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Dec 14 |
@@ -73,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Outlier AI](http://outlier.ai/)** | **[Testing Intern (Remote)](https://jobright.ai/jobs/info/693e7bb3aa598a08c3eed100?utm_campaign=1079&utm_source=git)** | Milwaukee, WI | Remote | Dec 14 |
 | **[TJP Partners](tjp.org)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/693e773150bbaf7650511aa4?utm_campaign=1079&utm_source=git)** | NYC Metro Area | Remote | Dec 14 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - Software Engineer](https://jobright.ai/jobs/info/693e648150bbaf76505113dc?utm_campaign=1079&utm_source=git)** | Durham, NC | On Site | Dec 13 |
-| **[GenPark](https://genpark.ai)** | **[Project Growth Developer Intern](https://jobright.ai/jobs/info/693e6222aa598a08c3eeafb0?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Dec 13 |
 | **[Riot Games](http://www.riotgames.com)** | **[Research Scientist Intern, Next-Gen Gameplay - Summer 2026 (Remote)](https://jobright.ai/jobs/info/6908f83abcccf20de59d570f?utm_campaign=1079&utm_source=git)** | Los Angeles, USA | Remote | Dec 13 |
 | **[SPX Technologies](https://www.spx.com)** | **[Intern, Engineering](https://jobright.ai/jobs/info/693e0a2950bbaf765050e25c?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Dec 13 |
 | **[Mely.ai - Generative Intelligent Document Processing](http://www.mely.ai)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/693defd350bbaf765050c7a1?utm_campaign=1079&utm_source=git)** | Canada | Remote | Dec 13 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DatologyAI](https://www.datologyai.com/)** | **[Software Engineer Intern, Infrastructure](https://jobright.ai/jobs/info/693d297849a7695fbd03d4c7?utm_campaign=1079&utm_source=git)** | Redwood City | On Site | Dec 12 |
 | **[Skydio](https://www.skydio.com)** | **[Software Engineer Intern - Boston](https://jobright.ai/jobs/info/693cab9150bbaf76504fee44?utm_campaign=1079&utm_source=git)** | San Mateo, California, United States | On Site | Dec 12 |
 | **[USF College of Nursing](http://health.usf.edu/nursing)** | **[IAE Software Engineering Intern - Spring 2026 (Student Assistant Role)](https://jobright.ai/jobs/info/693ca85850bbaf76504febde?utm_campaign=1079&utm_source=git)** | Tampa, FL, United States | On Site | Dec 12 |
-| **[Evolv Technology](http://www.evolvtechnology.com)** | **[Expedite C++ Software Engineering Intern (Summer 26')](https://jobright.ai/jobs/info/693ca7e250bbaf76504feb8c?utm_campaign=1079&utm_source=git)** | Waltham, MA | On Site | Dec 12 |
-| **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Software Engineering](https://jobright.ai/jobs/info/693ca7a550bbaf76504feb61?utm_campaign=1079&utm_source=git)** | San Diego, CA, United States | On Site | Dec 12 |
-| **[Realtor.com](https://www.realtor.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/693ca3f550bbaf76504fe94e?utm_campaign=1079&utm_source=git)** | Austin, Texas, United States | Hybrid | Dec 12 |
-| **[Palantir Technologies](http://www.palantir.com)** | **[Forward Deployed Software Engineer, Internship - US Government](https://jobright.ai/jobs/info/693ca10850bbaf76504fe775?utm_campaign=1079&utm_source=git)** | Honolulu, HI | On Site | Dec 12 |
-| **[Rolls-Royce](http://www.rolls-royce.com)** | **[SAP Intern](https://jobright.ai/jobs/info/693ca022aa598a08c3ed8541?utm_campaign=1079&utm_source=git)** | Novi | On Site | Dec 12 |
-| **[Realtor.com](https://www.realtor.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/693c9df2aa598a08c3ed83a1?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Dec 12 |
-| **[Rolls-Royce](http://www.rolls-royce.com)** | **[SAP Intern](https://jobright.ai/jobs/info/693c9c4350bbaf76504fe4d3?utm_campaign=1079&utm_source=git)** | Novi | On Site | Dec 12 |
-| **[Ayar Labs](https://ayarlabs.com)** | **[Intern, Platform Firmware/ Software Engineer](https://jobright.ai/jobs/info/693c98da50bbaf76504fe26a?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 12 |
-| **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Software Engineer, Autonomous Driving (Bachelor's Degree)](https://jobright.ai/jobs/info/693c988250bbaf76504fe23f?utm_campaign=1079&utm_source=git)** | Warren, MI | On Site | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
