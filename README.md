@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tektronix](http://www.tek.com)** | **[Services Business Systems Intern (Summer 2006)](https://jobright.ai/jobs/info/68e9859165768b6412b1d0ce?utm_campaign=1079&utm_source=git)** | Beaverton, OR | Hybrid | Dec 14 |
+| **[Oracle](https://www.oracle.com/)** | **[Undergrad Software Engineer Intern - Oracle Health and Analytics](https://jobright.ai/jobs/info/690ed2cc44146d3b6ec580ad?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Dec 14 |
+| **[Truveta](https://www.truveta.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68d1efa117554c2d9eee15b2?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Dec 14 |
+| **[Oracle](https://www.oracle.com/)** | **[Undergrad Software Engineer Intern - Oracle Health and Analytics](https://jobright.ai/jobs/info/690ee485d046ab6061d01fad?utm_campaign=1079&utm_source=git)** | Redwood City, CA | On Site | Dec 14 |
+| **[Cirrus Logic](https://cirrus.com/)** | **[Summer Intern - Embedded Firmware Engineer](https://jobright.ai/jobs/info/69050c2b122e8474c78d56aa?utm_campaign=1079&utm_source=git)** | Greater Phoenix Area | Hybrid | Dec 14 |
+| **[MathWorks](http://www.mathworks.com)** | **[Software Engineer in Test Intern - EDG](https://jobright.ai/jobs/info/69053406122e8474c78d76ef?utm_campaign=1079&utm_source=git)** | Natick, MA | Hybrid | Dec 14 |
+| **[ByteDance](http://bytedance.com)** | **[Cloud Acceleration Engineer Intern (DPU & AI Infra)- 2026 Start(PHD)](https://jobright.ai/jobs/info/6905376363502c0aded79975?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 14 |
+| **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Embedded Firmware Intern (Summer 2026)](https://jobright.ai/jobs/info/68d6e98245853d0e39ccaed4?utm_campaign=1079&utm_source=git)** | Milwaukee, WI | On Site | Dec 14 |
 | **[Outlier AI](http://outlier.ai/)** | **[Quality Assurance Intern (Remote)](https://jobright.ai/jobs/info/693e830249a7695fbd04baec?utm_campaign=1079&utm_source=git)** | Boston, MA | Remote | Dec 14 |
 | ↳ | **[Quality Assurance Intern (Remote)](https://jobright.ai/jobs/info/693e82a950bbaf7650513600?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Remote | Dec 14 |
 | ↳ | **[Quality Assurance Intern (Remote)](https://jobright.ai/jobs/info/693e822e50bbaf76505135e9?utm_campaign=1079&utm_source=git)** | San Antonio, TX | Remote | Dec 14 |
@@ -97,11 +105,11 @@ For a complete list, click the following sortable link below:
 | **[Fast Enterprises, LLC](http://www.fastenterprises.com)** | **[Implementation Intern](https://jobright.ai/jobs/info/68ce8f8ffb49c96ca6ea19b9?utm_campaign=1079&utm_source=git)** | Centennial, CO | On Site | Dec 13 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Software Engineer Intern (Summer 2026) - Austin, TX](https://jobright.ai/jobs/info/68c8abeaf9c6ff7aedf116f4?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Dec 13 |
 | **[ByteDance](http://bytedance.com)** | **[Software Engineer Intern (Traffic Infrastructure Product Management)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69058504ff462851feffe29a?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 13 |
+| **[Epic Games](https://epicgames.com)** | **[Tools Programmer Intern](https://jobright.ai/jobs/info/691dd640ad5a517034796d9a?utm_campaign=1079&utm_source=git)** | Greater Montreal Metropolitan Area | On Site | Dec 13 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Software Engineer/Architect - Python Graduate Intern](https://jobright.ai/jobs/info/6933dac3a0dde7020e2f2692?utm_campaign=1079&utm_source=git)** | Erie-Meadville Area | On Site | Dec 13 |
 | **[Dorman Products](https://www.dormanproducts.com/)** | **[IT Intern - Automation and Application Developer](https://jobright.ai/jobs/info/691ae1ed45fb6f5ead8ae963?utm_campaign=1079&utm_source=git)** | Colmar, PA | Hybrid | Dec 13 |
 | ↳ | **[IT Intern, Applications](https://jobright.ai/jobs/info/691aaada45fb6f5ead8acbfe?utm_campaign=1079&utm_source=git)** | Colmar, PA | Hybrid | Dec 13 |
-| **[Epic Games](https://epicgames.com)** | **[Tools Programmer Intern](https://jobright.ai/jobs/info/691dc04d61dc50590a649d01?utm_campaign=1079&utm_source=git)** | Greater Montreal Metropolitan Area | On Site | Dec 13 |
-| ↳ | **[Tools Programmer Intern](https://jobright.ai/jobs/info/68f5cfe89a63986de757a4c8?utm_campaign=1079&utm_source=git)** | Cary, NC | On Site | Dec 13 |
+| **[Epic Games](https://epicgames.com)** | **[Tools Programmer Intern](https://jobright.ai/jobs/info/68f5cfe89a63986de757a4c8?utm_campaign=1079&utm_source=git)** | Cary, NC | On Site | Dec 13 |
 | **[Sikich](http://www.sikich.com)** | **[Summer 2026 NetSuite Implementation Intern](https://jobright.ai/jobs/info/6933abdf764507023d1b7f03?utm_campaign=1079&utm_source=git)** | Marlborough, MA | Hybrid | Dec 13 |
 | **[Dialpad Japan](http://dialpad.com/jp)** | **[Software Engineer Coop](https://jobright.ai/jobs/info/693e8744aa598a08c3eed468?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Dec 13 |
 | **[Nightwing](nightwing.com)** | **[Software Engineer Intern - 2026](https://jobright.ai/jobs/info/693d4ac749a7695fbd03eeab?utm_campaign=1079&utm_source=git)** | Sterling, VA | On Site | Dec 13 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rolls-Royce](http://www.rolls-royce.com)** | **[SAP Intern](https://jobright.ai/jobs/info/693c9c4350bbaf76504fe4d3?utm_campaign=1079&utm_source=git)** | Novi | On Site | Dec 12 |
 | **[Ayar Labs](https://ayarlabs.com)** | **[Intern, Platform Firmware/ Software Engineer](https://jobright.ai/jobs/info/693c98da50bbaf76504fe26a?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 12 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Software Engineer, Autonomous Driving (Bachelor's Degree)](https://jobright.ai/jobs/info/693c988250bbaf76504fe23f?utm_campaign=1079&utm_source=git)** | Warren, MI | On Site | Dec 12 |
-| ↳ | **[2026 Summer Intern – Software Engineer, Autonomous Driving (Bachelor's Degree)](https://jobright.ai/jobs/info/693c96caaa598a08c3ed79aa?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | Hybrid | Dec 12 |
-| ↳ | **[2026 Summer Intern – Software Engineer, Autonomous Driving (Master's Degree)](https://jobright.ai/jobs/info/693c96c749a7695fbd03622e?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | Hybrid | Dec 12 |
-| ↳ | **[2026 Summer Intern - Software Engineer - Autonomous Driving - Simulation Team (Bachelor's)](https://jobright.ai/jobs/info/693c96c3aa598a08c3ed7979?utm_campaign=1079&utm_source=git)** | Sunnyvale, California, United States of America | Hybrid | Dec 12 |
-| ↳ | **[2026 Summer Intern - Software Engineer - Autonomous Driving - Simulation Team (Bachelor's)](https://jobright.ai/jobs/info/693c964949a7695fbd035f4f?utm_campaign=1079&utm_source=git)** | Mountain View, California, United States of America | Hybrid | Dec 12 |
-| ↳ | **[2026 Summer Intern - Software Engineer - Autonomous Driving - Simulation Team (Master's)](https://jobright.ai/jobs/info/693c949950bbaf76504fceb4?utm_campaign=1079&utm_source=git)** | Mountain View, California, United States of America | Hybrid | Dec 12 |
-| ↳ | **[2026 Summer Intern - Software Engineer - Autonomous Driving - Simulation Team (Master's)](https://jobright.ai/jobs/info/693c93cf49a7695fbd035214?utm_campaign=1079&utm_source=git)** | Sunnyvale, California, United States of America | Hybrid | Dec 12 |
-| **[Medra](https://www.medra.ai/)** | **[Full Stack Software Engineer - Winter 2026 Internship](https://jobright.ai/jobs/info/693c92c7aa598a08c3ed678c?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Dec 12 |
-| **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Software Engineer, Autonomous Driving (Master's Degree)](https://jobright.ai/jobs/info/693c927daa598a08c3ed660e?utm_campaign=1079&utm_source=git)** | Milford, MI | Hybrid | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
