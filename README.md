@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mely.ai - Generative Intelligent Document Processing](http://www.mely.ai)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/693defd350bbaf765050c7a1?utm_campaign=1079&utm_source=git)** | Canada | Remote | Dec 13 |
 | **[International Institute of New England](https://iine.org/)** | **[Quality Assurance Intern (IINE Boston)](https://jobright.ai/jobs/info/693ddb8d50bbaf765050c54a?utm_campaign=1079&utm_source=git)** | Boston, MA | Hybrid | Dec 13 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, eCommerce Engineering](https://jobright.ai/jobs/info/693dd78e49a7695fbd044bd0?utm_campaign=1079&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Dec 13 |
 | **[Career Launch Recruitment Solutions](https://www.linkedin.com/company/104165626)** | **[Intern, Innovation Platform Software Engineer](https://jobright.ai/jobs/info/693dd260aa598a08c3ee534b?utm_campaign=1079&utm_source=git)** | Milwaukee, WI | On Site | Dec 13 |
 | **[DC Info Tech Pvt Ltd](https://dcinfotech.org.in)** | **[Google Cloud Engineer Internship Program](https://jobright.ai/jobs/info/693dcd41aa598a08c3ee48cb?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 13 |
-| **[Todd](https://toddagriscience.com)** | **[Frontend Software Developer Intern (Summer '26)](https://jobright.ai/jobs/info/693dccbc50bbaf765050aa9c?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Dec 13 |
 | **[Applied Policy and Economics Simulation ("APES") Lab](https://www.linkedin.com/company/110089254)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/693db36950bbaf765050a6ef?utm_campaign=1079&utm_source=git)** | Berkeley, CA | Remote | Dec 13 |
 | **[VSP Vision Care](https://www.vsp.com/?utm_source=linkedin&utm_medium=social&utm_campaign=gcc_general)** | **[Internship, Software Engineer](https://jobright.ai/jobs/info/693d9ec450bbaf765050a3f9?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 13 |
 | **[Full Circle Studio](https://www.ea.com/ea-studios/full-circle)** | **[Software Development Intern](https://jobright.ai/jobs/info/691dc187ad5a517034796148?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Dec 13 |
