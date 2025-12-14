@@ -57,16 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TJP Partners](tjp.org)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/693f138750bbaf76505177e4?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Remote | Dec 14 |
-| **[Todd](https://toddagriscience.com)** | **[Frontend Software Developer Intern (Summer '26)](https://jobright.ai/jobs/info/693f05f1aa598a08c3ef1221?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Dec 14 |
+| **[iSolvRisk Inc.](https://www.isolvrisk.com)** | **[Engineer Intern](https://jobright.ai/jobs/info/693f2fc850bbaf765051937e?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 14 |
+| **[TJP Partners](tjp.org)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/693f170450bbaf7650517894?utm_campaign=1079&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Dec 14 |
+| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/693f138750bbaf76505177e4?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Remote | Dec 14 |
 | **[DC Info Tech Pvt Ltd](https://dcinfotech.org.in)** | **[Google Cloud Engineer Internship Program](https://jobright.ai/jobs/info/693ef7f9aa598a08c3ef110d?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 14 |
 | **[EduTrend](https://www.linkedin.com/company/107472422)** | **[Backend Development Intern – EduTrend](https://jobright.ai/jobs/info/693ef7e350bbaf76505174d4?utm_campaign=1079&utm_source=git)** | NYC Metro Area | Remote | Dec 14 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Cloud Engineer](https://jobright.ai/jobs/info/69229db37795cd460c8366c4?utm_campaign=1079&utm_source=git)** | Irving, TX | Hybrid | Dec 14 |
-| **[dynaCERT Inc.](https://dynacert.com/)** | **[Coop IT Student - Javascript Developer Winter Intake](https://jobright.ai/jobs/info/693ed63950bbaf76505158fb?utm_campaign=1079&utm_source=git)** | York, Ontario, Canada | Hybrid | Dec 14 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer Intern – Digital Systems QA](https://jobright.ai/jobs/info/693ed13350bbaf76505158a2?utm_campaign=1079&utm_source=git)** | Bridgewater, NJ | Hybrid | Dec 14 |
 | **[PDT Partners](https://www.pdtpartners.com/)** | **[Summer 2026 Software Engineering Internship](https://jobright.ai/jobs/info/689b558b83d13d1f5b69f736?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Dec 14 |
-| **[Waystar](http://www.waystar.com)** | **[Application Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68cff215846f0b04af6864fe?utm_campaign=1079&utm_source=git)** | Louisville, KY | On Site | Dec 14 |
-| ↳ | **[Application Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68cd3febb2a74e1837ed455f?utm_campaign=1079&utm_source=git)** | Lehi, UT | On Site | Dec 14 |
+| **[Waystar](http://www.waystar.com)** | **[Application Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68cd3febb2a74e1837ed455f?utm_campaign=1079&utm_source=git)** | Lehi, UT | On Site | Dec 14 |
+| ↳ | **[Application Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68cff215846f0b04af6864fe?utm_campaign=1079&utm_source=git)** | Louisville, KY | On Site | Dec 14 |
 | ↳ | **[Application Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68c28b728753a565272fb2ac?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Dec 14 |
 | **[Westfield Specialty Insurance](https://www.westfieldspecialty.com/)** | **[WSP IT Intern, Berkeley Heights Office (2026 Summer)](https://jobright.ai/jobs/info/68e9a9eb0930fe0bc4627fe4?utm_campaign=1079&utm_source=git)** | Berkeley Heights, NJ | On Site | Dec 14 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Information Technology (Fall 2026)](https://jobright.ai/jobs/info/68b406d0bc187f64e1be2e4b?utm_campaign=1079&utm_source=git)** | San Antonio, TX | On Site | Dec 14 |
