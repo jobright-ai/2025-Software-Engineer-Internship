@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DC Info Tech Pvt Ltd](https://dcinfotech.org.in)** | **[Google Cloud Engineer Internship Program](https://jobright.ai/jobs/info/693ef7f9aa598a08c3ef110d?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 14 |
+| **[EduTrend](https://www.linkedin.com/company/107472422)** | **[Backend Development Intern – EduTrend](https://jobright.ai/jobs/info/693ef7e350bbaf76505174d4?utm_campaign=1079&utm_source=git)** | NYC Metro Area | Remote | Dec 14 |
+| **[Todd](https://toddagriscience.com)** | **[Frontend Software Developer Intern (Summer '26)](https://jobright.ai/jobs/info/693ef49c50bbaf765051748d?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Dec 14 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Cloud Engineer](https://jobright.ai/jobs/info/69229db37795cd460c8366c4?utm_campaign=1079&utm_source=git)** | Irving, TX | Hybrid | Dec 14 |
 | **[dynaCERT Inc.](https://dynacert.com/)** | **[Coop IT Student - Javascript Developer Winter Intake](https://jobright.ai/jobs/info/693ed63950bbaf76505158fb?utm_campaign=1079&utm_source=git)** | York, Ontario, Canada | Hybrid | Dec 14 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer Intern – Digital Systems QA](https://jobright.ai/jobs/info/693ed13350bbaf76505158a2?utm_campaign=1079&utm_source=git)** | Bridgewater, NJ | Hybrid | Dec 14 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Systems Validation Intern (Summer 2026)](https://jobright.ai/jobs/info/693cc0a450bbaf76504ff739?utm_campaign=1079&utm_source=git)** | South San Francisco, California, USA | On Site | Dec 12 |
 | **[Skydio](https://www.skydio.com)** | **[Software Engineer Intern - Boston](https://jobright.ai/jobs/info/693cbebf49a7695fbd037da8?utm_campaign=1079&utm_source=git)** | San Mateo, CA | On Site | Dec 12 |
 | **[Zipline](https://www.zipline.com/)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/693cbccf50bbaf76504ff4fb?utm_campaign=1079&utm_source=git)** | South San Francisco, California, USA | On Site | Dec 12 |
-| **[Rivian](http://www.rivian.com)** | **[Software Engineering Intern, Applications - Summer 2026](https://jobright.ai/jobs/info/693cbb4350bbaf76504ff417?utm_campaign=1079&utm_source=git)** | CA-BC-Vancouver | On Site | Dec 12 |
-| **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Software Engineering](https://jobright.ai/jobs/info/693cb74750bbaf76504ff313?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Dec 12 |
-| **[Intuitive](https://www.intuitive.com/)** | **[Software Engineering Intern (GUI)](https://jobright.ai/jobs/info/693cb62450bbaf76504ff290?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
