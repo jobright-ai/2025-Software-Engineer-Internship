@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ripple](http://ripple.com)** | **[Software Engineer Intern, Finance Primitives (Summer 2026)](https://jobright.ai/jobs/info/6940486349a7695fbd05d506?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Dec 15 |
+| **[BetaNXT](https://betanxt.com)** | **[Summer Intern, Software Engineering](https://jobright.ai/jobs/info/6940461daa598a08c3efebd2?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Dec 15 |
+| ↳ | **[Summer Intern, Software Engineering](https://jobright.ai/jobs/info/69403fb6aa598a08c3efdc18?utm_campaign=1079&utm_source=git)** | New York, NY, US | Hybrid | Dec 15 |
+| **[Freddie Mac](http://www.freddiemac.com)** | **[Technology Intern - Summer 2026](https://jobright.ai/jobs/info/6940376daa598a08c3efd52a?utm_campaign=1079&utm_source=git)** | McLean, VA | On Site | Dec 15 |
+| **[Tiffany & Co.](http://www.tiffany.com)** | **[Internship - IT Integrations](https://jobright.ai/jobs/info/6940311849a7695fbd05b5a2?utm_campaign=1079&utm_source=git)** | Whippany, NJ, United States | On Site | Dec 15 |
+| ↳ | **[Internship - Software Development](https://jobright.ai/jobs/info/69402fe5aa598a08c3efd22b?utm_campaign=1079&utm_source=git)** | Whippany, NJ, United States | On Site | Dec 15 |
+| **[Wellmark Blue Cross and Blue Shield](http://www.wellmark.com)** | **[Software Engineer Internship](https://jobright.ai/jobs/info/6940379150bbaf7650523a09?utm_campaign=1079&utm_source=git)** | Des Moines, IA | Hybrid | Dec 15 |
 | **[Copart](http://www.copart.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6923f5d638cd5478a8d5841b?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Dec 15 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6906ceb563502c0aded83292?utm_campaign=1079&utm_source=git)** | Chandler, AZ | On Site | Dec 15 |
 | **[metalenz](https://www.metalenz.com/)** | **[Camera Software Intern](https://jobright.ai/jobs/info/69235afb7795cd460c838787?utm_campaign=1079&utm_source=git)** | Boston, MA | Hybrid | Dec 15 |
@@ -88,8 +95,8 @@ For a complete list, click the following sortable link below:
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Cloud Engineer](https://jobright.ai/jobs/info/69229db37795cd460c8366c4?utm_campaign=1079&utm_source=git)** | Irving, TX | Hybrid | Dec 14 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer Intern – Digital Systems QA](https://jobright.ai/jobs/info/693ed13350bbaf76505158a2?utm_campaign=1079&utm_source=git)** | Bridgewater, NJ | Hybrid | Dec 14 |
 | **[PDT Partners](https://www.pdtpartners.com/)** | **[Summer 2026 Software Engineering Internship](https://jobright.ai/jobs/info/689b558b83d13d1f5b69f736?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Dec 14 |
-| **[Waystar](http://www.waystar.com)** | **[Application Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68cff215846f0b04af6864fe?utm_campaign=1079&utm_source=git)** | Louisville, KY | On Site | Dec 14 |
-| ↳ | **[Application Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68cd3febb2a74e1837ed455f?utm_campaign=1079&utm_source=git)** | Lehi, UT | On Site | Dec 14 |
+| **[Waystar](http://www.waystar.com)** | **[Application Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68cd3febb2a74e1837ed455f?utm_campaign=1079&utm_source=git)** | Lehi, UT | On Site | Dec 14 |
+| ↳ | **[Application Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68cff215846f0b04af6864fe?utm_campaign=1079&utm_source=git)** | Louisville, KY | On Site | Dec 14 |
 | ↳ | **[Application Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68c28b728753a565272fb2ac?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Dec 14 |
 | **[Westfield Specialty Insurance](https://www.westfieldspecialty.com/)** | **[WSP IT Intern, Berkeley Heights Office (2026 Summer)](https://jobright.ai/jobs/info/68e9a9eb0930fe0bc4627fe4?utm_campaign=1079&utm_source=git)** | Berkeley Heights, NJ | On Site | Dec 14 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Information Technology (Fall 2026)](https://jobright.ai/jobs/info/68b406d0bc187f64e1be2e4b?utm_campaign=1079&utm_source=git)** | San Antonio, TX | On Site | Dec 14 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dorman Products](https://www.dormanproducts.com/)** | **[IT Intern - Automation and Application Developer](https://jobright.ai/jobs/info/691ae1ed45fb6f5ead8ae963?utm_campaign=1079&utm_source=git)** | Colmar, PA | Hybrid | Dec 13 |
 | ↳ | **[IT Intern, Applications](https://jobright.ai/jobs/info/691aaada45fb6f5ead8acbfe?utm_campaign=1079&utm_source=git)** | Colmar, PA | Hybrid | Dec 13 |
 | **[Epic Games](https://epicgames.com)** | **[Tools Programmer Intern](https://jobright.ai/jobs/info/691dc04d61dc50590a649d01?utm_campaign=1079&utm_source=git)** | Greater Montreal Metropolitan Area | On Site | Dec 13 |
-| ↳ | **[Tools Programmer Intern](https://jobright.ai/jobs/info/68f5cfe89a63986de757a4c8?utm_campaign=1079&utm_source=git)** | Cary, NC | On Site | Dec 13 |
-| **[Sikich](http://www.sikich.com)** | **[Summer 2026 NetSuite Implementation Intern](https://jobright.ai/jobs/info/6933abdf764507023d1b7f03?utm_campaign=1079&utm_source=git)** | Marlborough, MA | Hybrid | Dec 13 |
-| **[Dialpad Japan](http://dialpad.com/jp)** | **[Software Engineer Coop](https://jobright.ai/jobs/info/693e8744aa598a08c3eed468?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Dec 13 |
-| **[Nightwing](nightwing.com)** | **[Software Engineer Intern - 2026](https://jobright.ai/jobs/info/693d4ac749a7695fbd03eeab?utm_campaign=1079&utm_source=git)** | Sterling, VA | On Site | Dec 13 |
-| **[Honeywell](http://www.honeywell.com)** | **[Future IT Leaders - Summer 2026 Intern (US Person Required)](https://jobright.ai/jobs/info/693e68b7aa598a08c3eeb1aa?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 12 |
-| **[Tyonek Native Corp](https://www.tyonek.com/)** | **[Engineering Intern- WR](https://jobright.ai/jobs/info/693fa55750bbaf765051df47?utm_campaign=1079&utm_source=git)** | Warner Robins, GA | On Site | Dec 12 |
-| **[TikTok](https://www.tiktok.com)** | **[Researcher Intern (Vision and Graphics)- 2026 Start (PhD)](https://jobright.ai/jobs/info/693cfbbf50bbaf7650502f93?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
