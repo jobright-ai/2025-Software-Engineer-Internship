@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[ALAFIA](https://www.alafia.ai)** | **[System Software Intern](https://jobright.ai/jobs/info/693f45e050bbaf7650519596?utm_campaign=1079&utm_source=git)** | Gainesville, FL | Hybrid | Dec 14 |
+| **[TechX](https://techx.dev/)** | **[Software Engineer – TechX Engineering Internship (Unpaid, Remote)](https://jobright.ai/jobs/info/693f604e49a7695fbd052d3b?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 14 |
 | **[TJP Partners](tjp.org)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/693f170450bbaf7650517894?utm_campaign=1079&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Dec 14 |
 | ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/693f138750bbaf76505177e4?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Remote | Dec 14 |
 | **[DC Info Tech Pvt Ltd](https://dcinfotech.org.in)** | **[Google Cloud Engineer Internship Program](https://jobright.ai/jobs/info/693ef7f9aa598a08c3ef110d?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 14 |
@@ -124,11 +124,11 @@ For a complete list, click the following sortable link below:
 | **[Fast Enterprises, LLC](http://www.fastenterprises.com)** | **[Implementation Intern](https://jobright.ai/jobs/info/68ce8f8ffb49c96ca6ea19b9?utm_campaign=1079&utm_source=git)** | Centennial, CO | On Site | Dec 13 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Software Engineer Intern (Summer 2026) - Austin, TX](https://jobright.ai/jobs/info/68c8abeaf9c6ff7aedf116f4?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Dec 13 |
 | **[ByteDance](http://bytedance.com)** | **[Software Engineer Intern (Traffic Infrastructure Product Management)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69058504ff462851feffe29a?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 13 |
-| **[Epic Games](https://epicgames.com)** | **[Tools Programmer Intern](https://jobright.ai/jobs/info/691dd640ad5a517034796d9a?utm_campaign=1079&utm_source=git)** | Greater Montreal Metropolitan Area | On Site | Dec 13 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Software Engineer/Architect - Python Graduate Intern](https://jobright.ai/jobs/info/6933dac3a0dde7020e2f2692?utm_campaign=1079&utm_source=git)** | Erie-Meadville Area | On Site | Dec 13 |
 | **[Dorman Products](https://www.dormanproducts.com/)** | **[IT Intern - Automation and Application Developer](https://jobright.ai/jobs/info/691ae1ed45fb6f5ead8ae963?utm_campaign=1079&utm_source=git)** | Colmar, PA | Hybrid | Dec 13 |
 | ↳ | **[IT Intern, Applications](https://jobright.ai/jobs/info/691aaada45fb6f5ead8acbfe?utm_campaign=1079&utm_source=git)** | Colmar, PA | Hybrid | Dec 13 |
-| **[Epic Games](https://epicgames.com)** | **[Tools Programmer Intern](https://jobright.ai/jobs/info/68f5cfe89a63986de757a4c8?utm_campaign=1079&utm_source=git)** | Cary, NC | On Site | Dec 13 |
+| **[Epic Games](https://epicgames.com)** | **[Tools Programmer Intern](https://jobright.ai/jobs/info/691dc04d61dc50590a649d01?utm_campaign=1079&utm_source=git)** | Greater Montreal Metropolitan Area | On Site | Dec 13 |
+| ↳ | **[Tools Programmer Intern](https://jobright.ai/jobs/info/68f5cfe89a63986de757a4c8?utm_campaign=1079&utm_source=git)** | Cary, NC | On Site | Dec 13 |
 | **[Sikich](http://www.sikich.com)** | **[Summer 2026 NetSuite Implementation Intern](https://jobright.ai/jobs/info/6933abdf764507023d1b7f03?utm_campaign=1079&utm_source=git)** | Marlborough, MA | Hybrid | Dec 13 |
 | **[Capella Space](http://www.capellaspace.com)** | **[Flight Software Engineering Intern](https://jobright.ai/jobs/info/693c632a50bbaf76504fa95b?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Dec 13 |
 | **[Dialpad Japan](http://dialpad.com/jp)** | **[Software Engineer Coop](https://jobright.ai/jobs/info/693e8744aa598a08c3eed468?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Dec 13 |
