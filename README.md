@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Software Engineering Intern - Newport News (VA)](https://jobright.ai/jobs/info/693f80b749a7695fbd053907?utm_campaign=1079&utm_source=git)** | United States-Virginia-Newport News | On Site | Dec 14 |
+| **[BALANX-Bio](https://www.linkedin.com/company/107409415)** | **[Software Engineer Intern (unpaid)](https://jobright.ai/jobs/info/693f799c50bbaf765051b579?utm_campaign=1079&utm_source=git)** | Michigan, United States | Remote | Dec 14 |
+| **[ABB](https://global.abb/group/en)** | **[Software Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/69127894c98948514c47c06f?utm_campaign=1079&utm_source=git)** | Cary, NC | On Site | Dec 14 |
 | **[TechX](https://techx.dev/)** | **[Software Engineer – TechX Engineering Internship (Unpaid, Remote)](https://jobright.ai/jobs/info/693f604e49a7695fbd052d3b?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 14 |
 | **[TJP Partners](tjp.org)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/693f170450bbaf7650517894?utm_campaign=1079&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Dec 14 |
 | ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/693f138750bbaf76505177e4?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Remote | Dec 14 |
@@ -94,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[TJP Partners](tjp.org)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/693e773150bbaf7650511aa4?utm_campaign=1079&utm_source=git)** | NYC Metro Area | Remote | Dec 14 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - Software Engineer](https://jobright.ai/jobs/info/693e648150bbaf76505113dc?utm_campaign=1079&utm_source=git)** | Durham, NC | On Site | Dec 13 |
 | **[Riot Games](http://www.riotgames.com)** | **[Research Scientist Intern, Next-Gen Gameplay - Summer 2026 (Remote)](https://jobright.ai/jobs/info/6908f83abcccf20de59d570f?utm_campaign=1079&utm_source=git)** | Los Angeles, USA | Remote | Dec 13 |
+| **[Howmet Aerospace](https://www.howmet.com/)** | **[Intern - Applications](https://jobright.ai/jobs/info/693f8569aa598a08c3ef56b9?utm_campaign=1079&utm_source=git)** | Pittsburgh, PA | Hybrid | Dec 13 |
 | **[SPX Technologies](https://www.spx.com)** | **[Intern, Engineering](https://jobright.ai/jobs/info/693e0a2950bbaf765050e25c?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Dec 13 |
 | **[Mely.ai - Generative Intelligent Document Processing](http://www.mely.ai)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/693defd350bbaf765050c7a1?utm_campaign=1079&utm_source=git)** | Canada | Remote | Dec 13 |
 | **[International Institute of New England](https://iine.org/)** | **[Quality Assurance Intern (IINE Boston)](https://jobright.ai/jobs/info/693ddb8d50bbaf765050c54a?utm_campaign=1079&utm_source=git)** | Boston, MA | Hybrid | Dec 13 |
@@ -146,15 +150,11 @@ For a complete list, click the following sortable link below:
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - Software Engineer - Autonomous Driving - Simulation Team (Bachelor's)](https://jobright.ai/jobs/info/693ce01b49a7695fbd039061?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | Hybrid | Dec 12 |
 | **[Domo](http://www.domo.com)** | **[Intern - Software Engineer](https://jobright.ai/jobs/info/693e2f1e50bbaf765050eaab?utm_campaign=1079&utm_source=git)** | American Fork, UT | Hybrid | Dec 12 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern in Micro-Computing / Stagiaire, en micro-informatique](https://jobright.ai/jobs/info/693cf10faa598a08c3edb047?utm_campaign=1079&utm_source=git)** | Varennes, Quebec, Canada | On Site | Dec 12 |
+| **[Rivian and Volkswagen Group Technologies](https://rivianvw.tech)** | **[Software Engineering Intern, Vehicle Controls - Summer 2026](https://jobright.ai/jobs/info/693f7beaaa598a08c3ef524b?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Dec 12 |
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer Service Integration Internship](https://jobright.ai/jobs/info/69326089a0dde7020e2e64d2?utm_campaign=1079&utm_source=git)** | California, United States | Hybrid | Dec 12 |
 | **[Zipline](https://www.zipline.com/)** | **[Software Systems Validation Intern (Summer 2026)](https://jobright.ai/jobs/info/693ccd9249a7695fbd038539?utm_campaign=1079&utm_source=git)** | South San Francisco, CA | On Site | Dec 12 |
 | ↳ | **[Embedded Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/693ccc80aa598a08c3ed9b53?utm_campaign=1079&utm_source=git)** | South San Francisco, CA | On Site | Dec 12 |
 | **[Nokia](http://www.nokia.com)** | **[DSP Firmware Engineering Co-op/Intern](https://jobright.ai/jobs/info/693ccbed50bbaf76504ffcac?utm_campaign=1079&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2T6, CA | On Site | Dec 12 |
 | **[Intuitive](https://www.intuitive.com/)** | **[Software Engineering Intern (GUI)](https://jobright.ai/jobs/info/693ccb4950bbaf76504ffc5c?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Dec 12 |
 | **[GoldenHome International Inc.](https://www.goldenhomecabinets.com/)** | **[Software Engineer-Intern](https://jobright.ai/jobs/info/693cca1349a7695fbd03837a?utm_campaign=1079&utm_source=git)** | Texas, United States | On Site | Dec 12 |
-| **[Zipline](https://www.zipline.com/)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/693cc6b4aa598a08c3ed98d0?utm_campaign=1079&utm_source=git)** | South San Francisco, CA | On Site | Dec 12 |
-| **[Leepfrog Technologies](https://www.leepfrog.com/)** | **[Internal Tools Development Intern](https://jobright.ai/jobs/info/693cc46eaa598a08c3ed9716?utm_campaign=1079&utm_source=git)** | Coralville,IA,US | On Site | Dec 12 |
-| **[Zipline](https://www.zipline.com/)** | **[Embedded Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/693cc1e049a7695fbd037fb0?utm_campaign=1079&utm_source=git)** | South San Francisco, California, USA | On Site | Dec 12 |
-| ↳ | **[Software Systems Validation Intern (Summer 2026)](https://jobright.ai/jobs/info/693cc0a450bbaf76504ff739?utm_campaign=1079&utm_source=git)** | South San Francisco, California, USA | On Site | Dec 12 |
-| **[Skydio](https://www.skydio.com)** | **[Software Engineer Intern - Boston](https://jobright.ai/jobs/info/693cbebf49a7695fbd037da8?utm_campaign=1079&utm_source=git)** | San Mateo, CA | On Site | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
