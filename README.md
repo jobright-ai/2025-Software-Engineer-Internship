@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Advanced Technology](https://jobright.ai/jobs/info/6943bf16dd382f5f5669d433?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO | On Site | Dec 18 |
+| **[Garner Health, LLC](https://www.getgarner.com/about)** | **[Full Stack Engineering Intern](https://jobright.ai/jobs/info/6943ba5550bbaf765055b51e?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Dec 18 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - Software Engineer](https://jobright.ai/jobs/info/6943ad08dd382f5f5669c636?utm_campaign=1079&utm_source=git)** | Durham, NC | On Site | Dec 17 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Systems Software Engineering Intern - Winter 2026](https://jobright.ai/jobs/info/6943a0a794730b739876cc8d?utm_campaign=1079&utm_source=git)** | Canada, Remote | Remote | Dec 17 |
 | ↳ | **[Systems Software Engineering Intern - Winter 2026](https://jobright.ai/jobs/info/69439efe50bbaf7650559fc0?utm_campaign=1079&utm_source=git)** | Canada, Toronto | On Site | Dec 17 |
 | ↳ | **[Performance Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69439d0a94730b739876c9b2?utm_campaign=1079&utm_source=git)** | Canada, Toronto | On Site | Dec 17 |
+| **[Moladin](https://moladin.com/)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/6943b62e94730b739876dc0e?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 17 |
 | **[Docusign](http://www.docusign.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/694397d550bbaf7650559d7d?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Dec 17 |
 | **[Tencent](https://www.tencent.com/)** | **[IT Application Developer (AI-Driven IT Ops) Intern](https://jobright.ai/jobs/info/6943870094730b739876a385?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Dec 17 |
 | **[Seagate Technology](http://www.seagate.com)** | **[Firmware Development Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69376519a0dde7020e302528?utm_campaign=1079&utm_source=git)** | Longmont, CO | On Site | Dec 17 |
@@ -68,7 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Software Developer, Network Software Intern (Spring 2026)](https://jobright.ai/jobs/info/69437dbb94730b7398769b89?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Dec 17 |
 | **[Boise Cascade Company](http://www.bc.com/index.html)** | **[Work U - IT Intern](https://jobright.ai/jobs/info/69437b0994730b7398769962?utm_campaign=1079&utm_source=git)** | Boise, ID | On Site | Dec 17 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Design/DSP/Verification Intern - Bachelor's Degree](https://jobright.ai/jobs/info/694378d1dd382f5f5669892f?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Dec 17 |
-| **[Nokia](http://www.nokia.com)** | **[R&D Intern](https://jobright.ai/jobs/info/6943703c94730b7398768bcc?utm_campaign=1079&utm_source=git)** | Naperville, IL | Hybrid | Dec 17 |
+| **[Nokia](http://www.nokia.com)** | **[R&D Intern](https://jobright.ai/jobs/info/6943733cdd382f5f5669851c?utm_campaign=1079&utm_source=git)** | Naperville, IL | Hybrid | Dec 17 |
 | **[Crane Company](http://www.craneco.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/694366e794730b7398767d9a?utm_campaign=1079&utm_source=git)** | Saddle Brook, NJ | On Site | Dec 17 |
 | **[STMicroelectronics](https://www.st.com)** | **[Applications Engineer Intern](https://jobright.ai/jobs/info/694365f5dd382f5f56696ecd?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Dec 17 |
 | **[TMX Group](http://www.tmx.com)** | **[Student Intern - Python/C++ Developer - Summer Term](https://jobright.ai/jobs/info/69436549dd382f5f56696d9e?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 17 |
@@ -126,11 +129,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[C++ Software Engineer Intern, RippleX (Summer 2026)](https://jobright.ai/jobs/info/6942ee0a50bbaf765054bd51?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 17 |
 | **[enGen](https://goengen.com)** | **[Summer 2026 Software Engineer Graduate Intern](https://jobright.ai/jobs/info/6942cbb550bbaf765054abfd?utm_campaign=1079&utm_source=git)** | Erie-Meadville Area | On Site | Dec 17 |
 | **[CareSource](https://www.caresource.com/)** | **[REMOTE - 2026 Summer Internship - Application Development - R10584](https://jobright.ai/jobs/info/68ed6dae6335d33236128d2b?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 17 |
+| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Software Development Engineer](https://jobright.ai/jobs/info/68ed51f481fdd1626d39b06d?utm_campaign=1079&utm_source=git)** | United States | Hybrid | Dec 17 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Software Validation Engineer Intern - Master's Degree](https://jobright.ai/jobs/info/68d195358c62e63bc7fccef8?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Dec 17 |
 | **[Leidos](https://www.leidos.com/)** | **[Software Engineer / Web Development Intern](https://jobright.ai/jobs/info/6942d5a094730b739875dc5d?utm_campaign=1079&utm_source=git)** | Walled Lake, MI | Hybrid | Dec 17 |
 | **[ICE](https://www.ice.com)** | **[Summer Internship Program 2026 - Quantitative Engineer Intern](https://jobright.ai/jobs/info/68ed456b70b66e2345d3bff8?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Dec 17 |
 | **[Empower](https://www.empower.com)** | **[Summer 2026 Intern – Quality Engineer](https://jobright.ai/jobs/info/6942b74fdd382f5f5668b7f6?utm_campaign=1079&utm_source=git)** | Hartford, CT | Hybrid | Dec 17 |
-| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Software Development Engineer](https://jobright.ai/jobs/info/6922bef2c0cefa13343d9290?utm_campaign=1079&utm_source=git)** | United States | Hybrid | Dec 17 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Software Engineer/Architect - Python Graduate Intern](https://jobright.ai/jobs/info/6942d6d5dd382f5f5668ce9e?utm_campaign=1079&utm_source=git)** | Erie-Meadville Area | On Site | Dec 17 |
 | **[Machina Labs](https://machinalabs.ai)** | **[Frontend Software Engineer, Intern](https://jobright.ai/jobs/info/69262d89d47de4798ecd54d8?utm_campaign=1079&utm_source=git)** | Chatsworth, CA | On Site | Dec 17 |
 | **[IDEMIA Public Security](https://na.idemia.com/)** | **[Engineering Device Integration (EVS / HAL) Internship - Summer 2026](https://jobright.ai/jobs/info/6942d9a3dd382f5f5668d073?utm_campaign=1079&utm_source=git)** | Oakville, Ontario, Canada | Hybrid | Dec 17 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Trimble Inc.](http://www.trimble.com)** | **[Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68f205ac28898614d8b1a0c3?utm_campaign=1079&utm_source=git)** | Dayton, OH | On Site | Dec 17 |
 | **[KLA](https://www.kla.com)** | **[Software Quality Control Internship](https://jobright.ai/jobs/info/6908c87bbcccf20de59d3b39?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Dec 17 |
 | ↳ | **[Applications Development Intern](https://jobright.ai/jobs/info/6908c297d046ab6061ccdce6?utm_campaign=1079&utm_source=git)** | Milpitas, CA | On Site | Dec 17 |
-| **[GenPark](https://genpark.ai)** | **[Product Engineering Manager](https://jobright.ai/jobs/info/6942849d50bbaf7650547f45?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | Hybrid | Dec 17 |
-| **[Micron Technology](http://www.micron.com)** | **[Intern - Product Engineering, HBM](https://jobright.ai/jobs/info/68ed441c6335d33236126f94?utm_campaign=1079&utm_source=git)** | Boise, ID | On Site | Dec 17 |
-| **[RADcube](http://www.radcube.com/)** | **[Front-End Developer (Intern)](https://jobright.ai/jobs/info/694304d450bbaf765054e170?utm_campaign=1079&utm_source=git)** | Carmel, IN | On Site | Dec 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
