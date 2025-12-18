@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cisco](http://www.cisco.com)** | **[Software Engineer Backend/Platform Systems I (Intern) – United States](https://jobright.ai/jobs/info/6927198ad47de4798ecd9fe7?utm_campaign=1079&utm_source=git)** | Hillsboro, OR | On Site | Dec 18 |
+| **[ICE](https://www.ice.com)** | **[Summer Internship Program 2026 - Software Development Engineer in Test Intern](https://jobright.ai/jobs/info/68ed44ca81fdd1626d39a6f8?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Dec 18 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[IT Software Developer Intern](https://jobright.ai/jobs/info/68ef0e55a1a1d02df61e87da?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 18 |
 | **[ICE](https://www.ice.com)** | **[Summer Internship Program 2026 - Mobile Application Development Intern](https://jobright.ai/jobs/info/68ed433f6335d33236126ece?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Dec 18 |
 | **[Microsoft](https://www.microsoft.com)** | **[Design Engineer: Internship Opportunities](https://jobright.ai/jobs/info/6944013650bbaf76505605bb?utm_campaign=1079&utm_source=git)** | Redmond, WA | On Site | Dec 18 |
@@ -112,6 +114,7 @@ For a complete list, click the following sortable link below:
 | **[Docusign](http://www.docusign.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/694397d550bbaf7650559d7d?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Dec 17 |
 | **[Tencent](https://www.tencent.com/)** | **[IT Application Developer (AI-Driven IT Ops) Intern](https://jobright.ai/jobs/info/6943870094730b739876a385?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Dec 17 |
 | **[Seagate Technology](http://www.seagate.com)** | **[Firmware Development Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69376519a0dde7020e302528?utm_campaign=1079&utm_source=git)** | Longmont, CO | On Site | Dec 17 |
+| **[Framewell](www.framewell.org)** | **[Software Engineer Intern (Jan-Mar 2026)](https://jobright.ai/jobs/info/6943fe9c50bbaf7650560490?utm_campaign=1079&utm_source=git)** | Pittsburgh, PA | On Site | Dec 17 |
 | **[Veolia | North America](http://growingblue.com/)** | **[Manufacturing Software Engineer Intern](https://jobright.ai/jobs/info/69437ef650bbaf76505572ab?utm_campaign=1079&utm_source=git)** | Boulder, CO | On Site | Dec 17 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Software Developer, Network Software Intern (Spring 2026)](https://jobright.ai/jobs/info/69437dbb94730b7398769b89?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Dec 17 |
 | **[Boise Cascade Company](http://www.bc.com/index.html)** | **[Work U - IT Intern](https://jobright.ai/jobs/info/69437b0994730b7398769962?utm_campaign=1079&utm_source=git)** | Boise, ID | On Site | Dec 17 |
@@ -136,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship: U.S Medical Digital Engagement & Insights Intern](https://jobright.ai/jobs/info/6943488ddd382f5f566948c9?utm_campaign=1079&utm_source=git)** | Lexington, MA | On Site | Dec 17 |
 | **[IBM](http://www.ibm.com)** | **[2026 Intern: IBM Quantum Software Engineer](https://jobright.ai/jobs/info/694328d050bbaf7650550163?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Dec 17 |
 | **[Lincoln Electric](http://www.lincolnelectric.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/69434d5b50bbaf76505531db?utm_campaign=1079&utm_source=git)** | Dundas, Ontario, Canada | On Site | Dec 17 |
-| **[Microsoft](https://www.microsoft.com)** | **[Design Engineer: Internship Opportunities](https://jobright.ai/jobs/info/6943d7d7dd382f5f5669fa2d?utm_campaign=1079&utm_source=git)** | United States, Washington, Redmond | On Site | Dec 17 |
 | **[IBM](http://www.ibm.com)** | **[2026 Intern: IBM Quantum Software Engineer](https://jobright.ai/jobs/info/6943270a50bbaf765054ff67?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 17 |
 | **[Milliman](http://www.milliman.com)** | **[Software Quality Assurance Intern- Summer 2026 (May 2026 Start)](https://jobright.ai/jobs/info/6943468094730b7398765837?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Dec 17 |
 | **[IBM](http://www.ibm.com)** | **[Software Developer Intern 2026](https://jobright.ai/jobs/info/6943230f94730b739876243f?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Dec 17 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Intern: IBM Quantum Software Engineer](https://jobright.ai/jobs/info/6943395e50bbaf76505515c9?utm_campaign=1079&utm_source=git)** | Albany, NY | On Site | Dec 17 |
 | ↳ | **[2026 Intern: IBM Quantum Software Engineer](https://jobright.ai/jobs/info/69433721dd382f5f56692b9e?utm_campaign=1079&utm_source=git)** | Yorktown Heights, NY | On Site | Dec 17 |
 | **[Inmar Intelligence](http://www.inmar.com)** | **[Backend Platform Intern, Digital Promotions Network Team, Summer 2026](https://jobright.ai/jobs/info/6943403edd382f5f56693c29?utm_campaign=1079&utm_source=git)** | Headquarters, Winston Salem, NC | On Site | Dec 17 |
-| **[Quest Analytics®,LLC](https://questanalytics.com)** | **[Software Engineer Intern - C#, ASP.NET - Summer 2026 in Kansas City](https://jobright.ai/jobs/info/6943372b50bbaf7650551180?utm_campaign=1079&utm_source=git)** | Overland Park, KS | On Site | Dec 17 |
 | **[IBM](http://www.ibm.com)** | **[Software Developer Intern 2026](https://jobright.ai/jobs/info/6943339250bbaf7650550bc2?utm_campaign=1079&utm_source=git)** | Lowell, MA | On Site | Dec 17 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Software Engineer, Update Systems (Summer 2026)](https://jobright.ai/jobs/info/69431f8250bbaf765054f799?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Dec 17 |
-| ↳ | **[Internship, Embedded Software Engineer, Audio Systems (Summer 2026)](https://jobright.ai/jobs/info/6943208ddd382f5f56691371?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Dec 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
