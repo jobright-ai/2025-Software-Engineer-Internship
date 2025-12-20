@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ReplyQuickAI](https://www.replyquick.ai)** | **[Remote Backend Engineer Internship](https://jobright.ai/jobs/info/694668c67d506e3808f1d59b?utm_campaign=1079&utm_source=git)** | Sarasota, FL | Remote | Dec 20 |
+| **[Follio](https://www.follio.net/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/694662477d506e3808f1bd05?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 20 |
 | **[GenPark](https://genpark.ai)** | **[Project Operation Intern](https://jobright.ai/jobs/info/6946549463141d1884560c1d?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Dec 19 |
 | ↳ | **[Full Stack Developer](https://jobright.ai/jobs/info/6946543c63141d1884560bd5?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | Hybrid | Dec 19 |
 | **[ASML](https://www.asml.com)** | **[Internship - Algorithm Engineering Intern](https://jobright.ai/jobs/info/69464a2063141d18845600f4?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Dec 19 |
@@ -66,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer Service Integration Internship](https://jobright.ai/jobs/info/69326089a0dde7020e2e64d2?utm_campaign=1079&utm_source=git)** | California, United States | Hybrid | Dec 19 |
 | **[Bastian Solutions](https://www.bastiansolutions.com/)** | **[Software Developer Co-op](https://jobright.ai/jobs/info/694617e77d506e3808f16c8c?utm_campaign=1079&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Dec 19 |
 | **[Ramp](https://ramp.com)** | **[Software Engineer Internship / Forward Deployed](https://jobright.ai/jobs/info/6946108a63141d188455bfb9?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Dec 19 |
-| ↳ | **[Software Engineer Internship / Backend](https://jobright.ai/jobs/info/69460d3fd1953b5d11bf2d94?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Dec 19 |
 | **[Ancestry](http://ancestry.com)** | **[Software Engineer – Observability, Co-op](https://jobright.ai/jobs/info/694603ed63141d188455adac?utm_campaign=1079&utm_source=git)** | Lehi, UT | Remote | Dec 19 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Full Stack Software Engineer Intern - Summer 2026 Internship](https://jobright.ai/jobs/info/6945ff927d506e3808f1497f?utm_campaign=1079&utm_source=git)** | Waltham, MA | Hybrid | Dec 19 |
 | **[Samsung Research America (SRA)](http://www.sra.samsung.com/)** | **[2026 Intern, Computational Designer (Summer)](https://jobright.ai/jobs/info/6945fb187d506e3808f13f88?utm_campaign=1079&utm_source=git)** | 735 Battery Street, San Francisco, CA, USA | On Site | Dec 19 |
@@ -89,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[Wing](https://www.wing.com/)** | **[Manufacturing Software Test Engineering Intern, Summer 2026](https://jobright.ai/jobs/info/6945c51d63141d18845552d1?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Dec 19 |
 | **[Geotab](http://www.geotab.com/)** | **[Embedded Developer Intern, Software in the Loop (Summer/May 2026, 12 - 16 Months)](https://jobright.ai/jobs/info/6945c473d1953b5d11bec410?utm_campaign=1079&utm_source=git)** | Oakville, Ontario - Canada | On Site | Dec 19 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Software Engineer, Autonomous Robot (PhD)](https://jobright.ai/jobs/info/6945c378951654073537e12a?utm_campaign=1079&utm_source=git)** | Sunnyvale, California, United States of America | Hybrid | Dec 19 |
-| ↳ | **[2026 Summer Intern – Software Engineer, Mapping Software Team](https://jobright.ai/jobs/info/6945c31cd1953b5d11bec26a?utm_campaign=1079&utm_source=git)** | Warren, MI | Hybrid | Dec 19 |
 | **[KLA](https://www.kla.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6945c1da63141d1884554f28?utm_campaign=1079&utm_source=git)** | Milpitas, CA | On Site | Dec 19 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Software Engineer, Mapping Software Team](https://jobright.ai/jobs/info/6945c1b3d1953b5d11bec113?utm_campaign=1079&utm_source=git)** | Warren, Michigan, United States of America | Hybrid | Dec 19 |
 | ↳ | **[2026 Summer Intern – Software Engineer, ADAS Core Software Team](https://jobright.ai/jobs/info/6945c14763141d1884554e8b?utm_campaign=1079&utm_source=git)** | Milford, MI | Hybrid | Dec 19 |
@@ -103,6 +103,7 @@ For a complete list, click the following sortable link below:
 | **[RTX](http://www.raytheon.com)** | **[Summer 2026 Intern - Full Stack Developer (Onsite)](https://jobright.ai/jobs/info/6945b5f9d1953b5d11beb460?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Dec 19 |
 | **[Nokia](http://www.nokia.com)** | **[Full-stack & AI/Automation Intern/Coop](https://jobright.ai/jobs/info/6945cf9763141d188455638c?utm_campaign=1079&utm_source=git)** | Kanata, Ontario, Canada | On Site | Dec 19 |
 | **[Banner Engineering Careers](https://www.bannerengineering.com/us/en/company/careers.html)** | **[Embedded Software Engineering Intern](https://jobright.ai/jobs/info/6945b1cc951654073537cc55?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 19 |
+| **[Microsoft](https://www.microsoft.com)** | **[Software Engineer: Intern Opportunities for University Students, Mountain View](https://jobright.ai/jobs/info/69465d4a7d506e3808f1b889?utm_campaign=1079&utm_source=git)** | United States, California, Mountain View | Hybrid | Dec 19 |
 | **[Mitsubishi Electric Research Laboratories](http://www.merl.com/)** | **[Internship - Infrastructure inspection/repair using heterogenous robot teams](https://jobright.ai/jobs/info/6945ae3f951654073537c88b?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Dec 19 |
 | **[Geotab](http://www.geotab.com/)** | **[Embedded Developer Intern, Pipeline Automation (Summer/May 2026, 12 - 16 Months)](https://jobright.ai/jobs/info/6945a88b951654073537c343?utm_campaign=1079&utm_source=git)** | Oakville, Ontario - Canada | On Site | Dec 19 |
 | **[ASML](https://www.asml.com)** | **[Internship - Software Development Engineer in Test](https://jobright.ai/jobs/info/6945a0e3951654073537bcb2?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 19 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[University, 2026 Summer Games Software Developer Intern](https://jobright.ai/jobs/info/69454f52d1953b5d11be4315?utm_campaign=1079&utm_source=git)** | Honolulu, HI | Hybrid | Dec 19 |
 | ↳ | **[University, 2026 Summer Games Software Developer Intern](https://jobright.ai/jobs/info/69454e1d9516540735375ede?utm_campaign=1079&utm_source=git)** | Huntsville, AL | Hybrid | Dec 19 |
 | ↳ | **[University, 2026 Summer Games Software Developer Intern](https://jobright.ai/jobs/info/69454f35d1953b5d11be42f0?utm_campaign=1079&utm_source=git)** | El Segundo, CA | Hybrid | Dec 19 |
-| ↳ | **[University, 2026 Summer Games Software Developer Intern](https://jobright.ai/jobs/info/69454e349516540735375f09?utm_campaign=1079&utm_source=git)** | Panama City, FL | Hybrid | Dec 19 |
 | ↳ | **[University, 2026 Summer Games Software Developer Intern](https://jobright.ai/jobs/info/69454f67d1953b5d11be433b?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
