@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark](https://genpark.ai)** | **[Project Operation Intern](https://jobright.ai/jobs/info/6946549463141d1884560c1d?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Dec 19 |
+| ↳ | **[Full Stack Developer](https://jobright.ai/jobs/info/6946543c63141d1884560bd5?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | Hybrid | Dec 19 |
+| **[ASML](https://www.asml.com)** | **[Internship - Algorithm Engineering Intern](https://jobright.ai/jobs/info/69464a2063141d18845600f4?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Dec 19 |
+| ↳ | **[Internship - Software Engineering](https://jobright.ai/jobs/info/694643f5d1953b5d11bf6c3d?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 19 |
+| ↳ | **[Internship - Frontend Developer](https://jobright.ai/jobs/info/694641b4d1953b5d11bf6bc9?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Dec 19 |
 | **[Panasonic Avionics Corporation](http://www.panasonic.aero)** | **[Intern-Software Engineering](https://jobright.ai/jobs/info/6946219c63141d188455ce71?utm_campaign=1079&utm_source=git)** | Beaverton, OR | On Site | Dec 19 |
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer Service Integration Internship](https://jobright.ai/jobs/info/69326089a0dde7020e2e64d2?utm_campaign=1079&utm_source=git)** | California, United States | Hybrid | Dec 19 |
 | **[Bastian Solutions](https://www.bastiansolutions.com/)** | **[Software Developer Co-op](https://jobright.ai/jobs/info/694617e77d506e3808f16c8c?utm_campaign=1079&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Dec 19 |
@@ -150,11 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[University, 2026 Summer Games Software Developer Intern](https://jobright.ai/jobs/info/69454f52d1953b5d11be4315?utm_campaign=1079&utm_source=git)** | Honolulu, HI | Hybrid | Dec 19 |
 | ↳ | **[University, 2026 Summer Games Software Developer Intern](https://jobright.ai/jobs/info/69454e1d9516540735375ede?utm_campaign=1079&utm_source=git)** | Huntsville, AL | Hybrid | Dec 19 |
 | ↳ | **[University, 2026 Summer Games Software Developer Intern](https://jobright.ai/jobs/info/69454f35d1953b5d11be42f0?utm_campaign=1079&utm_source=git)** | El Segundo, CA | Hybrid | Dec 19 |
-| ↳ | **[University, 2026 Summer Games Software Developer Intern](https://jobright.ai/jobs/info/69454f67d1953b5d11be433b?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | Dec 19 |
 | ↳ | **[University, 2026 Summer Games Software Developer Intern](https://jobright.ai/jobs/info/69454e349516540735375f09?utm_campaign=1079&utm_source=git)** | Panama City, FL | Hybrid | Dec 19 |
-| ↳ | **[University, 2026 Summer Games Software Developer Intern](https://jobright.ai/jobs/info/69454f2ed1953b5d11be42e1?utm_campaign=1079&utm_source=git)** | Rome, NY | Hybrid | Dec 19 |
-| ↳ | **[University, 2026 Summer Games Software Developer Intern](https://jobright.ai/jobs/info/69454dd99516540735375e97?utm_campaign=1079&utm_source=git)** | Colorado Springs, CO | Hybrid | Dec 19 |
-| ↳ | **[University, 2026 Summer Games Software Developer Intern](https://jobright.ai/jobs/info/69452eed95165407353745ed?utm_campaign=1079&utm_source=git)** | McLean, VA | Hybrid | Dec 19 |
-| ↳ | **[University, 2026 Summer Games Software Developer Intern](https://jobright.ai/jobs/info/69452edb95165407353745e7?utm_campaign=1079&utm_source=git)** | Charleston, SC | Hybrid | Dec 19 |
-| ↳ | **[University, 2026 Summer Games Software Developer Intern](https://jobright.ai/jobs/info/69452e9c95165407353745d0?utm_campaign=1079&utm_source=git)** | Annapolis Junction, MD | Hybrid | Dec 19 |
+| ↳ | **[University, 2026 Summer Games Software Developer Intern](https://jobright.ai/jobs/info/69454f67d1953b5d11be433b?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
