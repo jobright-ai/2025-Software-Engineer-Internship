@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capital One](http://www.capitalone.com)** | **[Intern, Mobile Software Engineer - Summer 2026](https://jobright.ai/jobs/info/6946ee8563141d188456a4c9?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 20 |
+| ↳ | **[Intern, Backend Software Engineer - Summer 2026](https://jobright.ai/jobs/info/6946eb02d1953b5d11c01090?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 20 |
+| **[Summit Capital](https://www.linkedin.com/company/107045775)** | **[Remote Full-Stack Web Development Intern](https://jobright.ai/jobs/info/6946eaa963141d188456a483?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 20 |
+| **[Capital One](http://www.capitalone.com)** | **[Intern, Full Stack Software Engineer - Summer 2026](https://jobright.ai/jobs/info/6946e6f663141d188456a27e?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 20 |
 | **[Solidigm](https://www.solidigmtechnology.com)** | **[Firmware Validation Intern](https://jobright.ai/jobs/info/6946db6a7d506e3808f23da2?utm_campaign=1079&utm_source=git)** | Rancho Cordova, CA | On Site | Dec 20 |
-| **[EVA IT Consulting Services](https://www.evaitcs.com)** | **[Java Developer](https://jobright.ai/jobs/info/6946d105d1953b5d11bfedfe?utm_campaign=1079&utm_source=git)** | Herndon, VA | On Site | Dec 20 |
 | **[Oracle](https://www.oracle.com/)** | **[Advanced Degree Software Engineer Intern - Industries](https://jobright.ai/jobs/info/6946cdbd63141d1884568002?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 20 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Summer Internship Program: Information Technology (IT) Intern](https://jobright.ai/jobs/info/6946ca24d1953b5d11bfea8c?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Dec 20 |
 | **[Oracle](https://www.oracle.com/)** | **[Advanced Degree Software Engineer Intern - Industries](https://jobright.ai/jobs/info/6946bce87d506e3808f21c33?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Intuit](https://www.intuit.com)** | **[Summer 2026 Front End Engineering Intern](https://jobright.ai/jobs/info/694585a09516540735379fc4?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Dec 19 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Enterprise Architecture, Technology & Engineering Fellow](https://jobright.ai/jobs/info/69152c66286ccf0a1512bf41?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Dec 19 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Software Engineer, ADAS Core Software Team](https://jobright.ai/jobs/info/69458486d1953b5d11be83f6?utm_campaign=1079&utm_source=git)** | Warren, Michigan, United States of America | Hybrid | Dec 19 |
-| ↳ | **[2026 Summer Intern – Software Engineer, Autonomous Robot (Masters Degree)](https://jobright.ai/jobs/info/694583989516540735379e8e?utm_campaign=1079&utm_source=git)** | Mountain View, California, United States of America | Hybrid | Dec 19 |
-| ↳ | **[2026 Summer Intern – Software Engineer, ADAS Core Software Team](https://jobright.ai/jobs/info/6945829e9516540735379e3a?utm_campaign=1079&utm_source=git)** | Milford, Michigan, United States of America | Hybrid | Dec 19 |
-| **[Intuit](https://www.intuit.com)** | **[Summer 2026 Front End Engineering Intern](https://jobright.ai/jobs/info/694580c663141d1884550fb7?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
