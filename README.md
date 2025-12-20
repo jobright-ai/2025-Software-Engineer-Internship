@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Software Engineer](https://jobright.ai/jobs/info/6947027663141d188456b2bc?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO | On Site | Dec 20 |
 | **[Capital One](http://www.capitalone.com)** | **[Intern, Mobile Software Engineer - Summer 2026](https://jobright.ai/jobs/info/6946ee8563141d188456a4c9?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 20 |
 | ↳ | **[Intern, Backend Software Engineer - Summer 2026](https://jobright.ai/jobs/info/6946eb02d1953b5d11c01090?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 20 |
-| **[Summit Capital](https://www.linkedin.com/company/107045775)** | **[Remote Full-Stack Web Development Intern](https://jobright.ai/jobs/info/6946eaa963141d188456a483?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 20 |
-| **[Capital One](http://www.capitalone.com)** | **[Intern, Full Stack Software Engineer - Summer 2026](https://jobright.ai/jobs/info/6946e6f663141d188456a27e?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 20 |
+| ↳ | **[Intern, Full Stack Software Engineer - Summer 2026](https://jobright.ai/jobs/info/6946e6f663141d188456a27e?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 20 |
 | **[Solidigm](https://www.solidigmtechnology.com)** | **[Firmware Validation Intern](https://jobright.ai/jobs/info/6946db6a7d506e3808f23da2?utm_campaign=1079&utm_source=git)** | Rancho Cordova, CA | On Site | Dec 20 |
 | **[Oracle](https://www.oracle.com/)** | **[Advanced Degree Software Engineer Intern - Industries](https://jobright.ai/jobs/info/6946cdbd63141d1884568002?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 20 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Summer Internship Program: Information Technology (IT) Intern](https://jobright.ai/jobs/info/6946ca24d1953b5d11bfea8c?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Dec 20 |
