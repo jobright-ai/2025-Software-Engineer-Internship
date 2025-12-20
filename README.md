@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Panasonic Avionics Corporation](http://www.panasonic.aero)** | **[Intern-Software Engineering](https://jobright.ai/jobs/info/6946219c63141d188455ce71?utm_campaign=1079&utm_source=git)** | Beaverton, OR | On Site | Dec 19 |
+| **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer Service Integration Internship](https://jobright.ai/jobs/info/69326089a0dde7020e2e64d2?utm_campaign=1079&utm_source=git)** | California, United States | Hybrid | Dec 19 |
 | **[Bastian Solutions](https://www.bastiansolutions.com/)** | **[Software Developer Co-op](https://jobright.ai/jobs/info/694617e77d506e3808f16c8c?utm_campaign=1079&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Dec 19 |
 | **[Ramp](https://ramp.com)** | **[Software Engineer Internship / Forward Deployed](https://jobright.ai/jobs/info/6946108a63141d188455bfb9?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Dec 19 |
 | ↳ | **[Software Engineer Internship / Backend](https://jobright.ai/jobs/info/69460d3fd1953b5d11bf2d94?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Dec 19 |
@@ -96,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[RTX](http://www.raytheon.com)** | **[Summer 2026 Intern - Full Stack Developer (Onsite)](https://jobright.ai/jobs/info/6945b5f9d1953b5d11beb460?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Dec 19 |
 | **[Nokia](http://www.nokia.com)** | **[Full-stack & AI/Automation Intern/Coop](https://jobright.ai/jobs/info/6945cf9763141d188455638c?utm_campaign=1079&utm_source=git)** | Kanata, Ontario, Canada | On Site | Dec 19 |
 | **[Banner Engineering Careers](https://www.bannerengineering.com/us/en/company/careers.html)** | **[Embedded Software Engineering Intern](https://jobright.ai/jobs/info/6945b1cc951654073537cc55?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 19 |
-| **[Microsoft](https://www.microsoft.com)** | **[Software Engineer: Intern Opportunities for University Students, Mountain View](https://jobright.ai/jobs/info/6946114d7d506e3808f166b3?utm_campaign=1079&utm_source=git)** | United States, California, Mountain View | Hybrid | Dec 19 |
 | **[Mitsubishi Electric Research Laboratories](http://www.merl.com/)** | **[Internship - Infrastructure inspection/repair using heterogenous robot teams](https://jobright.ai/jobs/info/6945ae3f951654073537c88b?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Dec 19 |
 | **[Geotab](http://www.geotab.com/)** | **[Embedded Developer Intern, Pipeline Automation (Summer/May 2026, 12 - 16 Months)](https://jobright.ai/jobs/info/6945a88b951654073537c343?utm_campaign=1079&utm_source=git)** | Oakville, Ontario - Canada | On Site | Dec 19 |
 | **[ASML](https://www.asml.com)** | **[Internship - Software Development Engineer in Test](https://jobright.ai/jobs/info/6945a0e3951654073537bcb2?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[University, 2026 Summer Games Software Developer Intern](https://jobright.ai/jobs/info/69452eed95165407353745ed?utm_campaign=1079&utm_source=git)** | McLean, VA | Hybrid | Dec 19 |
 | ↳ | **[University, 2026 Summer Games Software Developer Intern](https://jobright.ai/jobs/info/69452edb95165407353745e7?utm_campaign=1079&utm_source=git)** | Charleston, SC | Hybrid | Dec 19 |
 | ↳ | **[University, 2026 Summer Games Software Developer Intern](https://jobright.ai/jobs/info/69452e9c95165407353745d0?utm_campaign=1079&utm_source=git)** | Annapolis Junction, MD | Hybrid | Dec 19 |
-| **[Hypergiant](https://www.hypergiant.com/sensory-sciences/)** | **[Front-End Engineer - Skillbridge Internship](https://jobright.ai/jobs/info/69425c1950bbaf76505452b7?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
