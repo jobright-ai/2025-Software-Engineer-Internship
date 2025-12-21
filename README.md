@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Key West Travel & Tours](http://keywesttravelandtours.com)** | **[Full Stack Developer Intern](https://jobright.ai/jobs/info/6947274363141d188456d8f5?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Dec 20 |
+| **[FiPet](https://www.linkedin.com/company/107127420)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/694722a7d1953b5d11c0422c?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Dec 20 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Software Engineer](https://jobright.ai/jobs/info/6947027663141d188456b2bc?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO | On Site | Dec 20 |
 | **[Capital One](http://www.capitalone.com)** | **[Intern, Mobile Software Engineer - Summer 2026](https://jobright.ai/jobs/info/6946ee8563141d188456a4c9?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 20 |
 | ↳ | **[Intern, Backend Software Engineer - Summer 2026](https://jobright.ai/jobs/info/6946eb02d1953b5d11c01090?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer Intern - Enterprise Architecture](https://jobright.ai/jobs/info/69458d25d1953b5d11be8ade?utm_campaign=1079&utm_source=git)** | Leawood, KS | Hybrid | Dec 19 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Software Engineer, Autonomous Robot (Masters Degree)](https://jobright.ai/jobs/info/694588a2d1953b5d11be8713?utm_campaign=1079&utm_source=git)** | Warren, Michigan, United States of America | Hybrid | Dec 19 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2026 Front End Engineering Intern](https://jobright.ai/jobs/info/694585a09516540735379fc4?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Dec 19 |
-| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Enterprise Architecture, Technology & Engineering Fellow](https://jobright.ai/jobs/info/69152c66286ccf0a1512bf41?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Dec 19 |
-| **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Software Engineer, ADAS Core Software Team](https://jobright.ai/jobs/info/69458486d1953b5d11be83f6?utm_campaign=1079&utm_source=git)** | Warren, Michigan, United States of America | Hybrid | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
