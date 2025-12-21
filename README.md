@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Token Metrics](http://tokenmetrics.com)** | **[Web3 Full Stack Developer Intern (Global)](https://jobright.ai/jobs/info/68eff3ddde50091dbfa510f2?utm_campaign=1079&utm_source=git)** | Austin, TX | Remote | Dec 20 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Development Engineer in Test Intern (TikTok-PGC)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69478114d1953b5d11c0912d?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 20 |
 | ↳ | **[Software Engineer Intern (Trust and Safety -Engineer-AI Safety)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69478094d1953b5d11c090c1?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 20 |
 | **[Geotab](http://www.geotab.com/)** | **[Software Developer Intern, Infrastructure (Summer/May 2026, 8-12 months)](https://jobright.ai/jobs/info/69448af094730b739877c402?utm_campaign=1079&utm_source=git)** | Oakville, Ontario - Canada | On Site | Dec 20 |
-| **[GenPark](https://genpark.ai)** | **[Project Growth Intern](https://jobright.ai/jobs/info/6947657063141d1884570e8a?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Dec 20 |
 | **[Riot Games](http://www.riotgames.com)** | **[Research Scientist Intern, Next-Gen Gameplay - Summer 2026 (Remote)](https://jobright.ai/jobs/info/6908f83abcccf20de59d570f?utm_campaign=1079&utm_source=git)** | Los Angeles, USA | Remote | Dec 20 |
 | **[Key West Travel & Tours](http://keywesttravelandtours.com)** | **[Full Stack Developer Intern](https://jobright.ai/jobs/info/6947274363141d188456d8f5?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Dec 20 |
 | **[FiPet](https://www.linkedin.com/company/107127420)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/694722a7d1953b5d11c0422c?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Dec 20 |
@@ -132,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[Rocket Loans](http://www.rocketloans.com/)** | **[Quality Assurance Specialist Intern - Summer 2026](https://jobright.ai/jobs/info/6945c864951654073537e562?utm_campaign=1079&utm_source=git)** | Detroit, MI | On Site | Dec 19 |
 | **[Capital One](http://www.capitalone.com)** | **[Intern, Backend Software Engineer - Summer 2026](https://jobright.ai/jobs/info/6945c697d1953b5d11bec6ae?utm_campaign=1079&utm_source=git)** | Toronto, ON | Hybrid | Dec 19 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Software Engineer, Autonomous Robot (PhD)](https://jobright.ai/jobs/info/6946c4d163141d1884567b1c?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | Hybrid | Dec 19 |
-| ↳ | **[2026 Summer Intern – Software Engineer, Autonomous Robot (PhD)](https://jobright.ai/jobs/info/6946c4f7d1953b5d11bfe978?utm_campaign=1079&utm_source=git)** | Mountain View, CA | Hybrid | Dec 19 |
 | ↳ | **[2026 Summer Intern – Software Engineer, ADAS Core Software Team](https://jobright.ai/jobs/info/6946c4da63141d1884567b27?utm_campaign=1079&utm_source=git)** | Milford, MI | Hybrid | Dec 19 |
+| ↳ | **[2026 Summer Intern – Software Engineer, Autonomous Robot (PhD)](https://jobright.ai/jobs/info/6946c4f7d1953b5d11bfe978?utm_campaign=1079&utm_source=git)** | Mountain View, CA | Hybrid | Dec 19 |
 | ↳ | **[2026 Summer Intern – Software Engineer, Mapping Software Team](https://jobright.ai/jobs/info/6946c4f4d1953b5d11bfe976?utm_campaign=1079&utm_source=git)** | Warren, MI | Hybrid | Dec 19 |
 | ↳ | **[2026 Summer Intern – Software Engineer, ADAS Core Software Team](https://jobright.ai/jobs/info/6946c54d7d506e3808f21f29?utm_campaign=1079&utm_source=git)** | Warren, MI | Hybrid | Dec 19 |
 | ↳ | **[2026 Summer Intern – Software Engineer, Autonomous Robot (Masters Degree)](https://jobright.ai/jobs/info/6946c5407d506e3808f21f11?utm_campaign=1079&utm_source=git)** | Warren, MI | Hybrid | Dec 19 |
