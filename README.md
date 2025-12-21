@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[HaciGroup](hacigroup.org)** | **[Full-Stack / Backend Engineer (Intern / Volunteer) — Remote](https://jobright.ai/jobs/info/69482d8f63141d188457e824?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Dec 21 |
 | **[Flexspring](https://www.flexspring.com)** | **[R&D Software Developer Intern](https://jobright.ai/jobs/info/691dd483748c4e1301ec9139?utm_campaign=1079&utm_source=git)** | Québec, Quebec, Canada | Hybrid | Dec 21 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Digital Engineering)](https://jobright.ai/jobs/info/68bb7bfa8043103d4f228fc7?utm_campaign=1079&utm_source=git)** | Vienna, VA | Hybrid | Dec 21 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Industry Solutions Intern, Austin](https://jobright.ai/jobs/info/690e60edd046ab6061cfcdc2?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Dec 21 |
@@ -119,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[Key West Travel & Tours](http://keywesttravelandtours.com)** | **[Full Stack Developer Intern](https://jobright.ai/jobs/info/6947274363141d188456d8f5?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Dec 20 |
 | **[FiPet](https://www.linkedin.com/company/107127420)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/694722a7d1953b5d11c0422c?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Dec 20 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Software Engineer](https://jobright.ai/jobs/info/6947027663141d188456b2bc?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO | On Site | Dec 20 |
-| **[Princeton Idea Exchange](https://www.chaiwithjai.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6948108b63141d188457c7f5?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Dec 20 |
 | **[Capital One](http://www.capitalone.com)** | **[Intern, Mobile Software Engineer - Summer 2026](https://jobright.ai/jobs/info/6946ee8563141d188456a4c9?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 20 |
 | ↳ | **[Intern, Backend Software Engineer - Summer 2026](https://jobright.ai/jobs/info/6946eb02d1953b5d11c01090?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 20 |
 | ↳ | **[Intern, Full Stack Software Engineer - Summer 2026](https://jobright.ai/jobs/info/6946e6f663141d188456a27e?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 20 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Development Intern](https://jobright.ai/jobs/info/68efbb209821486c423c6ef8?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Dec 20 |
 | ↳ | **[Onshape Software Development(AI) Intern](https://jobright.ai/jobs/info/68f166e8e6870116b1f587fe?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Dec 20 |
 | **[S&P Global](https://www.spglobal.com)** | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68ce2f0cb2a74e1837ee02db?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Dec 20 |
+| **[Epic Games](https://epicgames.com)** | **[Engine Programmer Intern](https://jobright.ai/jobs/info/68f1a070f462172a5a7dab76?utm_campaign=1079&utm_source=git)** | Cary, NC | On Site | Dec 20 |
+| **[Decagon](https://decagon.ai)** | **[Agent Software Engineer - Intern (Summer 2026)](https://jobright.ai/jobs/info/68f717089a65fd3458599acc?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
