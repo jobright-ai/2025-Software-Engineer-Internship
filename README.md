@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Software Development Engineer in Test Intern (TikTok-PGC)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69478114d1953b5d11c0912d?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 20 |
+| ↳ | **[Software Engineer Intern (Trust and Safety -Engineer-AI Safety)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69478094d1953b5d11c090c1?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 20 |
+| **[Geotab](http://www.geotab.com/)** | **[Software Developer Intern, Infrastructure (Summer/May 2026, 8-12 months)](https://jobright.ai/jobs/info/69448af094730b739877c402?utm_campaign=1079&utm_source=git)** | Oakville, Ontario - Canada | On Site | Dec 20 |
 | **[GenPark](https://genpark.ai)** | **[Project Growth Intern](https://jobright.ai/jobs/info/6947657063141d1884570e8a?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Dec 20 |
 | **[Riot Games](http://www.riotgames.com)** | **[Research Scientist Intern, Next-Gen Gameplay - Summer 2026 (Remote)](https://jobright.ai/jobs/info/6908f83abcccf20de59d570f?utm_campaign=1079&utm_source=git)** | Los Angeles, USA | Remote | Dec 20 |
 | **[Key West Travel & Tours](http://keywesttravelandtours.com)** | **[Full Stack Developer Intern](https://jobright.ai/jobs/info/6947274363141d188456d8f5?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Dec 20 |
@@ -104,12 +107,12 @@ For a complete list, click the following sortable link below:
 | **[Teradata](https://www.teradata.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/690d1f1ed046ab6061cf3144?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | Dec 20 |
 | **[Oracle](https://www.oracle.com/)** | **[Associate Software Developer - Rotational Program - NetSuite - Full Time Intern Conversion](https://jobright.ai/jobs/info/6929941efa28370be2694c85?utm_campaign=1079&utm_source=git)** | Kitchener, Ontario, Canada | Hybrid | Dec 20 |
 | **[Panasonic Avionics Corporation](http://www.panasonic.aero)** | **[Intern-IT Business Apps](https://jobright.ai/jobs/info/6946725663141d1884563a40?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Dec 20 |
-| **[Follio](https://www.follio.net/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/694662477d506e3808f1bd05?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 20 |
 | **[ASML](https://www.asml.com)** | **[Internship - Algorithm Engineering Intern](https://jobright.ai/jobs/info/69464a2063141d18845600f4?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Dec 19 |
 | ↳ | **[Internship - Software Engineering](https://jobright.ai/jobs/info/694643f5d1953b5d11bf6c3d?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 19 |
 | ↳ | **[Internship - Frontend Developer](https://jobright.ai/jobs/info/694641b4d1953b5d11bf6bc9?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Dec 19 |
 | **[Panasonic Avionics Corporation](http://www.panasonic.aero)** | **[Intern-Software Engineering](https://jobright.ai/jobs/info/6946219c63141d188455ce71?utm_campaign=1079&utm_source=git)** | Beaverton, OR | On Site | Dec 19 |
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer Service Integration Internship](https://jobright.ai/jobs/info/69326089a0dde7020e2e64d2?utm_campaign=1079&utm_source=git)** | California, United States | Hybrid | Dec 19 |
+| **[Cadence](https://www.cadence.com)** | **[Software R&D Intern, Summer](https://jobright.ai/jobs/info/694771e6d1953b5d11c08456?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Dec 19 |
 | **[Bastian Solutions](https://www.bastiansolutions.com/)** | **[Software Developer Co-op](https://jobright.ai/jobs/info/694617e77d506e3808f16c8c?utm_campaign=1079&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Dec 19 |
 | **[Ancestry](http://ancestry.com)** | **[Software Engineer – Observability, Co-op](https://jobright.ai/jobs/info/694603ed63141d188455adac?utm_campaign=1079&utm_source=git)** | Lehi, UT | Remote | Dec 19 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Full Stack Software Engineer Intern - Summer 2026 Internship](https://jobright.ai/jobs/info/6945ff927d506e3808f1497f?utm_campaign=1079&utm_source=git)** | Waltham, MA | Hybrid | Dec 19 |
@@ -129,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[Rocket Loans](http://www.rocketloans.com/)** | **[Quality Assurance Specialist Intern - Summer 2026](https://jobright.ai/jobs/info/6945c864951654073537e562?utm_campaign=1079&utm_source=git)** | Detroit, MI | On Site | Dec 19 |
 | **[Capital One](http://www.capitalone.com)** | **[Intern, Backend Software Engineer - Summer 2026](https://jobright.ai/jobs/info/6945c697d1953b5d11bec6ae?utm_campaign=1079&utm_source=git)** | Toronto, ON | Hybrid | Dec 19 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Software Engineer, Autonomous Robot (PhD)](https://jobright.ai/jobs/info/6946c4d163141d1884567b1c?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | Hybrid | Dec 19 |
-| ↳ | **[2026 Summer Intern – Software Engineer, ADAS Core Software Team](https://jobright.ai/jobs/info/6946c4da63141d1884567b27?utm_campaign=1079&utm_source=git)** | Milford, MI | Hybrid | Dec 19 |
 | ↳ | **[2026 Summer Intern – Software Engineer, Autonomous Robot (PhD)](https://jobright.ai/jobs/info/6946c4f7d1953b5d11bfe978?utm_campaign=1079&utm_source=git)** | Mountain View, CA | Hybrid | Dec 19 |
+| ↳ | **[2026 Summer Intern – Software Engineer, ADAS Core Software Team](https://jobright.ai/jobs/info/6946c4da63141d1884567b27?utm_campaign=1079&utm_source=git)** | Milford, MI | Hybrid | Dec 19 |
 | ↳ | **[2026 Summer Intern – Software Engineer, Mapping Software Team](https://jobright.ai/jobs/info/6946c4f4d1953b5d11bfe976?utm_campaign=1079&utm_source=git)** | Warren, MI | Hybrid | Dec 19 |
 | ↳ | **[2026 Summer Intern – Software Engineer, ADAS Core Software Team](https://jobright.ai/jobs/info/6946c54d7d506e3808f21f29?utm_campaign=1079&utm_source=git)** | Warren, MI | Hybrid | Dec 19 |
 | ↳ | **[2026 Summer Intern – Software Engineer, Autonomous Robot (Masters Degree)](https://jobright.ai/jobs/info/6946c5407d506e3808f21f11?utm_campaign=1079&utm_source=git)** | Warren, MI | Hybrid | Dec 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nokia](http://www.nokia.com)** | **[Full-stack & AI/Automation Intern/Coop](https://jobright.ai/jobs/info/6945c957d1953b5d11bec874?utm_campaign=1079&utm_source=git)** | 555 Legget Drive, Ottawa, Ontario, K2K 2X3, CA | On Site | Dec 19 |
 | **[H.W. Kaufman Group](https://www.hwkaufman.com/)** | **[Digital Transformation Intern](https://jobright.ai/jobs/info/68f7e715b0edcf159dc8b908?utm_campaign=1079&utm_source=git)** | Farmington Hills, MI | Hybrid | Dec 19 |
 | **[Metropolitan Utilities District](https://mudomaha.com)** | **[Intern-Information Technology](https://jobright.ai/jobs/info/69459181d1953b5d11be8e1b?utm_campaign=1079&utm_source=git)** | Omaha, NE | On Site | Dec 19 |
-| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Enterprise Asset Management (EAM), Emerging Talent Intern (Spring)](https://jobright.ai/jobs/info/69127b1bc98948514c47c1e8?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Dec 19 |
-| ↳ | **[Enterprise Strategy, Technology & Engineering Fellow](https://jobright.ai/jobs/info/691523129c388539cbdf0d52?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Dec 19 |
-| **[Ascend Learning](http://www.ascendlearning.com)** | **[Software Engineer Intern-SRE](https://jobright.ai/jobs/info/69458db4951654073537a6bc?utm_campaign=1079&utm_source=git)** | Leawood, KS | Hybrid | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
