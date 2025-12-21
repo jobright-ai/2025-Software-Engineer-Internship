@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GenPark](https://genpark.ai)** | **[Full Stack Engineer Intern](https://jobright.ai/jobs/info/69474554d1953b5d11c0690c?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Dec 20 |
-| ↳ | **[Frontend Intern](https://jobright.ai/jobs/info/694744f67d506e3808f29b40?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Dec 20 |
+| **[GenPark](https://genpark.ai)** | **[Project Growth Intern](https://jobright.ai/jobs/info/6947657063141d1884570e8a?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Dec 20 |
+| **[Riot Games](http://www.riotgames.com)** | **[Research Scientist Intern, Next-Gen Gameplay - Summer 2026 (Remote)](https://jobright.ai/jobs/info/6908f83abcccf20de59d570f?utm_campaign=1079&utm_source=git)** | Los Angeles, USA | Remote | Dec 20 |
 | **[Key West Travel & Tours](http://keywesttravelandtours.com)** | **[Full Stack Developer Intern](https://jobright.ai/jobs/info/6947274363141d188456d8f5?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Dec 20 |
 | **[FiPet](https://www.linkedin.com/company/107127420)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/694722a7d1953b5d11c0422c?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Dec 20 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Software Engineer](https://jobright.ai/jobs/info/6947027663141d188456b2bc?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO | On Site | Dec 20 |
@@ -113,6 +113,7 @@ For a complete list, click the following sortable link below:
 | **[Bastian Solutions](https://www.bastiansolutions.com/)** | **[Software Developer Co-op](https://jobright.ai/jobs/info/694617e77d506e3808f16c8c?utm_campaign=1079&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Dec 19 |
 | **[Ancestry](http://ancestry.com)** | **[Software Engineer – Observability, Co-op](https://jobright.ai/jobs/info/694603ed63141d188455adac?utm_campaign=1079&utm_source=git)** | Lehi, UT | Remote | Dec 19 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Full Stack Software Engineer Intern - Summer 2026 Internship](https://jobright.ai/jobs/info/6945ff927d506e3808f1497f?utm_campaign=1079&utm_source=git)** | Waltham, MA | Hybrid | Dec 19 |
+| **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - Flutter Mobile App Development](https://jobright.ai/jobs/info/69433c98dd382f5f566935e7?utm_campaign=1079&utm_source=git)** | Lincolnshire, IL | On Site | Dec 19 |
 | **[Samsung Research America (SRA)](http://www.sra.samsung.com/)** | **[2026 Intern, Computational Designer (Summer)](https://jobright.ai/jobs/info/6945fb187d506e3808f13f88?utm_campaign=1079&utm_source=git)** | 735 Battery Street, San Francisco, CA, USA | On Site | Dec 19 |
 | **[Arthrex](https://www.arthrex.com/)** | **[3D Application Developer Intern](https://jobright.ai/jobs/info/6945f86f7d506e3808f13929?utm_campaign=1079&utm_source=git)** | Naples, FL | On Site | Dec 19 |
 | **[Samsung Research America (SRA)](http://www.sra.samsung.com/)** | **[2026 Intern, Computational Designer, 3D Specialist (Summer)](https://jobright.ai/jobs/info/6945f84663141d18845591f3?utm_campaign=1079&utm_source=git)** | 735 Battery Street, San Francisco, CA, USA | On Site | Dec 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Enterprise Asset Management (EAM), Emerging Talent Intern (Spring)](https://jobright.ai/jobs/info/69127b1bc98948514c47c1e8?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Dec 19 |
 | ↳ | **[Enterprise Strategy, Technology & Engineering Fellow](https://jobright.ai/jobs/info/691523129c388539cbdf0d52?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Dec 19 |
 | **[Ascend Learning](http://www.ascendlearning.com)** | **[Software Engineer Intern-SRE](https://jobright.ai/jobs/info/69458db4951654073537a6bc?utm_campaign=1079&utm_source=git)** | Leawood, KS | Hybrid | Dec 19 |
-| ↳ | **[Software Engineer Intern - Enterprise Architecture](https://jobright.ai/jobs/info/69458d25d1953b5d11be8ade?utm_campaign=1079&utm_source=git)** | Leawood, KS | Hybrid | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
