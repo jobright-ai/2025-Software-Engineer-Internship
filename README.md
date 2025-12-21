@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark](https://genpark.ai)** | **[Full Stack Engineer Intern](https://jobright.ai/jobs/info/69474554d1953b5d11c0690c?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Dec 20 |
+| ↳ | **[Frontend Intern](https://jobright.ai/jobs/info/694744f67d506e3808f29b40?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Dec 20 |
 | **[Key West Travel & Tours](http://keywesttravelandtours.com)** | **[Full Stack Developer Intern](https://jobright.ai/jobs/info/6947274363141d188456d8f5?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Dec 20 |
 | **[FiPet](https://www.linkedin.com/company/107127420)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/694722a7d1953b5d11c0422c?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Dec 20 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Software Engineer](https://jobright.ai/jobs/info/6947027663141d188456b2bc?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO | On Site | Dec 20 |
@@ -126,8 +128,8 @@ For a complete list, click the following sortable link below:
 | **[Rocket Loans](http://www.rocketloans.com/)** | **[Quality Assurance Specialist Intern - Summer 2026](https://jobright.ai/jobs/info/6945c864951654073537e562?utm_campaign=1079&utm_source=git)** | Detroit, MI | On Site | Dec 19 |
 | **[Capital One](http://www.capitalone.com)** | **[Intern, Backend Software Engineer - Summer 2026](https://jobright.ai/jobs/info/6945c697d1953b5d11bec6ae?utm_campaign=1079&utm_source=git)** | Toronto, ON | Hybrid | Dec 19 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Software Engineer, Autonomous Robot (PhD)](https://jobright.ai/jobs/info/6946c4d163141d1884567b1c?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | Hybrid | Dec 19 |
-| ↳ | **[2026 Summer Intern – Software Engineer, Autonomous Robot (PhD)](https://jobright.ai/jobs/info/6946c4f7d1953b5d11bfe978?utm_campaign=1079&utm_source=git)** | Mountain View, CA | Hybrid | Dec 19 |
 | ↳ | **[2026 Summer Intern – Software Engineer, ADAS Core Software Team](https://jobright.ai/jobs/info/6946c4da63141d1884567b27?utm_campaign=1079&utm_source=git)** | Milford, MI | Hybrid | Dec 19 |
+| ↳ | **[2026 Summer Intern – Software Engineer, Autonomous Robot (PhD)](https://jobright.ai/jobs/info/6946c4f7d1953b5d11bfe978?utm_campaign=1079&utm_source=git)** | Mountain View, CA | Hybrid | Dec 19 |
 | ↳ | **[2026 Summer Intern – Software Engineer, Mapping Software Team](https://jobright.ai/jobs/info/6946c4f4d1953b5d11bfe976?utm_campaign=1079&utm_source=git)** | Warren, MI | Hybrid | Dec 19 |
 | ↳ | **[2026 Summer Intern – Software Engineer, ADAS Core Software Team](https://jobright.ai/jobs/info/6946c54d7d506e3808f21f29?utm_campaign=1079&utm_source=git)** | Warren, MI | Hybrid | Dec 19 |
 | ↳ | **[2026 Summer Intern – Software Engineer, Autonomous Robot (Masters Degree)](https://jobright.ai/jobs/info/6946c5407d506e3808f21f11?utm_campaign=1079&utm_source=git)** | Warren, MI | Hybrid | Dec 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Enterprise Strategy, Technology & Engineering Fellow](https://jobright.ai/jobs/info/691523129c388539cbdf0d52?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Dec 19 |
 | **[Ascend Learning](http://www.ascendlearning.com)** | **[Software Engineer Intern-SRE](https://jobright.ai/jobs/info/69458db4951654073537a6bc?utm_campaign=1079&utm_source=git)** | Leawood, KS | Hybrid | Dec 19 |
 | ↳ | **[Software Engineer Intern - Enterprise Architecture](https://jobright.ai/jobs/info/69458d25d1953b5d11be8ade?utm_campaign=1079&utm_source=git)** | Leawood, KS | Hybrid | Dec 19 |
-| **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Software Engineer, Autonomous Robot (Masters Degree)](https://jobright.ai/jobs/info/694588a2d1953b5d11be8713?utm_campaign=1079&utm_source=git)** | Warren, Michigan, United States of America | Hybrid | Dec 19 |
-| **[Intuit](https://www.intuit.com)** | **[Summer 2026 Front End Engineering Intern](https://jobright.ai/jobs/info/694585a09516540735379fc4?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
