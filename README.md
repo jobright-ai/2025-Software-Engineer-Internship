@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark](https://genpark.ai)** | **[Software Developer Intern](https://jobright.ai/jobs/info/6947b6d163141d188457705f?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Dec 21 |
+| ↳ | **[Front End Developer Intern](https://jobright.ai/jobs/info/6947b1b4d1953b5d11c0cf96?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Dec 21 |
 | **[Token Metrics](http://tokenmetrics.com)** | **[Web3 Full Stack Developer Intern (Global)](https://jobright.ai/jobs/info/68eff3ddde50091dbfa510f2?utm_campaign=1079&utm_source=git)** | Austin, TX | Remote | Dec 20 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Development Engineer in Test Intern (TikTok-PGC)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69478114d1953b5d11c0912d?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 20 |
 | ↳ | **[Software Engineer Intern (Trust and Safety -Engineer-AI Safety)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69478094d1953b5d11c090c1?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Geotab](http://www.geotab.com/)** | **[Embedded Developer Intern, Pipeline Automation (Summer/May 2026, 12 - 16 Months)](https://jobright.ai/jobs/info/6945a88b951654073537c343?utm_campaign=1079&utm_source=git)** | Oakville, Ontario - Canada | On Site | Dec 19 |
 | **[ASML](https://www.asml.com)** | **[Internship - Software Development Engineer in Test](https://jobright.ai/jobs/info/6945a0e3951654073537bcb2?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 19 |
 | **[Nokia](http://www.nokia.com)** | **[Full-stack & AI/Automation Intern/Coop](https://jobright.ai/jobs/info/6945c957d1953b5d11bec874?utm_campaign=1079&utm_source=git)** | 555 Legget Drive, Ottawa, Ontario, K2K 2X3, CA | On Site | Dec 19 |
-| **[H.W. Kaufman Group](https://www.hwkaufman.com/)** | **[Digital Transformation Intern](https://jobright.ai/jobs/info/68f7e715b0edcf159dc8b908?utm_campaign=1079&utm_source=git)** | Farmington Hills, MI | Hybrid | Dec 19 |
-| **[Metropolitan Utilities District](https://mudomaha.com)** | **[Intern-Information Technology](https://jobright.ai/jobs/info/69459181d1953b5d11be8e1b?utm_campaign=1079&utm_source=git)** | Omaha, NE | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
