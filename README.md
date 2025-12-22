@@ -57,8 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GenPark](https://genpark.ai)** | **[Front End Developer](https://jobright.ai/jobs/info/6948d36fd1953b5d11c1e98b?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Dec 21 |
-| **[Verbi AI](https://www.verbiai.com)** | **[Google Cloud Engineer Internship Program](https://jobright.ai/jobs/info/6948c7ef7d506e3808f3f740?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 21 |
+| **[Career Launch Recruitment Solutions](https://www.linkedin.com/company/104165626)** | **[Software Development Intern - Summer 2026](https://jobright.ai/jobs/info/6948f1787d506e3808f42ab2?utm_campaign=1079&utm_source=git)** | Madison, WI | On Site | Dec 21 |
 | **[Deepiri](https://deepiri.com)** | **[Frontend Engineer Intern](https://jobright.ai/jobs/info/6948a1d863141d1884584991?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 21 |
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/69210a2900c9ee50eaecb099?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 21 |
 | **[Flexspring](https://www.flexspring.com)** | **[R&D Software Developer Intern](https://jobright.ai/jobs/info/691dd483748c4e1301ec9139?utm_campaign=1079&utm_source=git)** | Québec, Quebec, Canada | Hybrid | Dec 21 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Neuralink](https://www.neuralink.com)** | **[Embedded Software Engineer Intern, Implant Embedded Systems](https://jobright.ai/jobs/info/68d5f0051f7fb2169ab14c97?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Dec 20 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[Onshape SysOps Intern](https://jobright.ai/jobs/info/68f061719e09d311e0431235?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Dec 20 |
 | ↳ | **[Onshape Software Development Intern](https://jobright.ai/jobs/info/68f16497ef766b3f0fd0d2ad?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Dec 20 |
+| ↳ | **[Software Development Intern](https://jobright.ai/jobs/info/68efbb209821486c423c6ef8?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
