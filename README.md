@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Deepiri](https://deepiri.com)** | **[Frontend Engineer Intern](https://jobright.ai/jobs/info/6948a1d863141d1884584991?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 21 |
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/69210a2900c9ee50eaecb099?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 21 |
 | **[Flexspring](https://www.flexspring.com)** | **[R&D Software Developer Intern](https://jobright.ai/jobs/info/691dd483748c4e1301ec9139?utm_campaign=1079&utm_source=git)** | Québec, Quebec, Canada | Hybrid | Dec 21 |
 | **[ABB](https://global.abb/group/en)** | **[Software Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/69127894c98948514c47c06f?utm_campaign=1079&utm_source=git)** | Cary, NC | On Site | Dec 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Onshape Software Development Intern](https://jobright.ai/jobs/info/68f16497ef766b3f0fd0d2ad?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Dec 20 |
 | ↳ | **[Software Development Intern](https://jobright.ai/jobs/info/68efbb209821486c423c6ef8?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Dec 20 |
 | ↳ | **[Onshape Software Development(AI) Intern](https://jobright.ai/jobs/info/68f166e8e6870116b1f587fe?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Dec 20 |
-| **[S&P Global](https://www.spglobal.com)** | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68ce2f0cb2a74e1837ee02db?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
