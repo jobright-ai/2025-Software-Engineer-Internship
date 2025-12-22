@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark](https://genpark.ai)** | **[Front End Developer](https://jobright.ai/jobs/info/6948d36fd1953b5d11c1e98b?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Dec 21 |
+| **[Verbi AI](https://www.verbiai.com)** | **[Google Cloud Engineer Internship Program](https://jobright.ai/jobs/info/6948c7ef7d506e3808f3f740?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 21 |
 | **[Deepiri](https://deepiri.com)** | **[Frontend Engineer Intern](https://jobright.ai/jobs/info/6948a1d863141d1884584991?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 21 |
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/69210a2900c9ee50eaecb099?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 21 |
 | **[Flexspring](https://www.flexspring.com)** | **[R&D Software Developer Intern](https://jobright.ai/jobs/info/691dd483748c4e1301ec9139?utm_campaign=1079&utm_source=git)** | Québec, Quebec, Canada | Hybrid | Dec 21 |
@@ -72,7 +74,8 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Software Developer Internship - Summer 2026](https://jobright.ai/jobs/info/68f12a01ef766b3f0fd09378?utm_campaign=1079&utm_source=git)** | Kenosha, WI | On Site | Dec 21 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Cloud Applications Development Intern](https://jobright.ai/jobs/info/68fda4c70ab3b222462a3c7f?utm_campaign=1079&utm_source=git)** | Niles, IL | Hybrid | Dec 21 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Enterprise Platform Engineering Services Center of Excellence)](https://jobright.ai/jobs/info/691d72870b7dff73415037d6?utm_campaign=1079&utm_source=git)** | Vienna, VA | Hybrid | Dec 21 |
-| **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Software Development Intern (Messaging)  - Summer 2026](https://jobright.ai/jobs/info/690e7d77d046ab6061cfe2d3?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Dec 21 |
+| **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Software Development Intern (Identity) - Summer 2026](https://jobright.ai/jobs/info/690e69a444146d3b6ec53ec9?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Dec 21 |
+| ↳ | **[Software Development Intern (Messaging)  - Summer 2026](https://jobright.ai/jobs/info/690e7d77d046ab6061cfe2d3?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Dec 21 |
 | **[Moloco](http://www.moloco.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68d714d045853d0e39cccc52?utm_campaign=1079&utm_source=git)** | Redwood City, CA | Hybrid | Dec 21 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Software Development Intern (Voice) - Summer 2026](https://jobright.ai/jobs/info/690e634b44146d3b6ec5391a?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Dec 21 |
 | ↳ | **[Software Development Intern (Emergency Services) - Summer 2026](https://jobright.ai/jobs/info/690e798b44146d3b6ec54ad5?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Dec 21 |
@@ -106,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[Qualcomm](http://www.qualcomm.com)** | **[Embedded Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/69475f65d1953b5d11c077cb?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Dec 21 |
 | ↳ | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/690f07b4d046ab6061d02e6e?utm_campaign=1079&utm_source=git)** | Boxborough, MA | On Site | Dec 21 |
 | ↳ | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68f2fd499a63986de756db4a?utm_campaign=1079&utm_source=git)** | Louisville, KY | On Site | Dec 21 |
-| **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Software Development Intern (Identity) - Summer 2026](https://jobright.ai/jobs/info/690e894bd046ab6061cfea51?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Dec 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Research Engineer Intern (Ads ML Infra) - 2026 Start (PhD)](https://jobright.ai/jobs/info/68f18114ef766b3f0fd0ed4f?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 21 |
 | **[Oracle](https://www.oracle.com/)** | **[Advanced Degree Software Engineer Intern - Fusion](https://jobright.ai/jobs/info/692175dbd1ec2c3565c44517?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 21 |
 | **[ByteDance](http://bytedance.com)** | **[Software Engineer Intern (Payment Network) - Global Payment - 2026 Summer(BS/MS)](https://jobright.ai/jobs/info/692ae0394c474121999ccd06?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Dec 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Neuralink](https://www.neuralink.com)** | **[Embedded Software Engineer Intern, Implant Embedded Systems](https://jobright.ai/jobs/info/68d5f0051f7fb2169ab14c97?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Dec 20 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[Onshape SysOps Intern](https://jobright.ai/jobs/info/68f061719e09d311e0431235?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Dec 20 |
 | ↳ | **[Onshape Software Development Intern](https://jobright.ai/jobs/info/68f16497ef766b3f0fd0d2ad?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Dec 20 |
-| ↳ | **[Software Development Intern](https://jobright.ai/jobs/info/68efbb209821486c423c6ef8?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Dec 20 |
-| ↳ | **[Onshape Software Development(AI) Intern](https://jobright.ai/jobs/info/68f166e8e6870116b1f587fe?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
