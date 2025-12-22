@@ -57,7 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GenPark](https://genpark.ai)** | **[Back End Developer](https://jobright.ai/jobs/info/69490db9d1953b5d11c21c09?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Dec 22 |
+| **[Qualcomm](http://www.qualcomm.com)** | **[IT Infrastructure & Cloud Engineering Internship – Summer 2026](https://jobright.ai/jobs/info/68f300089a65fd3458582a99?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Dec 22 |
+| ↳ | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68f2fb959a63986de756da0e?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Dec 22 |
+| ↳ | **[Information Technology (IT) Internship – Summer 2026](https://jobright.ai/jobs/info/68f2fbd49a63986de756da36?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Dec 22 |
+| ↳ | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68f2fe2476a51a4307bc9c88?utm_campaign=1079&utm_source=git)** | Bridgewater, NJ | On Site | Dec 22 |
+| ↳ | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68fb39ad9e8e925ac6c89ddc?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Dec 22 |
+| ↳ | **[Multimedia Engineering Internship – Summer 2026](https://jobright.ai/jobs/info/69461e10d1953b5d11bf38a9?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Dec 22 |
+| **[Zoox](https://www.zoox.com/)** | **[Firmware & C++ Development Intern](https://jobright.ai/jobs/info/690ff324bb519377733e9fa6?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | Dec 22 |
+| **[Oracle](https://www.oracle.com/)** | **[Advanced Degree Software Engineer Intern - Fusion](https://jobright.ai/jobs/info/68f80461ec6dbe7073fd04ad?utm_campaign=1079&utm_source=git)** | Pleasanton, CA | On Site | Dec 22 |
+| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Software Engineer](https://jobright.ai/jobs/info/68cd2d3de23def7af55b68fd?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 22 |
 | **[Clarity](https://clarityapp.io)** | **[Internship - Software Engineering Intern](https://jobright.ai/jobs/info/687674c0ae2f413e4a5afd36?utm_campaign=1079&utm_source=git)** | Herndon, VA | On Site | Dec 22 |
 | **[Career Launch Recruitment Solutions](https://www.linkedin.com/company/104165626)** | **[Software Development Intern - Summer 2026](https://jobright.ai/jobs/info/6948f1787d506e3808f42ab2?utm_campaign=1079&utm_source=git)** | Madison, WI | On Site | Dec 21 |
 | **[Deepiri](https://deepiri.com)** | **[Frontend Engineer Intern](https://jobright.ai/jobs/info/6948a1d863141d1884584991?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 21 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern/Co-op - Information Technology (Summer 2026)](https://jobright.ai/jobs/info/690d40174a1b456627b1fba5?utm_campaign=1079&utm_source=git)** | Garyville, LA | On Site | Dec 20 |
 | ↳ | **[Intern/Co-op - Information Technology (Summer 2026)](https://jobright.ai/jobs/info/690d1bee221b890c27803577?utm_campaign=1079&utm_source=git)** | Anacortes, WA | On Site | Dec 20 |
 | **[OnePay](https://www.onepay.com)** | **[Software Engineer, Intern](https://jobright.ai/jobs/info/68d5b28663d77d6f6f3f1999?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 20 |
-| **[Whatnot](https://www.whatnot.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/6929b0ad4c474121999ca0fe?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Dec 20 |
-| ↳ | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/6929a3fcfa28370be2694e8c?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Dec 20 |
-| **[Copart](http://www.copart.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/690dc847d046ab6061cf90ed?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Dec 20 |
-| **[Randa Apparel & Accessories](http://www.randa.net)** | **[Software Engineer Internship - Summer 2026](https://jobright.ai/jobs/info/68fd06530ab3b222462a0c7a?utm_campaign=1079&utm_source=git)** | Rosemont, IL | On Site | Dec 20 |
-| **[Epic Games](https://epicgames.com)** | **[Engine Programmer Intern](https://jobright.ai/jobs/info/6916f5126f36db06ef05b815?utm_campaign=1079&utm_source=git)** | Greater Montreal Metropolitan Area | On Site | Dec 20 |
-| **[Atlassian](https://www.atlassian.com)** | **[Software Engineer Intern, 2026 Summer Canada](https://jobright.ai/jobs/info/691e7ae13f782d2f1afb514f?utm_campaign=1079&utm_source=git)** | Canada | Remote | Dec 20 |
-| **[Neuralink](https://www.neuralink.com)** | **[Embedded Software Engineer Intern, Implant Embedded Systems](https://jobright.ai/jobs/info/68d5f0051f7fb2169ab14c97?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Dec 20 |
-| **[PTC](http://ptc.co/VLED30oHtEh)** | **[Onshape SysOps Intern](https://jobright.ai/jobs/info/68f061719e09d311e0431235?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
