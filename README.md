@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cresta](https://www.cresta.com)** | **[AI Quality Assurance Intern](https://jobright.ai/jobs/info/694c5b23d64ebf28d821fe3e?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 24 |
+| **[Clarity](https://clarityapp.io)** | **[Internship - Software Engineering Intern](https://jobright.ai/jobs/info/687674c0ae2f413e4a5afd36?utm_campaign=1079&utm_source=git)** | Herndon, VA | Remote | Dec 24 |
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/69210a2900c9ee50eaecb099?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 24 |
 | **[Cresta](https://www.cresta.com)** | **[AI Quality Assurance Intern](https://jobright.ai/jobs/info/694c37cc5d7312113470a8d1?utm_campaign=1079&utm_source=git)** | Toronto, Ontario | On Site | Dec 24 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Integration/Test Engineer Intern D (Melbourne,FL)](https://jobright.ai/jobs/info/694c30cfd64ebf28d821d219?utm_campaign=1079&utm_source=git)** | Melbourne, FL | On Site | Dec 24 |
@@ -116,10 +118,10 @@ For a complete list, click the following sortable link below:
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Intern Software Engineer - R10217175-2](https://jobright.ai/jobs/info/694bb9d7d64ebf28d8216a0e?utm_campaign=1079&utm_source=git)** | El Segundo, CA | On Site | Dec 24 |
 | **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Intern Software Engineer](https://jobright.ai/jobs/info/694bb993d64ebf28d821699a?utm_campaign=1079&utm_source=git)** | United States-California-Redondo Beach | On Site | Dec 24 |
 | **[Riot Games](http://www.riotgames.com)** | **[Research Scientist Intern, Next-Gen Gameplay - Summer 2026 (Remote)](https://jobright.ai/jobs/info/6908f83abcccf20de59d570f?utm_campaign=1079&utm_source=git)** | Los Angeles, USA | Remote | Dec 24 |
-| **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Intern Software Engineer](https://jobright.ai/jobs/info/694bbc315d7312113470411b?utm_campaign=1079&utm_source=git)** | United States-California-Palmdale | On Site | Dec 24 |
-| ↳ | **[2026 Intern Software Engineer](https://jobright.ai/jobs/info/694bbc1f1a572a617dde0e27?utm_campaign=1079&utm_source=git)** | United States-Oklahoma-Oklahoma City | On Site | Dec 24 |
-| ↳ | **[2026 Intern Software Engineer](https://jobright.ai/jobs/info/694bc2dd5d73121134704b4e?utm_campaign=1079&utm_source=git)** | United States-North Dakota-Emerado | On Site | Dec 24 |
+| **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Intern Software Engineer](https://jobright.ai/jobs/info/694bbc1f1a572a617dde0e27?utm_campaign=1079&utm_source=git)** | United States-Oklahoma-Oklahoma City | On Site | Dec 24 |
+| ↳ | **[2026 Intern Software Engineer](https://jobright.ai/jobs/info/694bbc315d7312113470411b?utm_campaign=1079&utm_source=git)** | United States-California-Palmdale | On Site | Dec 24 |
 | ↳ | **[2026 Intern Software Engineer](https://jobright.ai/jobs/info/694bc589d64ebf28d8217f6c?utm_campaign=1079&utm_source=git)** | United States-California-El Segundo | On Site | Dec 24 |
+| ↳ | **[2026 Intern Software Engineer](https://jobright.ai/jobs/info/694bc2dd5d73121134704b4e?utm_campaign=1079&utm_source=git)** | United States-North Dakota-Emerado | On Site | Dec 24 |
 | **[ABB](https://global.abb/group/en)** | **[Full Stack Developer Intern- Summer 2026](https://jobright.ai/jobs/info/6931095bef4b48533d151c4c?utm_campaign=1079&utm_source=git)** | Cary, NC | Hybrid | Dec 23 |
 | **[Precision Drilling](http://www.precisiondrilling.com/)** | **[SAP Development - Intern](https://jobright.ai/jobs/info/694bb8645d73121134703b16?utm_campaign=1079&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 23 |
 | **[Archer](https://www.archer.com)** | **[iOS Engineer Intern](https://jobright.ai/jobs/info/694ba0ec5d731211347030d5?utm_campaign=1079&utm_source=git)** | San Jose, California, United States | On Site | Dec 23 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | **[IEEE](http://www.ieee.org)** | **[Summer Internship - IT Operations & Cloud Engineering](https://jobright.ai/jobs/info/694b164e1224705e90023277?utm_campaign=1079&utm_source=git)** | Piscataway, NJ | On Site | Dec 23 |
 | **[Geotab](http://www.geotab.com/)** | **[Embedded Developer Intern, Test Automation (Summer/May 2026, 12-16 Months)](https://jobright.ai/jobs/info/694af0bc1224705e90020a55?utm_campaign=1079&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | Dec 23 |
 | **[Capital One](http://www.capitalone.com)** | **[Intern, Full Stack Software Engineer - Summer 2026](https://jobright.ai/jobs/info/694aee8d67a69734cac6051a?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 23 |
-| **[NT Concepts](http://www.ntconcepts.com/)** | **[Software Engineer Summer Intern](https://jobright.ai/jobs/info/694adf643019f50a4fe5f41b?utm_campaign=1079&utm_source=git)** | Vienna, VA | On Site | Dec 23 |
 | **[Medido Health](https://www.medidohealth.com)** | **[Software Engineering Intern – Platform, Integrations & Automation](https://jobright.ai/jobs/info/694b01683019f50a4fe608bd?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 23 |
 | **[NISC](http://www.nisc.coop/)** | **[Intern - Software Development](https://jobright.ai/jobs/info/694ad4783019f50a4fe5f070?utm_campaign=1079&utm_source=git)** | Bismarck, ND | Hybrid | Dec 23 |
-| **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Software Engineer Intern (Engineering Intern 3) - 25216](https://jobright.ai/jobs/info/694af3f11224705e90020cd7?utm_campaign=1079&utm_source=git)** | Hanover, MD | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
