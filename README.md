@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mercury Systems](http://www.mrcy.com)** | **[Test Engineering Intern](https://jobright.ai/jobs/info/694b6e771a572a617dddc360?utm_campaign=1079&utm_source=git)** | Torrance, CA | On Site | Dec 23 |
 | **[Ripple](http://ripple.com)** | **[C++ Software Engineer Intern, RippleX Core Ledger (Summer 2026)](https://jobright.ai/jobs/info/6942f369dd382f5f5668e74c?utm_campaign=1079&utm_source=git)** | Toronto, Canada | Hybrid | Dec 23 |
 | **[Radix Trading LLC](https://radix.trade)** | **[Quantitative Technologist (C++ Intern - Summer 2026)](https://jobright.ai/jobs/info/6897ea211b9e81727f1a2fd0?utm_campaign=1079&utm_source=git)** | Chicago | On Site | Dec 23 |
 | **[Zoox](https://www.zoox.com/)** | **[Enterprise Integration Intern](https://jobright.ai/jobs/info/694b5834d64ebf28d8210e91?utm_campaign=1079&utm_source=git)** | Foster City, CA | On Site | Dec 23 |
@@ -72,16 +73,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Web Developer – Co-op/Intern](https://jobright.ai/jobs/info/694b16e61224705e90023396?utm_campaign=1079&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | Hybrid | Dec 23 |
 | ↳ | **[Software Designer Co-op/Intern](https://jobright.ai/jobs/info/694b109a3019f50a4fe61b2b?utm_campaign=1079&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | Hybrid | Dec 23 |
 | ↳ | **[Software Developer Co-op/Intern](https://jobright.ai/jobs/info/694b10663019f50a4fe61a84?utm_campaign=1079&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Dec 23 |
-| **[Until](https://www.untillabs.com)** | **[Embedded Software Intern (Winter 2026)](https://jobright.ai/jobs/info/694b0e604b53a1551f94beb9?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Dec 23 |
 | **[Zoox](https://www.zoox.com/)** | **[Embedded Software Development Intern](https://jobright.ai/jobs/info/694b0a3c67a69734cac61a44?utm_campaign=1079&utm_source=git)** | Foster City, CA | On Site | Dec 23 |
-| **[Delinea](https://delinea.com)** | **[Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/694b08b13019f50a4fe60f41?utm_campaign=1079&utm_source=git)** | Lehi, UT | On Site | Dec 23 |
 | **[Lanteris Space Systems](https://www.lanterisspace.com)** | **[Intern, Software Engineer](https://jobright.ai/jobs/info/694b07743019f50a4fe60e48?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Dec 23 |
 | **[Oil-Dri Corporation of America](http://oildri.com)** | **[Applications Intern (Summer)](https://jobright.ai/jobs/info/694aff7f67a69734cac61202?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Dec 23 |
 | **[National Heritage Academies](https://www.nhaschools.com)** | **[Software Quality Assurance Intern](https://jobright.ai/jobs/info/694b1df24b53a1551f94df87?utm_campaign=1079&utm_source=git)** | 3850 Broadmoor Ave SE, Grand Rapids, MI, 49512, US | On Site | Dec 23 |
 | **[USA for UNHCR](https://www.unrefugees.org)** | **[Inter, The Hive](https://jobright.ai/jobs/info/694afc7167a69734cac60f9c?utm_campaign=1079&utm_source=git)** | NYC Metro Area | Hybrid | Dec 23 |
 | **[ABB](https://global.abb/group/en)** | **[Software Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/69127894c98948514c47c06f?utm_campaign=1079&utm_source=git)** | Cary, NC | On Site | Dec 23 |
 | **[Nokia](http://www.nokia.com)** | **[Web Developer – Co-op/Intern](https://jobright.ai/jobs/info/694b156c3019f50a4fe626ab?utm_campaign=1079&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Dec 23 |
-| ↳ | **[Software Designer Co-op/Intern](https://jobright.ai/jobs/info/694b14064b53a1551f94ca3b?utm_campaign=1079&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Dec 23 |
+| ↳ | **[Software Designer Co-op/Intern](https://jobright.ai/jobs/info/694b17094b53a1551f94d0b0?utm_campaign=1079&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Dec 23 |
 | **[IEEE](http://www.ieee.org)** | **[Digital Solutions Intern](https://jobright.ai/jobs/info/694b183d1224705e9002368f?utm_campaign=1079&utm_source=git)** | Piscataway, NJ | On Site | Dec 23 |
 | ↳ | **[Summer Internship - IT Operations & Cloud Engineering](https://jobright.ai/jobs/info/694b164e1224705e90023277?utm_campaign=1079&utm_source=git)** | Piscataway, NJ | On Site | Dec 23 |
 | **[Geotab](http://www.geotab.com/)** | **[Embedded Developer Intern, Test Automation (Summer/May 2026, 12-16 Months)](https://jobright.ai/jobs/info/694af0bc1224705e90020a55?utm_campaign=1079&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | Dec 23 |
@@ -137,11 +136,13 @@ For a complete list, click the following sortable link below:
 | **[Serco](https://www.serco.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/694a0c4163141d188459ab0f?utm_campaign=1079&utm_source=git)** | Orlando, FL | Hybrid | Dec 22 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Software Engineer - Summer 2026 Internship](https://jobright.ai/jobs/info/694a07ef63141d188459a07c?utm_campaign=1079&utm_source=git)** | Westminster, CO | Hybrid | Dec 22 |
 | **[Gusto](https://www.gusto.com)** | **[CX AI & Automation Internship](https://jobright.ai/jobs/info/694a070663141d1884599db4?utm_campaign=1079&utm_source=git)** | Denver, CO | Hybrid | Dec 22 |
-| **[MCG Health](https://www.mcg.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6949fd347d506e3808f50fbb?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Dec 22 |
+| **[Velera](https://www.velera.com)** | **[Intern Software Engineer (.Net) - REMOTE](https://jobright.ai/jobs/info/694b642fd64ebf28d82116b3?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 22 |
 | **[Entegris](http://www.entegris.com)** | **[Enterprise Solution Architecture Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6949fb997d506e3808f50b7f?utm_campaign=1079&utm_source=git)** | Chaska, MN | Hybrid | Dec 22 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Software Development Intern - Summer 2026 Internship (Open)](https://jobright.ai/jobs/info/694a12f563141d188459bd61?utm_campaign=1079&utm_source=git)** | West Valley City, UT | Hybrid | Dec 22 |
 | **[Keysight Technologies](https://www.keysight.com)** | **[App Dev Engr/Scient, Intern](https://jobright.ai/jobs/info/694a0b8e63141d188459a90b?utm_campaign=1079&utm_source=git)** | Santa Rosa, CA | Remote | Dec 22 |
+| **[MCG Health](https://www.mcg.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/694a021d7d506e3808f51eae?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Dec 22 |
 | **[Gusto](https://www.gusto.com)** | **[CX AI & Automation Internship](https://jobright.ai/jobs/info/6949fecdc6f0e2546ceedbc0?utm_campaign=1079&utm_source=git)** | Denver, CO | On Site | Dec 22 |
+| **[Delinea](https://delinea.com)** | **[Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/694acbbf3019f50a4fe5df2d?utm_campaign=1079&utm_source=git)** | Lehi, UT | On Site | Dec 22 |
 | **[Peraton](https://www.peraton.com/)** | **[Summer 2026 Software Engineer Intern](https://jobright.ai/jobs/info/693e47cd50bbaf7650510b80?utm_campaign=1079&utm_source=git)** | Herndon, VA | Hybrid | Dec 22 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[2026 Summer - Software Engineering Intern (DAIRCM) -Dallas TX](https://jobright.ai/jobs/info/694a0d0a7d506e3808f53abc?utm_campaign=1079&utm_source=git)** | Dallas, TX | Hybrid | Dec 22 |
 | **[Intuitive](https://www.intuitive.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6949fa2d63141d1884597d78?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Dec 22 |
@@ -152,9 +153,8 @@ For a complete list, click the following sortable link below:
 | **[AV](https://www.avinc.com/)** | **[Software Engineering Intern – Hyper-RF Division](https://jobright.ai/jobs/info/694a0cd963141d188459aca4?utm_campaign=1079&utm_source=git)** | 20521 Seneca Meadows Pkwy, Germantown, MD | On Site | Dec 22 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[V.I.E. Front Office Developer](https://jobright.ai/jobs/info/6949b53c63141d1884594d03?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Dec 22 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Software Engineer, Autonomous Robot (Bachelors Degree)](https://jobright.ai/jobs/info/694a04097d506e3808f521ee?utm_campaign=1079&utm_source=git)** | Mountain View, California, United States of America | Hybrid | Dec 22 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Software Development Intern - Summer 2026 Internship (Open)](https://jobright.ai/jobs/info/694a109ac6f0e2546cef0cd6?utm_campaign=1079&utm_source=git)** | West Valley City, UT | On Site | Dec 22 |
-| ↳ | **[C# Software Engineer - Summer 2026 Internship](https://jobright.ai/jobs/info/694a115163141d188459b94e?utm_campaign=1079&utm_source=git)** | West Valley City, UT | Remote | Dec 22 |
+| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[C# Software Engineer - Summer 2026 Internship](https://jobright.ai/jobs/info/694a115163141d188459b94e?utm_campaign=1079&utm_source=git)** | West Valley City, UT | Remote | Dec 22 |
+| ↳ | **[Software Development Intern - Summer 2026 Internship (Open)](https://jobright.ai/jobs/info/694a109ac6f0e2546cef0cd6?utm_campaign=1079&utm_source=git)** | West Valley City, UT | On Site | Dec 22 |
 | **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Summer Intern, Product Engineering](https://jobright.ai/jobs/info/694a1c8d63141d188459ccd1?utm_campaign=1079&utm_source=git)** | New York, NY - 225 Liberty Street | On Site | Dec 22 |
 | **[People Inc.](https://www.people.inc/)** | **[Summer Intern, Backend Brand Platform](https://jobright.ai/jobs/info/6949fda563141d18845983ef?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Dec 22 |
-| **[Westlake](http://www.westlake.com)** | **[Software Engineer/Computer Science Intern](https://jobright.ai/jobs/info/694a03f5c6f0e2546ceeea2e?utm_campaign=1079&utm_source=git)** | Longview, TX | On Site | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
