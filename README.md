@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Infotainment Engineering Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/694dc547f5bef51c96eb429c?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Dec 25 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Software Developer Intern](https://jobright.ai/jobs/info/69202d9709cc522e8774898e?utm_campaign=1079&utm_source=git)** | Dayton, OH | On Site | Dec 25 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Globalization Software Developer](https://jobright.ai/jobs/info/693064524c474121999e51fc?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | Hybrid | Dec 25 |
 | **[Tinder](http://www.tinder.com)** | **[Android Engineer Intern](https://jobright.ai/jobs/info/6946712bd1953b5d11bfa7ba?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Intern Software Engineer - R10217175](https://jobright.ai/jobs/info/694bc08fd64ebf28d8217608?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Dec 24 |
 | ↳ | **[2026 Intern Software Engineer - R10217175-4](https://jobright.ai/jobs/info/694bbc50d64ebf28d8216e9e?utm_campaign=1079&utm_source=git)** | Oklahoma City, OK | On Site | Dec 24 |
 | **[Activision](https://www.activision.com/)** | **[2026 Canada Summer Internship - Tech Design - Sledgehammer Games](https://jobright.ai/jobs/info/6912c0b8d1047e3565cfe87e?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 24 |
-| **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Intern Software Engineer](https://jobright.ai/jobs/info/694bba101a572a617dde0a59?utm_campaign=1079&utm_source=git)** | United States-California-San Diego | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
