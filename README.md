@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GenPark](https://genpark.ai)** | **[iOS developer intern](https://jobright.ai/jobs/info/694ecca5ce13cd1056571786?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Dec 26 |
+| **[Digital Factory, Inc.](https://dgtl-factory.com/)** | **[Android Developer - Internship](https://jobright.ai/jobs/info/694ef38529655e4dd658770d?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Dec 26 |
 | **[Citi](https://www.citi.com)** | **[Technology- Application Development, Summer Analyst, Mississauga, Canada 2026](https://jobright.ai/jobs/info/6917160b3ea85638ae1c7a96?utm_campaign=1079&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Dec 26 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Application Engineer)](https://jobright.ai/jobs/info/69325958a0dde7020e2e603b?utm_campaign=1079&utm_source=git)** | Winchester, VA | On Site | Dec 26 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Software Development Engineer](https://jobright.ai/jobs/info/693212914c474121999f69c3?utm_campaign=1079&utm_source=git)** | Arlington, TX | Hybrid | Dec 26 |
@@ -127,7 +127,7 @@ For a complete list, click the following sortable link below:
 | **[ATI](https://www.forging.com)** | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/68f4cd759a65fd345858c6e4?utm_campaign=1079&utm_source=git)** | Rochester, PA | On Site | Dec 25 |
 | ↳ | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/68f4cd739a65fd345858c6db?utm_campaign=1079&utm_source=git)** | Zelienople, PA | On Site | Dec 25 |
 | **[Full Circle Studio](https://www.ea.com/ea-studios/full-circle)** | **[Software Development Intern](https://jobright.ai/jobs/info/69184fa245fb6f5ead8a477c?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Dec 25 |
-| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Software Development Engineer](https://jobright.ai/jobs/info/6930a783ef4b48533d14d7cd?utm_campaign=1079&utm_source=git)** | Arlington, TX | Hybrid | Dec 25 |
+| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Software Development Engineer](https://jobright.ai/jobs/info/6913a2b01465e02904e9634d?utm_campaign=1079&utm_source=git)** | Arlington, TX | Hybrid | Dec 25 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Firmware Engineer Intern - BACHELOR'S Degree](https://jobright.ai/jobs/info/6934183ba0dde7020e2f4325?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Dec 25 |
 | ↳ | **[Solutions Architecture Intern - PhD](https://jobright.ai/jobs/info/68dc9f11ddc10244dd677a2b?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Dec 25 |
 | **[Acumatica](https://www.acumatica.com)** | **[Intern Developer](https://jobright.ai/jobs/info/6918555abcdbf3560c9d1836?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 25 |
