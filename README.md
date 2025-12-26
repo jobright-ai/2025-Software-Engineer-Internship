@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Find Me](https://fyndme.co)** | **[Quality Assurance Specialist](https://jobright.ai/jobs/info/694dfa0d29655e4dd657c550?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 25 |
+| **[Masterhooks](www.masterhooks.com)** | **[Software Engineering Intern (Startup, Remote or LA)](https://jobright.ai/jobs/info/694e1a91d4a7df7a067308f2?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Dec 25 |
 | **[Stellar](https://stellarlearning.app)** | **[High School Full Stack Web Developer](https://jobright.ai/jobs/info/694df4b3d4a7df7a0672e3e6?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 25 |
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Infotainment Engineering Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/694dc547f5bef51c96eb429c?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Dec 25 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Software Developer Intern](https://jobright.ai/jobs/info/69202d9709cc522e8774898e?utm_campaign=1079&utm_source=git)** | Dayton, OH | On Site | Dec 25 |
@@ -70,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Whisker](https://www.litter-robot.com/)** | **[Web & CX Tools Development Intern (Summer 2026)](https://jobright.ai/jobs/info/69227eb3c0cefa13343d7f97?utm_campaign=1079&utm_source=git)** | Auburn Hills, MI | On Site | Dec 25 |
 | **[C3 AI](https://c3.ai)** | **[Software Engineer - Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd50f6b2a74e1837ed50d1?utm_campaign=1079&utm_source=git)** | Redwood City, CA | On Site | Dec 25 |
 | **[ATI](https://www.forging.com)** | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/68f4cd759a65fd345858c6e4?utm_campaign=1079&utm_source=git)** | Rochester, PA | On Site | Dec 25 |
+| ↳ | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/68f4cd739a65fd345858c6db?utm_campaign=1079&utm_source=git)** | Zelienople, PA | On Site | Dec 25 |
 | **[Full Circle Studio](https://www.ea.com/ea-studios/full-circle)** | **[Software Development Intern](https://jobright.ai/jobs/info/69184fa245fb6f5ead8a477c?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Dec 25 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Software Development Engineer](https://jobright.ai/jobs/info/6930a783ef4b48533d14d7cd?utm_campaign=1079&utm_source=git)** | Arlington, TX | Hybrid | Dec 25 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Firmware Engineer Intern - BACHELOR'S Degree](https://jobright.ai/jobs/info/6934183ba0dde7020e2f4325?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Dec 25 |
@@ -94,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[Evolv Technology](http://www.evolvtechnology.com)** | **[Front-End Software Engineering Intern (Summer 26')](https://jobright.ai/jobs/info/6930ef52fa28370be26b55e9?utm_campaign=1079&utm_source=git)** | Waltham, MA | Hybrid | Dec 25 |
 | ↳ | **[C++ Software, Camera & Image Processing Intern (Summer 26')](https://jobright.ai/jobs/info/6930de9c4c474121999e9c34?utm_campaign=1079&utm_source=git)** | Waltham, MA | On Site | Dec 25 |
 | **[ATI](https://www.forging.com)** | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/68db0f410dffed6f83d2c485?utm_campaign=1079&utm_source=git)** | Monaca, PA | On Site | Dec 25 |
-| ↳ | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/68db0c24e9b48513789b1717?utm_campaign=1079&utm_source=git)** | Zelienople, PA | On Site | Dec 25 |
 | **[AMETEK](http://www.ametek.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/691ad55a45fb6f5ead8adff8?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Dec 25 |
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Application Development Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/694ce36129655e4dd657021a?utm_campaign=1079&utm_source=git)** | Westfield Center, OH | Hybrid | Dec 24 |
 | **[Peraton](https://www.peraton.com/)** | **[Summer 2026 Software Engineer Intern](https://jobright.ai/jobs/info/693e47cd50bbaf7650510b80?utm_campaign=1079&utm_source=git)** | Herndon, VA | On Site | Dec 24 |
