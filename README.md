@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Find Me](https://fyndme.co)** | **[Quality Assurance Specialist](https://jobright.ai/jobs/info/694dfa0d29655e4dd657c550?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 25 |
+| **[Stellar](https://stellarlearning.app)** | **[High School Full Stack Web Developer](https://jobright.ai/jobs/info/694df4b3d4a7df7a0672e3e6?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 25 |
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Infotainment Engineering Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/694dc547f5bef51c96eb429c?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Dec 25 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Software Developer Intern](https://jobright.ai/jobs/info/69202d9709cc522e8774898e?utm_campaign=1079&utm_source=git)** | Dayton, OH | On Site | Dec 25 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Globalization Software Developer](https://jobright.ai/jobs/info/693064524c474121999e51fc?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | Hybrid | Dec 25 |
@@ -69,7 +71,7 @@ For a complete list, click the following sortable link below:
 | **[C3 AI](https://c3.ai)** | **[Software Engineer - Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd50f6b2a74e1837ed50d1?utm_campaign=1079&utm_source=git)** | Redwood City, CA | On Site | Dec 25 |
 | **[ATI](https://www.forging.com)** | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/68f4cd759a65fd345858c6e4?utm_campaign=1079&utm_source=git)** | Rochester, PA | On Site | Dec 25 |
 | **[Full Circle Studio](https://www.ea.com/ea-studios/full-circle)** | **[Software Development Intern](https://jobright.ai/jobs/info/69184fa245fb6f5ead8a477c?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Dec 25 |
-| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Software Development Engineer](https://jobright.ai/jobs/info/6913a2b01465e02904e9634d?utm_campaign=1079&utm_source=git)** | Arlington, TX | Hybrid | Dec 25 |
+| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Software Development Engineer](https://jobright.ai/jobs/info/6930a783ef4b48533d14d7cd?utm_campaign=1079&utm_source=git)** | Arlington, TX | Hybrid | Dec 25 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Firmware Engineer Intern - BACHELOR'S Degree](https://jobright.ai/jobs/info/6934183ba0dde7020e2f4325?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Dec 25 |
 | ↳ | **[Solutions Architecture Intern - PhD](https://jobright.ai/jobs/info/68dc9f11ddc10244dd677a2b?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Dec 25 |
 | **[Acumatica](https://www.acumatica.com)** | **[Intern Developer](https://jobright.ai/jobs/info/6918555abcdbf3560c9d1836?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Intern Software Engineer - R10217175-3](https://jobright.ai/jobs/info/694bc1be5d731211347049c3?utm_campaign=1079&utm_source=git)** | Palmdale, CA | On Site | Dec 24 |
 | ↳ | **[2026 Intern Software Engineer - R10217175-6](https://jobright.ai/jobs/info/694bc0e35d731211347048d2?utm_campaign=1079&utm_source=git)** | Redondo Beach, CA | On Site | Dec 24 |
 | ↳ | **[2026 Intern Software Engineer - R10217175](https://jobright.ai/jobs/info/694bc08fd64ebf28d8217608?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Dec 24 |
-| ↳ | **[2026 Intern Software Engineer - R10217175-4](https://jobright.ai/jobs/info/694bbc50d64ebf28d8216e9e?utm_campaign=1079&utm_source=git)** | Oklahoma City, OK | On Site | Dec 24 |
-| **[Activision](https://www.activision.com/)** | **[2026 Canada Summer Internship - Tech Design - Sledgehammer Games](https://jobright.ai/jobs/info/6912c0b8d1047e3565cfe87e?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
