@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark](https://genpark.ai)** | **[Andriod developer intern](https://jobright.ai/jobs/info/694f6aaea2668b7f5452aa51?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Dec 26 |
+| **[NISC](http://www.nisc.coop/)** | **[Intern - Business & Technology Innovation](https://jobright.ai/jobs/info/68d2bac717554c2d9eee9426?utm_campaign=1079&utm_source=git)** | Lake Saint Louis, MO | On Site | Dec 26 |
+| **[Barracuda](http://www.barracuda.com/netcontinuum)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69498e0363141d188459265b?utm_campaign=1079&utm_source=git)** | Chelmsford, MA | Hybrid | Dec 26 |
 | **[Verbi AI](https://www.verbiai.com)** | **[Google Cloud Engineer Internship Program](https://jobright.ai/jobs/info/694f5102a2668b7f54528140?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 26 |
 | **[Xometry](https://www.xometry.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6944513f50bbaf7650564ecf?utm_campaign=1079&utm_source=git)** | Waltham, MA | Hybrid | Dec 26 |
 | **[Radix Trading LLC](https://radix.trade)** | **[Quantitative Technologist (C++ Intern - Summer 2026)](https://jobright.ai/jobs/info/6897ea211b9e81727f1a2fd0?utm_campaign=1079&utm_source=git)** | Chicago | On Site | Dec 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ATI](https://www.forging.com)** | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/68db0f410dffed6f83d2c485?utm_campaign=1079&utm_source=git)** | Monaca, PA | On Site | Dec 25 |
 | **[AMETEK](http://www.ametek.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/691ad55a45fb6f5ead8adff8?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Dec 25 |
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Application Development Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/694ce36129655e4dd657021a?utm_campaign=1079&utm_source=git)** | Westfield Center, OH | Hybrid | Dec 24 |
-| **[Peraton](https://www.peraton.com/)** | **[Summer 2026 Software Engineer Intern](https://jobright.ai/jobs/info/693e47cd50bbaf7650510b80?utm_campaign=1079&utm_source=git)** | Herndon, VA | On Site | Dec 24 |
-| **[Archer](https://www.archer.com)** | **[Software Engineer Intern - Electric Engine](https://jobright.ai/jobs/info/694ccf7529655e4dd656f975?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 24 |
-| **[American Equity](http://www.american-equity.com)** | **[IT Intern, Digital Platforms](https://jobright.ai/jobs/info/694998f4d1953b5d11c29d5d?utm_campaign=1079&utm_source=git)** | West Des Moines, Iowa, United States | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
