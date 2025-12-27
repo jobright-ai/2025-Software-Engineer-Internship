@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GenPark](https://genpark.ai)** | **[Andriod developer intern](https://jobright.ai/jobs/info/694f6aaea2668b7f5452aa51?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Dec 26 |
+| **[BottleUp](http://www.bottleupapp.com/)** | **[React Native Front-End Developer Intern (Remote)](https://jobright.ai/jobs/info/694f88f6ce13cd105657b126?utm_campaign=1079&utm_source=git)** | DC-Baltimore Area | Remote | Dec 26 |
 | **[NISC](http://www.nisc.coop/)** | **[Intern - Business & Technology Innovation](https://jobright.ai/jobs/info/68d2bac717554c2d9eee9426?utm_campaign=1079&utm_source=git)** | Lake Saint Louis, MO | On Site | Dec 26 |
 | **[Barracuda](http://www.barracuda.com/netcontinuum)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69498e0363141d188459265b?utm_campaign=1079&utm_source=git)** | Chelmsford, MA | Hybrid | Dec 26 |
 | **[Verbi AI](https://www.verbiai.com)** | **[Google Cloud Engineer Internship Program](https://jobright.ai/jobs/info/694f5102a2668b7f54528140?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 26 |
@@ -132,7 +132,7 @@ For a complete list, click the following sortable link below:
 | **[ATI](https://www.forging.com)** | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/68f4cd759a65fd345858c6e4?utm_campaign=1079&utm_source=git)** | Rochester, PA | On Site | Dec 25 |
 | ↳ | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/68f4cd739a65fd345858c6db?utm_campaign=1079&utm_source=git)** | Zelienople, PA | On Site | Dec 25 |
 | **[Full Circle Studio](https://www.ea.com/ea-studios/full-circle)** | **[Software Development Intern](https://jobright.ai/jobs/info/69184fa245fb6f5ead8a477c?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Dec 25 |
-| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Software Development Engineer](https://jobright.ai/jobs/info/6930a783ef4b48533d14d7cd?utm_campaign=1079&utm_source=git)** | Arlington, TX | Hybrid | Dec 25 |
+| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Software Development Engineer](https://jobright.ai/jobs/info/6913a2b01465e02904e9634d?utm_campaign=1079&utm_source=git)** | Arlington, TX | Hybrid | Dec 25 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Firmware Engineer Intern - BACHELOR'S Degree](https://jobright.ai/jobs/info/6934183ba0dde7020e2f4325?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Dec 25 |
 | ↳ | **[Solutions Architecture Intern - PhD](https://jobright.ai/jobs/info/68dc9f11ddc10244dd677a2b?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Dec 25 |
 | **[Acumatica](https://www.acumatica.com)** | **[Intern Developer](https://jobright.ai/jobs/info/6918555abcdbf3560c9d1836?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 25 |
@@ -148,8 +148,8 @@ For a complete list, click the following sortable link below:
 | **[Tinder](http://www.tinder.com)** | **[iOS Intern](https://jobright.ai/jobs/info/6920f2fd3f782d2f1afcd551?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | Hybrid | Dec 25 |
 | **[Pegasystems](http://www.pega.com)** | **[Software Engineering Intern, UX Engineering - Summer 2026](https://jobright.ai/jobs/info/68f74cd5ec6dbe7073fbc261?utm_campaign=1079&utm_source=git)** | Waltham, MA | On Site | Dec 25 |
 | **[Tinder](http://www.tinder.com)** | **[Cloud Infrastructure Engineer Intern](https://jobright.ai/jobs/info/6920e52a3f782d2f1afcc93f?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 25 |
-| ↳ | **[iOS Intern](https://jobright.ai/jobs/info/6920f325a49a885af9a4107a?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 25 |
 | ↳ | **[Backend Engineer Intern](https://jobright.ai/jobs/info/6920d3883f782d2f1afcbe69?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 25 |
+| ↳ | **[iOS Intern](https://jobright.ai/jobs/info/6920f325a49a885af9a4107a?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 25 |
 | ↳ | **[Backend Engineer Intern](https://jobright.ai/jobs/info/6920df1600c9ee50eaec8f95?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | Hybrid | Dec 25 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Fulfillment Software Engineer Co-op - Fall 2026](https://jobright.ai/jobs/info/693163384c474121999eda23?utm_campaign=1079&utm_source=git)** | Quincy, MA | Hybrid | Dec 25 |
 | **[Evolv Technology](http://www.evolvtechnology.com)** | **[Front-End Software Engineering Intern (Summer 26')](https://jobright.ai/jobs/info/6930ef52fa28370be26b55e9?utm_campaign=1079&utm_source=git)** | Waltham, MA | Hybrid | Dec 25 |
