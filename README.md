@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark](https://genpark.ai)** | **[Web development intern](https://jobright.ai/jobs/info/6950b9acce13cd105658a859?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Dec 27 |
+| **[PACR](https://www.linkedin.com/company/98359211)** | **[Backend Developer Intern (Unpaid, Remote)](https://jobright.ai/jobs/info/6950b631a2668b7f5453a30b?utm_campaign=1079&utm_source=git)** | Delaware, United States | Remote | Dec 27 |
 | **[Curava](https://curava-landing-page-e9nn.vercel.app)** | **[Founding Engineer Intern](https://jobright.ai/jobs/info/69509d5929655e4dd659d05c?utm_campaign=1079&utm_source=git)** | British Columbia, Canada | Remote | Dec 27 |
 | **[Voltair](https://voltairlabs.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69508c5dce13cd1056587419?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Dec 27 |
 | **[PIMCO](http://www.pimco.com)** | **[2026 Summer Intern - Technology Analyst, Software Engineering](https://jobright.ai/jobs/info/68b244181ade4306aa63537e?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Dec 27 |
@@ -77,16 +79,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[QA/Test Developer Intern](https://jobright.ai/jobs/info/69333ecca0dde7020e2ebce1?utm_campaign=1079&utm_source=git)** | Tucson, AZ | On Site | Dec 27 |
 | ↳ | **[Software Developer Intern: 2026](https://jobright.ai/jobs/info/69335137f131d96e48461db2?utm_campaign=1079&utm_source=git)** | Tucson, AZ | On Site | Dec 27 |
 | **[Citi](https://www.citi.com)** | **[Technology, Application Development, Summer Analyst, Jacksonville - USA, 2026](https://jobright.ai/jobs/info/6916017a9c388539cbdf736a?utm_campaign=1079&utm_source=git)** | Jacksonville, FL | On Site | Dec 27 |
-| **[Itron, Inc.](http://www.itron.com)** | **[Intern - Embedded Firmware (Summer 2026)](https://jobright.ai/jobs/info/6933b447f131d96e48466200?utm_campaign=1079&utm_source=git)** | West Union, SC | On Site | Dec 27 |
-| **[Citi](https://www.citi.com)** | **[Technology, Application Development, Summer Analyst, Tampa - USA, 2026](https://jobright.ai/jobs/info/69162339286ccf0a15132c67?utm_campaign=1079&utm_source=git)** | Tampa, FL | On Site | Dec 27 |
+| ↳ | **[Technology, Application Development, Summer Analyst, Tampa - USA, 2026](https://jobright.ai/jobs/info/69162339286ccf0a15132c67?utm_campaign=1079&utm_source=git)** | Tampa, FL | On Site | Dec 27 |
 | **[Cisco](http://www.cisco.com)** | **[Software Engineer Full Stack & Application Development I (Intern) – United States](https://jobright.ai/jobs/info/6933918bf131d96e48464728?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Dec 27 |
-| **[IBM](http://www.ibm.com)** | **[Back End Developer Intern 2026](https://jobright.ai/jobs/info/69334125764507023d1b37cf?utm_campaign=1079&utm_source=git)** | Durham, NC | On Site | Dec 27 |
-| ↳ | **[QA/Test Developer Intern](https://jobright.ai/jobs/info/69333007f131d96e484607df?utm_campaign=1079&utm_source=git)** | Rochester, MN | On Site | Dec 27 |
+| **[IBM](http://www.ibm.com)** | **[QA/Test Developer Intern](https://jobright.ai/jobs/info/69333007f131d96e484607df?utm_campaign=1079&utm_source=git)** | Rochester, MN | On Site | Dec 27 |
 | ↳ | **[Back End Developer Intern 2026](https://jobright.ai/jobs/info/69333ac0a0dde7020e2eba15?utm_campaign=1079&utm_source=git)** | Rochester, MN | On Site | Dec 27 |
 | ↳ | **[Software Developer Intern: 2026](https://jobright.ai/jobs/info/69338044a0dde7020e2ee9ff?utm_campaign=1079&utm_source=git)** | Poughkeepsie, AR | On Site | Dec 27 |
 | ↳ | **[Software Engineering Intern 2026](https://jobright.ai/jobs/info/69334e1af131d96e48461a8f?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Dec 27 |
 | ↳ | **[Firmware Developer Intern 2026](https://jobright.ai/jobs/info/693325c2764507023d1b28eb?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 27 |
 | ↳ | **[Cloud Developer Intern](https://jobright.ai/jobs/info/69334000764507023d1b36ed?utm_campaign=1079&utm_source=git)** | San Jose, CA | Remote | Dec 27 |
+| ↳ | **[Back End Developer Intern 2026](https://jobright.ai/jobs/info/69337114a0dde7020e2ee0e5?utm_campaign=1079&utm_source=git)** | Poughkeepsie, AR | On Site | Dec 27 |
 | **[Cisco](http://www.cisco.com)** | **[Software Engineer Full Stack & Application Development I (Intern) – United States](https://jobright.ai/jobs/info/6933a617764507023d1b7a90?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Dec 27 |
 | **[IBM](http://www.ibm.com)** | **[Back End Developer Intern](https://jobright.ai/jobs/info/69332790764507023d1b29eb?utm_campaign=1079&utm_source=git)** | Rochester, MN | Remote | Dec 27 |
 | ↳ | **[Back End Developer Intern 2026](https://jobright.ai/jobs/info/6933247b764507023d1b2846?utm_campaign=1079&utm_source=git)** | Sandy Springs, GA | On Site | Dec 27 |
@@ -124,6 +125,7 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Intern 2026: Fault-tolerant quantum algorithms](https://jobright.ai/jobs/info/69335dfc764507023d1b4d7a?utm_campaign=1079&utm_source=git)** | Albany, NY | On Site | Dec 27 |
 | ↳ | **[Intern 2026: Fault-tolerant quantum algorithms](https://jobright.ai/jobs/info/69334f9df131d96e48461c17?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 27 |
 | ↳ | **[Firmware Developer Intern 2026](https://jobright.ai/jobs/info/69336c8df131d96e484632bb?utm_campaign=1079&utm_source=git)** | Poughkeepsie, AR | On Site | Dec 27 |
+| ↳ | **[Back End Developer Intern 2026](https://jobright.ai/jobs/info/69334769f131d96e48461664?utm_campaign=1079&utm_source=git)** | Durham, NC | On Site | Dec 27 |
 | ↳ | **[Software Developer Intern](https://jobright.ai/jobs/info/69331c55764507023d1b242c?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | Dec 27 |
 | ↳ | **[Software Developer Intern 2026- New York](https://jobright.ai/jobs/info/6933231d764507023d1b2787?utm_campaign=1079&utm_source=git)** | New York, United States | On Site | Dec 27 |
 | ↳ | **[Software Developer Intern 2026: Lowell](https://jobright.ai/jobs/info/6944390f50bbaf765056288d?utm_campaign=1079&utm_source=git)** | Lowell, MA | On Site | Dec 27 |
@@ -134,7 +136,6 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Software Developer Intern 2026: SVL](https://jobright.ai/jobs/info/694b54d41a572a617dddaaef?utm_campaign=1079&utm_source=git)** | San Jose, CA | Remote | Dec 27 |
 | **[Figma](https://www.figma.com)** | **[Software Engineer Intern (2026)](https://jobright.ai/jobs/info/68ce948afb49c96ca6ea1c8d?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Dec 27 |
 | **[IBM](http://www.ibm.com)** | **[QA/Test Developer Intern](https://jobright.ai/jobs/info/69334f24764507023d1b4034?utm_campaign=1079&utm_source=git)** | Research Park, CA | On Site | Dec 27 |
-| ↳ | **[Back End Developer Intern 2026](https://jobright.ai/jobs/info/693fa5e4aa598a08c3ef7b12?utm_campaign=1079&utm_source=git)** | Poughkeepsie, AR | On Site | Dec 27 |
 | **[Cisco](http://www.cisco.com)** | **[Software Engineer Full Stack & Application Development I (Intern) – United States](https://jobright.ai/jobs/info/6933a5b8a0dde7020e2f0193?utm_campaign=1079&utm_source=git)** | Hillsboro, OR | On Site | Dec 27 |
 | **[IBM](http://www.ibm.com)** | **[AI-Centric Solution Architecting for Global IT Intern - Entry Level Sales Program 2026](https://jobright.ai/jobs/info/69336bdba0dde7020e2edc8e?utm_campaign=1079&utm_source=git)** | Durham, NC | Remote | Dec 27 |
 | ↳ | **[Intern 2026: Quantum Cloud Engineering](https://jobright.ai/jobs/info/69334576a0dde7020e2ec0b0?utm_campaign=1079&utm_source=git)** | Yorktown Heights, NY | On Site | Dec 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[Research Intern (Infrastructure System Lab)- 2026 Start (PHD)](https://jobright.ai/jobs/info/68ce85d1dbd9fb154ede061b?utm_campaign=1079&utm_source=git)** | San Jose, CA | Remote | Dec 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Recommendation Infrastructure) - 2026 Fall (BS/ MS)](https://jobright.ai/jobs/info/693b87a5d4054a2bc02566c5?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 27 |
 | ↳ | **[Software Engineer Intern(Video-on-Demand Algorithm) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68ce2c8de23def7af55c2d05?utm_campaign=1079&utm_source=git)** | San Jose, CA | Remote | Dec 27 |
-| ↳ | **[[Online Assessment] QA Engineer Intern (TikTok-Privacy and Security-Product Privacy)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68ccc246d99309000e5a2afc?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
