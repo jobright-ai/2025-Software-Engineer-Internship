@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Draper](https://www.draper.com)** | **[Software Quality Assurance Intern](https://jobright.ai/jobs/info/6952b4fb935649778e207e41?utm_campaign=1079&utm_source=git)** | Cambridge, MA | Remote | Dec 29 |
+| **[Geotab](http://www.geotab.com/)** | **[Embedded Developer Intern, Oracle (Summer/May 2026, 12 Months)](https://jobright.ai/jobs/info/6952b490935649778e207d43?utm_campaign=1079&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | Dec 29 |
+| **[GenPark](https://genpark.ai)** | **[Front end intern](https://jobright.ai/jobs/info/6952b2cc5bb7de448ef5cb14?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Dec 29 |
+| **[Micron Technology](http://www.micron.com)** | **[Intern - SIG Software Design](https://jobright.ai/jobs/info/6952b222f1f8465b79ea02a9?utm_campaign=1079&utm_source=git)** | Boise, ID - SIG Building | On Site | Dec 29 |
+| **[Abacus Insights](https://abacusinsights.com)** | **[QA Engineer Intern](https://jobright.ai/jobs/info/6952b1d25bb7de448ef5ca39?utm_campaign=1079&utm_source=git)** | Remote US | Remote | Dec 29 |
+| **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Platforms & Technology - Software Engineer](https://jobright.ai/jobs/info/6952af92f1f8465b79ea01bc?utm_campaign=1079&utm_source=git)** | Mount Laurel, NJ | On Site | Dec 29 |
 | **[Honeywell](http://www.honeywell.com)** | **[Intern Bachelors Embedded Engineer](https://jobright.ai/jobs/info/6950abc1a2668b7f545390a7?utm_campaign=1079&utm_source=git)** | Kanata, Ontario, Canada | On Site | Dec 29 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Software Engineer (SkillBridge Intern) - 23875](https://jobright.ai/jobs/info/68cce080d11b445e0bee3779?utm_campaign=1079&utm_source=git)** | Greater Roanoke Area | On Site | Dec 29 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Software Engineering Intern, AMER](https://jobright.ai/jobs/info/68cd5df71ad6b16f02898c6d?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Dec 29 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Epic Games](https://epicgames.com)** | **[Gameplay Systems Intern](https://jobright.ai/jobs/info/68fa8730edd190144238dc6f?utm_campaign=1079&utm_source=git)** | Cary, NC | Remote | Dec 28 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[IT Software Developer Intern](https://jobright.ai/jobs/info/68ceb002846f0b04af67c4fe?utm_campaign=1079&utm_source=git)** | Strongsville, OH | On Site | Dec 28 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Internship: Software Engineering (Summer 2026) - Franksville, WI](https://jobright.ai/jobs/info/6936832b764507023d1c3e03?utm_campaign=1079&utm_source=git)** | Franksville, WI | On Site | Dec 28 |
-| **[Epic Games](https://epicgames.com)** | **[Gameplay Programmer Intern](https://jobright.ai/jobs/info/68e4bcb4b99ec3563b0ed625?utm_campaign=1079&utm_source=git)** | Cary, NC | On Site | Dec 28 |
-| ↳ | **[Gameplay Systems Intern](https://jobright.ai/jobs/info/6917252cbcdbf3560c9c58b1?utm_campaign=1079&utm_source=git)** | Greater Montreal Metropolitan Area | Remote | Dec 28 |
-| **[ABB](https://global.abb/group/en)** | **[Software Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/69127894c98948514c47c06f?utm_campaign=1079&utm_source=git)** | Cary, NC | Hybrid | Dec 28 |
-| **[Curava](https://curava-landing-page-e9nn.vercel.app)** | **[Founding Engineer Intern](https://jobright.ai/jobs/info/69509d5929655e4dd659d05c?utm_campaign=1079&utm_source=git)** | British Columbia, Canada | Remote | Dec 27 |
-| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, R&D Graduate Summer - Computer Science Research Institute (CSRI), CA, Remote](https://jobright.ai/jobs/info/6951f09dce13cd105659725e?utm_campaign=1079&utm_source=git)** | Livermore, CA | Remote | Dec 27 |
-| **[Voltair](https://voltairlabs.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69508c5dce13cd1056587419?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Dec 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
