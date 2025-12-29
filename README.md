@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lord, Abbett & Co. LLC](https://www.lordabbett.com/en.html)** | **[Technology Associate, Internship - Summer 2026](https://jobright.ai/jobs/info/69524c6e5bb7de448ef57b5f?utm_campaign=1079&utm_source=git)** | Jersey City, NJ | On Site | Dec 29 |
+| **[Lillup](https://www.lillup.com/)** | **[Software Engineering Intern — Data Conversion & JSON Pipelines / iOS Internship (Remote, Unpaid)](https://jobright.ai/jobs/info/695243925bb7de448ef56c4e?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 29 |
+| **[TD](https://www.td.com)** | **[AI2 Software Engineer Co-op/Intern (SUMMER 2026)](https://jobright.ai/jobs/info/69524328935649778e200edb?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
+| ↳ | **[Software Developer Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/695242e3f1f8465b79e99772?utm_campaign=1079&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Dec 29 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[AI2 Software Engineer Co-op/Intern (SUMMER 2026)](https://jobright.ai/jobs/info/6952245129655e4dd65af2f6?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 28 |
 | ↳ | **[Software Developer Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/6952241829655e4dd65af2eb?utm_campaign=1079&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Dec 28 |
 | ↳ | **[Software Engineer Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/6952238029655e4dd65af2cc?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 28 |
@@ -146,7 +150,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern 2026: Quantum Cloud Engineering](https://jobright.ai/jobs/info/693367daa0dde7020e2ed8fb?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 27 |
 | ↳ | **[Cloud Developer Intern](https://jobright.ai/jobs/info/6933339fa0dde7020e2eb4f5?utm_campaign=1079&utm_source=git)** | Durham, NC | Remote | Dec 27 |
 | ↳ | **[Intern 2026: Quantum Cloud Engineering](https://jobright.ai/jobs/info/69335e8bf131d96e48462967?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Dec 27 |
-| ↳ | **[Back End Developer Intern 2026](https://jobright.ai/jobs/info/693322fda0dde7020e2eabfe?utm_campaign=1079&utm_source=git)** | Tucson, AZ | On Site | Dec 27 |
 | ↳ | **[Back End Developer Intern 2026](https://jobright.ai/jobs/info/69334215764507023d1b388b?utm_campaign=1079&utm_source=git)** | Lowell, MA | On Site | Dec 27 |
 | ↳ | **[QA/Test Developer Intern](https://jobright.ai/jobs/info/69333ecca0dde7020e2ebce1?utm_campaign=1079&utm_source=git)** | Tucson, AZ | On Site | Dec 27 |
 | ↳ | **[Software Developer Intern: 2026](https://jobright.ai/jobs/info/69335137f131d96e48461db2?utm_campaign=1079&utm_source=git)** | Tucson, AZ | On Site | Dec 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Technology, Application Development, Summer Analyst, Tampa - USA, 2026](https://jobright.ai/jobs/info/69162339286ccf0a15132c67?utm_campaign=1079&utm_source=git)** | Tampa, FL | On Site | Dec 27 |
 | **[Cisco](http://www.cisco.com)** | **[Software Engineer Full Stack & Application Development I (Intern) – United States](https://jobright.ai/jobs/info/6933918bf131d96e48464728?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Dec 27 |
 | **[IBM](http://www.ibm.com)** | **[QA/Test Developer Intern](https://jobright.ai/jobs/info/69333007f131d96e484607df?utm_campaign=1079&utm_source=git)** | Rochester, MN | On Site | Dec 27 |
-| ↳ | **[Software Developer Intern: 2026](https://jobright.ai/jobs/info/69338044a0dde7020e2ee9ff?utm_campaign=1079&utm_source=git)** | Poughkeepsie, AR | On Site | Dec 27 |
-| ↳ | **[Software Engineering Intern 2026](https://jobright.ai/jobs/info/69334e1af131d96e48461a8f?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Dec 27 |
-| ↳ | **[Firmware Developer Intern 2026](https://jobright.ai/jobs/info/693325c2764507023d1b28eb?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
