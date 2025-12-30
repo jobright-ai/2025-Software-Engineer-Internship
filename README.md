@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Software Engineering Intern Summer 2026](https://jobright.ai/jobs/info/6937b139a0dde7020e306358?utm_campaign=1079&utm_source=git)** | Shoreview, MN | On Site | Dec 30 |
+| **[Trimble Inc.](https://www.trimble.com/)** | **[Software Development Engineer in Test Intern](https://jobright.ai/jobs/info/693765c11c1c2161c13f3dc7?utm_campaign=1079&utm_source=git)** | Lake Oswego, OR | On Site | Dec 30 |
+| **[Rambus](http://www.rambus.com/us)** | **[Firmware Engineer Intern](https://jobright.ai/jobs/info/691dda2aad5a51703479712c?utm_campaign=1079&utm_source=git)** | Greater Vancouver Metropolitan Area | Hybrid | Dec 30 |
 | **[JFK Johnson Rehabilitation Institute](http://JFKJohnson.org)** | **[IT APPLICATIONS PROGRAMMER V - WORKDAY STUDENT TECHNICAL ANALYST- DIGITAL TECHNOLOGY SERVICES](https://jobright.ai/jobs/info/695392905bb7de448ef6993b?utm_campaign=1079&utm_source=git)** | Edison, NJ | On Site | Dec 30 |
 | **[Bili](https://join.bili.dev/)** | **[Software Engineer](https://jobright.ai/jobs/info/69537c8ef1f8465b79eac6e5?utm_campaign=1079&utm_source=git)** | Bellevue, WA | Hybrid | Dec 29 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[TD Asset Management Portfolio Analytics Developer Intern / Co-Op (Summer 2026)](https://jobright.ai/jobs/info/695377f0935649778e213841?utm_campaign=1079&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Dec 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UiPath](https://www.uipath.com)** | **[Front-End Software Engineer Intern](https://jobright.ai/jobs/info/6917a0fe45fb6f5ead89cccd?utm_campaign=1079&utm_source=git)** | Bellevue, WA | Hybrid | Dec 28 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Technical Support (Supplier Quality Assurance Engineer)](https://jobright.ai/jobs/info/691fe2a23f782d2f1afc127a?utm_campaign=1079&utm_source=git)** | Lincoln, NE | On Site | Dec 28 |
 | **[Cintas](https://www.cintas.com)** | **[IT Intern - Cloud Engineering](https://jobright.ai/jobs/info/69342dfa764507023d1bc398?utm_campaign=1079&utm_source=git)** | Mason, OH | On Site | Dec 28 |
-| **[Ramp](https://ramp.com)** | **[Software Engineer Internship / Backend](https://jobright.ai/jobs/info/694626d0d1953b5d11bf3fc2?utm_campaign=1079&utm_source=git)** | New York, United States | On Site | Dec 28 |
-| **[Cisco](http://www.cisco.com)** | **[AI Software QA II (Intern) - United States](https://jobright.ai/jobs/info/692e0d97fa28370be26a0aef?utm_campaign=1079&utm_source=git)** | San Jose, CA | Remote | Dec 28 |
-| **[Cintas](https://www.cintas.com)** | **[IT Intern Middleware - Integrations](https://jobright.ai/jobs/info/69342d25f131d96e48469dd9?utm_campaign=1079&utm_source=git)** | Mason, OH | On Site | Dec 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
