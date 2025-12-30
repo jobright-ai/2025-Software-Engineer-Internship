@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GenPark](https://genpark.ai)** | **[Web developer intern](https://jobright.ai/jobs/info/69540cf15bb7de448ef709a7?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 30 |
-| **[Todd](https://toddagriscience.com)** | **[Fullstack Developer Intern, Advisory Platform (Summer '25)](https://jobright.ai/jobs/info/69540b69f1f8465b79eb4036?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Dec 30 |
+| **[CAPTRUST](https://www.captrust.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69541f32f1f8465b79eb45f1?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Dec 30 |
+| **[United Protective Technologies](https://www.upt-usa.com)** | **[Computer Engineering Intern](https://jobright.ai/jobs/info/69541938f1f8465b79eb4499?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Dec 30 |
 | **[SMS group USA](http://www.sms-group.us)** | **[Intern- Software Developer](https://jobright.ai/jobs/info/69540b22aa05c26e7aae8f86?utm_campaign=1079&utm_source=git)** | Pittsburgh, PA, US | On Site | Dec 30 |
 | **[Maximus](http://www.maximus.com/)** | **[Intern - IT Software Engineering](https://jobright.ai/jobs/info/6954074e5bb7de448ef707f8?utm_campaign=1079&utm_source=git)** | Rancho Cordova, CA | Hybrid | Dec 30 |
 | **[Lanteris Space Systems](https://www.lanterisspace.com)** | **[Intern, Flight Software Lab Engineering](https://jobright.ai/jobs/info/6954056cf1f8465b79eb3da9?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 30 |
@@ -67,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Schonfeld](http://www.schonfeld.com/)** | **[2026 Software Engineering Summer Intern](https://jobright.ai/jobs/info/6953fea8f1f8465b79eb210d?utm_campaign=1079&utm_source=git)** | New York, New York, United States | On Site | Dec 30 |
 | **[Shield AI](http://www.shield.ai)** | **[C++ Software Engineering Intern - 2026 Summer Intern (R4078)](https://jobright.ai/jobs/info/6953f99df1f8465b79eb204b?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Dec 30 |
 | **[London Computer Systems](https://www.lcs.com/)** | **[Software Developer Co-op/Intern](https://jobright.ai/jobs/info/6953e27cf1f8465b79eb1ad3?utm_campaign=1079&utm_source=git)** | Cincinnati, OH | On Site | Dec 30 |
-| **[Adps AI](https://www.adps.ai)** | **[AWS Cloud Engineer internship (unpaid )](https://jobright.ai/jobs/info/6953db59f1f8465b79eb185f?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | On Site | Dec 30 |
 | **[Ciena](http://www.ciena.com)** | **[Verification Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/69371379a0dde7020e2fed0a?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Dec 30 |
 | **[Dexcom](http://www.dexcom.com)** | **[Intern I - Manufacturing Software Systems Engineering](https://jobright.ai/jobs/info/693754c11c1c2161c13f2dfd?utm_campaign=1079&utm_source=git)** | United States | On Site | Dec 30 |
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Williams-Sonoma Corporate Internship - Technology Software Engineering](https://jobright.ai/jobs/info/693796f8aabec14a727c992b?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Dec 30 |
@@ -94,7 +93,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 US Firmware Engineering Internship](https://jobright.ai/jobs/info/695356e8f1f8465b79ea9bc1?utm_campaign=1079&utm_source=git)** | Seattle, Washington, United States | Hybrid | Dec 29 |
 | **[Ryan Specialty](https://ryanspecialty.com)** | **[Technology Development Intern](https://jobright.ai/jobs/info/69534a9d5bb7de448ef65db5?utm_campaign=1079&utm_source=git)** | Carmel - Indiana | On Site | Dec 29 |
 | ↳ | **[Technology Development Intern](https://jobright.ai/jobs/info/69534a965bb7de448ef65db1?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Dec 29 |
-| ↳ | **[Technology Development Intern](https://jobright.ai/jobs/info/695348b7935649778e210981?utm_campaign=1079&utm_source=git)** | Chicago - Illinois - Wacker | On Site | Dec 29 |
+| ↳ | **[Technology Development Intern](https://jobright.ai/jobs/info/695349cdf1f8465b79ea948c?utm_campaign=1079&utm_source=git)** | Chicago - Illinois - Wacker | On Site | Dec 29 |
 | **[TD](https://www.td.com)** | **[TD Asset Management Portfolio Analytics Developer Intern / Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6953455ff1f8465b79ea9117?utm_campaign=1079&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Dec 29 |
 | **[Archer](https://www.archer.com)** | **[Integrated Test - Software Tools Intern](https://jobright.ai/jobs/info/6953430ff1f8465b79ea9034?utm_campaign=1079&utm_source=git)** | San Jose, California, United States | On Site | Dec 29 |
 | **[Uneekor, Inc.](https://uneekor.com)** | **[Golf Simulator Testing Intern](https://jobright.ai/jobs/info/695330c9f1f8465b79ea81bd?utm_campaign=1079&utm_source=git)** | Dallas, Texas, United States | On Site | Dec 29 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[TD](https://www.td.com)** | **[Software Engineer Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/695215aa29655e4dd65aeebf?utm_campaign=1079&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 28 |
 | **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Software Development Intern - Route Optimization](https://jobright.ai/jobs/info/695215a129655e4dd65aeeba?utm_campaign=1079&utm_source=git)** | Canada, Quebec, Montreal | On Site | Dec 28 |
 | **[TD](https://www.td.com)** | **[Software Developer Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/6952158e29655e4dd65aeeb5?utm_campaign=1079&utm_source=git)** | TD Terrace - 160 Front Street West Corporate, Toronto, Ontario | Hybrid | Dec 28 |
+| ↳ | **[Software Engineer Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/6952158da2668b7f5454ac85?utm_campaign=1079&utm_source=git)** | London, Ontario | Hybrid | Dec 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
