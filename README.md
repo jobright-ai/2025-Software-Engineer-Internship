@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BEClub](https://bereaentrepreneurshipclub.my.canva.site/)** | **[Web Development Intern](https://jobright.ai/jobs/info/69532c84f1f8465b79ea7ea8?utm_campaign=1079&utm_source=git)** | Lexington, KY | Remote | Dec 29 |
+| **[ContactCenterWorld](https://www.contactcenterworld.com/)** | **[Call and Contact Center Jobs - Co-op Software Engineer, Backend](https://jobright.ai/jobs/info/69531593f1f8465b79ea5ad8?utm_campaign=1079&utm_source=git)** | Kitchener, Ontario, Canada | Hybrid | Dec 29 |
 | **[TD](https://www.td.com)** | **[TD Asset Management Portfolio Analytics Developer Intern / Co-Op (Summer 2026)](https://jobright.ai/jobs/info/69530706935649778e20cba9?utm_campaign=1079&utm_source=git)** | 161 Bay Street Corporate, Toronto, Ontario | Hybrid | Dec 29 |
 | **[Opzly AI, Inc.](opzly.ai)** | **[Content Developer - Intern](https://jobright.ai/jobs/info/69530607935649778e20cb2b?utm_campaign=1079&utm_source=git)** | Newark, DE | Remote | Dec 29 |
 | **[Nutanix](http://www.nutanix.com)** | **[Software Engineering Intern - Undergrad ONLY (Go, distributed systems, VM exp.)](https://jobright.ai/jobs/info/6952ff4ef1f8465b79ea52cc?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Dec 29 |
@@ -125,6 +127,7 @@ For a complete list, click the following sortable link below:
 | **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Embedded Software Development Intern](https://jobright.ai/jobs/info/69521385ce13cd105659a265?utm_campaign=1079&utm_source=git)** | Canada, Quebec, Montreal | On Site | Dec 28 |
 | **[Western Union](http://westernunion.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6952045fa2668b7f54548805?utm_campaign=1079&utm_source=git)** | Denver, CO | Hybrid | Dec 28 |
 | **[EdgeTrace](https://www.edgetrace.ai)** | **[AI Full-Stack Engineering Intern (Winter '26)](https://jobright.ai/jobs/info/6951ddbea2668b7f54547457?utm_campaign=1079&utm_source=git)** | San Mateo, CA | Hybrid | Dec 28 |
+| **[John Theurer Cancer Center at Hackensack University Medical Center](http://jtcancercenter.org)** | **[IT Applications Programmer V - Workday Student Technical Analyst- Digital Technology Services](https://jobright.ai/jobs/info/69531f3bf1f8465b79ea5d73?utm_campaign=1079&utm_source=git)** | Edison, NJ | On Site | Dec 28 |
 | **[Riot Games](http://www.riotgames.com)** | **[Research Scientist Intern, Next-Gen Gameplay - Summer 2026 (Remote)](https://jobright.ai/jobs/info/6908f83abcccf20de59d570f?utm_campaign=1079&utm_source=git)** | Los Angeles, USA | Remote | Dec 28 |
 | **[Western Union](http://westernunion.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69518a20a2668b7f54543077?utm_campaign=1079&utm_source=git)** | External Office Location, Denver, CO 80237 (Contractor Location) | Hybrid | Dec 28 |
 | **[Cadence](https://www.cadence.com)** | **[Software Intern](https://jobright.ai/jobs/info/69436ef4dd382f5f56697c83?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer Intern (NoSQL Databases) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68c786757d0db4114273cb73?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Development Engineer in Test Intern (TikTok-Growth)- 2026 Summer(BS/MS)](https://jobright.ai/jobs/info/68c78e9a7d0db4114273d987?utm_campaign=1079&utm_source=git)** | San Jose, CA | Remote | Dec 28 |
 | ↳ | **[Software Engineer Intern (Recommendation Infrastructure) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/68cb8203ba798c1a501d0d01?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 28 |
-| **[Performance Contracting, Inc. (PCI)](http://www.performancecontracting.com)** | **[IT Software Development Intern](https://jobright.ai/jobs/info/691d55babcdbf3560c9efe6d?utm_campaign=1079&utm_source=git)** | Lenexa, KS | On Site | Dec 28 |
-| **[ByteDance](http://bytedance.com)** | **[[Online Assessment]Backend Development Engineer Intern (Infrastructure Platform Delivery)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cea6f7846f0b04af67c097?utm_campaign=1079&utm_source=git)** | San Jose, CA | Remote | Dec 28 |
-| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Recommendation Infrastructure) - 2026 Start (PhD)](https://jobright.ai/jobs/info/693be7fc49a7695fbd02d7dd?utm_campaign=1079&utm_source=git)** | San Jose, CA | Remote | Dec 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
