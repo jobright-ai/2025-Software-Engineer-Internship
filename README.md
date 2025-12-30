@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ryan Specialty](https://ryanspecialty.com)** | **[Technology Development Intern](https://jobright.ai/jobs/info/695348b7935649778e210981?utm_campaign=1079&utm_source=git)** | Chicago - Illinois - Wacker | On Site | Dec 29 |
+| ↳ | **[Technology Development Intern](https://jobright.ai/jobs/info/69534876935649778e21095e?utm_campaign=1079&utm_source=git)** | Carmel - Indiana | On Site | Dec 29 |
+| **[TD](https://www.td.com)** | **[TD Asset Management Portfolio Analytics Developer Intern / Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6953455ff1f8465b79ea9117?utm_campaign=1079&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Dec 29 |
+| **[Archer](https://www.archer.com)** | **[Integrated Test - Software Tools Intern](https://jobright.ai/jobs/info/6953430ff1f8465b79ea9034?utm_campaign=1079&utm_source=git)** | San Jose, California, United States | On Site | Dec 29 |
+| **[GenPark](https://genpark.ai)** | **[Front End Intern](https://jobright.ai/jobs/info/695342f5f1f8465b79ea9025?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 29 |
+| **[Uneekor, Inc.](https://uneekor.com)** | **[Golf Simulator Testing Intern](https://jobright.ai/jobs/info/695330c9f1f8465b79ea81bd?utm_campaign=1079&utm_source=git)** | Dallas, Texas, United States | On Site | Dec 29 |
 | **[BEClub](https://bereaentrepreneurshipclub.my.canva.site/)** | **[Web Development Intern](https://jobright.ai/jobs/info/69532c84f1f8465b79ea7ea8?utm_campaign=1079&utm_source=git)** | Lexington, KY | Remote | Dec 29 |
 | **[ContactCenterWorld](https://www.contactcenterworld.com/)** | **[Call and Contact Center Jobs - Co-op Software Engineer, Backend](https://jobright.ai/jobs/info/69531593f1f8465b79ea5ad8?utm_campaign=1079&utm_source=git)** | Kitchener, Ontario, Canada | Hybrid | Dec 29 |
 | **[TD](https://www.td.com)** | **[TD Asset Management Portfolio Analytics Developer Intern / Co-Op (Summer 2026)](https://jobright.ai/jobs/info/69530706935649778e20cba9?utm_campaign=1079&utm_source=git)** | 161 Bay Street Corporate, Toronto, Ontario | Hybrid | Dec 29 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GoFundMe](http://www.gofundme.com)** | **[Frontend Software Engineering Intern](https://jobright.ai/jobs/info/68dc5b4fddc10244dd6748ce?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Dec 28 |
 | **[ByteDance](http://bytedance.com)** | **[Research Intern (RDMA/High Speed Network) - 2026 Start (PhD)](https://jobright.ai/jobs/info/68a3cdad37d3cc6b0d579b45?utm_campaign=1079&utm_source=git)** | Seattle, WA | Remote | Dec 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Experimentation & Evaluation, Data Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68fb1da53c99cc1d96028c84?utm_campaign=1079&utm_source=git)** | San Jose, CA | Remote | Dec 28 |
-| ↳ | **[Software Engineer Intern(Media Engine) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/693bc3f249a7695fbd02aea9?utm_campaign=1079&utm_source=git)** | San Jose, CA | Remote | Dec 28 |
-| **[ByteDance](http://bytedance.com)** | **[Research Intern (Infrastructure System Lab)- 2026 Start (PHD)](https://jobright.ai/jobs/info/68cfd1abfb49c96ca6eabc98?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Dec 28 |
-| ↳ | **[Infrastructure Engineer Intern (Compute Infrastructure - Cloud-Native )- 2026 Summer (MS/BS)](https://jobright.ai/jobs/info/68cb8e95ba798c1a501d1921?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 28 |
-| ↳ | **[Software Engineer Intern (NoSQL Databases) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68c786757d0db4114273cb73?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 28 |
-| **[TikTok](https://www.tiktok.com)** | **[Software Development Engineer in Test Intern (TikTok-Growth)- 2026 Summer(BS/MS)](https://jobright.ai/jobs/info/68c78e9a7d0db4114273d987?utm_campaign=1079&utm_source=git)** | San Jose, CA | Remote | Dec 28 |
-| ↳ | **[Software Engineer Intern (Recommendation Infrastructure) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/68cb8203ba798c1a501d0d01?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
