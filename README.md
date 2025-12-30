@@ -57,21 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Dexcom](http://www.dexcom.com)** | **[Intern I - Manufacturing Software Systems Engineering](https://jobright.ai/jobs/info/693754c11c1c2161c13f2dfd?utm_campaign=1079&utm_source=git)** | United States | On Site | Dec 30 |
+| **[GenPark](https://genpark.ai)** | **[Web Developer Intern](https://jobright.ai/jobs/info/6953f22caa05c26e7aae6e23?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Dec 30 |
+| **[London Computer Systems](https://www.lcs.com/)** | **[Software Developer Co-op/Intern](https://jobright.ai/jobs/info/6953e27cf1f8465b79eb1ad3?utm_campaign=1079&utm_source=git)** | Cincinnati, OH | On Site | Dec 30 |
+| **[Adps AI](https://www.adps.ai)** | **[AWS Cloud Engineer internship (unpaid )](https://jobright.ai/jobs/info/6953db59f1f8465b79eb185f?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | On Site | Dec 30 |
 | **[Ciena](http://www.ciena.com)** | **[Verification Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/69371379a0dde7020e2fed0a?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Dec 30 |
+| **[Dexcom](http://www.dexcom.com)** | **[Intern I - Manufacturing Software Systems Engineering](https://jobright.ai/jobs/info/693754c11c1c2161c13f2dfd?utm_campaign=1079&utm_source=git)** | United States | On Site | Dec 30 |
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Williams-Sonoma Corporate Internship - Technology Software Engineering](https://jobright.ai/jobs/info/693796f8aabec14a727c992b?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Dec 30 |
 | **[Etched](https://www.etched.com)** | **[Architecture Intern - Inference](https://jobright.ai/jobs/info/69379c9b1c1c2161c13f6475?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 30 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Enterprise Architecture](https://jobright.ai/jobs/info/69373fe1a0dde7020e300760?utm_campaign=1079&utm_source=git)** | Arlington, TX | Hybrid | Dec 30 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Software Engineering Intern, AMER](https://jobright.ai/jobs/info/68cd4252b2a74e1837ed491f?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Dec 30 |
 | **[Etched](https://www.etched.com)** | **[Software Intern](https://jobright.ai/jobs/info/69379abbaabec14a727c9b52?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 30 |
-| **[Trishula AI](https://trishula-guard-connect.lovable.app/)** | **[Software Intern](https://jobright.ai/jobs/info/6953c681f1f8465b79eb04dd?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 30 |
 | **[Discount Tire](http://www.discounttire.com/dtcs/home.do)** | **[Information Technology Intern - System Operations/AI](https://jobright.ai/jobs/info/6914849f6f36db06ef047a33?utm_campaign=1079&utm_source=git)** | Scottsdale, AZ | On Site | Dec 30 |
 | ↳ | **[Information Technology Intern - Full Stack Developer](https://jobright.ai/jobs/info/691490f86f36db06ef047cfa?utm_campaign=1079&utm_source=git)** | Phoenix, AZ | On Site | Dec 30 |
 | **[STMicroelectronics](https://www.st.com)** | **[Imaging Application Intern](https://jobright.ai/jobs/info/693753de1c1c2161c13f2d40?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Dec 30 |
 | **[Discount Tire](http://www.discounttire.com/dtcs/home.do)** | **[Information Technology Intern - QMO Engineering](https://jobright.ai/jobs/info/6914a20e286ccf0a15127a04?utm_campaign=1079&utm_source=git)** | Scottsdale, AZ | On Site | Dec 30 |
 | **[Panasonic Avionics Corporation](http://www.panasonic.aero)** | **[Intern-Software Developer](https://jobright.ai/jobs/info/6937adc2aabec14a727cb267?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Dec 30 |
 | **[Arcus Biosciences](http://www.arcusbio.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/693748cba0dde7020e300e06?utm_campaign=1079&utm_source=git)** | Hayward, CA | On Site | Dec 30 |
-| **[GenPark](https://genpark.ai)** | **[Front end developer intern](https://jobright.ai/jobs/info/6953bb3ff1f8465b79eaf208?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Dec 30 |
 | **[Nokia](http://www.nokia.com)** | **[Embedded Software Engineer Intern](https://jobright.ai/jobs/info/69487cdb63141d18845822aa?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Dec 30 |
 | **[ADM](http://www.adm.com)** | **[COBOL Developer Intern - Erlanger, KY](https://jobright.ai/jobs/info/6947786463141d1884571e8d?utm_campaign=1079&utm_source=git)** | Erlanger, KY | On Site | Dec 30 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Software Engineering Intern Summer 2026](https://jobright.ai/jobs/info/6937b139a0dde7020e306358?utm_campaign=1079&utm_source=git)** | Shoreview, MN | On Site | Dec 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Development Intern - Mobile Application](https://jobright.ai/jobs/info/695213e4ce13cd105659a27e?utm_campaign=1079&utm_source=git)** | Canada, Quebec, Montreal | On Site | Dec 28 |
 | **[TD](https://www.td.com)** | **[Mobile Software Engineer Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/695213dece13cd105659a27c?utm_campaign=1079&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 28 |
 | **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Embedded Software Development Intern](https://jobright.ai/jobs/info/69521385ce13cd105659a265?utm_campaign=1079&utm_source=git)** | Canada, Quebec, Montreal | On Site | Dec 28 |
-| **[Western Union](http://westernunion.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6952045fa2668b7f54548805?utm_campaign=1079&utm_source=git)** | Denver, CO | Hybrid | Dec 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
