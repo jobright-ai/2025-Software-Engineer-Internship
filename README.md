@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TD](https://www.td.com)** | **[TD Asset Management Portfolio Analytics Developer Intern / Co-Op (Summer 2026)](https://jobright.ai/jobs/info/69530706935649778e20cba9?utm_campaign=1079&utm_source=git)** | 161 Bay Street Corporate, Toronto, Ontario | Hybrid | Dec 29 |
+| **[Opzly AI, Inc.](opzly.ai)** | **[Content Developer - Intern](https://jobright.ai/jobs/info/69530607935649778e20cb2b?utm_campaign=1079&utm_source=git)** | Newark, DE | Remote | Dec 29 |
+| **[Nutanix](http://www.nutanix.com)** | **[Software Engineering Intern - Undergrad ONLY (Go, distributed systems, VM exp.)](https://jobright.ai/jobs/info/6952ff4ef1f8465b79ea52cc?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Dec 29 |
+| **[ABB](https://global.abb/group/en)** | **[Full Stack Developer Intern- Summer 2026](https://jobright.ai/jobs/info/6931095bef4b48533d151c4c?utm_campaign=1079&utm_source=git)** | Cary, NC | Hybrid | Dec 29 |
+| **[Societe Generale](https://www.societegenerale.com)** | **[2026 Software Developer Summer Analyst Program - Chicago](https://jobright.ai/jobs/info/6952f705f1f8465b79ea4f2f?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Dec 29 |
 | **[ASM](https://www.asm.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6952ef175bb7de448ef60925?utm_campaign=1079&utm_source=git)** | Mt. Laurel, NJ | On Site | Dec 29 |
 | ↳ | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6952ecf4935649778e20b7c8?utm_campaign=1079&utm_source=git)** | Greater Phoenix Area | On Site | Dec 29 |
 | **[Veryable](http://veryableops.com)** | **[Backend Engineer Intern (Marketplace) - Unpaid](https://jobright.ai/jobs/info/6952eafff1f8465b79ea4028?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Dec 29 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Performance Contracting, Inc. (PCI)](http://www.performancecontracting.com)** | **[IT Software Development Intern](https://jobright.ai/jobs/info/691d55babcdbf3560c9efe6d?utm_campaign=1079&utm_source=git)** | Lenexa, KS | On Site | Dec 28 |
 | **[ByteDance](http://bytedance.com)** | **[[Online Assessment]Backend Development Engineer Intern (Infrastructure Platform Delivery)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cea6f7846f0b04af67c097?utm_campaign=1079&utm_source=git)** | San Jose, CA | Remote | Dec 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Recommendation Infrastructure) - 2026 Start (PhD)](https://jobright.ai/jobs/info/693be7fc49a7695fbd02d7dd?utm_campaign=1079&utm_source=git)** | San Jose, CA | Remote | Dec 28 |
-| ↳ | **[Software Engineer Intern (Global CRM) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/693d34a949a7695fbd03e706?utm_campaign=1079&utm_source=git)** | San Jose, CA | Remote | Dec 28 |
-| ↳ | **[Software Engineer Project Intern (Platform efficiency) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cd7b0de23def7af55ba926?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 28 |
-| ↳ | **[Software Engineer Intern (Capital Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68ccd10cb274cd205ab4f749?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 28 |
-| **[ByteDance](http://bytedance.com)** | **[[Online Assessment] Software Engineer Intern (NoSQL Databases) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68c8b2c5983e6768bc5507f6?utm_campaign=1079&utm_source=git)** | Seattle, WA | Remote | Dec 28 |
-| **[TikTok](https://www.tiktok.com)** | **[Software Development Test Engineer Intern (Trust and Safety - QA)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cbfdb5128dc347fd91d020?utm_campaign=1079&utm_source=git)** | San Jose, CA | Remote | Dec 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
