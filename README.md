@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[IT Innovation Intern or Co-op - Summer 2026](https://jobright.ai/jobs/info/695495bc5bb7de448ef78f54?utm_campaign=1079&utm_source=git)** | Parsippany, NJ | On Site | Dec 30 |
+| **[ABB](https://global.abb/group/en)** | **[Software Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/69088aadbcccf20de59d13db?utm_campaign=1079&utm_source=git)** | Bartlesville, OK | Hybrid | Dec 30 |
+| **[Sandisk](https://www.sandisk.com/en-in)** | **[Summer 2026 Intern, Firmware Verification Engineering](https://jobright.ai/jobs/info/695489a7aa05c26e7aaf0961?utm_campaign=1079&utm_source=git)** | Milpitas, CA | On Site | Dec 30 |
 | **[SMS group](http://www.sms-group.com/)** | **[Intern- Software Developer](https://jobright.ai/jobs/info/695480ee5bb7de448ef77a03?utm_campaign=1079&utm_source=git)** | Pittsburgh, PA | On Site | Dec 30 |
-| **[Eva Eco System, Inc](https://vapewitheva.com)** | **[Backend Developer - Internship](https://jobright.ai/jobs/info/695480ac5bb7de448ef77952?utm_campaign=1079&utm_source=git)** | SD Metro Area | Remote | Dec 30 |
 | **[Chemelex](https://www.chemelex.com)** | **[Research & Development - Engineering Intern](https://jobright.ai/jobs/info/69547e54aa05c26e7aaef466?utm_campaign=1079&utm_source=git)** | Edmonton, AB, Canada | Hybrid | Dec 30 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[IT Innovation Intern or Co-op - Summer 2026](https://jobright.ai/jobs/info/69547c0c5bb7de448ef76f1a?utm_campaign=1079&utm_source=git)** | Parsippany, NJ, US, 07054-2172 | On Site | Dec 30 |
-| **[The Aerospace Corporation](http://www.aerospace.org)** | **[2026 Software Implementation and Integration Grad Intern](https://jobright.ai/jobs/info/695478b7aa05c26e7aaee9ac?utm_campaign=1079&utm_source=git)** | Chantilly, VA | On Site | Dec 30 |
+| **[The Aerospace Corporation](http://www.aerospace.org)** | **[2026 Software Implementation and Integration Grad Intern](https://jobright.ai/jobs/info/69547bbaaa05c26e7aaeef88?utm_campaign=1079&utm_source=git)** | Chantilly, VA | On Site | Dec 30 |
+| **[Sandisk](https://www.sandisk.com/en-in)** | **[Summer 2026 Intern, Firmware Verification Engineering](https://jobright.ai/jobs/info/69548c96aa05c26e7aaf0ac3?utm_campaign=1079&utm_source=git)** | Milpitas, CA | Hybrid | Dec 30 |
 | **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Software Quality Assurance Intern](https://jobright.ai/jobs/info/69546d065bb7de448ef75a11?utm_campaign=1079&utm_source=git)** | Canada, Quebec, Montreal | On Site | Dec 30 |
 | ↳ | **[R&D Solution Builder Intern](https://jobright.ai/jobs/info/69546991aa05c26e7aaedd90?utm_campaign=1079&utm_source=git)** | Canada, Quebec, Montreal | On Site | Dec 30 |
 | **[McNeilus Truck and Manufacturing, Inc.](https://mcneilusgarbagetrucks.com)** | **[Digital Technology Intern (Summer 2026)](https://jobright.ai/jobs/info/69546839aa05c26e7aaedccd?utm_campaign=1079&utm_source=git)** | Dodge Center, MN | On Site | Dec 30 |
@@ -111,11 +114,12 @@ For a complete list, click the following sortable link below:
 | **[Archer](https://www.archer.com)** | **[Integrated Test - Software Tools Intern](https://jobright.ai/jobs/info/6953666b5bb7de448ef688a2?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 29 |
 | **[Axon](https://www.axon.com)** | **[2026 US Embedded Industrial Design Internship](https://jobright.ai/jobs/info/6953589f5bb7de448ef67875?utm_campaign=1079&utm_source=git)** | Scottsdale, Arizona, United States | Hybrid | Dec 29 |
 | ↳ | **[2026 US Firmware Engineering Internship](https://jobright.ai/jobs/info/695356e8f1f8465b79ea9bc1?utm_campaign=1079&utm_source=git)** | Seattle, Washington, United States | Hybrid | Dec 29 |
-| **[Ryan Specialty](https://ryanspecialty.com)** | **[Technology Development Intern](https://jobright.ai/jobs/info/69534a965bb7de448ef65db1?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Dec 29 |
-| ↳ | **[Technology Development Intern](https://jobright.ai/jobs/info/695348b7935649778e210981?utm_campaign=1079&utm_source=git)** | Chicago - Illinois - Wacker | On Site | Dec 29 |
-| ↳ | **[Technology Development Intern](https://jobright.ai/jobs/info/69534876935649778e21095e?utm_campaign=1079&utm_source=git)** | Carmel - Indiana | On Site | Dec 29 |
+| **[Ryan Specialty](https://ryanspecialty.com)** | **[Technology Development Intern](https://jobright.ai/jobs/info/69534a9d5bb7de448ef65db5?utm_campaign=1079&utm_source=git)** | Carmel - Indiana | On Site | Dec 29 |
+| ↳ | **[Technology Development Intern](https://jobright.ai/jobs/info/69534a965bb7de448ef65db1?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Dec 29 |
+| ↳ | **[Technology Development Intern](https://jobright.ai/jobs/info/695349cdf1f8465b79ea948c?utm_campaign=1079&utm_source=git)** | Chicago - Illinois - Wacker | On Site | Dec 29 |
 | **[TD](https://www.td.com)** | **[TD Asset Management Portfolio Analytics Developer Intern / Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6953455ff1f8465b79ea9117?utm_campaign=1079&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Dec 29 |
 | **[Archer](https://www.archer.com)** | **[Integrated Test - Software Tools Intern](https://jobright.ai/jobs/info/6953430ff1f8465b79ea9034?utm_campaign=1079&utm_source=git)** | San Jose, California, United States | On Site | Dec 29 |
+| **[TD](https://www.td.com)** | **[AI2 Software Engineer Co-op/Intern (SUMMER 2026)](https://jobright.ai/jobs/info/69548e6caa05c26e7aaf0c50?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | **[Uneekor, Inc.](https://uneekor.com)** | **[Golf Simulator Testing Intern](https://jobright.ai/jobs/info/695330c9f1f8465b79ea81bd?utm_campaign=1079&utm_source=git)** | Dallas, Texas, United States | On Site | Dec 29 |
 | **[SMS group USA](http://www.sms-group.us)** | **[Intern- Software Developer](https://jobright.ai/jobs/info/69543d1baa05c26e7aaea8ef?utm_campaign=1079&utm_source=git)** | Pittsburgh, PA | On Site | Dec 29 |
 | **[ContactCenterWorld](https://www.contactcenterworld.com/)** | **[Call and Contact Center Jobs - Co-op Software Engineer, Backend](https://jobright.ai/jobs/info/69531593f1f8465b79ea5ad8?utm_campaign=1079&utm_source=git)** | Kitchener, Ontario, Canada | Hybrid | Dec 29 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Constellation](https://www.constellationenergy.com/)** | **[2026 Summer Information Technology Intern](https://jobright.ai/jobs/info/68cd3ff5b2a74e1837ed456f?utm_campaign=1079&utm_source=git)** | Baltimore, MD | Hybrid | Dec 29 |
 | **[Ramp](https://ramp.com)** | **[Software Engineer Internship / Frontend](https://jobright.ai/jobs/info/69188a7d45fb6f5ead8a5cfa?utm_campaign=1079&utm_source=git)** | New York, United States | On Site | Dec 29 |
 | ↳ | **[Software Engineer Internship / iOS](https://jobright.ai/jobs/info/691889fe45fb6f5ead8a5cd3?utm_campaign=1079&utm_source=git)** | New York, United States | On Site | Dec 29 |
-| **[FieldAI](https://www.fieldai.com)** | **[2.95 Software Engineering Intern: Quality Assurance](https://jobright.ai/jobs/info/68e06abef758fe1f97e4cecf?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Dec 29 |
-| **[Sift](https://www.siftstack.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68f66f8a9a65fd345859336c?utm_campaign=1079&utm_source=git)** | El Segundo, CA | Hybrid | Dec 29 |
-| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Recommendation Infrastructure) - 2026 Summer (Bachelor/Master)](https://jobright.ai/jobs/info/68ce38b31ad6b16f028a3347?utm_campaign=1079&utm_source=git)** | San Jose, CA | Remote | Dec 29 |
-| **[ByteDance](http://bytedance.com)** | **[Software Engineer Intern (Traffic Platform)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/690dbc82d046ab6061cf8a37?utm_campaign=1079&utm_source=git)** | San Jose, CA | Remote | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
