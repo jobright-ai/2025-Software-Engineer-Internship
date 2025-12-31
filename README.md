@@ -57,13 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Backend Software Engineer Intern (TikTok-PGC-Creator Strategy) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/695462b4aa05c26e7aaedb19?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Dec 30 |
+| **[Chorus Call Inc.](http://choruscall.com/)** | **[Software Engineer Co-op](https://jobright.ai/jobs/info/69545b7c5bb7de448ef7527b?utm_campaign=1079&utm_source=git)** | Monroeville, PA | On Site | Dec 30 |
+| **[Geotab](http://www.geotab.com/)** | **[Embedded Developer Intern, GO Anywhere (Summer/May 2026, 12-16 Months)](https://jobright.ai/jobs/info/6954563e5bb7de448ef74ef3?utm_campaign=1079&utm_source=git)** | Oakville, Ontario - Canada | Remote | Dec 30 |
+| **[VT Group (VTG)](https://vtgdefense.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6954550a5bb7de448ef74ddc?utm_campaign=1079&utm_source=git)** | Manassas, VA | On Site | Dec 30 |
+| **[Plug Power](https://www.plugpower.com)** | **[Embedded Software Intern](https://jobright.ai/jobs/info/69543453f1f8465b79eb5546?utm_campaign=1079&utm_source=git)** | Albany, NY | On Site | Dec 30 |
+| **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer Service Integration Internship](https://jobright.ai/jobs/info/69326089a0dde7020e2e64d2?utm_campaign=1079&utm_source=git)** | California, United States | Hybrid | Dec 30 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Software Development Intern (Identity) - Summer 2026](https://jobright.ai/jobs/info/690e894bd046ab6061cfea51?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Dec 30 |
 | **[S&P Global](https://www.spglobal.com)** | **[Summer Intern, Technology Platform Engineering](https://jobright.ai/jobs/info/69543aa3aa05c26e7aaea71f?utm_campaign=1079&utm_source=git)** | Princeton, NJ | On Site | Dec 30 |
 | **[Schonfeld](http://www.schonfeld.com/)** | **[2026 Software Engineering Summer Intern](https://jobright.ai/jobs/info/695439c5aa05c26e7aaea686?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Dec 30 |
 | **[Marketeq Media Inc.](http://marketeqmedia.co)** | **[Typescript/Nest.js, Postgres, AI/ML - Backend Development Internship](https://jobright.ai/jobs/info/695436ebf1f8465b79eb56cc?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 30 |
-| **[Plug Power](https://www.plugpower.com)** | **[Embedded Software Intern](https://jobright.ai/jobs/info/69543453f1f8465b79eb5546?utm_campaign=1079&utm_source=git)** | Albany, NY | On Site | Dec 30 |
 | **[Dialpad](https://www.dialpad.com)** | **[Software Engineer Coop](https://jobright.ai/jobs/info/693a00da56b68f3dc4e754f0?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Dec 30 |
-| **[Arc](https://arcboats.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69543221f1f8465b79eb545d?utm_campaign=1079&utm_source=git)** | Torrance, CA | On Site | Dec 30 |
 | **[Lanteris Space Systems](https://www.lanterisspace.com)** | **[Intern, Flight Software Lab Engineering](https://jobright.ai/jobs/info/69543106f1f8465b79eb5353?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 30 |
 | **[CAPTRUST](https://www.captrust.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69541f32f1f8465b79eb45f1?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Dec 30 |
 | **[United Protective Technologies](https://www.upt-usa.com)** | **[Computer Engineering Intern](https://jobright.ai/jobs/info/69541938f1f8465b79eb4499?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Dec 30 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Information Technology Internship - summer 2026](https://jobright.ai/jobs/info/68eb6a8876a1db7c5985fef1?utm_campaign=1079&utm_source=git)** | Middleton, WI | On Site | Dec 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Development Engineer in Test Intern (TikTok-Privacy and Security-Business Risk Integrated Control)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cda07bb2a74e1837eda0e3?utm_campaign=1079&utm_source=git)** | San Jose, CA | Remote | Dec 29 |
 | **[Lord, Abbett & Co. LLC](https://www.lordabbett.com/en.html)** | **[Technology Associate, Internship - Summer 2026](https://jobright.ai/jobs/info/69524c6e5bb7de448ef57b5f?utm_campaign=1079&utm_source=git)** | Jersey City, NJ | On Site | Dec 29 |
-| **[TD](https://www.td.com)** | **[Software Developer Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/695242e3f1f8465b79e99772?utm_campaign=1079&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Dec 29 |
-| **[TD Securities](https://www.tdsecurities.com)** | **[Software Developer Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/6952241829655e4dd65af2eb?utm_campaign=1079&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Dec 28 |
-| ↳ | **[Software Engineer Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/6952238029655e4dd65af2cc?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 28 |
-| ↳ | **[Mobile Software Engineer Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/69522289ce13cd105659a6fc?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
