@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Astranis Space Technologies](http://www.astranis.com)** | **[Embedded Software Developer, Network/Payload Software Intern (Spring 2026)](https://jobright.ai/jobs/info/695599ebf1f8465b79ec9053?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Dec 31 |
+| **[Astranis Space Technologies](http://www.astranis.com)** | **[Embedded Software Developer, Network/Payload Software Intern 2026](https://jobright.ai/jobs/info/69559da09f1b381eb26edacd?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Dec 31 |
+| ↳ | **[Embedded Software Developer, Network/Payload Software Intern (Spring 2026)](https://jobright.ai/jobs/info/695599ebf1f8465b79ec9053?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Dec 31 |
 | ↳ | **[Embedded Software Developer, Network/Payload Software Intern 2026](https://jobright.ai/jobs/info/695572059f1b381eb26ec479?utm_campaign=1079&utm_source=git)** | San Francisco | On Site | Dec 31 |
 | ↳ | **[Embedded Software Developer, Network/Payload Software Intern (Fall 2026)](https://jobright.ai/jobs/info/695571eb9f1b381eb26ec466?utm_campaign=1079&utm_source=git)** | San Francisco | On Site | Dec 31 |
 | ↳ | **[Embedded Software Developer, Network/Payload Software Intern (Summer 2026)](https://jobright.ai/jobs/info/69556f3caa05c26e7aafc89f?utm_campaign=1079&utm_source=git)** | San Francisco | On Site | Dec 31 |
@@ -87,7 +88,7 @@ For a complete list, click the following sortable link below:
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Software Engineering Intern - C#](https://jobright.ai/jobs/info/69389e14aabec14a727d84fc?utm_campaign=1079&utm_source=git)** | Cary, NC | On Site | Dec 31 |
 | **[ByteDance](http://bytedance.com)** | **[[Online Assessment]Network Software Development Engineer Intern (Network Switch) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/68ffeecfe04ac838fb5bd859?utm_campaign=1079&utm_source=git)** | San Jose, CA | Remote | Dec 31 |
 | **[Amazon](https://amazon.com)** | **[Software Development Engineer Internship - Summer 2026 (Canada)](https://jobright.ai/jobs/info/691c8402ff70244984168441?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Dec 31 |
-| **[Nokia](http://www.nokia.com)** | **[Software Engineer Co-op/Intern](https://jobright.ai/jobs/info/69389c34aabec14a727d8175?utm_campaign=1079&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Dec 31 |
+| **[Nokia](http://www.nokia.com)** | **[Software Engineer Co-op/Intern](https://jobright.ai/jobs/info/6938afaab95c305f206ded70?utm_campaign=1079&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Dec 31 |
 | **[HP](http://www.hp.com)** | **[Software Developer Internship](https://jobright.ai/jobs/info/69514be329655e4dd65a5090?utm_campaign=1079&utm_source=git)** | Spring, TX | On Site | Dec 31 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate QA Analyst](https://jobright.ai/jobs/info/6938f25faabec14a727de453?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Dec 31 |
 | ↳ | **[2026 Summer Intern: Associate QA Analyst](https://jobright.ai/jobs/info/6938ed30a0dde7020e318b17?utm_campaign=1079&utm_source=git)** | Maryland Heights, MO | On Site | Dec 31 |
@@ -95,13 +96,12 @@ For a complete list, click the following sortable link below:
 | **[Scale AI](https://scale.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68bf2491702aa35207aa361b?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Dec 30 |
 | **[Peraton](https://www.peraton.com/)** | **[Summer 2026 Computer Engineering Intern- Topeka, KS](https://jobright.ai/jobs/info/68cce0e9d11b445e0bee38c5?utm_campaign=1079&utm_source=git)** | Topeka, KS | On Site | Dec 30 |
 | ↳ | **[Summer 2026 Software Development Analyst Intern- Topeka, KS](https://jobright.ai/jobs/info/68ccef79d11b445e0bee48d6?utm_campaign=1079&utm_source=git)** | Topeka, KS | On Site | Dec 30 |
-| **[Egotechworld](https://egotechworld.com/)** | **[Software Quality Assurance Intern](https://jobright.ai/jobs/info/6954aad9aa05c26e7aaf226c?utm_campaign=1079&utm_source=git)** | Mobile, AL | Remote | Dec 30 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[IT Innovation Intern or Co-op - Summer 2026](https://jobright.ai/jobs/info/695495bc5bb7de448ef78f54?utm_campaign=1079&utm_source=git)** | Parsippany, NJ | On Site | Dec 30 |
 | **[ABB](https://global.abb/group/en)** | **[Software Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/69088aadbcccf20de59d13db?utm_campaign=1079&utm_source=git)** | Bartlesville, OK | Hybrid | Dec 30 |
 | **[Sandisk](https://www.sandisk.com/en-in)** | **[Summer 2026 Intern, Firmware Verification Engineering](https://jobright.ai/jobs/info/695489a7aa05c26e7aaf0961?utm_campaign=1079&utm_source=git)** | Milpitas, CA | On Site | Dec 30 |
 | **[SMS group](http://www.sms-group.com/)** | **[Intern- Software Developer](https://jobright.ai/jobs/info/695480ee5bb7de448ef77a03?utm_campaign=1079&utm_source=git)** | Pittsburgh, PA | On Site | Dec 30 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[IT Innovation Intern or Co-op - Summer 2026](https://jobright.ai/jobs/info/69547c0c5bb7de448ef76f1a?utm_campaign=1079&utm_source=git)** | Parsippany, NJ, US, 07054-2172 | On Site | Dec 30 |
-| **[The Aerospace Corporation](http://www.aerospace.org)** | **[2026 Software Implementation and Integration Grad Intern](https://jobright.ai/jobs/info/695478b7aa05c26e7aaee9ac?utm_campaign=1079&utm_source=git)** | Chantilly, VA | On Site | Dec 30 |
+| **[The Aerospace Corporation](http://www.aerospace.org)** | **[2026 Software Implementation and Integration Grad Intern](https://jobright.ai/jobs/info/69547bbaaa05c26e7aaeef88?utm_campaign=1079&utm_source=git)** | Chantilly, VA | On Site | Dec 30 |
 | **[Sandisk](https://www.sandisk.com/en-in)** | **[Summer 2026 Intern, Firmware Verification Engineering](https://jobright.ai/jobs/info/69548c96aa05c26e7aaf0ac3?utm_campaign=1079&utm_source=git)** | Milpitas, CA | Hybrid | Dec 30 |
 | **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Software Quality Assurance Intern](https://jobright.ai/jobs/info/69546d065bb7de448ef75a11?utm_campaign=1079&utm_source=git)** | Canada, Quebec, Montreal | On Site | Dec 30 |
 | ↳ | **[R&D Solution Builder Intern](https://jobright.ai/jobs/info/69546991aa05c26e7aaedd90?utm_campaign=1079&utm_source=git)** | Canada, Quebec, Montreal | On Site | Dec 30 |
@@ -147,9 +147,9 @@ For a complete list, click the following sortable link below:
 | **[Archer](https://www.archer.com)** | **[Integrated Test - Software Tools Intern](https://jobright.ai/jobs/info/6953666b5bb7de448ef688a2?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 29 |
 | **[Axon](https://www.axon.com)** | **[2026 US Embedded Industrial Design Internship](https://jobright.ai/jobs/info/6953589f5bb7de448ef67875?utm_campaign=1079&utm_source=git)** | Scottsdale, Arizona, United States | Hybrid | Dec 29 |
 | ↳ | **[2026 US Firmware Engineering Internship](https://jobright.ai/jobs/info/695356e8f1f8465b79ea9bc1?utm_campaign=1079&utm_source=git)** | Seattle, Washington, United States | Hybrid | Dec 29 |
-| **[Ryan Specialty](https://ryanspecialty.com)** | **[Technology Development Intern](https://jobright.ai/jobs/info/69534a965bb7de448ef65db1?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Dec 29 |
+| **[Ryan Specialty](https://ryanspecialty.com)** | **[Technology Development Intern](https://jobright.ai/jobs/info/69534a9d5bb7de448ef65db5?utm_campaign=1079&utm_source=git)** | Carmel - Indiana | On Site | Dec 29 |
+| ↳ | **[Technology Development Intern](https://jobright.ai/jobs/info/69534a965bb7de448ef65db1?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Dec 29 |
 | ↳ | **[Technology Development Intern](https://jobright.ai/jobs/info/695349cdf1f8465b79ea948c?utm_campaign=1079&utm_source=git)** | Chicago - Illinois - Wacker | On Site | Dec 29 |
-| ↳ | **[Technology Development Intern](https://jobright.ai/jobs/info/69534876935649778e21095e?utm_campaign=1079&utm_source=git)** | Carmel - Indiana | On Site | Dec 29 |
 | **[TD](https://www.td.com)** | **[TD Asset Management Portfolio Analytics Developer Intern / Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6953455ff1f8465b79ea9117?utm_campaign=1079&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Dec 29 |
 | **[Archer](https://www.archer.com)** | **[Integrated Test - Software Tools Intern](https://jobright.ai/jobs/info/6953430ff1f8465b79ea9034?utm_campaign=1079&utm_source=git)** | San Jose, California, United States | On Site | Dec 29 |
 | **[TD](https://www.td.com)** | **[AI2 Software Engineer Co-op/Intern (SUMMER 2026)](https://jobright.ai/jobs/info/69548e6caa05c26e7aaf0c50?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
