@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nokia](http://www.nokia.com)** | **[Test Developer Co-op/Intern](https://jobright.ai/jobs/info/6955dabbf1f8465b79ecc223?utm_campaign=1079&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2T6, CA | Hybrid | Dec 31 |
+| **[Ruoff Mortgage](http://ruoff.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/6955d704f1f8465b79ecbc5f?utm_campaign=1079&utm_source=git)** | Fort Wayne,IN,US | On Site | Dec 31 |
 | **[ASM](https://www.asm.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6952cecc935649778e208e3d?utm_campaign=1079&utm_source=git)** | US > New Jersey > Mt Laurel | On Site | Dec 31 |
 | **[Syska Hennessy Group](http://www.syska.com)** | **[Software Developer (Innovation) Summer Intern](https://jobright.ai/jobs/info/6903ebd1ff462851feff0ad3?utm_campaign=1079&utm_source=git)** | New York | On Site | Dec 31 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Embedded Software Developer, Network/Payload Software Intern 2026](https://jobright.ai/jobs/info/69559da09f1b381eb26edacd?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Dec 31 |
@@ -64,8 +66,7 @@ For a complete list, click the following sortable link below:
 | **[DC Info Tech Pvt Ltd](https://dcinfotech.org.in)** | **[Google Cloud Engineer Internship Program](https://jobright.ai/jobs/info/6955b8f29f1b381eb26ef17e?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 31 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Embedded Software Developer, Network/Payload Software Intern (Fall 2026)](https://jobright.ai/jobs/info/6955ce129f1b381eb26ef906?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Dec 31 |
 | ↳ | **[Embedded Software Developer, Network/Payload Software Intern (Summer 2026)](https://jobright.ai/jobs/info/6955c6f0f1f8465b79ecadff?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Dec 31 |
-| **[Marketeq Media Inc.](http://marketeqmedia.co)** | **[Nest.js / Typescript, Postgres, AI/ML - Backend Engineering Internship](https://jobright.ai/jobs/info/6955cff29f1b381eb26ef9ca?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 31 |
-| **[Astranis Space Technologies](http://www.astranis.com)** | **[Embedded Software Developer, Network/Payload Software Intern 2026](https://jobright.ai/jobs/info/695572059f1b381eb26ec479?utm_campaign=1079&utm_source=git)** | San Francisco | On Site | Dec 31 |
+| ↳ | **[Embedded Software Developer, Network/Payload Software Intern 2026](https://jobright.ai/jobs/info/695572059f1b381eb26ec479?utm_campaign=1079&utm_source=git)** | San Francisco | On Site | Dec 31 |
 | ↳ | **[Embedded Software Developer, Network/Payload Software Intern (Fall 2026)](https://jobright.ai/jobs/info/695571eb9f1b381eb26ec466?utm_campaign=1079&utm_source=git)** | San Francisco | On Site | Dec 31 |
 | ↳ | **[Embedded Software Developer, Network/Payload Software Intern (Summer 2026)](https://jobright.ai/jobs/info/69556f3caa05c26e7aafc89f?utm_campaign=1079&utm_source=git)** | San Francisco | On Site | Dec 31 |
 | ↳ | **[Embedded Software Developer, Network/Payload Software Intern (Spring 2026)](https://jobright.ai/jobs/info/69556c949f1b381eb26ec2b3?utm_campaign=1079&utm_source=git)** | San Francisco | On Site | Dec 31 |
@@ -153,8 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Archer](https://www.archer.com)** | **[Integrated Test - Software Tools Intern](https://jobright.ai/jobs/info/6953666b5bb7de448ef688a2?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 29 |
 | **[Axon](https://www.axon.com)** | **[2026 US Embedded Industrial Design Internship](https://jobright.ai/jobs/info/6953589f5bb7de448ef67875?utm_campaign=1079&utm_source=git)** | Scottsdale, Arizona, United States | Hybrid | Dec 29 |
 | ↳ | **[2026 US Firmware Engineering Internship](https://jobright.ai/jobs/info/695356e8f1f8465b79ea9bc1?utm_campaign=1079&utm_source=git)** | Seattle, Washington, United States | Hybrid | Dec 29 |
-| **[Ryan Specialty](https://ryanspecialty.com)** | **[Technology Development Intern](https://jobright.ai/jobs/info/69534a9d5bb7de448ef65db5?utm_campaign=1079&utm_source=git)** | Carmel - Indiana | On Site | Dec 29 |
-| ↳ | **[Technology Development Intern](https://jobright.ai/jobs/info/69534a965bb7de448ef65db1?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Dec 29 |
+| **[Ryan Specialty](https://ryanspecialty.com)** | **[Technology Development Intern](https://jobright.ai/jobs/info/69534a965bb7de448ef65db1?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Dec 29 |
 | ↳ | **[Technology Development Intern](https://jobright.ai/jobs/info/695349cdf1f8465b79ea948c?utm_campaign=1079&utm_source=git)** | Chicago - Illinois - Wacker | On Site | Dec 29 |
-| **[TD](https://www.td.com)** | **[TD Asset Management Portfolio Analytics Developer Intern / Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6953455ff1f8465b79ea9117?utm_campaign=1079&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Dec 29 |
+| ↳ | **[Technology Development Intern](https://jobright.ai/jobs/info/69534876935649778e21095e?utm_campaign=1079&utm_source=git)** | Carmel - Indiana | On Site | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
