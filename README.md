@@ -57,9 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ASM](https://www.asm.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6952cecc935649778e208e3d?utm_campaign=1079&utm_source=git)** | US > New Jersey > Mt Laurel | On Site | Dec 31 |
+| **[Syska Hennessy Group](http://www.syska.com)** | **[Software Developer (Innovation) Summer Intern](https://jobright.ai/jobs/info/6903ebd1ff462851feff0ad3?utm_campaign=1079&utm_source=git)** | New York | On Site | Dec 31 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Embedded Software Developer, Network/Payload Software Intern 2026](https://jobright.ai/jobs/info/69559da09f1b381eb26edacd?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Dec 31 |
 | ↳ | **[Embedded Software Developer, Network/Payload Software Intern (Spring 2026)](https://jobright.ai/jobs/info/695599ebf1f8465b79ec9053?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Dec 31 |
-| ↳ | **[Embedded Software Developer, Network/Payload Software Intern 2026](https://jobright.ai/jobs/info/695572059f1b381eb26ec479?utm_campaign=1079&utm_source=git)** | San Francisco | On Site | Dec 31 |
+| **[DC Info Tech Pvt Ltd](https://dcinfotech.org.in)** | **[Google Cloud Engineer Internship Program](https://jobright.ai/jobs/info/6955b8f29f1b381eb26ef17e?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 31 |
+| **[Astranis Space Technologies](http://www.astranis.com)** | **[Embedded Software Developer, Network/Payload Software Intern (Fall 2026)](https://jobright.ai/jobs/info/6955ce129f1b381eb26ef906?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Dec 31 |
+| ↳ | **[Embedded Software Developer, Network/Payload Software Intern (Summer 2026)](https://jobright.ai/jobs/info/6955c6f0f1f8465b79ecadff?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Dec 31 |
+| **[Marketeq Media Inc.](http://marketeqmedia.co)** | **[Nest.js / Typescript, Postgres, AI/ML - Backend Engineering Internship](https://jobright.ai/jobs/info/6955cff29f1b381eb26ef9ca?utm_campaign=1079&utm_source=git)** | United States | Remote | Dec 31 |
+| **[Astranis Space Technologies](http://www.astranis.com)** | **[Embedded Software Developer, Network/Payload Software Intern 2026](https://jobright.ai/jobs/info/695572059f1b381eb26ec479?utm_campaign=1079&utm_source=git)** | San Francisco | On Site | Dec 31 |
 | ↳ | **[Embedded Software Developer, Network/Payload Software Intern (Fall 2026)](https://jobright.ai/jobs/info/695571eb9f1b381eb26ec466?utm_campaign=1079&utm_source=git)** | San Francisco | On Site | Dec 31 |
 | ↳ | **[Embedded Software Developer, Network/Payload Software Intern (Summer 2026)](https://jobright.ai/jobs/info/69556f3caa05c26e7aafc89f?utm_campaign=1079&utm_source=git)** | San Francisco | On Site | Dec 31 |
 | ↳ | **[Embedded Software Developer, Network/Payload Software Intern (Spring 2026)](https://jobright.ai/jobs/info/69556c949f1b381eb26ec2b3?utm_campaign=1079&utm_source=git)** | San Francisco | On Site | Dec 31 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Technology Development Intern](https://jobright.ai/jobs/info/69534a965bb7de448ef65db1?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Dec 29 |
 | ↳ | **[Technology Development Intern](https://jobright.ai/jobs/info/695349cdf1f8465b79ea948c?utm_campaign=1079&utm_source=git)** | Chicago - Illinois - Wacker | On Site | Dec 29 |
 | **[TD](https://www.td.com)** | **[TD Asset Management Portfolio Analytics Developer Intern / Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6953455ff1f8465b79ea9117?utm_campaign=1079&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Dec 29 |
-| **[Archer](https://www.archer.com)** | **[Integrated Test - Software Tools Intern](https://jobright.ai/jobs/info/6953430ff1f8465b79ea9034?utm_campaign=1079&utm_source=git)** | San Jose, California, United States | On Site | Dec 29 |
-| **[TD](https://www.td.com)** | **[AI2 Software Engineer Co-op/Intern (SUMMER 2026)](https://jobright.ai/jobs/info/69548e6caa05c26e7aaf0c50?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
-| **[Uneekor, Inc.](https://uneekor.com)** | **[Golf Simulator Testing Intern](https://jobright.ai/jobs/info/695330c9f1f8465b79ea81bd?utm_campaign=1079&utm_source=git)** | Dallas, Texas, United States | On Site | Dec 29 |
-| **[ContactCenterWorld](https://www.contactcenterworld.com/)** | **[Call and Contact Center Jobs - Co-op Software Engineer, Backend](https://jobright.ai/jobs/info/69531593f1f8465b79ea5ad8?utm_campaign=1079&utm_source=git)** | Kitchener, Ontario, Canada | Hybrid | Dec 29 |
-| **[TD](https://www.td.com)** | **[TD Asset Management Portfolio Analytics Developer Intern / Co-Op (Summer 2026)](https://jobright.ai/jobs/info/69530706935649778e20cba9?utm_campaign=1079&utm_source=git)** | 161 Bay Street Corporate, Toronto, Ontario | Hybrid | Dec 29 |
-| **[ABB](https://global.abb/group/en)** | **[Full Stack Developer Intern- Summer 2026](https://jobright.ai/jobs/info/6931095bef4b48533d151c4c?utm_campaign=1079&utm_source=git)** | Cary, NC | Hybrid | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
