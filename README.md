@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CNH](http://www.cnhindustrial.com)** | **[Embedded Software Engineer Intern](https://jobright.ai/jobs/info/69561cbdaa05c26e7ab05ce5?utm_campaign=1079&utm_source=git)** | Goodfield, IL | On Site | Dec 31 |
+| ↳ | **[Embedded Software Engineer Intern](https://jobright.ai/jobs/info/69561b91f1f8465b79ed0e4a?utm_campaign=1079&utm_source=git)** | Burr Ridge, IL | On Site | Dec 31 |
 | **[Lumentum](https://www.lumentum.com/en)** | **[Embedded Software DevSecOps Co-op/Intern](https://jobright.ai/jobs/info/6956089b9f1b381eb26f4dd8?utm_campaign=1079&utm_source=git)** | Canada - Ottawa (Bill Leathem) | On Site | Dec 31 |
 | **[Ruoff Mortgage](http://ruoff.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/6956083af1f8465b79ed05b2?utm_campaign=1079&utm_source=git)** | Fort Wayne, IN | On Site | Dec 31 |
 | **[Nokia](http://www.nokia.com)** | **[Test Developer Co-op/Intern](https://jobright.ai/jobs/info/6955f1e9f1f8465b79ece0ad?utm_campaign=1079&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Dec 31 |
@@ -81,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Integrity Express Logistics](https://www.ielfreight.com/)** | **[Software Development Intern](https://jobright.ai/jobs/info/693880f3b95c305f206db39a?utm_campaign=1079&utm_source=git)** | Cincinnati, OH | On Site | Dec 31 |
 | **[Docusign](http://www.docusign.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6938bd31aabec14a727da8c9?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Dec 31 |
 | ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6938c257aabec14a727dac36?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Dec 31 |
-| **[Roto](http://roto.com)** | **[Creative Developer Intern](https://jobright.ai/jobs/info/69552405aa05c26e7aaf979e?utm_campaign=1079&utm_source=git)** | DUBLIN, OH 43017 | On Site | Dec 31 |
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Intern - Applications](https://jobright.ai/jobs/info/691bb3de15b4156367191d03?utm_campaign=1079&utm_source=git)** | Pittsburgh, PA | Hybrid | Dec 31 |
 | **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Technology Summer Internship Program](https://jobright.ai/jobs/info/6920227a09cc522e8774847a?utm_campaign=1079&utm_source=git)** | Pontiac, MI | On Site | Dec 31 |
 | **[Cadence](https://www.cadence.com)** | **[Product Engineering Intern](https://jobright.ai/jobs/info/68fff8d7e04ac838fb5be11a?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Dec 31 |
@@ -126,7 +127,7 @@ For a complete list, click the following sortable link below:
 | **[S&P Global](https://www.spglobal.com)** | **[Summer Intern, Technology Platform Engineering](https://jobright.ai/jobs/info/69543aa3aa05c26e7aaea71f?utm_campaign=1079&utm_source=git)** | Princeton, NJ | On Site | Dec 30 |
 | **[Schonfeld](http://www.schonfeld.com/)** | **[2026 Software Engineering Summer Intern](https://jobright.ai/jobs/info/695439c5aa05c26e7aaea686?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Dec 30 |
 | **[Lanteris Space Systems](https://www.lanterisspace.com)** | **[Intern, Flight Software Lab Engineering](https://jobright.ai/jobs/info/69543106f1f8465b79eb5353?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 30 |
-| **[Dialpad](https://www.dialpad.com)** | **[Co-op Software Engineer, Android](https://jobright.ai/jobs/info/693a00da56b68f3dc4e754f0?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Dec 30 |
+| **[Dialpad](https://www.dialpad.com)** | **[Software Engineer Coop](https://jobright.ai/jobs/info/693a00da56b68f3dc4e754f0?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Dec 30 |
 | **[CAPTRUST](https://www.captrust.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69541f32f1f8465b79eb45f1?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Dec 30 |
 | **[United Protective Technologies](https://www.upt-usa.com)** | **[Computer Engineering Intern](https://jobright.ai/jobs/info/69541938f1f8465b79eb4499?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Dec 30 |
 | **[Maximus](http://www.maximus.com/)** | **[Intern - IT Software Engineering](https://jobright.ai/jobs/info/6954074e5bb7de448ef707f8?utm_campaign=1079&utm_source=git)** | Rancho Cordova, CA | Hybrid | Dec 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[JFK Johnson Rehabilitation Institute](http://JFKJohnson.org)** | **[IT APPLICATIONS PROGRAMMER V - WORKDAY STUDENT TECHNICAL ANALYST- DIGITAL TECHNOLOGY SERVICES](https://jobright.ai/jobs/info/695392905bb7de448ef6993b?utm_campaign=1079&utm_source=git)** | Edison, NJ | On Site | Dec 30 |
 | **[LexSims](https://join.bili.dev/)** | **[Software Engineer](https://jobright.ai/jobs/info/69537c8ef1f8465b79eac6e5?utm_campaign=1079&utm_source=git)** | Bellevue, WA | Hybrid | Dec 29 |
 | **[Archer](https://www.archer.com)** | **[Integrated Test - Software Tools Intern](https://jobright.ai/jobs/info/6953666b5bb7de448ef688a2?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 29 |
-| **[Axon](https://www.axon.com)** | **[2026 US Embedded Industrial Design Internship](https://jobright.ai/jobs/info/6953589f5bb7de448ef67875?utm_campaign=1079&utm_source=git)** | Scottsdale, Arizona, United States | Hybrid | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
