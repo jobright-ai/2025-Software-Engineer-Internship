@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[2026 Web Developer paid intern (May and August hires)](https://jobright.ai/jobs/info/6956aee69f1b381eb26fed8b?utm_campaign=1079&utm_source=git)** | Riverton, UT, United States | Hybrid | Jan 01 |
+| ↳ | **[2026 IT Engineer paid intern (May and August hires)](https://jobright.ai/jobs/info/6956ade89f1b381eb26fe66a?utm_campaign=1079&utm_source=git)** | Riverton, UT, United States | Hybrid | Jan 01 |
+| ↳ | **[2026 Software Engineer paid intern (May and August hires)](https://jobright.ai/jobs/info/6956ad139f1b381eb26fe195?utm_campaign=1079&utm_source=git)** | Riverton, UT, United States | Hybrid | Jan 01 |
+| ↳ | **[2026 QA/Soft Dev in Test paid intern (May and August hires)](https://jobright.ai/jobs/info/6956ab8baa05c26e7ab0d8e2?utm_campaign=1079&utm_source=git)** | Riverton, UT, United States | Hybrid | Jan 01 |
+| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, R&D Graduate Summer - TITANS SW, Onsite](https://jobright.ai/jobs/info/69569f479f1b381eb26fd231?utm_campaign=1079&utm_source=git)** | Albuquerque, NM | On Site | Jan 01 |
 | **[Textron](http://textron.com)** | **[2026 Intern - IT  Application Development - Hunt Valley, MD](https://jobright.ai/jobs/info/69569013f1f8465b79ed8265?utm_campaign=1079&utm_source=git)** | Hunt Valley, MD | On Site | Jan 01 |
 | ↳ | **[2026 Summer High School Intern - Information Technology (Mesa, AZ)](https://jobright.ai/jobs/info/69568b8eaa05c26e7ab0cbab?utm_campaign=1079&utm_source=git)** | Mesa, AZ | On Site | Jan 01 |
 | **[Kensho Technologies](https://kensho.com)** | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68cd7b5fe23def7af55ba9da?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jan 01 |
@@ -118,6 +123,7 @@ For a complete list, click the following sortable link below:
 | **[Lockton](https://www.lockton.com/offices/uk)** | **[Technology Innovation Intern- Summer 2026](https://jobright.ai/jobs/info/690185724539ea1f21420d63?utm_campaign=1079&utm_source=git)** | Overland Park, KS | On Site | Jan 01 |
 | **[TRAK Machine Tools - Southwestern Industries, Inc.](http://www.trakmt.com)** | **[Software QA Intern - Part time](https://jobright.ai/jobs/info/6956494caa05c26e7ab07f8c?utm_campaign=1079&utm_source=git)** | Rancho Dominguez, CA | On Site | Jan 01 |
 | **[Kyowa Kirin, Inc.- U.S.](https://kkna.kyowakirin.com/)** | **[Quality Assurance Intern (Summer 2026)](https://jobright.ai/jobs/info/6909227ed046ab6061cd1e61?utm_campaign=1079&utm_source=git)** | Princeton, NJ | Hybrid | Jan 01 |
+| **[TRAK Machine Tools - Southwestern Industries, Inc.](http://www.trakmt.com)** | **[Software QA Intern - Part time](https://jobright.ai/jobs/info/695698dcaa05c26e7ab0d09b?utm_campaign=1079&utm_source=git)** | Rancho Dominguez, California | On Site | Jan 01 |
 | **[Textron](http://textron.com)** | **[2026 Intern - Firmware Engineer (Weapons) - Hunt Valley, MD](https://jobright.ai/jobs/info/69563bd49f1b381eb26f6b14?utm_campaign=1079&utm_source=git)** | Hunt Valley, MD | On Site | Jan 01 |
 | ↳ | **[2026 Intern - IT Application Development - Hunt Valley, MD](https://jobright.ai/jobs/info/695639c4f1f8465b79ed2205?utm_campaign=1079&utm_source=git)** | Hunt Valley, MD | On Site | Jan 01 |
 | ↳ | **[2026 Summer High School Intern - Information Technology (Mesa, AZ)](https://jobright.ai/jobs/info/695658cdf1f8465b79ed4adb?utm_campaign=1079&utm_source=git)** | US-Arizona-Mesa | On Site | Jan 01 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6938c257aabec14a727dac36?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Dec 31 |
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Intern - Applications](https://jobright.ai/jobs/info/691bb3de15b4156367191d03?utm_campaign=1079&utm_source=git)** | Pittsburgh, PA | Hybrid | Dec 31 |
 | **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Technology Summer Internship Program](https://jobright.ai/jobs/info/6920227a09cc522e8774847a?utm_campaign=1079&utm_source=git)** | Pontiac, MI | On Site | Dec 31 |
-| **[Cadence](https://www.cadence.com)** | **[Product Engineering Intern](https://jobright.ai/jobs/info/68fff8d7e04ac838fb5be11a?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Dec 31 |
-| **[AFL](http://www.AFLglobal.com)** | **[Web Design/ Development Intern- Spring 2026](https://jobright.ai/jobs/info/691ba7c922a2cb4b9bd14a0b?utm_campaign=1079&utm_source=git)** | Duncan, SC | On Site | Dec 31 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Design Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68acf41e758f2e4ac3009d1a?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Dec 31 |
-| **[Kiewit](http://www.kiewit.com)** | **[Kiewit Infrastructure Engineering High School Internship (Summer 2026)](https://jobright.ai/jobs/info/691bcbbe22a2cb4b9bd16228?utm_campaign=1079&utm_source=git)** | Lone Tree, CO | On Site | Dec 31 |
-| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - AI Hardware](https://jobright.ai/jobs/info/693833dcb95c305f206d6b5e?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Dec 31 |
-| **[Nokia](http://www.nokia.com)** | **[Diagnostics Software Development Intern](https://jobright.ai/jobs/info/6938a29aaabec14a727d8c51?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Dec 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
