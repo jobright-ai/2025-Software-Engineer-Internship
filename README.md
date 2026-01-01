@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kyowa Kirin, Inc.- U.S.](https://kkna.kyowakirin.com/)** | **[Quality Assurance Intern (Summer 2026)](https://jobright.ai/jobs/info/6909227ed046ab6061cd1e61?utm_campaign=1079&utm_source=git)** | Princeton, NJ | Hybrid | Jan 01 |
+| **[Textron](http://textron.com)** | **[2026 Intern - Firmware Engineer (Weapons) - Hunt Valley, MD](https://jobright.ai/jobs/info/69563bd49f1b381eb26f6b14?utm_campaign=1079&utm_source=git)** | Hunt Valley, MD | On Site | Jan 01 |
+| ↳ | **[2026 Intern - IT Application Development - Hunt Valley, MD](https://jobright.ai/jobs/info/695639c4f1f8465b79ed2205?utm_campaign=1079&utm_source=git)** | Hunt Valley, MD | On Site | Jan 01 |
+| **[Upbound Group](https://www.upbound.com)** | **[Digital Commerce Developer Intern](https://jobright.ai/jobs/info/69562d469f1b381eb26f6601?utm_campaign=1079&utm_source=git)** | Plano, TX | On Site | Jan 01 |
+| ↳ | **[Personalization Intern](https://jobright.ai/jobs/info/69562b22f1f8465b79ed1c3e?utm_campaign=1079&utm_source=git)** | Plano, TX | On Site | Jan 01 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Embedded Software Engineer Intern](https://jobright.ai/jobs/info/69561cbdaa05c26e7ab05ce5?utm_campaign=1079&utm_source=git)** | Goodfield, IL | On Site | Dec 31 |
 | ↳ | **[Embedded Software Engineer Intern](https://jobright.ai/jobs/info/69561b91f1f8465b79ed0e4a?utm_campaign=1079&utm_source=git)** | Burr Ridge, IL | On Site | Dec 31 |
 | **[Lumentum](https://www.lumentum.com/en)** | **[Embedded Software DevSecOps Co-op/Intern](https://jobright.ai/jobs/info/6956089b9f1b381eb26f4dd8?utm_campaign=1079&utm_source=git)** | Canada - Ottawa (Bill Leathem) | On Site | Dec 31 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nokia](http://www.nokia.com)** | **[Embedded Software Engineer Intern](https://jobright.ai/jobs/info/69487cdb63141d18845822aa?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Dec 30 |
 | **[ADM](http://www.adm.com)** | **[COBOL Developer Intern - Erlanger, KY](https://jobright.ai/jobs/info/6947786463141d1884571e8d?utm_campaign=1079&utm_source=git)** | Erlanger, KY | On Site | Dec 30 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Software Engineering Intern Summer 2026](https://jobright.ai/jobs/info/6937b139a0dde7020e306358?utm_campaign=1079&utm_source=git)** | Shoreview, MN | On Site | Dec 30 |
-| **[Trimble Inc.](https://www.trimble.com/)** | **[Software Development Engineer in Test Intern](https://jobright.ai/jobs/info/693765c11c1c2161c13f3dc7?utm_campaign=1079&utm_source=git)** | Lake Oswego, OR | On Site | Dec 30 |
-| **[Rambus](http://www.rambus.com/us)** | **[Firmware Engineer Intern](https://jobright.ai/jobs/info/691dda2aad5a51703479712c?utm_campaign=1079&utm_source=git)** | Greater Vancouver Metropolitan Area | Hybrid | Dec 30 |
-| **[JFK Johnson Rehabilitation Institute](http://JFKJohnson.org)** | **[IT APPLICATIONS PROGRAMMER V - WORKDAY STUDENT TECHNICAL ANALYST- DIGITAL TECHNOLOGY SERVICES](https://jobright.ai/jobs/info/695392905bb7de448ef6993b?utm_campaign=1079&utm_source=git)** | Edison, NJ | On Site | Dec 30 |
-| **[LexSims](https://join.bili.dev/)** | **[Software Engineer](https://jobright.ai/jobs/info/69537c8ef1f8465b79eac6e5?utm_campaign=1079&utm_source=git)** | Bellevue, WA | Hybrid | Dec 29 |
-| **[Archer](https://www.archer.com)** | **[Integrated Test - Software Tools Intern](https://jobright.ai/jobs/info/6953666b5bb7de448ef688a2?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
