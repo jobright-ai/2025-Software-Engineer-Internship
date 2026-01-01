@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xometry](https://www.xometry.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69445066dd382f5f566a6b8c?utm_campaign=1079&utm_source=git)** | North Bethesda, Maryland | Hybrid | Jan 01 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[2026 Software Engineer paid intern (May and August hires)](https://jobright.ai/jobs/info/6956dc1caa05c26e7ab1074b?utm_campaign=1079&utm_source=git)** | Riverton, UT | Hybrid | Jan 01 |
+| ↳ | **[2026 Web Developer paid intern (May and August hires)](https://jobright.ai/jobs/info/6956dc019f1b381eb270064a?utm_campaign=1079&utm_source=git)** | Riverton, UT | Hybrid | Jan 01 |
+| ↳ | **[2026 QA/Soft Dev in Test paid intern (May and August hires)](https://jobright.ai/jobs/info/6956dbf79f1b381eb2700597?utm_campaign=1079&utm_source=git)** | Riverton, UT | Hybrid | Jan 01 |
+| **[Insight AI](http://insightai.pro/)** | **[Python Developer Intern (AI / LLM / RAG) Unpaid Internship](https://jobright.ai/jobs/info/6956d59daa05c26e7ab0fe58?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 01 |
+| **[Sigma](http://sigmacomputing.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6956d1b59f1b381eb26fface?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jan 01 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[2026 Software Engineer paid intern (May and August hires)](https://jobright.ai/jobs/info/6956ad139f1b381eb26fe195?utm_campaign=1079&utm_source=git)** | Riverton, UT, United States | Hybrid | Jan 01 |
 | ↳ | **[2026 Web Developer paid intern (May and August hires)](https://jobright.ai/jobs/info/6956aee69f1b381eb26fed8b?utm_campaign=1079&utm_source=git)** | Riverton, UT, United States | Hybrid | Jan 01 |
 | ↳ | **[2026 IT Engineer paid intern (May and August hires)](https://jobright.ai/jobs/info/6956ade89f1b381eb26fe66a?utm_campaign=1079&utm_source=git)** | Riverton, UT, United States | Hybrid | Jan 01 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Direct Supply](http://www.directsupply.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68ccd836d11b445e0bee29c5?utm_campaign=1079&utm_source=git)** | Milwaukee, WI | On Site | Dec 31 |
 | **[CommScope](http://www.commscope.com)** | **[Test Engineer Intern](https://jobright.ai/jobs/info/6938869eb95c305f206db7cd?utm_campaign=1079&utm_source=git)** | Claremont, NC | On Site | Dec 31 |
 | **[Integrity Express Logistics](https://www.ielfreight.com/)** | **[Software Development Intern](https://jobright.ai/jobs/info/693880f3b95c305f206db39a?utm_campaign=1079&utm_source=git)** | Cincinnati, OH | On Site | Dec 31 |
-| **[Docusign](http://www.docusign.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6938bd31aabec14a727da8c9?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Dec 31 |
-| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6938c257aabec14a727dac36?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Dec 31 |
-| **[Howmet Aerospace](https://www.howmet.com)** | **[Intern - Applications](https://jobright.ai/jobs/info/691bb3de15b4156367191d03?utm_campaign=1079&utm_source=git)** | Pittsburgh, PA | Hybrid | Dec 31 |
-| **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Technology Summer Internship Program](https://jobright.ai/jobs/info/6920227a09cc522e8774847a?utm_campaign=1079&utm_source=git)** | Pontiac, MI | On Site | Dec 31 |
-| **[Cadence](https://www.cadence.com)** | **[Product Engineering Intern](https://jobright.ai/jobs/info/68fff8d7e04ac838fb5be11a?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Dec 31 |
-| **[AFL](http://www.AFLglobal.com)** | **[Web Design/ Development Intern- Spring 2026](https://jobright.ai/jobs/info/691ba7c922a2cb4b9bd14a0b?utm_campaign=1079&utm_source=git)** | Duncan, SC | On Site | Dec 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
