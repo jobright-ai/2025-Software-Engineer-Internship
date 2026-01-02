@@ -57,6 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vertiv](https://www.Vertiv.com)** | **[Test Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68cfc239846f0b04af684bcd?utm_campaign=1079&utm_source=git)** | Fort Lauderdale, FL | On Site | Jan 02 |
+| **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - Autonomous Vehicle Systems and Integration (Bachelors Degree)](https://jobright.ai/jobs/info/6946d0c563141d188456802e?utm_campaign=1079&utm_source=git)** | Milford, MI | Hybrid | Jan 02 |
+| **[Oracle](https://www.oracle.com/)** | **[OCI Software Engineer Intern - OVIP](https://jobright.ai/jobs/info/691e502a09cc522e87738ce9?utm_campaign=1079&utm_source=git)** | Nashville, TN | On Site | Jan 02 |
+| **[SK hynix memory solutions America Inc.](http://www.skhms.com)** | **[Software Engineer Intern - Winter 2025/2026](https://jobright.ai/jobs/info/693bba3b50bbaf76504f1f05?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 02 |
+| **[Altec](https://www.altec.com/altec-capital/)** | **[Information Services Software Development Internship Summer 2026](https://jobright.ai/jobs/info/68ccf06a77add66568abc551?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | Jan 02 |
+| **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Embedded Software Intern](https://jobright.ai/jobs/info/691e2ee43f782d2f1afb1f7d?utm_campaign=1079&utm_source=git)** | Everett, WA | On Site | Jan 02 |
+| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (TikTok-Search) - 2026 Summer(BS/MS)](https://jobright.ai/jobs/info/69015628f8ce7a040fdbefaf?utm_campaign=1079&utm_source=git)** | San Jose, CA | Remote | Jan 02 |
+| **[Oracle](https://www.oracle.com/)** | **[Java Software Engineer Intern - Oracle Health & Analytics](https://jobright.ai/jobs/info/694633cdd1953b5d11bf6455?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jan 02 |
+| ↳ | **[OCI Software Engineer Intern - OVIP](https://jobright.ai/jobs/info/69465835d1953b5d11bf7ea3?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 02 |
+| **[Western Digital](https://www.westerndigital.com)** | **[IT Intern for Workflow Automation](https://jobright.ai/jobs/info/691e4db5a49a885af9a277d6?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 02 |
+| ↳ | **[Summer 2026 Intern - Software Engineering (Firmware)](https://jobright.ai/jobs/info/693b6bd5d4054a2bc0255baa?utm_campaign=1079&utm_source=git)** | Rochester, MN | Remote | Jan 02 |
+| ↳ | **[Summer 2026 Intern - Software Engineering (Firmware)](https://jobright.ai/jobs/info/693b81b4d4054a2bc02562d2?utm_campaign=1079&utm_source=git)** | Irvine, CA | Remote | Jan 02 |
+| **[Cirrus Logic](https://cirrus.com/)** | **[Summer Intern - Validation Software Engineer – Silicon Validation Infrastructure & Data Tools](https://jobright.ai/jobs/info/693aa5d0b309e378008677a3?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Jan 02 |
 | **[Maximus](http://www.maximus.com/)** | **[Intern - IT Software Engineering](https://jobright.ai/jobs/info/6954074e5bb7de448ef707f8?utm_campaign=1079&utm_source=git)** | Rancho Cordova, CA | Hybrid | Jan 02 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[2026 QA/Soft Dev in Test paid intern (May and August hires)](https://jobright.ai/jobs/info/69573ddbaa05c26e7ab14b78?utm_campaign=1079&utm_source=git)** | Riverton, UT | Hybrid | Jan 01 |
 | ↳ | **[2026 Software Engineer paid intern (May and August hires)](https://jobright.ai/jobs/info/6957341baa05c26e7ab14750?utm_campaign=1079&utm_source=git)** | Riverton, UT | Hybrid | Jan 01 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ruoff Mortgage](http://ruoff.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/6956083af1f8465b79ed05b2?utm_campaign=1079&utm_source=git)** | Fort Wayne, IN | On Site | Dec 31 |
 | **[Nokia](http://www.nokia.com)** | **[Test Developer Co-op/Intern](https://jobright.ai/jobs/info/6955f1e9f1f8465b79ece0ad?utm_campaign=1079&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Dec 31 |
 | ↳ | **[Test Developer Co-op/Intern](https://jobright.ai/jobs/info/6955dabbf1f8465b79ecc223?utm_campaign=1079&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2T6, CA | Hybrid | Dec 31 |
-| **[Ruoff Mortgage](http://ruoff.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/6955d704f1f8465b79ecbc5f?utm_campaign=1079&utm_source=git)** | Fort Wayne,IN,US | On Site | Dec 31 |
-| **[ASM](https://www.asm.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6952cecc935649778e208e3d?utm_campaign=1079&utm_source=git)** | US > New Jersey > Mt Laurel | On Site | Dec 31 |
-| **[Syska Hennessy Group](http://www.syska.com)** | **[Software Developer (Innovation) Summer Intern](https://jobright.ai/jobs/info/6903ebd1ff462851feff0ad3?utm_campaign=1079&utm_source=git)** | New York | On Site | Dec 31 |
-| **[Astranis Space Technologies](http://www.astranis.com)** | **[Embedded Software Developer, Network/Payload Software Intern 2026](https://jobright.ai/jobs/info/69559da09f1b381eb26edacd?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Dec 31 |
-| ↳ | **[Embedded Software Developer, Network/Payload Software Intern (Spring 2026)](https://jobright.ai/jobs/info/695599ebf1f8465b79ec9053?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Dec 31 |
-| ↳ | **[Embedded Software Developer, Network/Payload Software Intern (Fall 2026)](https://jobright.ai/jobs/info/6955ce129f1b381eb26ef906?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Dec 31 |
-| ↳ | **[Embedded Software Developer, Network/Payload Software Intern (Summer 2026)](https://jobright.ai/jobs/info/6955c6f0f1f8465b79ecadff?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Dec 31 |
-| ↳ | **[Embedded Software Developer, Network/Payload Software Intern 2026](https://jobright.ai/jobs/info/695572059f1b381eb26ec479?utm_campaign=1079&utm_source=git)** | San Francisco | On Site | Dec 31 |
-| ↳ | **[Embedded Software Developer, Network/Payload Software Intern (Fall 2026)](https://jobright.ai/jobs/info/695571eb9f1b381eb26ec466?utm_campaign=1079&utm_source=git)** | San Francisco | On Site | Dec 31 |
-| ↳ | **[Embedded Software Developer, Network/Payload Software Intern (Summer 2026)](https://jobright.ai/jobs/info/69556f3caa05c26e7aafc89f?utm_campaign=1079&utm_source=git)** | San Francisco | On Site | Dec 31 |
-| ↳ | **[Embedded Software Developer, Network/Payload Software Intern (Spring 2026)](https://jobright.ai/jobs/info/69556c949f1b381eb26ec2b3?utm_campaign=1079&utm_source=git)** | San Francisco | On Site | Dec 31 |
-| **[DC Water](https://dcwater.com/)** | **[300018-012:Summer Intern, ERP Systems and Controls](https://jobright.ai/jobs/info/695558bbaa05c26e7aafaa86?utm_campaign=1079&utm_source=git)** | 1385 Canal St, SE, Washington, DC, 20003, US | Hybrid | Dec 31 |
-| **[NVIDIA](https://www.nvidia.com)** | **[AI Compiler Intern - Summer 2026](https://jobright.ai/jobs/info/6939554b48a8ce22990d715c?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Dec 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
