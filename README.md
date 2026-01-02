@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Maximus](http://www.maximus.com/)** | **[Intern - IT Software Engineering](https://jobright.ai/jobs/info/6954074e5bb7de448ef707f8?utm_campaign=1079&utm_source=git)** | Rancho Cordova, CA | Hybrid | Jan 02 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[2026 QA/Soft Dev in Test paid intern (May and August hires)](https://jobright.ai/jobs/info/69573ddbaa05c26e7ab14b78?utm_campaign=1079&utm_source=git)** | Riverton, UT | Hybrid | Jan 01 |
 | ↳ | **[2026 Software Engineer paid intern (May and August hires)](https://jobright.ai/jobs/info/6957341baa05c26e7ab14750?utm_campaign=1079&utm_source=git)** | Riverton, UT | Hybrid | Jan 01 |
 | ↳ | **[2026 Web Developer paid intern (May and August hires)](https://jobright.ai/jobs/info/695732f9aa05c26e7ab14714?utm_campaign=1079&utm_source=git)** | Riverton, UT | Hybrid | Jan 01 |
@@ -100,6 +101,7 @@ For a complete list, click the following sortable link below:
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[Application Engineer Intern](https://jobright.ai/jobs/info/691cf61aff7024498416c514?utm_campaign=1079&utm_source=git)** | Foster City, CA | On Site | Jan 01 |
 | **[Greystone](https://www.greystone.com)** | **[Summer 2026: Full Stack Engineer Internship](https://jobright.ai/jobs/info/691d25000b7dff73415003d7?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jan 01 |
 | **[Copart](http://www.copart.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6939d00c48a8ce22990dd1a3?utm_campaign=1079&utm_source=git)** | Texas, United States | On Site | Jan 01 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Design Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68acf4dedaf1431824c99604?utm_campaign=1079&utm_source=git)** | Delaware, OH | On Site | Jan 01 |
 | **[Capital One](http://www.capitalone.com)** | **[Intern, Full Stack Software Engineer - Summer 2026](https://jobright.ai/jobs/info/695695ccf1f8465b79ed849e?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 01 |
 | **[Oracle](https://www.oracle.com/)** | **[OCI Software Engineer Intern - OVIP](https://jobright.ai/jobs/info/6920be3300c9ee50eaec76b8?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Jan 01 |
 | **[IBM](http://www.ibm.com)** | **[SW Developer Intern](https://jobright.ai/jobs/info/6939fcee48a8ce22990df2ca?utm_campaign=1079&utm_source=git)** | Austin, TX | Remote | Jan 01 |
@@ -111,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[Bechtel Corporation](http://www.bechtel.com)** | **[2026 Student Internship (U.S.) - Startup Engineer Intern](https://jobright.ai/jobs/info/691abc2f15b415636718a3f5?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 01 |
 | **[Watlow](http://www.watlow.com)** | **[Software Engineering Co-Op](https://jobright.ai/jobs/info/691d4378bcdbf3560c9eee45?utm_campaign=1079&utm_source=git)** | St Louis, MO | On Site | Jan 01 |
 | **[Oracle](https://www.oracle.com/)** | **[Undergrad Software Engineer Intern - Fusion](https://jobright.ai/jobs/info/6920536100c9ee50eaec1846?utm_campaign=1079&utm_source=git)** | Pleasanton, CA | Remote | Jan 01 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Design Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68ce2927b2a74e1837edfed6?utm_campaign=1079&utm_source=git)** | Delaware, OH | On Site | Jan 01 |
 | **[Lumentum](https://www.lumentum.com/en)** | **[Embedded Software DevSecOps Co-op/Intern](https://jobright.ai/jobs/info/69565ad1f1f8465b79ed4b95?utm_campaign=1079&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jan 01 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Research Engineer Intern (Spring/Jan 2026)](https://jobright.ai/jobs/info/6900276ee04ac838fb5bf9fa?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Jan 01 |
 | **[Able Aerospace](www.ableaerospace.com)** | **[2026 Summer High School Intern - Information Technology (Mesa, AZ)](https://jobright.ai/jobs/info/695658f9aa05c26e7ab09660?utm_campaign=1079&utm_source=git)** | Mesa, AZ | On Site | Jan 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Embedded Software Developer, Network/Payload Software Intern (Spring 2026)](https://jobright.ai/jobs/info/69556c949f1b381eb26ec2b3?utm_campaign=1079&utm_source=git)** | San Francisco | On Site | Dec 31 |
 | **[DC Water](https://dcwater.com/)** | **[300018-012:Summer Intern, ERP Systems and Controls](https://jobright.ai/jobs/info/695558bbaa05c26e7aafaa86?utm_campaign=1079&utm_source=git)** | 1385 Canal St, SE, Washington, DC, 20003, US | Hybrid | Dec 31 |
 | **[NVIDIA](https://www.nvidia.com)** | **[AI Compiler Intern - Summer 2026](https://jobright.ai/jobs/info/6939554b48a8ce22990d715c?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Dec 31 |
-| **[CommScope](http://www.commscope.com)** | **[Intern, IMS Software Engineering](https://jobright.ai/jobs/info/69552f129f1b381eb26e9640?utm_campaign=1079&utm_source=git)** | Catawba, NC | On Site | Dec 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
