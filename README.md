@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Varmodel AI](https://www.linkedin.com/company/79943374)** | **[Software Engineer- Intern](https://jobright.ai/jobs/info/69597e7eaa05c26e7ab33a39?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 03 |
+| **[Applied Concepts, Inc.](https://www.stalkerradar.com/)** | **[Web Applications Developer Intern](https://jobright.ai/jobs/info/695975a79f1b381eb2723989?utm_campaign=1079&utm_source=git)** | Richardson, TX | On Site | Jan 03 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Training & QA Technology](https://jobright.ai/jobs/info/693c8dd0aa598a08c3ed611f?utm_campaign=1079&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Jan 03 |
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Summer Intern 2026 - Test Engineering](https://jobright.ai/jobs/info/691aa2ea45fb6f5ead8ac97c?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Jan 03 |
 | **[Domo](http://www.domo.com)** | **[Intern - Software Engineer](https://jobright.ai/jobs/info/693e2f1e50bbaf765050eaab?utm_campaign=1079&utm_source=git)** | American Fork, UT | On Site | Jan 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Intern](https://jobright.ai/jobs/info/6950acc029655e4dd659d652?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 02 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Software Development Engineer](https://jobright.ai/jobs/info/693b9344b309e3780087412c?utm_campaign=1079&utm_source=git)** | Irving, TX | Hybrid | Jan 02 |
 | **[IXL Learning](https://www.ixl.com/)** | **[Software Engineer, Intern](https://jobright.ai/jobs/info/691e677309cc522e87739827?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Jan 02 |
-| **[IBM](http://www.ibm.com)** | **[Ecosystem Engineer Intern](https://jobright.ai/jobs/info/693b3b91d4054a2bc02527d2?utm_campaign=1079&utm_source=git)** | Austin, TX | Remote | Jan 02 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Java Software Engineer - 2026 Summer Internship (Chicago Hybrid)](https://jobright.ai/jobs/info/693b3afdd4054a2bc025274b?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Jan 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
