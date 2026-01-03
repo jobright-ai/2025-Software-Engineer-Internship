@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Training & QA Technology](https://jobright.ai/jobs/info/693c8dd0aa598a08c3ed611f?utm_campaign=1079&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Jan 03 |
-| **[GenPark](https://genpark.ai)** | **[Mobile App Developer Intern](https://jobright.ai/jobs/info/69592114f1f8465b79efb3c2?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jan 03 |
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Summer Intern 2026 - Test Engineering](https://jobright.ai/jobs/info/691aa2ea45fb6f5ead8ac97c?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Jan 03 |
 | **[Domo](http://www.domo.com)** | **[Intern - Software Engineer](https://jobright.ai/jobs/info/693e2f1e50bbaf765050eaab?utm_campaign=1079&utm_source=git)** | American Fork, UT | On Site | Jan 03 |
 | **[ASM](https://www.asm.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6952d360935649778e20924f?utm_campaign=1079&utm_source=git)** | US > Arizona > Phoenix | On Site | Jan 03 |
@@ -147,13 +146,14 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics Mission Systems–Canada](https://gdmissionsystems.ca/)** | **[Co-op May 2026 - Engineering Infrastructure Developer - 12-Months](https://jobright.ai/jobs/info/69582023aa05c26e7ab20130?utm_campaign=1079&utm_source=git)** | Cole Harbour, Nova Scotia, Canada | Hybrid | Jan 02 |
 | **[Altom Transport](http://altomtransport.com)** | **[Summer 2026 Software Development Intern](https://jobright.ai/jobs/info/69581dd1f1f8465b79eeb675?utm_campaign=1079&utm_source=git)** | Hammond, IN | On Site | Jan 02 |
 | ↳ | **[Summer 2026 Software Development Intern](https://jobright.ai/jobs/info/69581804aa05c26e7ab1fbc9?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jan 02 |
+| **[RTX](http://www.raytheon.com)** | **[2026 Intern - Software Engineer Intern - Onsite (IN)](https://jobright.ai/jobs/info/69583996aa05c26e7ab220f9?utm_campaign=1079&utm_source=git)** | IN301: 1010 Production Rd Ft Wayne IN 1010 Production Road  , Fort Wayne, IN, 46808 USA | On Site | Jan 02 |
 | **[P1 Construction, LLC](http://p1group.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6958287ff1f8465b79eebdfc?utm_campaign=1079&utm_source=git)** | Lawrence, KS | On Site | Jan 02 |
-| **[RTX](http://www.raytheon.com)** | **[2026 Intern - Software Engineer Intern - Onsite (IN)](https://jobright.ai/jobs/info/69582c78aa05c26e7ab20989?utm_campaign=1079&utm_source=git)** | IN301: 1010 Production Rd Ft Wayne IN 1010 Production Road  , Fort Wayne, IN, 46808 USA | On Site | Jan 02 |
 | **[Flatiron School](http://flatironschool.com)** | **[Work-Study Apprenticeship, Software Engineer](https://jobright.ai/jobs/info/6957e25ef1f8465b79ee887d?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 02 |
 | **[TD](https://www.td.com)** | **[Mobile Software Engineer Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/6957f1459f1b381eb270d67f?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 02 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Embedded Systems Intern](https://jobright.ai/jobs/info/6957e5859f1b381eb270d2e5?utm_campaign=1079&utm_source=git)** | Warrendale, PA | On Site | Jan 02 |
 | **[Cadence](https://www.cadence.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6950a8e2a2668b7f54538ea8?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 02 |
 | ↳ | **[Software Intern](https://jobright.ai/jobs/info/6950acc029655e4dd659d652?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 02 |
+| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Software Development Engineer](https://jobright.ai/jobs/info/693b9344b309e3780087412c?utm_campaign=1079&utm_source=git)** | Irving, TX | Hybrid | Jan 02 |
 | **[IXL Learning](https://www.ixl.com/)** | **[Software Engineer, Intern](https://jobright.ai/jobs/info/691e677309cc522e87739827?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Jan 02 |
 | **[IBM](http://www.ibm.com)** | **[Ecosystem Engineer Intern](https://jobright.ai/jobs/info/693b3b91d4054a2bc02527d2?utm_campaign=1079&utm_source=git)** | Austin, TX | Remote | Jan 02 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Java Software Engineer - 2026 Summer Internship (Chicago Hybrid)](https://jobright.ai/jobs/info/693b3afdd4054a2bc025274b?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Jan 02 |
