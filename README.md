@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GenPark](https://genpark.ai)** | **[Mobile Developer Intern](https://jobright.ai/jobs/info/6959d14e9f1b381eb27281fa?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Jan 03 |
+| **[IDEXX Livestock Diagnostics](https://www.idexx.com/en/livestock/)** | **[Embedded Software Engineer Internship](https://jobright.ai/jobs/info/6959f8809f1b381eb272ab98?utm_campaign=1079&utm_source=git)** | Westbrook, ME | On Site | Jan 03 |
+| **[NimbleRx](https://www.nimblerx.com/)** | **[Software Engineer Intern - Summer Session (Summer 2026)](https://jobright.ai/jobs/info/6959eb3aaa05c26e7ab38771?utm_campaign=1079&utm_source=git)** | Redwood City, CA | Hybrid | Jan 03 |
+| **[Sungrow Power Supply Co., Ltd.](https://sungrowpower.com/)** | **[ESS Application Engineering Internship](https://jobright.ai/jobs/info/6959e924f1f8465b79f03e87?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 03 |
 | **[Textron](http://textron.com)** | **[2026 Summer High School Intern - Information Technology (Mesa, AZ)](https://jobright.ai/jobs/info/69568b8eaa05c26e7ab0cbab?utm_campaign=1079&utm_source=git)** | Mesa, AZ | On Site | Jan 03 |
 | **[Varmodel AI](https://www.linkedin.com/company/79943374)** | **[Software Engineer- Intern](https://jobright.ai/jobs/info/69597e7eaa05c26e7ab33a39?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 03 |
 | **[Applied Concepts, Inc.](https://www.stalkerradar.com/)** | **[Web Applications Developer Intern](https://jobright.ai/jobs/info/695975a79f1b381eb2723989?utm_campaign=1079&utm_source=git)** | Richardson, TX | On Site | Jan 03 |
@@ -79,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Backend Software Engineer, Fleet Tooling (Bachelor's Degree)](https://jobright.ai/jobs/info/693c88aa50bbaf76504fbfc5?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | Hybrid | Jan 03 |
 | ↳ | **[2026 Summer Intern – Backend Software Engineer, Fleet Tooling (Master's Degree)](https://jobright.ai/jobs/info/693c973c49a7695fbd0364b0?utm_campaign=1079&utm_source=git)** | Mountain Center, CA | Hybrid | Jan 03 |
 | ↳ | **[2026 Summer Intern – Software Engineer, Autonomous Driving (Bachelor's Degree)](https://jobright.ai/jobs/info/693c9033aa598a08c3ed632b?utm_campaign=1079&utm_source=git)** | Mountain View, CA | Hybrid | Jan 03 |
-| ↳ | **[2026 Summer Intern - Autonomous Vehicle, Sensor Hardware and Technology Development (Bachelors Degree)](https://jobright.ai/jobs/info/693c3309aa598a08c3ed1ada?utm_campaign=1079&utm_source=git)** | Warren, MI | Hybrid | Jan 03 |
 | **[Tactile Medical](https://tactilemedical.com)** | **[Digital Software Engineer Intern](https://jobright.ai/jobs/info/691ff2c509cc522e87746f42?utm_campaign=1079&utm_source=git)** | New Brighton, MN | Hybrid | Jan 03 |
 | **[Voloridge Health](https://www.voloridge.com/health)** | **[Health QA Engineer Intern 2026](https://jobright.ai/jobs/info/693c91b749a7695fbd034ce2?utm_campaign=1079&utm_source=git)** | Jupiter, FL | On Site | Jan 03 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Software Engineer, Autonomous Driving (Bachelor's Degree)](https://jobright.ai/jobs/info/693c988250bbaf76504fe23f?utm_campaign=1079&utm_source=git)** | Warren, MI | Hybrid | Jan 03 |
@@ -119,6 +120,7 @@ For a complete list, click the following sortable link below:
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Billing Solutions Analyst](https://jobright.ai/jobs/info/68afe548b47fb001d688e55c?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Jan 03 |
 | **[Nintendo](http://nintendo.com)** | **[Intern - Software Engineer, Server Application (NTD)](https://jobright.ai/jobs/info/69028417ff462851fefe41f6?utm_campaign=1079&utm_source=git)** | Redmond, WA | On Site | Jan 03 |
 | **[Epic Games](https://epicgames.com)** | **[Ecosec Programmer Intern](https://jobright.ai/jobs/info/6903c47eff462851fefee85e?utm_campaign=1079&utm_source=git)** | Cary, NC | On Site | Jan 03 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Application Engineer)](https://jobright.ai/jobs/info/6959e3beaa05c26e7ab3851e?utm_campaign=1079&utm_source=git)** | Winchester, VA | On Site | Jan 02 |
 | **[Ancestry](http://ancestry.com)** | **[Software Engineer – Observability, Co-op](https://jobright.ai/jobs/info/69587df5aa05c26e7ab2657e?utm_campaign=1079&utm_source=git)** | Lehi, UT | Hybrid | Jan 02 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Application Engineer)](https://jobright.ai/jobs/info/69589b7caa05c26e7ab27371?utm_campaign=1079&utm_source=git)** | Pensacola, FL | On Site | Jan 02 |
 | **[Raytheon](http://www.bbn.com)** | **[2026 Intern - Software Engineer Intern - Onsite (IN)](https://jobright.ai/jobs/info/69587a7df1f8465b79ef1a92?utm_campaign=1079&utm_source=git)** | Fort Wayne, IN | On Site | Jan 02 |
@@ -148,13 +150,11 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics Mission Systems–Canada](https://gdmissionsystems.ca/)** | **[Co-op May 2026 - Engineering Infrastructure Developer - 12-Months](https://jobright.ai/jobs/info/69582023aa05c26e7ab20130?utm_campaign=1079&utm_source=git)** | Cole Harbour, Nova Scotia, Canada | Hybrid | Jan 02 |
 | **[Altom Transport](http://altomtransport.com)** | **[Summer 2026 Software Development Intern](https://jobright.ai/jobs/info/69581dd1f1f8465b79eeb675?utm_campaign=1079&utm_source=git)** | Hammond, IN | On Site | Jan 02 |
 | ↳ | **[Summer 2026 Software Development Intern](https://jobright.ai/jobs/info/69581804aa05c26e7ab1fbc9?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jan 02 |
-| **[RTX](http://www.raytheon.com)** | **[2026 Intern - Software Engineer Intern - Onsite (IN)](https://jobright.ai/jobs/info/69583996aa05c26e7ab220f9?utm_campaign=1079&utm_source=git)** | IN301: 1010 Production Rd Ft Wayne IN 1010 Production Road  , Fort Wayne, IN, 46808 USA | On Site | Jan 02 |
 | **[P1 Construction, LLC](http://p1group.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6958287ff1f8465b79eebdfc?utm_campaign=1079&utm_source=git)** | Lawrence, KS | On Site | Jan 02 |
+| **[RTX](http://www.raytheon.com)** | **[2026 Intern - Software Engineer Intern - Onsite (IN)](https://jobright.ai/jobs/info/69582c78aa05c26e7ab20989?utm_campaign=1079&utm_source=git)** | IN301: 1010 Production Rd Ft Wayne IN 1010 Production Road  , Fort Wayne, IN, 46808 USA | On Site | Jan 02 |
 | **[Flatiron School](http://flatironschool.com)** | **[Work-Study Apprenticeship, Software Engineer](https://jobright.ai/jobs/info/6957e25ef1f8465b79ee887d?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 02 |
 | **[TD](https://www.td.com)** | **[Mobile Software Engineer Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/6957f1459f1b381eb270d67f?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 02 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Embedded Systems Intern](https://jobright.ai/jobs/info/6957e5859f1b381eb270d2e5?utm_campaign=1079&utm_source=git)** | Warrendale, PA | On Site | Jan 02 |
 | **[Cadence](https://www.cadence.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6950a8e2a2668b7f54538ea8?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 02 |
 | ↳ | **[Software Intern](https://jobright.ai/jobs/info/6950acc029655e4dd659d652?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 02 |
-| **[IXL Learning](https://www.ixl.com/)** | **[Software Engineer, Intern](https://jobright.ai/jobs/info/691e677309cc522e87739827?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Jan 02 |
-| **[IBM](http://www.ibm.com)** | **[Ecosystem Engineer Intern](https://jobright.ai/jobs/info/693b3b91d4054a2bc02527d2?utm_campaign=1079&utm_source=git)** | Austin, TX | Remote | Jan 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
