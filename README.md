@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MathWorks](http://www.mathworks.com)** | **[Software Engineer in Test Intern - EDG](https://jobright.ai/jobs/info/694c033c1a572a617dde4c3d?utm_campaign=1079&utm_source=git)** | Natick, MA | Hybrid | Jan 04 |
+| **[SPX Technologies](https://www.spx.com)** | **[Intern, Engineering](https://jobright.ai/jobs/info/693e0a2950bbaf765050e25c?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Jan 04 |
+| **[Cloudflare](http://www.cloudflare.com)** | **[Software Engineer Intern (Summer 2026) - Austin, TX](https://jobright.ai/jobs/info/68c8abeaf9c6ff7aedf116f4?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Jan 04 |
+| **[ByteDance](http://bytedance.com)** | **[Cloud Acceleration Engineer Intern (DPU & AI Infra)- 2026 Start(PHD)](https://jobright.ai/jobs/info/6905376363502c0aded79975?utm_campaign=1079&utm_source=git)** | San Jose, CA | Remote | Jan 04 |
+| ↳ | **[Software Engineer Intern (Traffic Infrastructure Product Management)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69058504ff462851feffe29a?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 04 |
 | **[ABB](https://global.abb/group/en)** | **[Full Stack Developer Intern- Summer 2026](https://jobright.ai/jobs/info/6931095bef4b48533d151c4c?utm_campaign=1079&utm_source=git)** | Cary, NC | Hybrid | Jan 04 |
 | **[IDEXX](http://www.idexx.com)** | **[Embedded Software Engineer Internship](https://jobright.ai/jobs/info/695a1fd09f1b381eb272c085?utm_campaign=1079&utm_source=git)** | Westbrook, ME | On Site | Jan 04 |
 | **[GenPark](https://genpark.ai)** | **[GTM Engineer](https://jobright.ai/jobs/info/695a1ae1aa05c26e7ab3b6e8?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 03 |
@@ -65,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[Sungrow Power Supply Co., Ltd.](https://sungrowpower.com/)** | **[ESS Application Engineering Internship](https://jobright.ai/jobs/info/6959e924f1f8465b79f03e87?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 03 |
 | **[Textron](http://textron.com)** | **[2026 Summer High School Intern - Information Technology (Mesa, AZ)](https://jobright.ai/jobs/info/69568b8eaa05c26e7ab0cbab?utm_campaign=1079&utm_source=git)** | Mesa, AZ | On Site | Jan 03 |
 | **[Varmodel AI](https://www.linkedin.com/company/79943374)** | **[Software Engineer- Intern](https://jobright.ai/jobs/info/69597e7eaa05c26e7ab33a39?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 03 |
-| **[Applied Concepts, Inc.](https://www.stalkerradar.com/)** | **[Web Applications Developer Intern](https://jobright.ai/jobs/info/695975a79f1b381eb2723989?utm_campaign=1079&utm_source=git)** | Richardson, TX | On Site | Jan 03 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Training & QA Technology](https://jobright.ai/jobs/info/693c8dd0aa598a08c3ed611f?utm_campaign=1079&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Jan 03 |
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Summer Intern 2026 - Test Engineering](https://jobright.ai/jobs/info/691aa2ea45fb6f5ead8ac97c?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Jan 03 |
 | **[Domo](http://www.domo.com)** | **[Intern - Software Engineer](https://jobright.ai/jobs/info/693e2f1e50bbaf765050eaab?utm_campaign=1079&utm_source=git)** | American Fork, UT | On Site | Jan 03 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics Mission Systems–Canada](https://gdmissionsystems.ca/)** | **[Co-op May 2026 - Software Engineering - 8-12 Months](https://jobright.ai/jobs/info/695824519f1b381eb27104ca?utm_campaign=1079&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Jan 02 |
 | **[P1 Construction, LLC](http://p1group.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/695821099f1b381eb2710291?utm_campaign=1079&utm_source=git)** | Lenexa, KS | On Site | Jan 02 |
 | **[General Dynamics Mission Systems–Canada](https://gdmissionsystems.ca/)** | **[Co-op May 2026 - Engineering Infrastructure Developer - 12-Months](https://jobright.ai/jobs/info/69582023aa05c26e7ab20130?utm_campaign=1079&utm_source=git)** | Cole Harbour, Nova Scotia, Canada | Hybrid | Jan 02 |
-| **[Altom Transport](http://altomtransport.com)** | **[Summer 2026 Software Development Intern](https://jobright.ai/jobs/info/69581dd1f1f8465b79eeb675?utm_campaign=1079&utm_source=git)** | Hammond, IN | On Site | Jan 02 |
-| ↳ | **[Summer 2026 Software Development Intern](https://jobright.ai/jobs/info/69581804aa05c26e7ab1fbc9?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jan 02 |
-| **[RTX](http://www.raytheon.com)** | **[2026 Intern - Software Engineer Intern - Onsite (IN)](https://jobright.ai/jobs/info/69583996aa05c26e7ab220f9?utm_campaign=1079&utm_source=git)** | IN301: 1010 Production Rd Ft Wayne IN 1010 Production Road  , Fort Wayne, IN, 46808 USA | On Site | Jan 02 |
-| **[P1 Construction, LLC](http://p1group.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6958287ff1f8465b79eebdfc?utm_campaign=1079&utm_source=git)** | Lawrence, KS | On Site | Jan 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
