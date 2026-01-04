@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ABB](https://global.abb/group/en)** | **[Full Stack Developer Intern- Summer 2026](https://jobright.ai/jobs/info/6931095bef4b48533d151c4c?utm_campaign=1079&utm_source=git)** | Cary, NC | Hybrid | Jan 04 |
+| **[IDEXX](http://www.idexx.com)** | **[Embedded Software Engineer Internship](https://jobright.ai/jobs/info/695a1fd09f1b381eb272c085?utm_campaign=1079&utm_source=git)** | Westbrook, ME | On Site | Jan 04 |
 | **[GenPark](https://genpark.ai)** | **[GTM Engineer](https://jobright.ai/jobs/info/695a1ae1aa05c26e7ab3b6e8?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 03 |
 | **[IDEXX Livestock Diagnostics](https://www.idexx.com/en/livestock/)** | **[Embedded Software Engineer Internship](https://jobright.ai/jobs/info/6959f8809f1b381eb272ab98?utm_campaign=1079&utm_source=git)** | Westbrook, ME | On Site | Jan 03 |
 | **[NimbleRx](https://www.nimblerx.com/)** | **[Software Engineer Intern - Summer Session (Summer 2026)](https://jobright.ai/jobs/info/6959eb3aaa05c26e7ab38771?utm_campaign=1079&utm_source=git)** | Redwood City, CA | Hybrid | Jan 03 |
@@ -121,8 +123,7 @@ For a complete list, click the following sortable link below:
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Billing Solutions Analyst](https://jobright.ai/jobs/info/68afe548b47fb001d688e55c?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Jan 03 |
 | **[Nintendo](http://nintendo.com)** | **[Intern - Software Engineer, Server Application (NTD)](https://jobright.ai/jobs/info/69028417ff462851fefe41f6?utm_campaign=1079&utm_source=git)** | Redmond, WA | On Site | Jan 03 |
 | **[Epic Games](https://epicgames.com)** | **[Ecosec Programmer Intern](https://jobright.ai/jobs/info/6903c47eff462851fefee85e?utm_campaign=1079&utm_source=git)** | Cary, NC | On Site | Jan 03 |
-| **[Rivian and Volkswagen Group Technologies](https://rivianvw.tech)** | **[Software Engineering Intern, Embedded Platforms - Summer 2026](https://jobright.ai/jobs/info/695a1692aa05c26e7ab3b2ce?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Jan 02 |
-| ↳ | **[Software Engineering Intern, Connected Systems - Summer 2026](https://jobright.ai/jobs/info/695a0286aa05c26e7ab3aa85?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jan 02 |
+| **[Rivian and Volkswagen Group Technologies](https://rivianvw.tech)** | **[Software Engineering Intern, Connected Systems - Summer 2026](https://jobright.ai/jobs/info/695a0286aa05c26e7ab3aa85?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jan 02 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Application Engineer)](https://jobright.ai/jobs/info/6959e3beaa05c26e7ab3851e?utm_campaign=1079&utm_source=git)** | Winchester, VA | On Site | Jan 02 |
 | **[Ancestry](http://ancestry.com)** | **[Software Engineer – Observability, Co-op](https://jobright.ai/jobs/info/69587df5aa05c26e7ab2657e?utm_campaign=1079&utm_source=git)** | Lehi, UT | Hybrid | Jan 02 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Application Engineer)](https://jobright.ai/jobs/info/69589b7caa05c26e7ab27371?utm_campaign=1079&utm_source=git)** | Pensacola, FL | On Site | Jan 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Software Development Intern](https://jobright.ai/jobs/info/69581804aa05c26e7ab1fbc9?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jan 02 |
 | **[RTX](http://www.raytheon.com)** | **[2026 Intern - Software Engineer Intern - Onsite (IN)](https://jobright.ai/jobs/info/69583996aa05c26e7ab220f9?utm_campaign=1079&utm_source=git)** | IN301: 1010 Production Rd Ft Wayne IN 1010 Production Road  , Fort Wayne, IN, 46808 USA | On Site | Jan 02 |
 | **[P1 Construction, LLC](http://p1group.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6958287ff1f8465b79eebdfc?utm_campaign=1079&utm_source=git)** | Lawrence, KS | On Site | Jan 02 |
-| **[Flatiron School](http://flatironschool.com)** | **[Work-Study Apprenticeship, Software Engineer](https://jobright.ai/jobs/info/6957e25ef1f8465b79ee887d?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
