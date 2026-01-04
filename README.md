@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SRC](https://www.srcinc.com/)** | **[Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6920ff0c3f782d2f1afce2d7?utm_campaign=1079&utm_source=git)** | Syracuse, NY | On Site | Jan 04 |
+| **[Princess Cruises](http://www.princess.com)** | **[Intern, eCommerce Engineering](https://jobright.ai/jobs/info/693dd78e49a7695fbd044bd0?utm_campaign=1079&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Jan 04 |
+| **[Honeywell](http://www.honeywell.com)** | **[Future IT Leaders - Summer 2026 Intern](https://jobright.ai/jobs/info/692288b838cd5478a8d54079?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 04 |
+| **[SingleStore](http://www.singlestore.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68e95848f195760c354a7b5a?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jan 04 |
+| **[Epic Games](https://epicgames.com)** | **[Tools Programmer Intern](https://jobright.ai/jobs/info/691dd640ad5a517034796d9a?utm_campaign=1079&utm_source=git)** | Greater Montreal Metropolitan Area | On Site | Jan 04 |
+| **[Howmet Aerospace](https://www.howmet.com)** | **[Intern - Applications](https://jobright.ai/jobs/info/693f8569aa598a08c3ef56b9?utm_campaign=1079&utm_source=git)** | Pittsburgh, PA | Hybrid | Jan 04 |
+| **[Dorman Products](https://www.dormanproducts.com/)** | **[IT Intern - Automation and Application Developer](https://jobright.ai/jobs/info/691ae1ed45fb6f5ead8ae963?utm_campaign=1079&utm_source=git)** | Colmar, PA | Hybrid | Jan 04 |
+| ↳ | **[IT Intern, Applications](https://jobright.ai/jobs/info/691aaada45fb6f5ead8acbfe?utm_campaign=1079&utm_source=git)** | Colmar, PA | Hybrid | Jan 04 |
+| **[Ninth Wave](https://ninth-wave.com/)** | **[Jr. Java Software Developer Internship](https://jobright.ai/jobs/info/69424554bdcf884a5ade1f5d?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jan 04 |
+| **[Appian](http://www.appian.com)** | **[Software Quality Engineer Intern](https://jobright.ai/jobs/info/68b246b0bc187f64e1bda31c?utm_campaign=1079&utm_source=git)** | McLean, VA | On Site | Jan 04 |
+| **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Digital Transformation](https://jobright.ai/jobs/info/68e9917cf195760c354aacec?utm_campaign=1079&utm_source=git)** | Allen, TX | On Site | Jan 04 |
+| **[Barry-Wehmiller](https://www.barrywehmiller.com)** | **[DI Software Development Intern](https://jobright.ai/jobs/info/690de59f44146d3b6ec5067e?utm_campaign=1079&utm_source=git)** | St Louis, MO | Hybrid | Jan 04 |
 | **[MathWorks](http://www.mathworks.com)** | **[Software Engineer in Test Intern - EDG](https://jobright.ai/jobs/info/694c033c1a572a617dde4c3d?utm_campaign=1079&utm_source=git)** | Natick, MA | Hybrid | Jan 04 |
 | **[SPX Technologies](https://www.spx.com)** | **[Intern, Engineering](https://jobright.ai/jobs/info/693e0a2950bbaf765050e25c?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Jan 04 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Software Engineer Intern (Summer 2026) - Austin, TX](https://jobright.ai/jobs/info/68c8abeaf9c6ff7aedf116f4?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Jan 04 |
@@ -127,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Billing Solutions Analyst](https://jobright.ai/jobs/info/68afe548b47fb001d688e55c?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Jan 03 |
 | **[Nintendo](http://nintendo.com)** | **[Intern - Software Engineer, Server Application (NTD)](https://jobright.ai/jobs/info/69028417ff462851fefe41f6?utm_campaign=1079&utm_source=git)** | Redmond, WA | On Site | Jan 03 |
 | **[Epic Games](https://epicgames.com)** | **[Ecosec Programmer Intern](https://jobright.ai/jobs/info/6903c47eff462851fefee85e?utm_campaign=1079&utm_source=git)** | Cary, NC | On Site | Jan 03 |
-| **[Rivian and Volkswagen Group Technologies](https://rivianvw.tech)** | **[Software Engineering Intern, Connected Systems - Summer 2026](https://jobright.ai/jobs/info/695a0286aa05c26e7ab3aa85?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jan 02 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Application Engineer)](https://jobright.ai/jobs/info/6959e3beaa05c26e7ab3851e?utm_campaign=1079&utm_source=git)** | Winchester, VA | On Site | Jan 02 |
 | **[Ancestry](http://ancestry.com)** | **[Software Engineer – Observability, Co-op](https://jobright.ai/jobs/info/69587df5aa05c26e7ab2657e?utm_campaign=1079&utm_source=git)** | Lehi, UT | Hybrid | Jan 02 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Application Engineer)](https://jobright.ai/jobs/info/69589b7caa05c26e7ab27371?utm_campaign=1079&utm_source=git)** | Pensacola, FL | On Site | Jan 02 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Developer, Summer 2026 (Co-op/Internship) - 8 Months](https://jobright.ai/jobs/info/69583e0faa05c26e7ab22d1a?utm_campaign=1079&utm_source=git)** | Toronto, ON, CAN | On Site | Jan 02 |
 | **[Arcesium](http://www.arcesium.com)** | **[Infrastructure Engineer Intern](https://jobright.ai/jobs/info/6903dbc3d64a22104aa94187?utm_campaign=1079&utm_source=git)** | New York, United States | On Site | Jan 02 |
 | **[BMO](http://www.bmo.com)** | **[Software Developer, Summer 2026 (Co-op/Internship) - 12 Months](https://jobright.ai/jobs/info/6958388af1f8465b79eed842?utm_campaign=1079&utm_source=git)** | Toronto, ON, CAN | On Site | Jan 02 |
-| **[Broadridge](http://www.broadridge.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/695837e0f1f8465b79eed687?utm_campaign=1079&utm_source=git)** | Toronto, ON | Hybrid | Jan 02 |
-| **[BMO](http://www.bmo.com)** | **[Software Developer, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/695833b9f1f8465b79eecaac?utm_campaign=1079&utm_source=git)** | Toronto, ON, CAN | On Site | Jan 02 |
-| **[Raytheon](http://www.bbn.com)** | **[2026 Intern - Software Engineer Intern - Onsite (IN)](https://jobright.ai/jobs/info/69583251f1f8465b79eec6bc?utm_campaign=1079&utm_source=git)** | Fort Wayne, IN | On Site | Jan 02 |
-| **[Garner Health, LLC](https://www.getgarner.com/about)** | **[Full Stack Engineering Intern](https://jobright.ai/jobs/info/69582fd0aa05c26e7ab20c0a?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Jan 02 |
-| **[Cambio Earth Systems](https://www.cambioearth.com)** | **[Software Developer Co-op](https://jobright.ai/jobs/info/695a07da9f1b381eb272b205?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jan 02 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Application Engineer)](https://jobright.ai/jobs/info/695827c0aa05c26e7ab206d5?utm_campaign=1079&utm_source=git)** | 5510 Heritage Oaks Dr, Pensacola, FL, 32526, US | On Site | Jan 02 |
-| **[Altom Transport](http://altomtransport.com)** | **[Summer 2026 Software Development Intern](https://jobright.ai/jobs/info/695827b89f1b381eb271076d?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | Jan 02 |
-| **[Al Warren Oil](https://www.alwarrenoil.com)** | **[Software Developer - Summer Internship 2026](https://jobright.ai/jobs/info/695827b5f1f8465b79eebd62?utm_campaign=1079&utm_source=git)** | Bensenville, IL | On Site | Jan 02 |
-| **[General Dynamics Mission Systems–Canada](https://gdmissionsystems.ca/)** | **[Co-op May 2026 - Software Engineering - 8-12 Months](https://jobright.ai/jobs/info/695824519f1b381eb27104ca?utm_campaign=1079&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Jan 02 |
-| **[P1 Construction, LLC](http://p1group.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/695821099f1b381eb2710291?utm_campaign=1079&utm_source=git)** | Lenexa, KS | On Site | Jan 02 |
-| **[General Dynamics Mission Systems–Canada](https://gdmissionsystems.ca/)** | **[Co-op May 2026 - Engineering Infrastructure Developer - 12-Months](https://jobright.ai/jobs/info/69582023aa05c26e7ab20130?utm_campaign=1079&utm_source=git)** | Cole Harbour, Nova Scotia, Canada | Hybrid | Jan 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
