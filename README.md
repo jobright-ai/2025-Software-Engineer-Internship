@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marketeq Media Inc.](http://marketeqmedia.co)** | **[Backend Engineering Internship - Typescript/Nest.js, Postgres, AI/ML](https://jobright.ai/jobs/info/6959a3a49f1b381eb2725cd9?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 03 |
 | **[Varmodel AI](https://www.linkedin.com/company/79943374)** | **[Software Engineer- Intern](https://jobright.ai/jobs/info/69597e7eaa05c26e7ab33a39?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 03 |
 | **[Applied Concepts, Inc.](https://www.stalkerradar.com/)** | **[Web Applications Developer Intern](https://jobright.ai/jobs/info/695975a79f1b381eb2723989?utm_campaign=1079&utm_source=git)** | Richardson, TX | On Site | Jan 03 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Training & QA Technology](https://jobright.ai/jobs/info/693c8dd0aa598a08c3ed611f?utm_campaign=1079&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Jan 03 |
@@ -126,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[Zeta Global](http://www.zetaglobal.com)** | **[Software Engineer Intern - Attribution](https://jobright.ai/jobs/info/69586d95f1f8465b79ef1230?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Jan 02 |
 | **[Kiewit](http://www.kiewit.com)** | **[Quantity Takeoff Intern - Kiewit Infrastructure Engineers (Summer 2026)](https://jobright.ai/jobs/info/69586c08f1f8465b79ef11cb?utm_campaign=1079&utm_source=git)** | Lone Tree, CO | On Site | Jan 02 |
 | **[Zeta Global](http://www.zetaglobal.com)** | **[Software Engineer Intern - Intelligence & Forecasting](https://jobright.ai/jobs/info/695865acaa05c26e7ab23f2b?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Jan 02 |
-| **[Builderk](https://www.builderk.com/)** | **[BuildShare Global Internship Program](https://jobright.ai/jobs/info/6958bb6ef1f8465b79ef545c?utm_campaign=1079&utm_source=git)** | Boston, MA | Remote | Jan 02 |
 | **[ContactCenterWorld](https://www.contactcenterworld.com/)** | **[Call and Contact Center Jobs - Co-op Software Engineer, Backend](https://jobright.ai/jobs/info/695861afaa05c26e7ab23eba?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jan 02 |
 | ↳ | **[Call and Contact Center Jobs - Co-op Software Engineer, Android](https://jobright.ai/jobs/info/695860f99f1b381eb2713f3d?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jan 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Backend Software Engineer Intern (TikTok-PGC-UCP) - 2026 Summer(BS/MS)](https://jobright.ai/jobs/info/69585ff3aa05c26e7ab23db8?utm_campaign=1079&utm_source=git)** | San Jose, CA | Remote | Jan 02 |
@@ -148,13 +148,13 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics Mission Systems–Canada](https://gdmissionsystems.ca/)** | **[Co-op May 2026 - Engineering Infrastructure Developer - 12-Months](https://jobright.ai/jobs/info/69582023aa05c26e7ab20130?utm_campaign=1079&utm_source=git)** | Cole Harbour, Nova Scotia, Canada | Hybrid | Jan 02 |
 | **[Altom Transport](http://altomtransport.com)** | **[Summer 2026 Software Development Intern](https://jobright.ai/jobs/info/69581dd1f1f8465b79eeb675?utm_campaign=1079&utm_source=git)** | Hammond, IN | On Site | Jan 02 |
 | ↳ | **[Summer 2026 Software Development Intern](https://jobright.ai/jobs/info/69581804aa05c26e7ab1fbc9?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jan 02 |
-| **[RTX](http://www.raytheon.com)** | **[2026 Intern - Software Engineer Intern - Onsite (IN)](https://jobright.ai/jobs/info/69583996aa05c26e7ab220f9?utm_campaign=1079&utm_source=git)** | IN301: 1010 Production Rd Ft Wayne IN 1010 Production Road  , Fort Wayne, IN, 46808 USA | On Site | Jan 02 |
 | **[P1 Construction, LLC](http://p1group.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6958287ff1f8465b79eebdfc?utm_campaign=1079&utm_source=git)** | Lawrence, KS | On Site | Jan 02 |
+| **[RTX](http://www.raytheon.com)** | **[2026 Intern - Software Engineer Intern - Onsite (IN)](https://jobright.ai/jobs/info/69582c78aa05c26e7ab20989?utm_campaign=1079&utm_source=git)** | IN301: 1010 Production Rd Ft Wayne IN 1010 Production Road  , Fort Wayne, IN, 46808 USA | On Site | Jan 02 |
 | **[Flatiron School](http://flatironschool.com)** | **[Work-Study Apprenticeship, Software Engineer](https://jobright.ai/jobs/info/6957e25ef1f8465b79ee887d?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 02 |
 | **[TD](https://www.td.com)** | **[Mobile Software Engineer Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/6957f1459f1b381eb270d67f?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 02 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Embedded Systems Intern](https://jobright.ai/jobs/info/6957e5859f1b381eb270d2e5?utm_campaign=1079&utm_source=git)** | Warrendale, PA | On Site | Jan 02 |
 | **[Cadence](https://www.cadence.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6950a8e2a2668b7f54538ea8?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 02 |
 | ↳ | **[Software Intern](https://jobright.ai/jobs/info/6950acc029655e4dd659d652?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 02 |
-| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Software Development Engineer](https://jobright.ai/jobs/info/693b9344b309e3780087412c?utm_campaign=1079&utm_source=git)** | Irving, TX | Hybrid | Jan 02 |
 | **[IXL Learning](https://www.ixl.com/)** | **[Software Engineer, Intern](https://jobright.ai/jobs/info/691e677309cc522e87739827?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Jan 02 |
+| **[IBM](http://www.ibm.com)** | **[Ecosystem Engineer Intern](https://jobright.ai/jobs/info/693b3b91d4054a2bc02527d2?utm_campaign=1079&utm_source=git)** | Austin, TX | Remote | Jan 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
