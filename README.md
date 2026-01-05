@@ -57,13 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Boston Scientific](http://www.bostonscientific.com)** | **[R&D Software Engineer Intern](https://jobright.ai/jobs/info/695be63422c9dc0d3d53b9f4?utm_campaign=1079&utm_source=git)** | Arden Hills, MN | On Site | Jan 05 |
+| **[Brother USA](https://brother-usa.com)** | **[Release Management Intern (Summer 2026 Internship Program)](https://jobright.ai/jobs/info/695bfbfff1f8465b79f209e4?utm_campaign=1079&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 05 |
+| **[Vibes Meet LLC](vibesmeet.com)** | **[React Native developer Intern – Remote (Unpaid to Paid)](https://jobright.ai/jobs/info/695bfb6a22c9dc0d3d53e093?utm_campaign=1079&utm_source=git)** | Ontario, Canada | Remote | Jan 05 |
 | **[Deutsche Telekom](http://www.telekom.com)** | **[Ausbildung zum Kaufmann für IT-System-Management (m/w/d)](https://jobright.ai/jobs/info/695bf55cf1f8465b79f2065d?utm_campaign=1079&utm_source=git)** | Linden, TX | On Site | Jan 05 |
 | **[Marketeq Media Inc.](http://marketeqmedia.co)** | **[Backend Development Internship - Typescript/Nest.js, Postgres, AI/ML](https://jobright.ai/jobs/info/695bf23eaa05c26e7ab5453a?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 05 |
 | **[Riot Platforms, Inc.](https://www.riotplatforms.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/695bf08ff1f8465b79f1f55f?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Jan 05 |
 | **[KBR Careers](https://careers.kbr.com/)** | **[National Security Solutions (NSS) - Software Developer Intern](https://jobright.ai/jobs/info/695bedb022c9dc0d3d53c2db?utm_campaign=1079&utm_source=git)** | Beavercreek Township, Ohio | On Site | Jan 05 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[R&D System Test Intern](https://jobright.ai/jobs/info/695bed3c22c9dc0d3d53c1a2?utm_campaign=1079&utm_source=git)** | Arden Hills, MN | On Site | Jan 05 |
-| ↳ | **[R&D Software Engineer Intern](https://jobright.ai/jobs/info/695be63422c9dc0d3d53b9f4?utm_campaign=1079&utm_source=git)** | Arden Hills, MN | On Site | Jan 05 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[GDIT Summer Internship Program – Summer 2026 Software Development Internship  ](https://jobright.ai/jobs/info/695be10ff1f8465b79f1e1e9?utm_campaign=1079&utm_source=git)** | USA VA Falls Church | Hybrid | Jan 05 |
+| **[Anne Arundel County Office of Personnel](http://www.aacounty.org/departments/personnel/employment-information/index.html)** | **[Information Technology Internships](https://jobright.ai/jobs/info/695bf86caa05c26e7ab54f20?utm_campaign=1079&utm_source=git)** | Annapolis, MD | Hybrid | Jan 05 |
 | **[Rolls-Royce Power Systems AG](http://www.rrpowersystems.com)** | **[SAP Intern](https://jobright.ai/jobs/info/695bd587f1f8465b79f1dbed?utm_campaign=1079&utm_source=git)** | Novi, MI | On Site | Jan 05 |
 | ↳ | **[Application Engineering Intern](https://jobright.ai/jobs/info/695bd303f396ad6ddab17bc7?utm_campaign=1079&utm_source=git)** | Novi, MI | On Site | Jan 05 |
 | **[DRW](http://drw.com/)** | **[Software Developer Intern](https://jobright.ai/jobs/info/695bd2cdf1f8465b79f1db0d?utm_campaign=1079&utm_source=git)** | Montreal | On Site | Jan 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Intern – Software Engineer, Autonomous Driving (Master's Degree)](https://jobright.ai/jobs/info/6950c7ffa2668b7f5453b67e?utm_campaign=1079&utm_source=git)** | Milford, MI | Hybrid | Jan 03 |
 | ↳ | **[2026 Summer Intern - Software Engineer - Autonomous Driving - Simulation Team (Master's)](https://jobright.ai/jobs/info/6947bdc3d1953b5d11c0edb4?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | Hybrid | Jan 03 |
 | **[Verkada](https://www.verkada.com)** | **[Embedded Software Engineering Intern 2026](https://jobright.ai/jobs/info/68cd7c79e23def7af55bac47?utm_campaign=1079&utm_source=git)** | San Mateo, CA | On Site | Jan 03 |
-| **[O-I](http://www.o-i.com)** | **[Information Technology Internship -Summer 2026](https://jobright.ai/jobs/info/68ae6e96758f2e4ac30137c1?utm_campaign=1079&utm_source=git)** | Perrysburg, OH | On Site | Jan 03 |
-| **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Backend Software Engineer, Fleet Tooling (Bachelor's Degree)](https://jobright.ai/jobs/info/693c987b49a7695fbd036a64?utm_campaign=1079&utm_source=git)** | Mountain View, CA | Hybrid | Jan 03 |
-| ↳ | **[2026 Summer Intern - Software Engineer - Autonomous Driving - Simulation Team (Bachelor's)](https://jobright.ai/jobs/info/69500a78ce13cd1056580315?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | Hybrid | Jan 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
