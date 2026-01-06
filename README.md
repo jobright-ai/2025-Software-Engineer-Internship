@@ -57,11 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BrokerLink](http://www.brokerlink.ca)** | **[Software Developer I – 4 Month Internship/Co-op (Summer 2026)](https://jobright.ai/jobs/info/695d66bffbd62a0a6565fbbb?utm_campaign=1079&utm_source=git)** | St. John's, Newfoundland and Labrador, CAN | On Site | Jan 06 |
+| **[Interclypse](https://interclypse.com/)** | **[Junior Full Stack Software Engineer (Part-Time/Internship)](https://jobright.ai/jobs/info/695d62c4fbd62a0a6565f81f?utm_campaign=1079&utm_source=git)** | Annapolis Junction,MD,US | On Site | Jan 06 |
+| **[Thryv](https://www.thryv.com/)** | **[Technology Intern](https://jobright.ai/jobs/info/694056bcaa598a08c3effd3d?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 06 |
+| **[PlayCore](http://www.playcore.com/)** | **[Digital Services Intern - PlayCore](https://jobright.ai/jobs/info/695d56ccf5f3c43f38e22127?utm_campaign=1079&utm_source=git)** | Chattanooga, TN | On Site | Jan 06 |
+| **[BrokerLink](http://www.brokerlink.ca)** | **[IT Intern – 16 Month Internship/Co-op (Summer 2026)](https://jobright.ai/jobs/info/695d5204f1f8465b79f38237?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, CAN | On Site | Jan 06 |
+| **[Riot Games](http://www.riotgames.com)** | **[Research Scientist Intern, Next-Gen Gameplay - Summer 2026 (Remote)](https://jobright.ai/jobs/info/690923ac4a1b456627afd161?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Jan 06 |
+| **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/695d36e2fbd62a0a6565c128?utm_campaign=1079&utm_source=git)** | New Britain, CT, United States | Hybrid | Jan 06 |
 | **[Johnson Electric](https://www.johnsonelectric.com/)** | **[IT Intern](https://jobright.ai/jobs/info/695d4ad6f1f8465b79f37d01?utm_campaign=1079&utm_source=git)** | United States, Plymouth, MI | On Site | Jan 06 |
 | **[iCapital](https://icapital.com)** | **[Quality Assurance - Summer 2026 Intern](https://jobright.ai/jobs/info/695d4905f5f3c43f38e1fed6?utm_campaign=1079&utm_source=git)** | New York, New York, United States | On Site | Jan 06 |
 | **[Riot Games](http://www.riotgames.com)** | **[Game Producer Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/69091c2abcccf20de59d7469?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Jan 06 |
-| **[GenPark](https://genpark.ai)** | **[Front end developer intern](https://jobright.ai/jobs/info/695d480ff1f8465b79f376a9?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Jan 06 |
-| **[RTX](http://www.raytheon.com)** | **[Intern: Summer 2026 - Software Engineer (Onsite)](https://jobright.ai/jobs/info/695d4594f1f8465b79f3722c?utm_campaign=1079&utm_source=git)** | PW100: East Hartford 400 Main Street, East Hartford, CT, 06118 USA | On Site | Jan 06 |
 | **[Honeywell](http://www.honeywell.com)** | **[High School Intern (AZ) - IT (US Persons)](https://jobright.ai/jobs/info/695d43b5fbd62a0a6565cae9?utm_campaign=1079&utm_source=git)** | Phoenix, AZ, United States | On Site | Jan 06 |
 | **[Tactile Medical](https://tactilemedical.com)** | **[Salesforce Software Engineer Intern](https://jobright.ai/jobs/info/695d436df5f3c43f38e1fbfc?utm_campaign=1079&utm_source=git)** | Minneapolis, Minnesota | Hybrid | Jan 06 |
 | **[MAHLE](https://www.mahle.com)** | **[Software Engineering Intern (Jan - Aug 2026)](https://jobright.ai/jobs/info/695d4286fbd62a0a6565ca40?utm_campaign=1079&utm_source=git)** | Lockport, NY | On Site | Jan 06 |
@@ -72,15 +77,12 @@ For a complete list, click the following sortable link below:
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, R&D Graduate Year-Round - AI For Autonomy, Hybrid](https://jobright.ai/jobs/info/695d3e16fbd62a0a6565c730?utm_campaign=1079&utm_source=git)** | Albuquerque, NM | Hybrid | Jan 06 |
 | **[RADcube](http://www.radcube.com/)** | **[Front-End Developer (Intern)](https://jobright.ai/jobs/info/695d3d18f5f3c43f38e1f6b2?utm_campaign=1079&utm_source=git)** | Carmel, IN | On Site | Jan 06 |
 | **[Tactile Medical](https://tactilemedical.com)** | **[Salesforce Software Engineer Intern](https://jobright.ai/jobs/info/695d3c91f5f3c43f38e1f644?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | Hybrid | Jan 06 |
-| **[Uber](http://www.uber.com)** | **[2026 PhD Software Engineer Intern (Programming Systems Group), United States](https://jobright.ai/jobs/info/695d3a84fbd62a0a6565c362?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jan 06 |
 | **[Ericsson](https://www.ericsson.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/695d3993f5f3c43f38e1f471?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Jan 06 |
 | **[AutoStore™](https://www.autostoresystem.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/695d377ef5f3c43f38e1f384?utm_campaign=1079&utm_source=git)** | Denver, USA | On Site | Jan 06 |
 | **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Technology Summer Internship Program](https://jobright.ai/jobs/info/695a07309f1b381eb272b1da?utm_campaign=1079&utm_source=git)** | Pontiac, MI | On Site | Jan 06 |
-| **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/695d36e2fbd62a0a6565c128?utm_campaign=1079&utm_source=git)** | New Britain, CT, United States | Hybrid | Jan 06 |
 | **[National Indemnity Company](https://www.nationalindemnity.com/)** | **[Azure Cloud Engineer Intern](https://jobright.ai/jobs/info/695d3433fbd62a0a6565c03b?utm_campaign=1079&utm_source=git)** | Omaha, NE | On Site | Jan 06 |
 | **[Nokia](http://www.nokia.com)** | **[Security Software Developer Co-Op/Intern](https://jobright.ai/jobs/info/695d3399fbd62a0a6565bfcd?utm_campaign=1079&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Jan 06 |
-| **[POZzlePiece Inc](https://site-x8k6gsch1.godaddysites.com/)** | **[App Developer – AR/VR (Internship with Partnership Potential)](https://jobright.ai/jobs/info/695d3182f1f8465b79f3545d?utm_campaign=1079&utm_source=git)** | Kennesaw, GA | Remote | Jan 06 |
-| **[Nokia](http://www.nokia.com)** | **[Software Engineer Co-op/Intern](https://jobright.ai/jobs/info/695d30dbf1f8465b79f353fe?utm_campaign=1079&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Jan 06 |
+| ↳ | **[Software Engineer Co-op/Intern](https://jobright.ai/jobs/info/695d30dbf1f8465b79f353fe?utm_campaign=1079&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Jan 06 |
 | ↳ | **[Defense Software Test & AI Intern](https://jobright.ai/jobs/info/695d28acf5f3c43f38e1ed73?utm_campaign=1079&utm_source=git)** | Naperville, IL | On Site | Jan 06 |
 | **[London Computer Systems](https://www.lcs.com/)** | **[Software Developer Co-op/Intern](https://jobright.ai/jobs/info/695d2773fbd62a0a6565bab9?utm_campaign=1079&utm_source=git)** | Cincinnati, OH | On Site | Jan 06 |
 | **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/695d44c3f5f3c43f38e1fcf8?utm_campaign=1079&utm_source=git)** | Towson, MD, United States | Hybrid | Jan 06 |
@@ -110,7 +112,7 @@ For a complete list, click the following sortable link below:
 | **[Ripple](http://ripple.com)** | **[Software Engineer Intern, Finance Primitives (Summer 2026)](https://jobright.ai/jobs/info/6940486349a7695fbd05d506?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Jan 06 |
 | **[metalenz](https://www.metalenz.com/)** | **[Camera Software Intern](https://jobright.ai/jobs/info/6942482c14ee092a69008f59?utm_campaign=1079&utm_source=git)** | Boston, MA | Hybrid | Jan 06 |
 | **[Nokia](http://www.nokia.com)** | **[Defense Software Test & AI Intern](https://jobright.ai/jobs/info/695d2558f1f8465b79f34ea4?utm_campaign=1079&utm_source=git)** | 2000 W Lucent Lane, Naperville, Illinois, 60563-1443, US | On Site | Jan 06 |
-| ↳ | **[Software Engineer Co-op/Intern](https://jobright.ai/jobs/info/695d280cf5f3c43f38e1ecf3?utm_campaign=1079&utm_source=git)** | Canada, Ottawa, Ontario, K2K 0J9, CA | Hybrid | Jan 06 |
+| ↳ | **[Software Engineer Co-op/Intern](https://jobright.ai/jobs/info/695d25c2f1f8465b79f34efa?utm_campaign=1079&utm_source=git)** | Canada, Ottawa, Ontario, K2K 0J9, CA | Hybrid | Jan 06 |
 | **[Skydio](https://www.skydio.com)** | **[Mobile Software Engineer Intern](https://jobright.ai/jobs/info/6940b27d50bbaf765052b656?utm_campaign=1079&utm_source=git)** | San Mateo, CA | On Site | Jan 06 |
 | ↳ | **[Cloud Software Engineer Intern](https://jobright.ai/jobs/info/6940a43250bbaf765052ae04?utm_campaign=1079&utm_source=git)** | San Mateo, CA | On Site | Jan 06 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6906ceb563502c0aded83292?utm_campaign=1079&utm_source=git)** | Chandler, AZ | On Site | Jan 06 |
@@ -125,8 +127,8 @@ For a complete list, click the following sortable link below:
 | **[Ripple](http://ripple.com)** | **[Software Engineer Intern, RippleX Platform (Summer 2026)](https://jobright.ai/jobs/info/6940635049a7695fbd05e770?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 06 |
 | ↳ | **[Software Engineer Intern, RippleX Programmability (Summer 2026)](https://jobright.ai/jobs/info/6940684250bbaf7650526bae?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Jan 06 |
 | ↳ | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/69407b5449a7695fbd05fbc4?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 06 |
-| ↳ | **[Software Engineer Intern, RippleX DGE (Summer 2026)](https://jobright.ai/jobs/info/69406a0b50bbaf7650526d23?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 06 |
 | ↳ | **[Software Engineer Intern, RippleX Quality Enforcers (Summer 2026)](https://jobright.ai/jobs/info/69405437aa598a08c3effbef?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 06 |
+| ↳ | **[Software Engineer Intern, RippleX DGE (Summer 2026)](https://jobright.ai/jobs/info/69406a0b50bbaf7650526d23?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 06 |
 | **[Affirm](https://www.affirm.com)** | **[Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69250e16ec574f4265bbb12d?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Jan 06 |
 | **[Genus PLC](http://www.genusplc.com/)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69420c2450bbaf765053dd4d?utm_campaign=1079&utm_source=git)** | De Forest, WI | On Site | Jan 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Project Intern (Lead Ads) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6940acd750bbaf765052b322?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AMD](http://www.amd.com)** | **[2026 Masters Compiler Engineering Co-Op/Intern](https://jobright.ai/jobs/info/695cd6e4f1f8465b79f2fe21?utm_campaign=1079&utm_source=git)** | Fort Collins, CO | On Site | Jan 06 |
 | **[Amazon](https://amazon.com)** | **[Software Development Engineer Internship - Military Veterans](https://jobright.ai/jobs/info/695cd534f1f8465b79f2f95a?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Jan 06 |
 | **[AMD](http://www.amd.com)** | **[2026 Undergrad Software Engineering Intern/Co-op](https://jobright.ai/jobs/info/695cd51ef1f8465b79f2f927?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Jan 06 |
-| **[Amazon](https://amazon.com)** | **[Software Development Engineer Internship - Military Veterans](https://jobright.ai/jobs/info/695cd4375e4962051b59f118?utm_campaign=1079&utm_source=git)** | New York, United States | On Site | Jan 06 |
-| **[AMD](http://www.amd.com)** | **[2026 Undergrad Software Engineering Intern/Co-op](https://jobright.ai/jobs/info/695cd3c31dfa954d1c46f1a1?utm_campaign=1079&utm_source=git)** | Fort Collins, CO | Hybrid | Jan 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
