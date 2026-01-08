@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ICE](https://www.ice.com)** | **[Summer Internship Program 2026 - Software Development Engineer in Test Intern](https://jobright.ai/jobs/info/68ed44ca81fdd1626d39a6f8?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Jan 08 |
+| **[ASML](https://www.asml.com)** | **[Internship - Software Engineer In Test (MOD)](https://jobright.ai/jobs/info/6943553250bbaf7650553682?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 08 |
 | **[Cisco](http://www.cisco.com)** | **[Software Engineer Backend/Platform Systems I (Intern) – United States](https://jobright.ai/jobs/info/69270d54d47de4798ecd9b37?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Remote | Jan 08 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[IT Software Developer Intern](https://jobright.ai/jobs/info/694626327d506e3808f17740?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 08 |
 | **[Saviynt](http://saviynt.com)** | **[Software Engineering R&D - Internship](https://jobright.ai/jobs/info/6940d87f49a7695fbd0660b5?utm_campaign=1079&utm_source=git)** | El Segundo, CA | On Site | Jan 08 |
@@ -76,6 +78,8 @@ For a complete list, click the following sortable link below:
 | **[TMX Group](http://www.tmx.com)** | **[Student Intern - Python/C++ Developer - Summer Term](https://jobright.ai/jobs/info/69436549dd382f5f56696d9e?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jan 08 |
 | **[Cisco](http://www.cisco.com)** | **[Software Engineer Backend/Platform Systems I (Intern) – United States](https://jobright.ai/jobs/info/69270ffbf0beb07232627569?utm_campaign=1079&utm_source=git)** | Fulton, MD | On Site | Jan 08 |
 | **[Empower](https://www.empower.com)** | **[Summer 2026 Intern – Quality Engineer](https://jobright.ai/jobs/info/6942b74fdd382f5f5668b7f6?utm_campaign=1079&utm_source=git)** | Hartford, CT | On Site | Jan 08 |
+| **[Robinhood](https://www.robinhood.com)** | **[Software Developer Intern, Backend (Summer 2026)](https://jobright.ai/jobs/info/691de140748c4e1301ec9c38?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 08 |
+| ↳ | **[Software Developer Intern, Web (Summer 2026)](https://jobright.ai/jobs/info/691db11161dc50590a649243?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 08 |
 | **[DoorDash](http://www.doordash.com)** | **[Software Engineer, Intern (Summer 2026) - Toronto](https://jobright.ai/jobs/info/691718b5370fde633d07d410?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 08 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Software Developer, Network Software Intern (Spring 2026)](https://jobright.ai/jobs/info/69437dbb94730b7398769b89?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jan 08 |
 | **[STMicroelectronics](https://www.st.com)** | **[Applications Engineer Intern](https://jobright.ai/jobs/info/694365f5dd382f5f56696ecd?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Jan 08 |
@@ -90,7 +94,7 @@ For a complete list, click the following sortable link below:
 | **[Robinhood](https://www.robinhood.com)** | **[Software Engineering Intern, iOS (Summer 2026)](https://jobright.ai/jobs/info/68d1a0accece431f8b5861d0?utm_campaign=1079&utm_source=git)** | Menlo Park, CA | On Site | Jan 08 |
 | ↳ | **[Software Engineering Intern, Android (Summer 2026)](https://jobright.ai/jobs/info/68d1a27bcece431f8b58648c?utm_campaign=1079&utm_source=git)** | Menlo Park, CA | On Site | Jan 08 |
 | **[ByteDance](http://bytedance.com)** | **[Infrastructure Engineer Intern (Compute Infrastructure - Cloud-Native )- 2026 Summer (MS/BS)](https://jobright.ai/jobs/info/6943d44250bbaf765055de42?utm_campaign=1079&utm_source=git)** | Seattle, WA | Remote | Jan 08 |
-| **[TTM Technologies](https://www.ttm.com/)** | **[Software Engineering Internship](https://jobright.ai/jobs/info/695607b7f1f8465b79ed04d1?utm_campaign=1079&utm_source=git)** | Farmingdale, NY | On Site | Jan 08 |
+| **[TTM Technologies](https://www.ttm.com/)** | **[Software Engineering Internship](https://jobright.ai/jobs/info/69418e1350bbaf76505360b5?utm_campaign=1079&utm_source=git)** | Farmingdale, NY | On Site | Jan 08 |
 | **[LinkedIn](https://www.linkedin.com)** | **[Systems & Infrastructure Engineer Intern, Masters - Summer 2026 (Mountain View, CA)](https://jobright.ai/jobs/info/690aa4ad4a1b456627b09e13?utm_campaign=1079&utm_source=git)** | Mountain View, CA | Hybrid | Jan 08 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68f205ac28898614d8b1a0c3?utm_campaign=1079&utm_source=git)** | Dayton, OH | On Site | Jan 08 |
 | **[Dexcom](http://www.dexcom.com)** | **[Intern I - Software Test Development Engineering](https://jobright.ai/jobs/info/693e224eaa598a08c3ee84b1?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | Jan 08 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Riot Platforms, Inc.](https://www.riotplatforms.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/695ef70308ab990f282a474d?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Jan 07 |
 | **[General Dynamics Mission Systems–Canada](https://gdmissionsystems.ca/)** | **[Co-op May 2026 - Software Engineering - 4-Months](https://jobright.ai/jobs/info/695ef13108ab990f282a41ec?utm_campaign=1079&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Jan 07 |
 | **[PCL Construction](http://www.pcl.com)** | **[Software Developer Student](https://jobright.ai/jobs/info/695eea5aa112b402660da740?utm_campaign=1079&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 07 |
-| **[SoFi](https://www.sofi.com)** | **[Intern, Software Engineer](https://jobright.ai/jobs/info/695ec69aa112b402660d7cb5?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jan 07 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Software Engineer, Service Engineering, Privacy (Summer 2026)](https://jobright.ai/jobs/info/695ec65e0badca5763af3cde?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Jan 07 |
-| **[Raytheon](http://www.bbn.com)** | **[2026 Intern - Software Engineer Intern - Onsite (CO)](https://jobright.ai/jobs/info/695ec4e408ab990f282a0f72?utm_campaign=1079&utm_source=git)** | Aurora, CO | On Site | Jan 07 |
-| **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[Spring 2026 College Intern - IT Platform](https://jobright.ai/jobs/info/695f0d45a1bbea1d9a79dc20?utm_campaign=1079&utm_source=git)** | Binghamton, NY | Hybrid | Jan 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
