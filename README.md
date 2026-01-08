@@ -65,6 +65,7 @@ For a complete list, click the following sortable link below:
 | **[Dexcom](http://www.dexcom.com)** | **[Intern I - Software Engineering](https://jobright.ai/jobs/info/6932594ea0dde7020e2e6035?utm_campaign=1079&utm_source=git)** | United States | On Site | Jan 07 |
 | **[Whisker](https://www.litter-robot.com/)** | **[Mobile Software Engineering Intern](https://jobright.ai/jobs/info/695ed6d10badca5763af4d78?utm_campaign=1079&utm_source=git)** | Auburn Hills, MI | On Site | Jan 07 |
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[Spring 2026 College Intern - IT Platform](https://jobright.ai/jobs/info/695ed64808ab990f282a219e?utm_campaign=1079&utm_source=git)** | DeWitt, NY | Hybrid | Jan 07 |
+| **[Cortif Technologies](https://cortif.ai/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/695ef4a60badca5763af702d?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 07 |
 | **[Todd](https://toddagriscience.com)** | **[Fullstack Software Developer Intern (Summer '26)](https://jobright.ai/jobs/info/695ef3ef0badca5763af6fc0?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Jan 07 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Software Engineer, Service Engineering (Summer 2026)](https://jobright.ai/jobs/info/695ecde9a112b402660d8552?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Jan 07 |
 | **[General Dynamics Mission Systems–Canada](https://gdmissionsystems.ca/)** | **[Co-op May 2026 - Software Engineering - 4-Months](https://jobright.ai/jobs/info/695ef13108ab990f282a41ec?utm_campaign=1079&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Jan 07 |
@@ -148,13 +149,12 @@ For a complete list, click the following sortable link below:
 | **[GoFundMe](http://www.gofundme.com)** | **[Native Mobile Software Engineer Intern](https://jobright.ai/jobs/info/69264661d47de4798ecd611e?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Jan 07 |
 | **[McLane Company, Inc.](http://www.mclaneco.com)** | **[Summer 2026 Intern I- Information Technology & Digital](https://jobright.ai/jobs/info/69422af350bbaf7650540cd4?utm_campaign=1079&utm_source=git)** | Temple, TX | On Site | Jan 07 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Product Engineering, HBM](https://jobright.ai/jobs/info/68ed441c6335d33236126f94?utm_campaign=1079&utm_source=git)** | Boise, ID | On Site | Jan 07 |
+| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Spring Technologist Intern](https://jobright.ai/jobs/info/694225e450bbaf7650540543?utm_campaign=1079&utm_source=git)** | Honolulu, HI | Hybrid | Jan 07 |
 | **[Nokia](http://www.nokia.com)** | **[Software Tester – Co-op/Intern](https://jobright.ai/jobs/info/69424c6abdcf884a5ade340a?utm_campaign=1079&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Jan 07 |
 | ↳ | **[Web Applications Co-op/Intern](https://jobright.ai/jobs/info/69422ed5bdcf884a5ade01a1?utm_campaign=1079&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Jan 07 |
 | ↳ | **[Web Developer Co-op/Intern](https://jobright.ai/jobs/info/69423db614ee092a69006cf8?utm_campaign=1079&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Jan 07 |
 | **[Waystar](http://www.waystar.com)** | **[Application Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/695b51d3f1f8465b79f16ba9?utm_campaign=1079&utm_source=git)** | Louisville, KY | On Site | Jan 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Business Integrity) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/691596d4286ccf0a1512f584?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 07 |
 | **[JPL](https://jpl.agency)** | **[Interactive Intern (Summer 2026)](https://jobright.ai/jobs/info/6924df61ec574f4265bb80a0?utm_campaign=1079&utm_source=git)** | Harrisburg, PA | On Site | Jan 07 |
-| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Spring Technologist Intern](https://jobright.ai/jobs/info/6942197a50bbaf765053f280?utm_campaign=1079&utm_source=git)** | Honolulu, HI | Hybrid | Jan 07 |
 | **[Waystar](http://www.waystar.com)** | **[Application Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/695b351baa05c26e7ab48d53?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Jan 07 |
-| ↳ | **[Application Engineer: Co-Op](https://jobright.ai/jobs/info/694a24b27d506e3808f55dfb?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Jan 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
