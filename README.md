@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[BioMarin Pharmaceutical Inc.](https://www.biomarin.com)** | **[Intern, Corporate IT Solutions Partner](https://jobright.ai/jobs/info/69611b13a112b402660fa4cb?utm_campaign=1079&utm_source=git)** | San Rafael, CA | On Site | Jan 09 |
-| **[Microsoft](https://www.microsoft.com)** | **[Software Engineer - CTJ - Top Secret: Internship Opportunities](https://jobright.ai/jobs/info/69610994f3f4cd132505ff61?utm_campaign=1079&utm_source=git)** | Redmond, WA | On Site | Jan 09 |
 | **[ICE](https://www.ice.com)** | **[Summer Internship Program 2026 - Full-Stack (Java) Software Engineering Intern](https://jobright.ai/jobs/info/68ed43616335d33236126eed?utm_campaign=1079&utm_source=git)** | Jacksonville, FL | On Site | Jan 09 |
 | **[IBM](http://www.ibm.com)** | **[QA/Test Developer Intern 2026](https://jobright.ai/jobs/info/6944bec8a7227b3ece666a73?utm_campaign=1079&utm_source=git)** | Research Park, CA | On Site | Jan 09 |
 | **[Boardwalk Pipelines](http://www.bwpmlp.com/)** | **[Intern - Application Developer](https://jobright.ai/jobs/info/691d48937481340785ed6034?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | Jan 09 |
@@ -78,6 +77,7 @@ For a complete list, click the following sortable link below:
 | **[SWIVEL](https://www.getswivel.io)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6933cc5df131d96e484673d2?utm_campaign=1079&utm_source=git)** | San Antonio, TX | On Site | Jan 09 |
 | **[Neuralink](https://www.neuralink.com)** | **[Software Engineer Intern, Implant](https://jobright.ai/jobs/info/68d00686846f0b04af686fbb?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Jan 09 |
 | **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - Engineering (Production Services)](https://jobright.ai/jobs/info/69445b3850bbaf7650565861?utm_campaign=1079&utm_source=git)** | Pittsburgh, PA | Hybrid | Jan 09 |
+| **[Microsoft](https://www.microsoft.com)** | **[Software Engineer - CTJ - Top Secret: Internship Opportunities](https://jobright.ai/jobs/info/696117a0e7ed9a5731b9cfff?utm_campaign=1079&utm_source=git)** | Redmond, WA | On Site | Jan 09 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Information Technology (IT) Intern](https://jobright.ai/jobs/info/69443f2694730b73987757e9?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Jan 09 |
 | **[CareSource](https://www.caresource.com/)** | **[REMOTE - 2026 Summer Internship - Application Development - R10583](https://jobright.ai/jobs/info/68f02d7878ba1621431e2fdf?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 09 |
 | **[Microsoft](https://www.microsoft.com)** | **[Design Engineer: Internship Opportunities](https://jobright.ai/jobs/info/6944013650bbaf76505605bb?utm_campaign=1079&utm_source=git)** | Redmond, WA | On Site | Jan 09 |
@@ -130,7 +130,6 @@ For a complete list, click the following sortable link below:
 | **[Ultima Genomics](https://www.ultimagenomics.com)** | **[System Analytics Intern](https://jobright.ai/jobs/info/69607e7aa1bbea1d9a7b4ffa?utm_campaign=1079&utm_source=git)** | Fremont, California, United States | On Site | Jan 08 |
 | **[Amazon](https://amazon.com)** | **[Software Development Engineer Internship - Amazon Leo, Summer 2026 (US)](https://jobright.ai/jobs/info/69607d907ebc25398eb66eed?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Jan 08 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Software Engineering Internship](https://jobright.ai/jobs/info/69607c94a1bbea1d9a7b4f2b?utm_campaign=1079&utm_source=git)** | Bellevue, WA | On Site | Jan 08 |
-| **[DatologyAI](https://www.datologyai.com/)** | **[Software Engineer Intern, Infrastructure (Fall 2026)](https://jobright.ai/jobs/info/69607b9fa112b402660f3590?utm_campaign=1079&utm_source=git)** | Redwood City, CA | On Site | Jan 08 |
 | **[Zurich Insurance](http://www.zurich.com)** | **[IT Internship/Co-op Opportunities](https://jobright.ai/jobs/info/6960b1647ebc25398eb6918e?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 08 |
 | **[AMD](http://www.amd.com)** | **[2026 PhD Software Development Engineer Co-Op/Intern](https://jobright.ai/jobs/info/69607b1b7ebc25398eb66de4?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Jan 08 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Intern Engineer - Software Engineering](https://jobright.ai/jobs/info/696078b67ebc25398eb66cd8?utm_campaign=1079&utm_source=git)** | Bloomington, MN | On Site | Jan 08 |
@@ -156,5 +155,6 @@ For a complete list, click the following sortable link below:
 | **[QTC Management, Inc.](http://www.qtcm.com)** | **[Intern (Quality Assurance)](https://jobright.ai/jobs/info/69605a0ba1bbea1d9a7b360f?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 08 |
 | **[Visier Inc.](http://www.visier.com)** | **[Software Developer Co-op (May to December 2026)](https://jobright.ai/jobs/info/69607e59a1bbea1d9a7b4fee?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jan 08 |
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/69210a2900c9ee50eaecb099?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 08 |
-| **[DEKA Research & Development](http://www.dekaresearch.com)** | **[Software Test Engineer- Internship- Summer 2026](https://jobright.ai/jobs/info/696053237ebc25398eb650d0?utm_campaign=1079&utm_source=git)** | Manchester, NH | On Site | Jan 08 |
+| **[ContactCenterWorld](https://www.contactcenterworld.com/)** | **[Call and Contact Center Jobs - Co-op Software Engineer, Android](https://jobright.ai/jobs/info/69604bf57ebc25398eb64eae?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jan 08 |
+| **[Boston Scientific](http://www.bostonscientific.com)** | **[R&D Software/ Firmware Engineer Intern](https://jobright.ai/jobs/info/69606892a1bbea1d9a7b42bb?utm_campaign=1079&utm_source=git)** | Arden Hills, MN | On Site | Jan 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
