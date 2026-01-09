@@ -118,7 +118,8 @@ For a complete list, click the following sortable link below:
 | **[Suno](https://www.suno.com)** | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/692757e091ceeb2e8a53e3b4?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Jan 08 |
 | ↳ | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/692753c5d47de4798ecdb7d3?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jan 08 |
 | **[Akuna Capital](https://akunacapital.com)** | **[Software Engineer Intern - C# .NET Desktop, Summer 2026](https://jobright.ai/jobs/info/68759b605cebcd1dd51c20f5?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jan 08 |
-| **[ASML](https://www.asml.com)** | **[Internship - Platform Software Engineer In Test](https://jobright.ai/jobs/info/6943511250bbaf76505533c9?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 08 |
+| **[ASML](https://www.asml.com)** | **[Internship - CDO Data / Visualization / Cloud / AI Engineer Intern](https://jobright.ai/jobs/info/69274f48d47de4798ecdb49f?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Jan 08 |
+| ↳ | **[Internship - Platform Software Engineer In Test](https://jobright.ai/jobs/info/6943511250bbaf76505533c9?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 08 |
 | **[Barnes & Thornburg LLP](http://www.btlaw.com/)** | **[BT Rise Intern - Information Technology](https://jobright.ai/jobs/info/69261c24f0beb0723262222c?utm_campaign=1079&utm_source=git)** | Indianapolis, IN | On Site | Jan 08 |
 | **[Forterra](http://www.forterra.com)** | **[2026 Intern - Software](https://jobright.ai/jobs/info/69274609f0beb07232628aac?utm_campaign=1079&utm_source=git)** | Clarksburg, MD | On Site | Jan 08 |
 | **[Draper](https://www.draper.com)** | **[Electronics & Embedded Systems Summer Intern](https://jobright.ai/jobs/info/6951a98029655e4dd65a91e0?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Jan 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dexcom](http://www.dexcom.com)** | **[Intern I - Software Test Development Engineering](https://jobright.ai/jobs/info/69601d5a7ebc25398eb60aab?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | Jan 08 |
 | ↳ | **[Intern II – Software Development Engineering](https://jobright.ai/jobs/info/69323d91a0dde7020e2e4957?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | Jan 08 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - Software Engineering](https://jobright.ai/jobs/info/695f619d0badca5763afd0ae?utm_campaign=1079&utm_source=git)** | Bloomfield, CT | On Site | Jan 07 |
-| **[A Thinking Ape](http://athinkingape.com)** | **[Software Engineer Co-op/Intern (May - August 2026)](https://jobright.ai/jobs/info/695f58dc0badca5763afcbbd?utm_campaign=1079&utm_source=git)** | canada | Remote | Jan 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
